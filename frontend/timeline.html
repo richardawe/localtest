@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Timeline — Crown &amp; Culture</title>
+  <meta name="description" content="A decade-by-decade history of Black and African women's hair, grounded in cultural context." />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+<div id="stale-banner"></div>
+
+<nav>
+  <span class="nav-logo">Crown &amp; Culture</span>
+  <ul class="nav-links">
+    <li><a href="index.html">Latest</a></li>
+    <li><a href="gallery.html">Gallery</a></li>
+    <li><a href="timeline.html" class="active">Timeline</a></li>
+  </ul>
+  <span class="nav-status">
+    <span class="status-dot" id="status-dot"></span>
+    <span id="status-text">Checking…</span>
+  </span>
+</nav>
+
+<div class="timeline-layout">
+
+  <!-- Decade navigation sidebar -->
+  <nav class="timeline-nav" aria-label="Decade navigation">
+    <a href="#decade-1920s">1920s</a>
+    <a href="#decade-1930s">1930s</a>
+    <a href="#decade-1940s">1940s</a>
+    <a href="#decade-1950s">1950s</a>
+    <a href="#decade-1960s">1960s</a>
+    <a href="#decade-1970s">1970s</a>
+    <a href="#decade-1980s">1980s</a>
+    <a href="#decade-1990s">1990s</a>
+    <a href="#decade-2000s">2000s</a>
+    <a href="#decade-2010s">2010s</a>
+    <a href="#decade-2020s">2020s</a>
+  </nav>
+
+  <!-- Decade content blocks injected by timeline.js -->
+  <div class="timeline-decades" id="timeline-decades"></div>
+
+</div>
+
+<footer>
+  <p>Crown &amp; Culture · Historical narratives grounded in Wikipedia sources ·
+  Images courtesy of <a href="https://unsplash.com" target="_blank" rel="noopener">Unsplash</a></p>
+</footer>
+
+<script src="js/app.js"></script>
+<script src="js/timeline.js"></script>
+</body>
+</html>

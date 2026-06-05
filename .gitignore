@@ -1,0 +1,20 @@
+# Secrets
+.env
+
+# Runtime artifacts
+backend/hair_trends.db
+backend/logs/
+data/
+
+# Worktree used during deployment
+.gh-pages-worktree/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+*.egg-info/
+
+# macOS
+.DS_Store

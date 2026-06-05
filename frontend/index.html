@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Crown & Culture — Black & African Women's Hair Trends</title>
+  <meta name="description" content="Celebrating the beauty, history, and artistry of Black and African women's hair — updated hourly." />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+<div id="stale-banner"></div>
+
+<nav>
+  <span class="nav-logo">Crown &amp; Culture</span>
+  <ul class="nav-links">
+    <li><a href="index.html" class="active">Latest</a></li>
+    <li><a href="gallery.html">Gallery</a></li>
+    <li><a href="timeline.html">Timeline</a></li>
+  </ul>
+  <span class="nav-status">
+    <span class="status-dot" id="status-dot"></span>
+    <span id="status-text">Checking…</span>
+  </span>
+</nav>
+
+<!-- Hero -->
+<section class="hero" id="hero">
+  <img class="hero-img" id="hero-img" src="" alt="" />
+  <div class="hero-overlay">
+    <p class="hero-tag">Today's Feature</p>
+    <h1 class="hero-title" id="hero-title">Crown &amp; Culture</h1>
+    <p class="hero-summary" id="hero-summary">
+      Celebrating the beauty and diversity of Black and African women's hair.
+    </p>
+    <p class="hero-credit" id="hero-credit"></p>
+  </div>
+</section>
+
+<!-- Latest grid -->
+<div class="section">
+  <div class="section-header">
+    <h2 class="section-title">Just Added</h2>
+    <a class="section-link" href="gallery.html">View full gallery →</a>
+  </div>
+  <div class="masonry" id="latest-grid"></div>
+  <div id="latest-empty" class="empty-state" style="display:none;">
+    <h2>First run in progress</h2>
+    <p>Images will appear here after the first hourly pipeline completes.</p>
+  </div>
+</div>
+
+<footer>
+  <p>Crown &amp; Culture · Content updated hourly · Images courtesy of
+  <a href="https://unsplash.com" target="_blank" rel="noopener">Unsplash</a></p>
+</footer>
+
+<script src="js/app.js"></script>
+<script>
+  async function initIndex() {
+    const grid = document.getElementById('latest-grid');
+    const empty = document.getElementById('latest-empty');
+    try {
+      const data = await fetchJSON('data/latest.json');
+
+      // Hero
+      const hero = data.images[0];
+      if (hero) {
+        const heroImg = document.getElementById('hero-img');
+        heroImg.src = hero.url;
+        heroImg.alt = hero.alt || 'Featured hair trend';
+        document.getElementById('hero-title').textContent =
+          hero.alt || 'Crown & Culture';
+        document.getElementById('hero-summary').textContent =
+          data.summary || '';
+        document.getElementById('hero-credit').innerHTML =
+          `Photo by <a href="${hero.photographer_url}" target="_blank" rel="noopener">${escHtml(hero.photographer)}</a> on Unsplash`;
+      }
+
+      // Grid — skip index 0 (used as hero)
+      const rest = data.images.slice(1);
+      if (rest.length === 0 && !hero) {
+        empty.style.display = 'block';
+        return;
+      }
+      rest.forEach(img => grid.appendChild(buildCard(img)));
+
+    } catch (_) {
+      empty.style.display = 'block';
+    }
+  }
+
+  document.addEventListener('DOMContentLoaded', initIndex);
+</script>
+</body>
+</html>

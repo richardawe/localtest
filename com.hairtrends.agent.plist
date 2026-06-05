@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+  "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.hairtrends.agent</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/opt/homebrew/bin/python3.11</string>
+        <string>/Users/olawaleawe/localtest/backend/main.py</string>
+    </array>
+
+    <!-- Fire at the top of every hour (:00). If the machine was asleep
+         when the interval fired, launchd runs the job once on the next
+         wake — it does NOT replay missed intervals. -->
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Minute</key>
+        <integer>0</integer>
+    </dict>
+
+    <key>StandardOutPath</key>
+    <string>/Users/olawaleawe/localtest/backend/logs/stdout.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/olawaleawe/localtest/backend/logs/stderr.log</string>
+
+    <!-- Make sure Homebrew Python and git are on PATH -->
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>PATH</key>
+        <string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin</string>
+        <key>HOME</key>
+        <string>/Users/olawaleawe</string>
+    </dict>
+
+    <key>RunAtLoad</key>
+    <false/>
+
+    <!-- Restart the job if it crashes, after a 60-second delay -->
+    <key>ThrottleInterval</key>
+    <integer>60</integer>
+</dict>
+</plist>
