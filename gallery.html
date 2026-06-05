@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Gallery — Crown &amp; Culture</title>
+  <meta name="description" content="Full gallery of Black and African women's hairstyles across every era and style." />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+<div id="stale-banner"></div>
+
+<nav>
+  <span class="nav-logo">Crown &amp; Culture</span>
+  <ul class="nav-links">
+    <li><a href="index.html">Latest</a></li>
+    <li><a href="gallery.html" class="active">Gallery</a></li>
+    <li><a href="timeline.html">Timeline</a></li>
+  </ul>
+  <span class="nav-status">
+    <span class="status-dot" id="status-dot"></span>
+    <span id="status-text">Checking…</span>
+  </span>
+</nav>
+
+<div id="filter-bar" class="filter-bar"></div>
+
+<div class="section" style="padding-top:1.5rem;">
+  <div class="masonry" id="gallery-grid"></div>
+  <div id="spinner" class="spinner" style="display:none;"></div>
+  <div id="scroll-sentinel" style="height:1px;"></div>
+</div>
+
+<footer>
+  <p>Crown &amp; Culture · Images courtesy of
+  <a href="https://unsplash.com" target="_blank" rel="noopener">Unsplash</a></p>
+</footer>
+
+<script src="js/app.js"></script>
+<script src="js/gallery.js"></script>
+</body>
+</html>
