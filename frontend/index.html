@@ -17,6 +17,7 @@
     <li><a href="index.html" class="active">Latest</a></li>
     <li><a href="gallery.html">Gallery</a></li>
     <li><a href="timeline.html">Timeline</a></li>
+    <li><a href="blog.html">Blog</a></li>
   </ul>
   <span class="nav-status">
     <span class="status-dot" id="status-dot"></span>
@@ -50,6 +51,15 @@
   </div>
 </div>
 
+<!-- Latest blog post teaser -->
+<div class="section" id="blog-teaser" style="display:none;">
+  <div class="section-header">
+    <h2 class="section-title">The Crown Chronicles</h2>
+    <a class="section-link" href="blog.html">Read all posts →</a>
+  </div>
+  <div class="blog-teaser-card" id="blog-teaser-card"></div>
+</div>
+
 <footer>
   <p>Crown &amp; Culture · Content updated hourly · Images courtesy of
   <a href="https://unsplash.com" target="_blank" rel="noopener">Unsplash</a></p>
@@ -57,6 +67,27 @@
 
 <script src="js/app.js"></script>
 <script>
+  async function initBlogTeaser() {
+    try {
+      const data = await fetchJSON('data/blog.json');
+      const post = (data.posts || [])[0];
+      if (!post) return;
+      const teaser = document.getElementById('blog-teaser');
+      const card = document.getElementById('blog-teaser-card');
+      const date = post.published_at ? new Date(post.published_at).toLocaleDateString('en-US',{month:'long',day:'numeric',year:'numeric'}) : '';
+      const excerpt = (post.body || '').split(/\n/)[0].trim().slice(0, 220);
+      card.innerHTML = `
+        <div class="blog-teaser-inner">
+          <span class="post-badge">Daily Digest</span>
+          <p class="post-date" style="margin:.5rem 0 .25rem">${date}</p>
+          <h3 style="font-size:1.1rem;margin-bottom:.6rem;color:var(--gold-lt)">${escHtml(post.title)}</h3>
+          <p style="font-size:.92rem;color:#ccc;line-height:1.7">${escHtml(excerpt)}…</p>
+          <a href="blog.html" style="display:inline-block;margin-top:1rem;font-family:var(--font-ui);font-size:.82rem;color:var(--gold)">Read full post →</a>
+        </div>`;
+      teaser.style.display = 'block';
+    } catch (_) { /* blog not yet generated */ }
+  }
+
   async function initIndex() {
     const grid = document.getElementById('latest-grid');
     const empty = document.getElementById('latest-empty');
@@ -90,7 +121,7 @@
     }
   }
 
-  document.addEventListener('DOMContentLoaded', initIndex);
+  document.addEventListener('DOMContentLoaded', () => { initIndex(); initBlogTeaser(); });
 </script>
 </body>
 </html>

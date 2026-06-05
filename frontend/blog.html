@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The Crown Chronicles — Crown &amp; Culture</title>
+  <meta name="description" content="Daily editorial on Black and African hair culture — news, trends, and stories." />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+<div id="stale-banner"></div>
+
+<nav>
+  <span class="nav-logo">Crown &amp; Culture</span>
+  <ul class="nav-links">
+    <li><a href="index.html">Latest</a></li>
+    <li><a href="gallery.html">Gallery</a></li>
+    <li><a href="timeline.html">Timeline</a></li>
+    <li><a href="blog.html" class="active">Blog</a></li>
+  </ul>
+  <span class="nav-status">
+    <span class="status-dot" id="status-dot"></span>
+    <span id="status-text">Checking…</span>
+  </span>
+</nav>
+
+<div class="blog-hero">
+  <p class="hero-tag">Daily Editorial</p>
+  <h1>The Crown Chronicles</h1>
+  <p class="blog-hero-sub">News, culture, and stories about Black and African hair — written daily by AI, sourced from the web.</p>
+</div>
+
+<div class="blog-layout">
+  <main class="blog-main" id="blog-main">
+    <div class="spinner" id="spinner"></div>
+  </main>
+
+  <aside class="blog-sidebar" id="blog-sidebar">
+    <h3 class="sidebar-title">Archive</h3>
+    <ul class="archive-list" id="archive-list"></ul>
+  </aside>
+</div>
+
+<footer>
+  <p>Crown &amp; Culture · Blog posts generated daily from Google News · Crown Chronicles</p>
+</footer>
+
+<script src="js/app.js"></script>
+<script>
+async function initBlog() {
+  const main = document.getElementById('blog-main');
+  const spinner = document.getElementById('spinner');
+  const archiveList = document.getElementById('archive-list');
+
+  let data;
+  try {
+    data = await fetchJSON('data/blog.json');
+  } catch (_) {
+    spinner.style.display = 'none';
+    main.innerHTML = `
+      <div class="empty-state">
+        <h2>First post coming tonight</h2>
+        <p>The blog generates its first post at midnight UTC. Check back then.</p>
+      </div>`;
+    return;
+  }
+
+  spinner.style.display = 'none';
+  const posts = data.posts || [];
+
+  if (!posts.length) {
+    main.innerHTML = `
+      <div class="empty-state">
+        <h2>First post coming tonight</h2>
+        <p>The blog generates its first post at midnight UTC. Check back then.</p>
+      </div>`;
+    return;
+  }
+
+  // Render all posts; first one expanded, rest collapsed
+  posts.forEach((post, idx) => {
+    const article = buildPostEl(post, idx === 0);
+    main.appendChild(article);
+
+    // Archive sidebar entry
+    const li = document.createElement('li');
+    const date = post.published_at ? post.published_at.slice(0, 10) : '';
+    li.innerHTML = `<a href="#post-${post.id}">${escHtml(post.title)}</a><span class="archive-date">${date}</span>`;
+    archiveList.appendChild(li);
+  });
+}
+
+function buildPostEl(post, expanded) {
+  const date = post.published_at ? new Date(post.published_at) : null;
+  const dateStr = date
+    ? date.toLocaleDateString('en-US', { weekday:'long', year:'numeric', month:'long', day:'numeric' })
+    : '';
+
+  const article = document.createElement('article');
+  article.className = 'blog-post' + (expanded ? ' expanded' : '');
+  article.id = `post-${post.id}`;
+
+  // Format body: split on double newlines → paragraphs
+  const paragraphs = (post.body || '')
+    .split(/\n{2,}/)
+    .filter(p => p.trim())
+    .map(p => `<p>${escHtml(p.trim())}</p>`)
+    .join('');
+
+  // Sources
+  const sources = (post.sources || []).map(s =>
+    `<li><a href="${escHtml(s.url)}" target="_blank" rel="noopener">${escHtml(s.title)}</a>
+     <span class="source-meta">${escHtml(s.source)} · ${s.published || ''}</span></li>`
+  ).join('');
+
+  article.innerHTML = `
+    <header class="post-header" role="button" tabindex="0" aria-expanded="${expanded}">
+      <div class="post-meta">
+        <span class="post-date">${dateStr}</span>
+        <span class="post-badge">Daily Digest</span>
+      </div>
+      <h2 class="post-title">${escHtml(post.title)}</h2>
+      <span class="post-toggle">${expanded ? '▲ Collapse' : '▼ Read'}</span>
+    </header>
+    <div class="post-body">
+      <div class="post-content">${paragraphs}</div>
+      ${sources ? `
+      <div class="post-sources">
+        <h4>Sources</h4>
+        <ul>${sources}</ul>
+      </div>` : ''}
+    </div>`;
+
+  // Toggle expand/collapse
+  const header = article.querySelector('.post-header');
+  const toggle = article.querySelector('.post-toggle');
+  header.addEventListener('click', () => {
+    const isExp = article.classList.toggle('expanded');
+    toggle.textContent = isExp ? '▲ Collapse' : '▼ Read';
+    header.setAttribute('aria-expanded', isExp);
+  });
+  header.addEventListener('keydown', e => {
+    if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); header.click(); }
+  });
+
+  return article;
+}
+
+document.addEventListener('DOMContentLoaded', initBlog);
+</script>
+</body>
+</html>

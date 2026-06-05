@@ -9,7 +9,7 @@ import sqlite3
 from datetime import datetime, timezone
 from pathlib import Path
 
-from config import DB_PATH, FRONTEND_DIR, PAGES_SIZE, LATEST_COUNT, ERA_QUERIES, BASE_DIR
+from config import DB_PATH, FRONTEND_DIR, PAGES_SIZE, LATEST_COUNT, ERA_QUERIES, BASE_DIR, BLOG_POSTS_KEEP
 
 log = logging.getLogger(__name__)
 
@@ -136,6 +136,22 @@ def export_all(hero_summary: str = "", total_new: int = 0) -> dict:
     return {"total_images": total, "total_pages": total_pages, "new_this_run": total_new}
 
 
+def export_blog() -> int:
+    """
+    Exports the rolling blog post archive to data/blog.json.
+    Returns the number of posts exported.
+    """
+    _ensure_dirs()
+    from blog_writer import get_all_posts
+    posts = get_all_posts(limit=BLOG_POSTS_KEEP)
+    _write(DATA_DIR / "blog.json", {
+        "posts": posts,
+        "updated_at": datetime.now(timezone.utc).isoformat(),
+    })
+    log.info("Exported %d blog posts to blog.json", len(posts))
+    return len(posts)
+
+
 def write_status(success: bool, error: str | None = None, stats: dict | None = None) -> None:
     _ensure_dirs()
     status = {
@@ -158,6 +174,7 @@ def _write_sitemap(total_pages: int) -> None:
         f"<url><loc>{base}/</loc><changefreq>hourly</changefreq><priority>1.0</priority></url>",
         f"<url><loc>{base}/gallery.html</loc><changefreq>hourly</changefreq><priority>0.9</priority></url>",
         f"<url><loc>{base}/timeline.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>",
+        f"<url><loc>{base}/blog.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>",
     ]
     sitemap = (
         '<?xml version="1.0" encoding="UTF-8"?>\n'

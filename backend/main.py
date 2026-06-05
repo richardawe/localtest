@@ -17,6 +17,8 @@ from config import LOGS_DIR
 import researcher
 import image_fetcher
 import historian
+import news_fetcher
+import blog_writer
 import data_manager
 import git_publisher
 
@@ -52,14 +54,18 @@ def run() -> None:
         new_images = image_fetcher.fetch_and_store(queries)
         log.info("New images this run: %d", new_images)
 
-        # Step 3: generate historical decade narratives (once per day)
+        # Step 3: daily tasks — historical narratives + news blog
         if _is_daily_run():
-            log.info("Step 3/5 — Updating historical narratives (daily task)")
+            log.info("Step 3/5 — Daily tasks: historical narratives + news blog")
             historian.update_decade_narratives()
-        else:
-            log.info("Step 3/5 — Skipping historical update (not midnight run)")
 
-        # Step 4: generate hero summary and export JSON
+            log.info("Step 3b/5 — Fetching news and writing blog post")
+            articles = news_fetcher.fetch_articles()
+            blog_writer.write_post(articles)
+        else:
+            log.info("Step 3/5 — Skipping daily tasks (not midnight run)")
+
+        # Step 4: generate hero summary and export JSON + blog
         log.info("Step 4/5 — Exporting JSON data files")
         hero_summary = ""
         if new_images > 0:
@@ -67,6 +73,7 @@ def run() -> None:
             hero_summary = researcher.generate_latest_summary(style_names)
 
         stats = data_manager.export_all(hero_summary=hero_summary, total_new=new_images)
+        data_manager.export_blog()
 
         status_kwargs["success"] = True
         status_kwargs["stats"] = stats

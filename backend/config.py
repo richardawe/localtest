@@ -70,6 +70,21 @@ ERA_QUERIES = {
 
 PAGES_SIZE = 50
 LATEST_COUNT = 20
+BLOG_POSTS_KEEP = 30   # rolling window of daily posts to keep in blog.json
+
+# Google News RSS queries — rotated across daily blog runs
+NEWS_QUERIES = [
+    "black women natural hair",
+    "African hair braiding culture",
+    "natural hair movement",
+    "black hair care beauty",
+    "locs braids black women",
+    "black hair discrimination CROWN Act",
+    "African American hair trends",
+    "protective styles black women",
+]
+NEWS_MAX_ARTICLES = 12  # articles passed to the LLM per blog post
+NEWS_MAX_PER_QUERY = 5  # cap per RSS query before dedup
 
 RELEVANCE_PROMPT = (
     "You are a content classifier. Given image metadata, decide if the image "
