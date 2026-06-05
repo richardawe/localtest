@@ -1,5 +1,21 @@
 {
   "era": "1940s",
   "narrative": "",
-  "images": []
+  "images": [
+    {
+      "id": "kZazaqOx6Us",
+      "url": "https://images.unsplash.com/photo-1756106902977-92fde4857462?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyfHwxOTQwcyUyMEJsYWNrJTIwd29tZW4lMjBoYWlyc3R5bGUlMjB3YXJ0aW1lJTIwZXJhfGVufDF8MXx8fDE3ODA2NjQ0ODZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1756106902977-92fde4857462?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyfHwxOTQwcyUyMEJsYWNrJTIwd29tZW4lMjBoYWlyc3R5bGUlMjB3YXJ0aW1lJTIwZXJhfGVufDF8MXx8fDE3ODA2NjQ0ODZ8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1756106902977-92fde4857462?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyfHwxOTQwcyUyMEJsYWNrJTIwd29tZW4lMjBoYWlyc3R5bGUlMjB3YXJ0aW1lJTIwZXJhfGVufDF8MXx8fDE3ODA2NjQ0ODZ8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman with dark curly hair and a necklace.",
+      "description": "Schomburg Center for Research in Black Culture, Photographs and Prints Division, The New York Public Library. \"Sara Lachatanere\" The New York Public Library Digital Collections. 1951. https://digitalcollections.nypl.org/items/c5f03e60-c622-012f-8c58-58d385a7bc34",
+      "photographer": "The New York Public Library",
+      "photographer_url": "https://unsplash.com/@nypl",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-dark-curly-hair-and-a-necklace-kZazaqOx6Us",
+      "tags": "",
+      "era": "1940s",
+      "category": "historical",
+      "fetched_at": "2026-06-05T13:00:08.219391+00:00"
+    }
+  ]
 }

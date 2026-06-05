@@ -1,5 +1,36 @@
 {
   "era": "2020s",
   "narrative": "",
-  "images": []
+  "images": [
+    {
+      "id": "za2m-TEmO18",
+      "url": "https://images.unsplash.com/flagged/photo-1667329002631-dcfa0fea4b23?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8MjAyMHMlMjBCbGFjayUyMHdvbWVuJTIwcHJvdGVjdGl2ZSUyMHN0eWxlcyUyMG1vZGVybiUyMGJyYWlkc3xlbnwxfDF8fHwxNzgwNjY0NDY4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/flagged/photo-1667329002631-dcfa0fea4b23?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8MjAyMHMlMjBCbGFjayUyMHdvbWVuJTIwcHJvdGVjdGl2ZSUyMHN0eWxlcyUyMG1vZGVybiUyMGJyYWlkc3xlbnwxfDF8fHwxNzgwNjY0NDY4fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/flagged/photo-1667329002631-dcfa0fea4b23?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8MjAyMHMlMjBCbGFjayUyMHdvbWVuJTIwcHJvdGVjdGl2ZSUyMHN0eWxlcyUyMG1vZGVybiUyMGJyYWlkc3xlbnwxfDF8fHwxNzgwNjY0NDY4fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "a woman with a necklace",
+      "description": "Portrait of black model in black",
+      "photographer": "Salem Ochidi",
+      "photographer_url": "https://unsplash.com/@salemochidi",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-a-necklace-za2m-TEmO18",
+      "tags": "",
+      "era": "2020s",
+      "category": "historical",
+      "fetched_at": "2026-06-05T13:00:08.219391+00:00"
+    },
+    {
+      "id": "iaqnJ4mM25A",
+      "url": "https://images.unsplash.com/photo-1576637261202-b84dc506ca20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8MjAyMHMlMjBCbGFjayUyMHdvbWVuJTIwcHJvdGVjdGl2ZSUyMHN0eWxlcyUyMG1vZGVybiUyMGJyYWlkc3xlbnwxfDF8fHwxNzgwNjY0NDY4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1576637261202-b84dc506ca20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8MjAyMHMlMjBCbGFjayUyMHdvbWVuJTIwcHJvdGVjdGl2ZSUyMHN0eWxlcyUyMG1vZGVybiUyMGJyYWlkc3xlbnwxfDF8fHwxNzgwNjY0NDY4fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1576637261202-b84dc506ca20?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8MjAyMHMlMjBCbGFjayUyMHdvbWVuJTIwcHJvdGVjdGl2ZSUyMHN0eWxlcyUyMG1vZGVybiUyMGJyYWlkc3xlbnwxfDF8fHwxNzgwNjY0NDY4fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "grayscale photography of woman with braided hair",
+      "description": "",
+      "photographer": "Wadi Lissa",
+      "photographer_url": "https://unsplash.com/@w_lissa071",
+      "photo_url": "https://unsplash.com/photos/grayscale-photography-of-woman-with-braided-hair-iaqnJ4mM25A",
+      "tags": "",
+      "era": "2020s",
+      "category": "historical",
+      "fetched_at": "2026-06-05T13:00:08.219391+00:00"
+    }
+  ]
 }

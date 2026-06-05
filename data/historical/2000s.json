@@ -1,5 +1,36 @@
 {
   "era": "2000s",
   "narrative": "",
-  "images": []
+  "images": [
+    {
+      "id": "HyoTmwZQwWU",
+      "url": "https://images.unsplash.com/photo-1709810529099-0ce6102692df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMHx8MjAwMHMlMjBCbGFjayUyMHdvbWVuJTIwaGFpciUyMHRyZW5kcyUyMGV4dGVuc2lvbnN8ZW58MXwxfHx8MTc4MDY2NDQ3Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1709810529099-0ce6102692df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMHx8MjAwMHMlMjBCbGFjayUyMHdvbWVuJTIwaGFpciUyMHRyZW5kcyUyMGV4dGVuc2lvbnN8ZW58MXwxfHx8MTc4MDY2NDQ3Nnww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1709810529099-0ce6102692df?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMHx8MjAwMHMlMjBCbGFjayUyMHdvbWVuJTIwaGFpciUyMHRyZW5kcyUyMGV4dGVuc2lvbnN8ZW58MXwxfHx8MTc4MDY2NDQ3Nnww&ixlib=rb-4.1.0&q=85",
+      "alt": "a woman with an afro standing in front of a red background",
+      "description": "a woman with an afro is looking at a camera photo. red background",
+      "photographer": "LOLA AZIZADA",
+      "photographer_url": "https://unsplash.com/@kalpa_mahagamage",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-an-afro-standing-in-front-of-a-red-background-HyoTmwZQwWU",
+      "tags": "",
+      "era": "2000s",
+      "category": "historical",
+      "fetched_at": "2026-06-05T13:00:08.219391+00:00"
+    },
+    {
+      "id": "eeAuwkNn63E",
+      "url": "https://images.unsplash.com/photo-1712821125604-4ca6b1f86488?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNHx8MjAwMHMlMjBCbGFjayUyMHdvbWVuJTIwaGFpciUyMHRyZW5kcyUyMGV4dGVuc2lvbnN8ZW58MXwxfHx8MTc4MDY2NDQ3Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1712821125604-4ca6b1f86488?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNHx8MjAwMHMlMjBCbGFjayUyMHdvbWVuJTIwaGFpciUyMHRyZW5kcyUyMGV4dGVuc2lvbnN8ZW58MXwxfHx8MTc4MDY2NDQ3Nnww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1712821125604-4ca6b1f86488?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNHx8MjAwMHMlMjBCbGFjayUyMHdvbWVuJTIwaGFpciUyMHRyZW5kcyUyMGV4dGVuc2lvbnN8ZW58MXwxfHx8MTc4MDY2NDQ3Nnww&ixlib=rb-4.1.0&q=85",
+      "alt": "a woman with an afro and pearls on her necklace",
+      "description": "Beauty",
+      "photographer": "Godfred Kwakye",
+      "photographer_url": "https://unsplash.com/@creativekg",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-an-afro-and-pearls-on-her-necklace-eeAuwkNn63E",
+      "tags": "",
+      "era": "2000s",
+      "category": "historical",
+      "fetched_at": "2026-06-05T13:00:08.219391+00:00"
+    }
+  ]
 }
