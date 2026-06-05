@@ -22,17 +22,29 @@ def _run(cmd: list[str], cwd: Path, check: bool = True) -> subprocess.CompletedP
 
 
 def _authenticated_url() -> str:
-    """Inject GitHub token into the remote URL for push auth."""
+    """
+    Return a push URL. Uses the plain remote URL when git's credential.helper
+    is configured (e.g. osxkeychain on macOS already has valid OAuth tokens).
+    Falls back to embedding GITHUB_TOKEN only when no credential helper exists
+    (bare CI environments).
+    """
+    result = subprocess.run(
+        ["git", "config", "credential.helper"],
+        cwd=BASE_DIR, capture_output=True, text=True, check=False,
+    )
+    if result.stdout.strip():
+        # Credential helper is configured — let git use it (keychain, etc.)
+        return GITHUB_REPO_URL
+    # No credential helper: embed PAT so push can authenticate
     if GITHUB_TOKEN and "github.com" in GITHUB_REPO_URL:
-        url = GITHUB_REPO_URL.replace("https://", f"https://x-token:{GITHUB_TOKEN}@")
-        return url
+        return GITHUB_REPO_URL.replace("https://", f"https://x-access-token:{GITHUB_TOKEN}@")
     return GITHUB_REPO_URL
 
 
 def _ensure_gh_pages_branch() -> None:
     """Create gh-pages as an orphan branch if it doesn't exist on the remote."""
     result = _run(
-        ["git", "ls-remote", "--heads", _authenticated_url(), "gh-pages"],
+        ["git", "ls-remote", "--heads", GITHUB_REPO_URL, "gh-pages"],
         cwd=BASE_DIR,
         check=False,
     )
