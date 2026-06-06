@@ -1,6 +1,21 @@
 {
-  "summary": "Get ready to slay with today's featured Black and African women's hair trends, showcasing vibrant styles that are currently dominating the scene globally!",
+  "summary": "Get ready to slay with our top picks for the hottest hairstyles that are dominating the scene among Black and African women right now!",
   "images": [
+    {
+      "id": "S6S4jH8KQjg",
+      "url": "https://images.unsplash.com/photo-1757866332341-10db42dabb93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8V2VhdmVzJTIwZXh0ZW5zaW9ucyUyMGZvciUyMEJsYWNrJTIwd29tZW4lMjdzJTIwaGFpcnxlbnwxfDF8fHwxNzgwNzI1NjE5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1757866332341-10db42dabb93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8V2VhdmVzJTIwZXh0ZW5zaW9ucyUyMGZvciUyMEJsYWNrJTIwd29tZW4lMjdzJTIwaGFpcnxlbnwxfDF8fHwxNzgwNzI1NjE5fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1757866332341-10db42dabb93?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8V2VhdmVzJTIwZXh0ZW5zaW9ucyUyMGZvciUyMEJsYWNrJTIwd29tZW4lMjdzJTIwaGFpcnxlbnwxfDF8fHwxNzgwNzI1NjE5fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "Hands braiding hair with extensions",
+      "description": "",
+      "photographer": "Mohamed B.",
+      "photographer_url": "https://unsplash.com/@bangscreative",
+      "photo_url": "https://unsplash.com/photos/hands-braiding-hair-with-extensions-S6S4jH8KQjg",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-06T06:00:04.424204+00:00"
+    },
     {
       "id": "pbZwlHWHaQk",
       "url": "https://images.unsplash.com/photo-1742473716872-ff82599f90db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8QWZyaWNhbiUyMHdvbWVuJTIwd2l0aCUyMFNlbmVnYWxlc2UlMjB0d2lzdCUyMGhhaXJzdHlsZXN8ZW58MXwxfHx8MTc4MDcyMjAwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-06T04:00:07.194222+00:00"
-    },
-    {
-      "id": "l-eN-UsmNk4",
-      "url": "https://images.unsplash.com/photo-1735977646645-73d916c99120?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8QmFudHUlMjBrbm90cyUyMGFuZCUyMGRyZWFkbG9ja3MlMjBvbiUyMHdvbWVufGVufDF8MXx8fDE3ODA3MTg0MjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1735977646645-73d916c99120?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8QmFudHUlMjBrbm90cyUyMGFuZCUyMGRyZWFkbG9ja3MlMjBvbiUyMHdvbWVufGVufDF8MXx8fDE3ODA3MTg0MjR8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1735977646645-73d916c99120?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8QmFudHUlMjBrbm90cyUyMGFuZCUyMGRyZWFkbG9ja3MlMjBvbiUyMHdvbWVufGVufDF8MXx8fDE3ODA3MTg0MjR8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "A woman with dreadlocks on her head",
-      "description": "",
-      "photographer": "Dwayne joe",
-      "photographer_url": "https://unsplash.com/@spliff_dj_joe",
-      "photo_url": "https://unsplash.com/photos/a-woman-with-dreadlocks-on-her-head-l-eN-UsmNk4",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-06T04:00:07.194222+00:00"
     }
   ],
-  "updated_at": "2026-06-06T05:01:07.112214+00:00"
+  "updated_at": "2026-06-06T06:00:55.467864+00:00"
 }
