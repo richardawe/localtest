@@ -1,6 +1,36 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready for the most vibrant and bold hairstyles taking over the scene, featuring today's freshest looks from Black and African women!",
   "images": [
+    {
+      "id": "Img5IsV1tvM",
+      "url": "https://images.unsplash.com/photo-1778506719305-5fb424b420d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8Q3JvY2hldCUyMEJyYWlkcyUyMEJsYWNrJTIwR2lybCUyMEJlYXV0aWZ1bCUyMExvY2tzfGVufDF8MXx8fDE3ODA3ODY4MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1778506719305-5fb424b420d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8Q3JvY2hldCUyMEJyYWlkcyUyMEJsYWNrJTIwR2lybCUyMEJlYXV0aWZ1bCUyMExvY2tzfGVufDF8MXx8fDE3ODA3ODY4MjJ8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1778506719305-5fb424b420d0?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8Q3JvY2hldCUyMEJyYWlkcyUyMEJsYWNrJTIwR2lybCUyMEJlYXV0aWZ1bCUyMExvY2tzfGVufDF8MXx8fDE3ODA3ODY4MjJ8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "Smiling girl peeking through textured green strands.",
+      "description": "",
+      "photographer": "JR Clavant",
+      "photographer_url": "https://unsplash.com/@iamclavant",
+      "photo_url": "https://unsplash.com/photos/smiling-girl-peeking-through-textured-green-strands-Img5IsV1tvM",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-06T23:00:02.644316+00:00"
+    },
+    {
+      "id": "2McAPsqM5Bw",
+      "url": "https://images.unsplash.com/photo-1701887714761-bd7dcc157763?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8MTkzMHMlMjBCbGFjayUyMHdvbWVuJTIwaGFpciUyMHN0eWxlJTIwdmludGFnZSUyMHBvcnRyYWl0fGVufDF8MXx8fDE3ODA3ODMyNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1701887714761-bd7dcc157763?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8MTkzMHMlMjBCbGFjayUyMHdvbWVuJTIwaGFpciUyMHN0eWxlJTIwdmludGFnZSUyMHBvcnRyYWl0fGVufDF8MXx8fDE3ODA3ODMyNTJ8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1701887714761-bd7dcc157763?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8MTkzMHMlMjBCbGFjayUyMHdvbWVuJTIwaGFpciUyMHN0eWxlJTIwdmludGFnZSUyMHBvcnRyYWl0fGVufDF8MXx8fDE3ODA3ODMyNTJ8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "a woman with an afro sitting in a chair",
+      "description": "Black girl magic!!!",
+      "photographer": "Christian Agbede",
+      "photographer_url": "https://unsplash.com/@chriscreations__",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-an-afro-sitting-in-a-chair-2McAPsqM5Bw",
+      "tags": "",
+      "era": "1930s",
+      "category": "historical",
+      "fetched_at": "2026-06-06T23:00:02.644316+00:00"
+    },
     {
       "id": "5O3N5DydKFQ",
       "url": "https://images.unsplash.com/photo-1754843857236-2238944c2c89?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw3fHxCYW50dSUyMEtub3RzJTIwb24lMjBZb3VuZyUyMEFmcmljYW4lMjBHaXJsfGVufDF8MXx8fDE3ODA3NzI1OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -270,37 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-06T13:00:04.286156+00:00"
-    },
-    {
-      "id": "s-honXgrXKk",
-      "url": "https://images.unsplash.com/photo-1646457416819-00ba490661b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8QmFudHUlMjBLbm90cyUyMGluJTIwTmF0dXJhbCUyMEJsYWNrJTIwSGFpcnxlbnwxfDF8fHwxNzgwNzUwODE3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1646457416819-00ba490661b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8QmFudHUlMjBLbm90cyUyMGluJTIwTmF0dXJhbCUyMEJsYWNrJTIwSGFpcnxlbnwxfDF8fHwxNzgwNzUwODE3fDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1646457416819-00ba490661b6?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8QmFudHUlMjBLbm90cyUyMGluJTIwTmF0dXJhbCUyMEJsYWNrJTIwSGFpcnxlbnwxfDF8fHwxNzgwNzUwODE3fDA&ixlib=rb-4.1.0&q=85",
-      "alt": "a black woman with a ring on her left hand",
-      "description": "",
-      "photographer": "Ben Masora",
-      "photographer_url": "https://unsplash.com/@benmasora",
-      "photo_url": "https://unsplash.com/photos/a-black-woman-with-a-ring-on-her-left-hand-s-honXgrXKk",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-06T13:00:04.286156+00:00"
-    },
-    {
-      "id": "vdFuXosnMGY",
-      "url": "https://images.unsplash.com/photo-1646457414638-0a78d96b0672?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOHx8QmFudHUlMjBLbm90cyUyMGluJTIwTmF0dXJhbCUyMEJsYWNrJTIwSGFpcnxlbnwxfDF8fHwxNzgwNzUwODE3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1646457414638-0a78d96b0672?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOHx8QmFudHUlMjBLbm90cyUyMGluJTIwTmF0dXJhbCUyMEJsYWNrJTIwSGFpcnxlbnwxfDF8fHwxNzgwNzUwODE3fDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1646457414638-0a78d96b0672?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOHx8QmFudHUlMjBLbm90cyUyMGluJTIwTmF0dXJhbCUyMEJsYWNrJTIwSGFpcnxlbnwxfDF8fHwxNzgwNzUwODE3fDA&ixlib=rb-4.1.0&q=85",
-      "alt": "a black woman with a smile on her face",
-      "description": "",
-      "photographer": "Ben Masora",
-      "photographer_url": "https://unsplash.com/@benmasora",
-      "photo_url": "https://unsplash.com/photos/a-black-woman-with-a-smile-on-her-face-vdFuXosnMGY",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-06T13:00:04.286156+00:00"
     }
   ],
-  "updated_at": "2026-06-06T22:01:13.198175+00:00"
+  "updated_at": "2026-06-06T23:01:04.108816+00:00"
 }
