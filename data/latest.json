@@ -1,6 +1,21 @@
 {
-  "summary": "Get ready to slay with today's hottest Black and African women's hair trends, showcasing vibrant styles that are currently taking over social media!",
+  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
   "images": [
+    {
+      "id": "ypsZQ5gmgB8",
+      "url": "https://images.unsplash.com/photo-1775443600134-282d87c9619a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8UHJlc3MlMjBhbmQlMjBjdXJsJTIwc3R5bGVzJTIwZm9yJTIwQmxhY2slMjB3b21lbnxlbnwxfDF8fHwxNzgwNzAwNTYyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1775443600134-282d87c9619a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8UHJlc3MlMjBhbmQlMjBjdXJsJTIwc3R5bGVzJTIwZm9yJTIwQmxhY2slMjB3b21lbnxlbnwxfDF8fHwxNzgwNzAwNTYyfDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1775443600134-282d87c9619a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8UHJlc3MlMjBhbmQlMjBjdXJsJTIwc3R5bGVzJTIwZm9yJTIwQmxhY2slMjB3b21lbnxlbnwxfDF8fHwxNzgwNzAwNTYyfDA&ixlib=rb-4.1.0&q=85",
+      "alt": "Young woman in red shirt with braided hair.",
+      "description": "",
+      "photographer": "Michael Kyule",
+      "photographer_url": "https://unsplash.com/@madness_leahcim_",
+      "photo_url": "https://unsplash.com/photos/young-woman-in-red-shirt-with-braided-hair-ypsZQ5gmgB8",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-05T23:00:03.195630+00:00"
+    },
     {
       "id": "bxpiMBp0FtU",
       "url": "https://images.unsplash.com/photo-1624667773099-1b80ae774080?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxfHxBZnJpY2FuJTIwV29tYW4lMjBSZWxheGVkJTIwUGVybWVkJTIwSGFpciUyMFVwZG98ZW58MXwxfHx8MTc4MDY5MzIyNnww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-05T18:00:07.071461+00:00"
-    },
-    {
-      "id": "Ty2WpsNiVtQ",
-      "url": "https://images.unsplash.com/photo-1570406794469-630903944dc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxfHxGdWxhbmklMjBicmFpZHMlMjBvbiUyMHNtaWxpbmclMjBCbGFjayUyMHdvbWFufGVufDF8MXx8fDE3ODA2ODI0NDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1570406794469-630903944dc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxfHxGdWxhbmklMjBicmFpZHMlMjBvbiUyMHNtaWxpbmclMjBCbGFjayUyMHdvbWFufGVufDF8MXx8fDE3ODA2ODI0NDZ8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1570406794469-630903944dc1?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxfHxGdWxhbmklMjBicmFpZHMlMjBvbiUyMHNtaWxpbmclMjBCbGFjayUyMHdvbWFufGVufDF8MXx8fDE3ODA2ODI0NDZ8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "woman wearing white blouse",
-      "description": "Fulani Woman",
-      "photographer": "Muhammad-Taha Ibrahim",
-      "photographer_url": "https://unsplash.com/@planeteelevene",
-      "photo_url": "https://unsplash.com/photos/woman-wearing-white-blouse-Ty2WpsNiVtQ",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-05T18:00:07.071461+00:00"
     }
   ],
-  "updated_at": "2026-06-05T21:03:18.052754+00:00"
+  "updated_at": "2026-06-06T00:06:27.854512+00:00"
 }
