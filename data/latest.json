@@ -1,6 +1,21 @@
 {
-  "summary": "Get ready to slay with this season's hottest hairstyles, showcasing vibrant styles that celebrate the diversity of Black and African beauty!",
+  "summary": "Get ready for a hair revolution as we dive into the most on-trend styles from Africa and the diaspora, straight from the runways to your roots!",
   "images": [
+    {
+      "id": "xPtUnz7B8rk",
+      "url": "https://images.unsplash.com/photo-1713790204150-cf3065097e08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8VGVlbmllJTIwd2VlbmllJTIwYWZyb3MlMjBpbiUyMHRoZSUyMDcwc3xlbnwxfDF8fHwxNzgwNzY1MjMwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1713790204150-cf3065097e08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8VGVlbmllJTIwd2VlbmllJTIwYWZyb3MlMjBpbiUyMHRoZSUyMDcwc3xlbnwxfDF8fHwxNzgwNzY1MjMwfDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1713790204150-cf3065097e08?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8VGVlbmllJTIwd2VlbmllJTIwYWZyb3MlMjBpbiUyMHRoZSUyMDcwc3xlbnwxfDF8fHwxNzgwNzY1MjMwfDA&ixlib=rb-4.1.0&q=85",
+      "alt": "a woman with dreadlocks covering her ears",
+      "description": "",
+      "photographer": "Adelade Mbuyazi",
+      "photographer_url": "https://unsplash.com/@adelade",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-dreadlocks-covering-her-ears-xPtUnz7B8rk",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-06T17:00:06.573564+00:00"
+    },
     {
       "id": "BZV1lvwRHT8",
       "url": "https://images.unsplash.com/photo-1758884776011-a7330b2539cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8UHJlc3MlMjBhbmQlMjBjdXJsJTIwaGFpcnN0eWxlcyUyMGZvciUyMEFmcmljYW4lMjBxdWVlbnN8ZW58MXwxfHx8MTc4MDc2MTYxNnww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-06T12:00:07.416326+00:00"
-    },
-    {
-      "id": "nbJ8p0KNJRk",
-      "url": "https://images.unsplash.com/photo-1757866332209-1fa100128517?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8Q3JvY2hldCUyMEJyYWlkcyUyMGluJTIwQm94JTIwU3R5bGUlMjBDbG9zZXVwfGVufDF8MXx8fDE3ODA3NDcyMjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1757866332209-1fa100128517?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8Q3JvY2hldCUyMEJyYWlkcyUyMGluJTIwQm94JTIwU3R5bGUlMjBDbG9zZXVwfGVufDF8MXx8fDE3ODA3NDcyMjd8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1757866332209-1fa100128517?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8Q3JvY2hldCUyMEJyYWlkcyUyMGluJTIwQm94JTIwU3R5bGUlMjBDbG9zZXVwfGVufDF8MXx8fDE3ODA3NDcyMjd8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "Close-up of braided hair with a pink clip.",
-      "description": "",
-      "photographer": "Mohamed B.",
-      "photographer_url": "https://unsplash.com/@bangscreative",
-      "photo_url": "https://unsplash.com/photos/close-up-of-braided-hair-with-a-pink-clip-nbJ8p0KNJRk",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-06T12:00:07.416326+00:00"
     }
   ],
-  "updated_at": "2026-06-06T16:00:56.171550+00:00"
+  "updated_at": "2026-06-06T17:04:39.812140+00:00"
 }
