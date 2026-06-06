@@ -1,6 +1,36 @@
 {
-  "summary": "Get ready to slay with the hottest hairstyles of the season, showcasing vibrant Afros, bold braids, and stunning styles from Africa and beyond!",
+  "summary": "Get ready to be inspired as we dive into the most on-trend, empowering hairstyles taking over the beauty scene this season!",
   "images": [
+    {
+      "id": "yMgwAnn8q-Y",
+      "url": "https://images.unsplash.com/photo-1747359636551-c60a2987ede1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw5fHxCYW50dSUyMGtub3RzJTIwb24lMjB5b3VuZyUyMGJsYWNrJTIwd29tZW58ZW58MXwxfHx8MTc4MDczNjQxOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1747359636551-c60a2987ede1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw5fHxCYW50dSUyMGtub3RzJTIwb24lMjB5b3VuZyUyMGJsYWNrJTIwd29tZW58ZW58MXwxfHx8MTc4MDczNjQxOHww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1747359636551-c60a2987ede1?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw5fHxCYW50dSUyMGtub3RzJTIwb24lMjB5b3VuZyUyMGJsYWNrJTIwd29tZW58ZW58MXwxfHx8MTc4MDczNjQxOHww&ixlib=rb-4.1.0&q=85",
+      "alt": "A smiling person in a tie and braids.",
+      "description": "",
+      "photographer": "Dwayne joe",
+      "photographer_url": "https://unsplash.com/@spliff_dj_joe",
+      "photo_url": "https://unsplash.com/photos/a-smiling-person-in-a-tie-and-braids-yMgwAnn8q-Y",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-06T09:00:06.184385+00:00"
+    },
+    {
+      "id": "EqY9iZKjRyQ",
+      "url": "https://images.unsplash.com/photo-1755705195049-8474ae34de0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8U2lzdGVybG9ja3MlMjBvbiUyMG1hdHVyZSUyMEFmcmljYW4lMjB3b21hbiUyN3MlMjBoZWFkfGVufDF8MXx8fDE3ODA3MzY0Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1755705195049-8474ae34de0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8U2lzdGVybG9ja3MlMjBvbiUyMG1hdHVyZSUyMEFmcmljYW4lMjB3b21hbiUyN3MlMjBoZWFkfGVufDF8MXx8fDE3ODA3MzY0Mzd8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1755705195049-8474ae34de0e?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8U2lzdGVybG9ja3MlMjBvbiUyMG1hdHVyZSUyMEFmcmljYW4lMjB3b21hbiUyN3MlMjBoZWFkfGVufDF8MXx8fDE3ODA3MzY0Mzd8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman with dreadlocks wearing a black shirt.",
+      "description": "",
+      "photographer": "Ufoma Ojo",
+      "photographer_url": "https://unsplash.com/@ladyufoma001",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-dreadlocks-wearing-a-black-shirt-EqY9iZKjRyQ",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-06T09:00:06.184385+00:00"
+    },
     {
       "id": "f-unIZvscdE",
       "url": "https://images.unsplash.com/photo-1776522088284-77ec23e169db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8R29kZGVzcyUyMGJyYWlkcyUyMGZvciUyMG5hdHVyYWwlMjBoYWlyJTIwaW5zcGlyYXRpb258ZW58MXwxfHx8MTc4MDczMjgwNnww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -270,37 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-06T05:00:03.253288+00:00"
-    },
-    {
-      "id": "h6Ko90nXbgE",
-      "url": "https://images.unsplash.com/photo-1779561259793-3af70cfc4a2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8V29tZW4lMjB3aXRoJTIwbG9jcyUyMGFuZCUyMGludHJpY2F0ZSUyMGFjY2Vzc29yaWVzfGVufDF8MXx8fDE3ODA3MjIwNDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1779561259793-3af70cfc4a2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8V29tZW4lMjB3aXRoJTIwbG9jcyUyMGFuZCUyMGludHJpY2F0ZSUyMGFjY2Vzc29yaWVzfGVufDF8MXx8fDE3ODA3MjIwNDV8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1779561259793-3af70cfc4a2e?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8V29tZW4lMjB3aXRoJTIwbG9jcyUyMGFuZCUyMGludHJpY2F0ZSUyMGFjY2Vzc29yaWVzfGVufDF8MXx8fDE3ODA3MjIwNDV8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "An adorned woman with dreadlocks and face paint looking away.",
-      "description": "UNLOCKED",
-      "photographer": "IRIS AVI",
-      "photographer_url": "https://unsplash.com/@irisavi",
-      "photo_url": "https://unsplash.com/photos/an-adorned-woman-with-dreadlocks-and-face-paint-looking-away-h6Ko90nXbgE",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-06T05:00:03.253288+00:00"
-    },
-    {
-      "id": "BWEWtAiUfl8",
-      "url": "https://images.unsplash.com/photo-1741801527162-83cca86148d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8V29tZW4lMjB3aXRoJTIwbG9jcyUyMGFuZCUyMGludHJpY2F0ZSUyMGFjY2Vzc29yaWVzfGVufDF8MXx8fDE3ODA3MjIwNDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1741801527162-83cca86148d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8V29tZW4lMjB3aXRoJTIwbG9jcyUyMGFuZCUyMGludHJpY2F0ZSUyMGFjY2Vzc29yaWVzfGVufDF8MXx8fDE3ODA3MjIwNDV8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1741801527162-83cca86148d5?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8V29tZW4lMjB3aXRoJTIwbG9jcyUyMGFuZCUyMGludHJpY2F0ZSUyMGFjY2Vzc29yaWVzfGVufDF8MXx8fDE3ODA3MjIwNDV8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "A woman with dreadlocks poses for a photo.",
-      "description": "",
-      "photographer": "Michael Kyule",
-      "photographer_url": "https://unsplash.com/@madness_leahcim_",
-      "photo_url": "https://unsplash.com/photos/a-woman-with-dreadlocks-poses-for-a-photo-BWEWtAiUfl8",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-06T05:00:03.253288+00:00"
     }
   ],
-  "updated_at": "2026-06-06T08:00:56.607235+00:00"
+  "updated_at": "2026-06-06T09:01:06.632443+00:00"
 }
