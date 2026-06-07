@@ -1,6 +1,21 @@
 {
-  "summary": "Get ready to slay with today's featured Black and African women's hair trends, where bold styles and vibrant colors reign supreme!",
+  "summary": "Get ready to slay with today's featured Black and African women's hair trends, showcasing vibrant styles that are currently making waves worldwide!",
   "images": [
+    {
+      "id": "7wNv-ADUBoc",
+      "url": "https://images.unsplash.com/photo-1744973004256-a6810f179adf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8QWZyaWNhbiUyMHdvbWVuJTIwd2VhcmluZyUyMHNlbmVnYWxlc2UlMjB0d2lzdHN8ZW58MXwxfHx8MTc4MDg0NDQxM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1744973004256-a6810f179adf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8QWZyaWNhbiUyMHdvbWVuJTIwd2VhcmluZyUyMHNlbmVnYWxlc2UlMjB0d2lzdHN8ZW58MXwxfHx8MTc4MDg0NDQxM3ww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1744973004256-a6810f179adf?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8QWZyaWNhbiUyMHdvbWVuJTIwd2VhcmluZyUyMHNlbmVnYWxlc2UlMjB0d2lzdHN8ZW58MXwxfHx8MTc4MDg0NDQxM3ww&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman smiles at the camera wearing a red headwrap.",
+      "description": "African woman in a red hat.",
+      "photographer": "Lisa Marie Theck",
+      "photographer_url": "https://unsplash.com/@lisa_marie_theck",
+      "photo_url": "https://unsplash.com/photos/a-woman-smiles-at-the-camera-wearing-a-red-headwrap-7wNv-ADUBoc",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-07T15:00:06.046726+00:00"
+    },
     {
       "id": "4c-wxrZMFsY",
       "url": "https://images.unsplash.com/photo-1613730318129-bf0ca2a12364?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNnx8TmF0dXJhbCUyMEFmcm8lMjBIYWlyc3R5bGVzJTIwQmxhY2slMjBXb21hbiUyMENsb3NlJTIwVXB8ZW58MXwxfHx8MTc4MDg0MDgwOXww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-07T08:00:04.865060+00:00"
-    },
-    {
-      "id": "TKNrgg-0wQ0",
-      "url": "https://images.unsplash.com/photo-1715418316784-a5a0d797ea02?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8QmVhdXRpZnVsJTIwQmxhY2slMjB3b21lbiUyMHdpdGglMjBBZnJvcyUyMGluJTIwQWZyaWNhfGVufDF8MXx8fDE3ODA4MTkyNDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1715418316784-a5a0d797ea02?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8QmVhdXRpZnVsJTIwQmxhY2slMjB3b21lbiUyMHdpdGglMjBBZnJvcyUyMGluJTIwQWZyaWNhfGVufDF8MXx8fDE3ODA4MTkyNDV8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1715418316784-a5a0d797ea02?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8QmVhdXRpZnVsJTIwQmxhY2slMjB3b21lbiUyMHdpdGglMjBBZnJvcyUyMGluJTIwQWZyaWNhfGVufDF8MXx8fDE3ODA4MTkyNDV8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "a black and white photo of a woman in a bikini",
-      "description": "Dreadlocked Tanzanian girl poses",
-      "photographer": "Lisa Marie Theck",
-      "photographer_url": "https://unsplash.com/@lisa_marie_theck",
-      "photo_url": "https://unsplash.com/photos/a-black-and-white-photo-of-a-woman-in-a-bikini-TKNrgg-0wQ0",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-07T08:00:04.865060+00:00"
     }
   ],
-  "updated_at": "2026-06-07T14:01:38.493246+00:00"
+  "updated_at": "2026-06-07T15:01:27.473462+00:00"
 }
