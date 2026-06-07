@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready for a style explosion as we dive into the latest must-try hair trends that are taking over the scene right now!",
   "images": [
+    {
+      "id": "CU1Zc5s0StM",
+      "url": "https://images.unsplash.com/photo-1756700413545-98c80569f693?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8UmVsYXhlZCUyMFBlcm1lZCUyMEhhaXIlMjBQaG90b3Nob290JTIwSWRlYXN8ZW58MXwxfHx8MTc4MDg2MjQyMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1756700413545-98c80569f693?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8UmVsYXhlZCUyMFBlcm1lZCUyMEhhaXIlMjBQaG90b3Nob290JTIwSWRlYXN8ZW58MXwxfHx8MTc4MDg2MjQyMXww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1756700413545-98c80569f693?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8UmVsYXhlZCUyMFBlcm1lZCUyMEhhaXIlMjBQaG90b3Nob290JTIwSWRlYXN8ZW58MXwxfHx8MTc4MDg2MjQyMXww&ixlib=rb-4.1.0&q=85",
+      "alt": "Woman with voluminous curly hair leans on stool",
+      "description": "afro hair,afro girl,moda,model girl,fashion",
+      "photographer": "SoyBreno",
+      "photographer_url": "https://unsplash.com/@soybrenofotografia",
+      "photo_url": "https://unsplash.com/photos/woman-with-voluminous-curly-hair-leans-on-stool-CU1Zc5s0StM",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-07T20:00:07.722804+00:00"
+    },
     {
       "id": "kQHrgDmPR4g",
       "url": "https://images.unsplash.com/photo-1731021334973-86c34d58ab8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8QWZybyUyMHRleHR1cmVkJTIwaGFpcnN0eWxlcyUyMGZvciUyMG9sZGVyJTIwd29tZW58ZW58MXwxfHx8MTc4MDg1NTI1NXww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-07T09:00:07.645144+00:00"
-    },
-    {
-      "id": "EQ3U_c_YgqI",
-      "url": "https://images.unsplash.com/photo-1701984047272-649a38f8b75c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8QmFudHUlMjBLbm90cyUyMG9uJTIwQmxhY2slMjBXb21lbnxlbnwxfDF8fHwxNzgwODIyODQzfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1701984047272-649a38f8b75c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8QmFudHUlMjBLbm90cyUyMG9uJTIwQmxhY2slMjBXb21lbnxlbnwxfDF8fHwxNzgwODIyODQzfDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1701984047272-649a38f8b75c?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8QmFudHUlMjBLbm90cyUyMG9uJTIwQmxhY2slMjBXb21lbnxlbnwxfDF8fHwxNzgwODIyODQzfDA&ixlib=rb-4.1.0&q=85",
-      "alt": "a black and white photo of a woman with braids",
-      "description": "",
-      "photographer": "Johnnathan Tshibangu",
-      "photographer_url": "https://unsplash.com/@misterjo",
-      "photo_url": "https://unsplash.com/photos/a-black-and-white-photo-of-a-woman-with-braids-EQ3U_c_YgqI",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-07T09:00:07.645144+00:00"
     }
   ],
-  "updated_at": "2026-06-07T19:01:26.106499+00:00"
+  "updated_at": "2026-06-07T20:01:20.572584+00:00"
 }
