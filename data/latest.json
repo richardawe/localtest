@@ -1,6 +1,51 @@
 {
-  "summary": "Get ready to be inspired as we dive into the hottest hairstyles currently dominating the scene among Black and African women!",
+  "summary": "Get ready to slay with the most coveted styles of the season, straight from the runways and streets of Africa and beyond!",
   "images": [
+    {
+      "id": "jgShdLSjhyU",
+      "url": "https://images.unsplash.com/photo-1763347120836-5afd4a60fc01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzfHxDb3Jucm93cyUyMGJyYWlkcyUyMGluJTIwZGlmZmVyZW50JTIwQWZyaWNhbiUyMGN1bHR1cmVzfGVufDF8MXx8fDE3ODA4MzcyNTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1763347120836-5afd4a60fc01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzfHxDb3Jucm93cyUyMGJyYWlkcyUyMGluJTIwZGlmZmVyZW50JTIwQWZyaWNhbiUyMGN1bHR1cmVzfGVufDF8MXx8fDE3ODA4MzcyNTV8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1763347120836-5afd4a60fc01?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzfHxDb3Jucm93cyUyMGJyYWlkcyUyMGluJTIwZGlmZmVyZW50JTIwQWZyaWNhbiUyMGN1bHR1cmVzfGVufDF8MXx8fDE3ODA4MzcyNTV8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "Young woman with braided hair and red vest.",
+      "description": "",
+      "photographer": "Stephen Tettey Atsu",
+      "photographer_url": "https://unsplash.com/@atsu_tettey",
+      "photo_url": "https://unsplash.com/photos/young-woman-with-braided-hair-and-red-vest-jgShdLSjhyU",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-07T13:00:05.948090+00:00"
+    },
+    {
+      "id": "TEhGoqwxHSM",
+      "url": "https://images.unsplash.com/photo-1631620570575-486ce20df339?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8Q29ybnJvd3MlMjBicmFpZHMlMjBpbiUyMGRpZmZlcmVudCUyMEFmcmljYW4lMjBjdWx0dXJlc3xlbnwxfDF8fHwxNzgwODM3MjU1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1631620570575-486ce20df339?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8Q29ybnJvd3MlMjBicmFpZHMlMjBpbiUyMGRpZmZlcmVudCUyMEFmcmljYW4lMjBjdWx0dXJlc3xlbnwxfDF8fHwxNzgwODM3MjU1fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1631620570575-486ce20df339?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8Q29ybnJvd3MlMjBicmFpZHMlMjBpbiUyMGRpZmZlcmVudCUyMEFmcmljYW4lMjBjdWx0dXJlc3xlbnwxfDF8fHwxNzgwODM3MjU1fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "a woman carrying a basket on her head",
+      "description": "Beauty Black African girl coming from the farm\nPanhouseproductions\nBunting Amir  Kargbo ",
+      "photographer": "Bunting Kargbo",
+      "photographer_url": "https://unsplash.com/@buntingamir",
+      "photo_url": "https://unsplash.com/photos/a-woman-carrying-a-basket-on-her-head-TEhGoqwxHSM",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-07T13:00:05.948090+00:00"
+    },
+    {
+      "id": "pvwaNk2E-6E",
+      "url": "https://images.unsplash.com/photo-1764265150663-e58dcfc03252?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8Q29ybnJvd3MlMjBicmFpZHMlMjBpbiUyMGRpZmZlcmVudCUyMEFmcmljYW4lMjBjdWx0dXJlc3xlbnwxfDF8fHwxNzgwODM3MjU1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1764265150663-e58dcfc03252?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8Q29ybnJvd3MlMjBicmFpZHMlMjBpbiUyMGRpZmZlcmVudCUyMEFmcmljYW4lMjBjdWx0dXJlc3xlbnwxfDF8fHwxNzgwODM3MjU1fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1764265150663-e58dcfc03252?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8Q29ybnJvd3MlMjBicmFpZHMlMjBpbiUyMGRpZmZlcmVudCUyMEFmcmljYW4lMjBjdWx0dXJlc3xlbnwxfDF8fHwxNzgwODM3MjU1fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "A smiling woman with braided hair and traditional attire.",
+      "description": "",
+      "photographer": "K Studios",
+      "photographer_url": "https://unsplash.com/@kstudios",
+      "photo_url": "https://unsplash.com/photos/a-smiling-woman-with-braided-hair-and-traditional-attire-pvwaNk2E-6E",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-07T13:00:05.948090+00:00"
+    },
     {
       "id": "TVEqUsw9Dr0",
       "url": "https://images.unsplash.com/photo-1632480911050-ed2e4a30199b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8UmVsYXhlZCUyMFBlcm1lZCUyMEhhaXIlMjBBZnJpY2FuJTIwV29tZW4lMjBDbG9zZSUyMFVwfGVufDF8MXx8fDE3ODA4MzM2MDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -255,52 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-07T07:00:05.869706+00:00"
-    },
-    {
-      "id": "LnuNz_fNUIM",
-      "url": "https://images.unsplash.com/photo-1740986675235-2727d40e5c09?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNnx8U2lzdGVybG9ja3MlMjBNaWNyb2JyYWlkcyUyMEJsYWNrJTIwV29tZW4lMjdzJTIwSGFpciUyMEluc3BpcmF0aW9ufGVufDF8MXx8fDE3ODA4MTU2NDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1740986675235-2727d40e5c09?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNnx8U2lzdGVybG9ja3MlMjBNaWNyb2JyYWlkcyUyMEJsYWNrJTIwV29tZW4lMjdzJTIwSGFpciUyMEluc3BpcmF0aW9ufGVufDF8MXx8fDE3ODA4MTU2NDZ8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1740986675235-2727d40e5c09?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNnx8U2lzdGVybG9ja3MlMjBNaWNyb2JyYWlkcyUyMEJsYWNrJTIwV29tZW4lMjdzJTIwSGFpciUyMEluc3BpcmF0aW9ufGVufDF8MXx8fDE3ODA4MTU2NDZ8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "A woman with dreadlocks standing in front of a brick wall",
-      "description": "",
-      "photographer": "Ari Shojaei",
-      "photographer_url": "https://unsplash.com/@arishojaei",
-      "photo_url": "https://unsplash.com/photos/a-woman-with-dreadlocks-standing-in-front-of-a-brick-wall-LnuNz_fNUIM",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-07T07:00:05.869706+00:00"
-    },
-    {
-      "id": "VRlNsxzoVJo",
-      "url": "https://images.unsplash.com/photo-1714667088192-f994705d9547?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8UmVsYXhlZCUyMFBlcm1lZCUyMEhhaXIlMjBCbGFjayUyMFdvbWVuJTI3cyUyMFBvcnRyYWl0c3xlbnwxfDF8fHwxNzgwODEyMDA5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1714667088192-f994705d9547?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8UmVsYXhlZCUyMFBlcm1lZCUyMEhhaXIlMjBCbGFjayUyMFdvbWVuJTI3cyUyMFBvcnRyYWl0c3xlbnwxfDF8fHwxNzgwODEyMDA5fDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1714667088192-f994705d9547?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8UmVsYXhlZCUyMFBlcm1lZCUyMEhhaXIlMjBCbGFjayUyMFdvbWVuJTI3cyUyMFBvcnRyYWl0c3xlbnwxfDF8fHwxNzgwODEyMDA5fDA&ixlib=rb-4.1.0&q=85",
-      "alt": "a black and white photo of a woman with an afro",
-      "description": "portrait photography with Iyonna!",
-      "photographer": "Freddy Rezvanian",
-      "photographer_url": "https://unsplash.com/@farshadrezvanian",
-      "photo_url": "https://unsplash.com/photos/a-black-and-white-photo-of-a-woman-with-an-afro-VRlNsxzoVJo",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-07T06:00:07.435759+00:00"
-    },
-    {
-      "id": "3wcrPEnsWuw",
-      "url": "https://images.unsplash.com/photo-1688990427367-04a134cb3222?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8Qm94JTIwQnJhaWRzJTIwTmF0dXJhbCUyMEJsYWNrJTIwQmVhdXR5JTIwSW1hZ2VzfGVufDF8MXx8fDE3ODA4MTIwMjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1688990427367-04a134cb3222?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8Qm94JTIwQnJhaWRzJTIwTmF0dXJhbCUyMEJsYWNrJTIwQmVhdXR5JTIwSW1hZ2VzfGVufDF8MXx8fDE3ODA4MTIwMjZ8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1688990427367-04a134cb3222?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8Qm94JTIwQnJhaWRzJTIwTmF0dXJhbCUyMEJsYWNrJTIwQmVhdXR5JTIwSW1hZ2VzfGVufDF8MXx8fDE3ODA4MTIwMjZ8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "a woman with long braids posing for a picture",
-      "description": "",
-      "photographer": "Joseph Okon",
-      "photographer_url": "https://unsplash.com/@joecreativestudio",
-      "photo_url": "https://unsplash.com/photos/a-woman-with-long-braids-posing-for-a-picture-3wcrPEnsWuw",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-07T06:00:07.435759+00:00"
     }
   ],
-  "updated_at": "2026-06-07T12:01:34.316073+00:00"
+  "updated_at": "2026-06-07T13:01:24.217895+00:00"
 }
