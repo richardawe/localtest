@@ -1,6 +1,21 @@
 {
-  "summary": "Get ready to slay with today's hottest hairstyles, featuring vibrant braids, afro-puffs, and sleek twists that showcase the beauty of Black and African women's unique textures!",
+  "summary": "Get ready to slay with the hottest styles of the season, as we dish out the latest Black and African women's hair trends that are taking over the globe right now!",
   "images": [
+    {
+      "id": "nt84m5HTWx0",
+      "url": "https://images.unsplash.com/photo-1764265149898-3401b609d4e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNnx8QWZyaWNhbiUyMHdvbWFuJTIwY29ybnJvd3MlMjBvbiUyMHdlZGRpbmclMjBkYXl8ZW58MXwxfHx8MTc4MDg2OTYxMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1764265149898-3401b609d4e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNnx8QWZyaWNhbiUyMHdvbWFuJTIwY29ybnJvd3MlMjBvbiUyMHdlZGRpbmclMjBkYXl8ZW58MXwxfHx8MTc4MDg2OTYxMXww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1764265149898-3401b609d4e0?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNnx8QWZyaWNhbiUyMHdvbWFuJTIwY29ybnJvd3MlMjBvbiUyMHdlZGRpbmclMjBkYXl8ZW58MXwxfHx8MTc4MDg2OTYxMXww&ixlib=rb-4.1.0&q=85",
+      "alt": "Woman with braided hair holding a fan",
+      "description": "",
+      "photographer": "K Studios",
+      "photographer_url": "https://unsplash.com/@kstudios",
+      "photo_url": "https://unsplash.com/photos/woman-with-braided-hair-holding-a-fan-nt84m5HTWx0",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-07T22:00:08.188381+00:00"
+    },
     {
       "id": "HTabRwkulnk",
       "url": "https://images.unsplash.com/photo-1739903055659-4cde55bd77e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8R29kZGVzcyUyMGJyYWlkcyUyMHdpdGglMjBpbnRyaWNhdGUlMjBkZXNpZ25zJTIwYmxhY2slMjBtb2RlbHN8ZW58MXwxfHx8MTc4MDg2NjAwOHww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-07T12:00:07.765533+00:00"
-    },
-    {
-      "id": "_KgLUGBaY0M",
-      "url": "https://images.unsplash.com/photo-1631613682811-3c0010ed17a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOHx8VGVlbmllJTIwV2VlbmllJTIwQWZybyUyME5hdHVyYWwlMjBIYWlyfGVufDF8MXx8fDE3ODA4MjI4MjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1631613682811-3c0010ed17a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOHx8VGVlbmllJTIwV2VlbmllJTIwQWZybyUyME5hdHVyYWwlMjBIYWlyfGVufDF8MXx8fDE3ODA4MjI4MjR8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1631613682811-3c0010ed17a7?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOHx8VGVlbmllJTIwV2VlbmllJTIwQWZybyUyME5hdHVyYWwlMjBIYWlyfGVufDF8MXx8fDE3ODA4MjI4MjR8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "a woman with an afro sitting on a bench",
-      "description": "",
-      "photographer": "Ben Masora",
-      "photographer_url": "https://unsplash.com/@benmasora",
-      "photo_url": "https://unsplash.com/photos/a-woman-with-an-afro-sitting-on-a-bench-_KgLUGBaY0M",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-07T09:00:07.645144+00:00"
     }
   ],
-  "updated_at": "2026-06-07T21:00:58.027921+00:00"
+  "updated_at": "2026-06-07T22:00:59.105507+00:00"
 }
