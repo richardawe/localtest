@@ -1,6 +1,36 @@
 {
-  "summary": "Get ready for the most vibrant and bold hairstyles taking over the scene, featuring today's freshest looks from Black and African women!",
+  "summary": "Get ready for a vibrant celebration of current Black and African women's hair trends, blending elegance with unapologetic flair and individuality!",
   "images": [
+    {
+      "id": "ikysd1YGmU8",
+      "url": "https://images.unsplash.com/photo-1616166358812-784a766b5762?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzfHxCbGFjayUyMHdvbWFuJTIwd2l0aCUyMEZ1bGFuaSUyMEJyYWlkcyUyMENsb3NlLXVwfGVufDF8MXx8fDE3ODA3OTA0MDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1616166358812-784a766b5762?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzfHxCbGFjayUyMHdvbWFuJTIwd2l0aCUyMEZ1bGFuaSUyMEJyYWlkcyUyMENsb3NlLXVwfGVufDF8MXx8fDE3ODA3OTA0MDh8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1616166358812-784a766b5762?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzfHxCbGFjayUyMHdvbWFuJTIwd2l0aCUyMEZ1bGFuaSUyMEJyYWlkcyUyMENsb3NlLXVwfGVufDF8MXx8fDE3ODA3OTA0MDh8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "woman in blue denim jacket wearing black framed eyeglasses",
+      "description": "Excited Black Woman ",
+      "photographer": "Baptista Ime James",
+      "photographer_url": "https://unsplash.com/@thatbaptista_",
+      "photo_url": "https://unsplash.com/photos/woman-in-blue-denim-jacket-wearing-black-framed-eyeglasses-ikysd1YGmU8",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-07T00:00:07.495225+00:00"
+    },
+    {
+      "id": "FP5hYbGz0Iw",
+      "url": "https://images.unsplash.com/photo-1767249626037-50ca2c765a4c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8QmxhY2slMjB3b21hbiUyMHdpdGglMjBGdWxhbmklMjBCcmFpZHMlMjBDbG9zZS11cHxlbnwxfDF8fHwxNzgwNzkwNDA4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1767249626037-50ca2c765a4c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8QmxhY2slMjB3b21hbiUyMHdpdGglMjBGdWxhbmklMjBCcmFpZHMlMjBDbG9zZS11cHxlbnwxfDF8fHwxNzgwNzkwNDA4fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1767249626037-50ca2c765a4c?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8QmxhY2slMjB3b21hbiUyMHdpdGglMjBGdWxhbmklMjBCcmFpZHMlMjBDbG9zZS11cHxlbnwxfDF8fHwxNzgwNzkwNDA4fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "Young black woman with braided hair and colorful jacket.",
+      "description": "",
+      "photographer": "Michael Kyule",
+      "photographer_url": "https://unsplash.com/@madness_leahcim_",
+      "photo_url": "https://unsplash.com/photos/young-black-woman-with-braided-hair-and-colorful-jacket-FP5hYbGz0Iw",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-07T00:00:07.495225+00:00"
+    },
     {
       "id": "Img5IsV1tvM",
       "url": "https://images.unsplash.com/photo-1778506719305-5fb424b420d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8Q3JvY2hldCUyMEJyYWlkcyUyMEJsYWNrJTIwR2lybCUyMEJlYXV0aWZ1bCUyMExvY2tzfGVufDF8MXx8fDE3ODA3ODY4MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -270,37 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-06T14:00:06.449588+00:00"
-    },
-    {
-      "id": "Ihc6W8_DkOU",
-      "url": "https://images.unsplash.com/photo-1763256294315-73925b8728d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOHx8QmFudHUlMjBLbm90cyUyMGluJTIwQWZyaWNhbiUyMFdvbWVuJTI3cyUyMEhhaXJ8ZW58MXwxfHx8MTc4MDc1NDQzOHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1763256294315-73925b8728d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOHx8QmFudHUlMjBLbm90cyUyMGluJTIwQWZyaWNhbiUyMFdvbWVuJTI3cyUyMEhhaXJ8ZW58MXwxfHx8MTc4MDc1NDQzOHww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1763256294315-73925b8728d8?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOHx8QmFudHUlMjBLbm90cyUyMGluJTIwQWZyaWNhbiUyMFdvbWVuJTI3cyUyMEhhaXJ8ZW58MXwxfHx8MTc4MDc1NDQzOHww&ixlib=rb-4.1.0&q=85",
-      "alt": "Woman with braided hair and colorful skirt",
-      "description": "",
-      "photographer": "Ufoma Ojo",
-      "photographer_url": "https://unsplash.com/@ladyufoma001",
-      "photo_url": "https://unsplash.com/photos/woman-with-braided-hair-and-colorful-skirt-Ihc6W8_DkOU",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-06T14:00:06.449588+00:00"
-    },
-    {
-      "id": "JhN1yVq0KUc",
-      "url": "https://images.unsplash.com/photo-1770396528756-d463cc7f0a8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNHx8QmFudHUlMjBLbm90cyUyMGluJTIwTmF0dXJhbCUyMEJsYWNrJTIwSGFpcnxlbnwxfDF8fHwxNzgwNzUwODE3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1770396528756-d463cc7f0a8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNHx8QmFudHUlMjBLbm90cyUyMGluJTIwTmF0dXJhbCUyMEJsYWNrJTIwSGFpcnxlbnwxfDF8fHwxNzgwNzUwODE3fDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1770396528756-d463cc7f0a8a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNHx8QmFudHUlMjBLbm90cyUyMGluJTIwTmF0dXJhbCUyMEJsYWNrJTIwSGFpcnxlbnwxfDF8fHwxNzgwNzUwODE3fDA&ixlib=rb-4.1.0&q=85",
-      "alt": "A young woman with an afro smiles while looking down",
-      "description": "",
-      "photographer": "JEaLiFe Pictures",
-      "photographer_url": "https://unsplash.com/@jealife_pictures",
-      "photo_url": "https://unsplash.com/photos/a-young-woman-with-an-afro-smiles-while-looking-down-JhN1yVq0KUc",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-06T13:00:04.286156+00:00"
     }
   ],
-  "updated_at": "2026-06-06T23:01:04.108816+00:00"
+  "updated_at": "2026-06-07T00:02:32.240208+00:00"
 }
