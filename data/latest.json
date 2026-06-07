@@ -1,6 +1,36 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to be inspired by the boldest, most innovative hairstyles from Africa and its diaspora, trending now in the global beauty scene!",
   "images": [
+    {
+      "id": "kQHrgDmPR4g",
+      "url": "https://images.unsplash.com/photo-1731021334973-86c34d58ab8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8QWZybyUyMHRleHR1cmVkJTIwaGFpcnN0eWxlcyUyMGZvciUyMG9sZGVyJTIwd29tZW58ZW58MXwxfHx8MTc4MDg1NTI1NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1731021334973-86c34d58ab8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8QWZybyUyMHRleHR1cmVkJTIwaGFpcnN0eWxlcyUyMGZvciUyMG9sZGVyJTIwd29tZW58ZW58MXwxfHx8MTc4MDg1NTI1NXww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1731021334973-86c34d58ab8d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8QWZybyUyMHRleHR1cmVkJTIwaGFpcnN0eWxlcyUyMGZvciUyMG9sZGVyJTIwd29tZW58ZW58MXwxfHx8MTc4MDg1NTI1NXww&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman with an afro is walking down the street",
+      "description": "",
+      "photographer": "Bruno Ngarukiye",
+      "photographer_url": "https://unsplash.com/@itsbrunoagain",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-an-afro-is-walking-down-the-street-kQHrgDmPR4g",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-07T18:00:06.172221+00:00"
+    },
+    {
+      "id": "tLdADQSlTLw",
+      "url": "https://images.unsplash.com/photo-1754774674834-d3fde3387e4d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8QWZybyUyMHRleHR1cmVkJTIwaGFpcnN0eWxlcyUyMGZvciUyMG9sZGVyJTIwd29tZW58ZW58MXwxfHx8MTc4MDg1NTI1NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1754774674834-d3fde3387e4d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8QWZybyUyMHRleHR1cmVkJTIwaGFpcnN0eWxlcyUyMGZvciUyMG9sZGVyJTIwd29tZW58ZW58MXwxfHx8MTc4MDg1NTI1NXww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1754774674834-d3fde3387e4d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8QWZybyUyMHRleHR1cmVkJTIwaGFpcnN0eWxlcyUyMGZvciUyMG9sZGVyJTIwd29tZW58ZW58MXwxfHx8MTc4MDg1NTI1NXww&ixlib=rb-4.1.0&q=85",
+      "alt": "Young black woman with afro laughing",
+      "description": "",
+      "photographer": "JEaLiFe Pictures",
+      "photographer_url": "https://unsplash.com/@jealife_pictures",
+      "photo_url": "https://unsplash.com/photos/young-black-woman-with-afro-laughing-tLdADQSlTLw",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-07T18:00:06.172221+00:00"
+    },
     {
       "id": "vf1MyM_2qbo",
       "url": "https://images.unsplash.com/photo-1688841659182-b52b567359c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNHx8Qm94JTIwQnJhaWRzJTIwd2l0aCUyMENvbG9yZnVsJTIwSGFpciUyMFRpZXN8ZW58MXwxfHx8MTc4MDg0ODAyOXww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -270,37 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-07T09:00:07.645144+00:00"
-    },
-    {
-      "id": "zoc15or44Cg",
-      "url": "https://images.unsplash.com/photo-1766107349536-c6de9ab38dcd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNnx8V2VhdmVzJTIwYW5kJTIwRXh0ZW5zaW9ucyUyMGZvciUyMEFmcmljYW58ZW58MXwxfHx8MTc4MDgyMjg0OXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1766107349536-c6de9ab38dcd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNnx8V2VhdmVzJTIwYW5kJTIwRXh0ZW5zaW9ucyUyMGZvciUyMEFmcmljYW58ZW58MXwxfHx8MTc4MDgyMjg0OXww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1766107349536-c6de9ab38dcd?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNnx8V2VhdmVzJTIwYW5kJTIwRXh0ZW5zaW9ucyUyMGZvciUyMEFmcmljYW58ZW58MXwxfHx8MTc4MDgyMjg0OXww&ixlib=rb-4.1.0&q=85",
-      "alt": "A woman in traditional african attire and jewelry",
-      "description": "",
-      "photographer": "Stephen Tettey Atsu",
-      "photographer_url": "https://unsplash.com/@atsu_tettey",
-      "photo_url": "https://unsplash.com/photos/a-woman-in-traditional-african-attire-and-jewelry-zoc15or44Cg",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-07T09:00:07.645144+00:00"
-    },
-    {
-      "id": "ueepMtZMMQg",
-      "url": "https://images.unsplash.com/photo-1620424037570-15137a4a562d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzfHxUV0ElMjB0ZWVuYWdlJTIwd29tZW4lMjB3aXRoJTIwdGlueSUyMGFmcm9zfGVufDF8MXx8fDE3ODA4MTkyMDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1620424037570-15137a4a562d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzfHxUV0ElMjB0ZWVuYWdlJTIwd29tZW4lMjB3aXRoJTIwdGlueSUyMGFmcm9zfGVufDF8MXx8fDE3ODA4MTkyMDV8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1620424037570-15137a4a562d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzfHxUV0ElMjB0ZWVuYWdlJTIwd29tZW4lMjB3aXRoJTIwdGlueSUyMGFmcm9zfGVufDF8MXx8fDE3ODA4MTkyMDV8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "woman in red and white floral shirt",
-      "description": "Black African Woman",
-      "photographer": "Belinda Amoah",
-      "photographer_url": "https://unsplash.com/@expressee",
-      "photo_url": "https://unsplash.com/photos/woman-in-red-and-white-floral-shirt-ueepMtZMMQg",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-07T08:00:04.865060+00:00"
     }
   ],
-  "updated_at": "2026-06-07T17:01:18.490177+00:00"
+  "updated_at": "2026-06-07T18:01:31.717697+00:00"
 }
