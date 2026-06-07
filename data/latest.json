@@ -1,6 +1,21 @@
 {
-  "summary": "Get ready for a style explosion as we dive into the latest must-try hair trends that are taking over the scene right now!",
+  "summary": "Get ready to slay with today's hottest hairstyles, featuring vibrant braids, afro-puffs, and sleek twists that showcase the beauty of Black and African women's unique textures!",
   "images": [
+    {
+      "id": "HTabRwkulnk",
+      "url": "https://images.unsplash.com/photo-1739903055659-4cde55bd77e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8R29kZGVzcyUyMGJyYWlkcyUyMHdpdGglMjBpbnRyaWNhdGUlMjBkZXNpZ25zJTIwYmxhY2slMjBtb2RlbHN8ZW58MXwxfHx8MTc4MDg2NjAwOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1739903055659-4cde55bd77e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8R29kZGVzcyUyMGJyYWlkcyUyMHdpdGglMjBpbnRyaWNhdGUlMjBkZXNpZ25zJTIwYmxhY2slMjBtb2RlbHN8ZW58MXwxfHx8MTc4MDg2NjAwOHww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1739903055659-4cde55bd77e8?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8R29kZGVzcyUyMGJyYWlkcyUyMHdpdGglMjBpbnRyaWNhdGUlMjBkZXNpZ25zJTIwYmxhY2slMjBtb2RlbHN8ZW58MXwxfHx8MTc4MDg2NjAwOHww&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman with long braids leaning against a wall",
+      "description": "",
+      "photographer": "Samir Vanegas",
+      "photographer_url": "https://unsplash.com/@samir_vanegas_",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-long-braids-leaning-against-a-wall-HTabRwkulnk",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-07T21:00:05.654722+00:00"
+    },
     {
       "id": "CU1Zc5s0StM",
       "url": "https://images.unsplash.com/photo-1756700413545-98c80569f693?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8UmVsYXhlZCUyMFBlcm1lZCUyMEhhaXIlMjBQaG90b3Nob290JTIwSWRlYXN8ZW58MXwxfHx8MTc4MDg2MjQyMXww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-07T09:00:07.645144+00:00"
-    },
-    {
-      "id": "x61Zr0K4WSk",
-      "url": "https://images.unsplash.com/photo-1652732062760-4d66a916fdb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8QmFudHUlMjBLbm90cyUyMG9uJTIwQmxhY2slMjBXb21lbnxlbnwxfDF8fHwxNzgwODIyODQzfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1652732062760-4d66a916fdb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8QmFudHUlMjBLbm90cyUyMG9uJTIwQmxhY2slMjBXb21lbnxlbnwxfDF8fHwxNzgwODIyODQzfDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1652732062760-4d66a916fdb3?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8QmFudHUlMjBLbm90cyUyMG9uJTIwQmxhY2slMjBXb21lbnxlbnwxfDF8fHwxNzgwODIyODQzfDA&ixlib=rb-4.1.0&q=85",
-      "alt": "a black and white photo of a woman with braids",
-      "description": "",
-      "photographer": "Jabari Timothy",
-      "photographer_url": "https://unsplash.com/@jabarib",
-      "photo_url": "https://unsplash.com/photos/a-black-and-white-photo-of-a-woman-with-braids-x61Zr0K4WSk",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-07T09:00:07.645144+00:00"
     }
   ],
-  "updated_at": "2026-06-07T20:01:20.572584+00:00"
+  "updated_at": "2026-06-07T21:00:58.027921+00:00"
 }
