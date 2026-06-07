@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with today's top picks on the latest Black and African women's hair trends that are taking the world by storm!",
   "images": [
+    {
+      "id": "JBuXakp5n1g",
+      "url": "https://images.unsplash.com/photo-1648350887785-bdc2abb46064?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8V2VhdmVzJTIwYW5kJTIwZXh0ZW5zaW9ucyUyMG9uJTIwQWZyaWNhbiUyMGJlYXV0eXxlbnwxfDF8fHwxNzgwODAxMjQxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1648350887785-bdc2abb46064?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8V2VhdmVzJTIwYW5kJTIwZXh0ZW5zaW9ucyUyMG9uJTIwQWZyaWNhbiUyMGJlYXV0eXxlbnwxfDF8fHwxNzgwODAxMjQxfDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1648350887785-bdc2abb46064?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8V2VhdmVzJTIwYW5kJTIwZXh0ZW5zaW9ucyUyMG9uJTIwQWZyaWNhbiUyMGJlYXV0eXxlbnwxfDF8fHwxNzgwODAxMjQxfDA&ixlib=rb-4.1.0&q=85",
+      "alt": "a woman with braids is posing for a picture",
+      "description": "",
+      "photographer": "Arnold Obizzy",
+      "photographer_url": "https://unsplash.com/@arnoldobizzy",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-braids-is-posing-for-a-picture-JBuXakp5n1g",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-07T03:00:05.951423+00:00"
+    },
     {
       "id": "ikysd1YGmU8",
       "url": "https://images.unsplash.com/photo-1616166358812-784a766b5762?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzfHxCbGFjayUyMHdvbWFuJTIwd2l0aCUyMEZ1bGFuaSUyMEJyYWlkcyUyMENsb3NlLXVwfGVufDF8MXx8fDE3ODA3OTA0MDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-06T14:00:06.449588+00:00"
-    },
-    {
-      "id": "-x7iBTZ-IzQ",
-      "url": "https://images.unsplash.com/photo-1635367085803-59679d4d5c6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8TG9jcyUyMGFuZCUyMERyZWFkbG9ja3MlMjBCbGFjayUyMFdvbWVuJTIwQmVhdXR5fGVufDF8MXx8fDE3ODA3NTQ0MTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1635367085803-59679d4d5c6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8TG9jcyUyMGFuZCUyMERyZWFkbG9ja3MlMjBCbGFjayUyMFdvbWVuJTIwQmVhdXR5fGVufDF8MXx8fDE3ODA3NTQ0MTZ8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1635367085803-59679d4d5c6c?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8TG9jcyUyMGFuZCUyMERyZWFkbG9ja3MlMjBCbGFjayUyMFdvbWVuJTIwQmVhdXR5fGVufDF8MXx8fDE3ODA3NTQ0MTZ8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "a woman wearing a dress",
-      "description": "Sharona Shnayder, Nigerian-Israeli Environmental Activist, Speaker, and Writer.",
-      "photographer": "Cole Keister",
-      "photographer_url": "https://unsplash.com/@coleito",
-      "photo_url": "https://unsplash.com/photos/a-woman-wearing-a-dress--x7iBTZ-IzQ",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-06T14:00:06.449588+00:00"
     }
   ],
-  "updated_at": "2026-06-07T02:03:22.149366+00:00"
+  "updated_at": "2026-06-07T03:01:26.990254+00:00"
 }
