@@ -1,5 +1,5 @@
 {
-  "total_images": 403,
+  "total_images": 405,
   "total_pages": 9,
   "page_size": 50,
   "era_counts": {
@@ -16,8 +16,8 @@
     "2020s": 2
   },
   "category_counts": {
-    "current": 365,
+    "current": 367,
     "historical": 38
   },
-  "updated_at": "2026-06-08T01:04:45.483933+00:00"
+  "updated_at": "2026-06-08T03:01:26.366116+00:00"
 }
