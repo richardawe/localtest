@@ -1,6 +1,21 @@
 {
-  "summary": "Get ready to slay with the latest buzz on Black and African women's hair trends, featuring fresh styles that are currently taking over the globe!",
+  "summary": "Get ready for a kaleidoscope of styles as we dive into the hottest current trends in Black and African women's hair, straight from the continent!",
   "images": [
+    {
+      "id": "MyuZAO8Wfr8",
+      "url": "https://images.unsplash.com/photo-1729529886854-1a7fe529ce22?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8R29kZGVzcyUyMEJyYWlkcyUyMEJsYWNrJTIwRmVtYWxlJTIwTW9kZWwlMjBQcm9maWxlfGVufDF8MXx8fDE3ODA5MTY0MTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1729529886854-1a7fe529ce22?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8R29kZGVzcyUyMEJyYWlkcyUyMEJsYWNrJTIwRmVtYWxlJTIwTW9kZWwlMjBQcm9maWxlfGVufDF8MXx8fDE3ODA5MTY0MTB8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1729529886854-1a7fe529ce22?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8R29kZGVzcyUyMEJyYWlkcyUyMEJsYWNrJTIwRmVtYWxlJTIwTW9kZWwlMjBQcm9maWxlfGVufDF8MXx8fDE3ODA5MTY0MTB8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman with braids on her head leaning against a tree",
+      "description": "https://www.instagram.com/itsbrunoagain/",
+      "photographer": "Bruno Ngarukiye",
+      "photographer_url": "https://unsplash.com/@itsbrunoagain",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-braids-on-her-head-leaning-against-a-tree-MyuZAO8Wfr8",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-08T11:00:07.020820+00:00"
+    },
     {
       "id": "7zndyhFKsPs",
       "url": "https://images.unsplash.com/photo-1640059558695-e07308d4313c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8QmxhY2slMjBnaXJsJTIwd2l0aCUyMGxvY3MlMjBkcmVhZGxvY2tzJTIwbmF0dXJhbCUyMGJlYXV0eXxlbnwxfDF8fHwxNzgwOTEyODEyfDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-07T18:00:06.172221+00:00"
-    },
-    {
-      "id": "tLdADQSlTLw",
-      "url": "https://images.unsplash.com/photo-1754774674834-d3fde3387e4d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8QWZybyUyMHRleHR1cmVkJTIwaGFpcnN0eWxlcyUyMGZvciUyMG9sZGVyJTIwd29tZW58ZW58MXwxfHx8MTc4MDg1NTI1NXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1754774674834-d3fde3387e4d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8QWZybyUyMHRleHR1cmVkJTIwaGFpcnN0eWxlcyUyMGZvciUyMG9sZGVyJTIwd29tZW58ZW58MXwxfHx8MTc4MDg1NTI1NXww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1754774674834-d3fde3387e4d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8QWZybyUyMHRleHR1cmVkJTIwaGFpcnN0eWxlcyUyMGZvciUyMG9sZGVyJTIwd29tZW58ZW58MXwxfHx8MTc4MDg1NTI1NXww&ixlib=rb-4.1.0&q=85",
-      "alt": "Young black woman with afro laughing",
-      "description": "",
-      "photographer": "JEaLiFe Pictures",
-      "photographer_url": "https://unsplash.com/@jealife_pictures",
-      "photo_url": "https://unsplash.com/photos/young-black-woman-with-afro-laughing-tLdADQSlTLw",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-07T18:00:06.172221+00:00"
     }
   ],
-  "updated_at": "2026-06-08T10:01:08.940163+00:00"
+  "updated_at": "2026-06-08T11:01:07.307043+00:00"
 }
