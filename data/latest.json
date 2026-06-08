@@ -1,6 +1,21 @@
 {
-  "summary": "Get ready for a dose of beauty inspiration as we dive into the latest trends in Black and African women's hair, straight from the fashion capitals!",
+  "summary": "Get ready to be inspired by the vibrant styles of today's featured Black and African women, showcasing the latest in Afrocentric beauty and culture!",
   "images": [
+    {
+      "id": "1PGFkrYKhq0",
+      "url": "https://images.unsplash.com/photo-1614174568206-7620823e6aee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8U2VuZWdhbGVzZSUyMHR3aXN0cyUyMGZvciUyMG5hdHVyYWwlMjBoYWlyc3R5bGVzJTIwaW5zcGlyYXRpb258ZW58MXwxfHx8MTc4MDkzNDQwOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1614174568206-7620823e6aee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8U2VuZWdhbGVzZSUyMHR3aXN0cyUyMGZvciUyMG5hdHVyYWwlMjBoYWlyc3R5bGVzJTIwaW5zcGlyYXRpb258ZW58MXwxfHx8MTc4MDkzNDQwOHww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1614174568206-7620823e6aee?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8U2VuZWdhbGVzZSUyMHR3aXN0cyUyMGZvciUyMG5hdHVyYWwlMjBoYWlyc3R5bGVzJTIwaW5zcGlyYXRpb258ZW58MXwxfHx8MTc4MDkzNDQwOHww&ixlib=rb-4.1.0&q=85",
+      "alt": "woman in white shirt wearing black framed eyeglasses",
+      "description": "Black woman thinking in white shirt and glasses on",
+      "photographer": "Baptista Ime James",
+      "photographer_url": "https://unsplash.com/@thatbaptista_",
+      "photo_url": "https://unsplash.com/photos/woman-in-white-shirt-wearing-black-framed-eyeglasses-1PGFkrYKhq0",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-08T16:00:02.887163+00:00"
+    },
     {
       "id": "ZEUzVWGjcbU",
       "url": "https://images.unsplash.com/photo-1636302926027-9619142d7173?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8QmVhdXRpZnVsJTIwbmF0dXJhbCUyMEFmcmljYW4lMjBhZnJvcyUyMHBob3RvZ3JhcGhlZCUyMGNsb3NlbHl8ZW58MXwxfHx8MTc4MDkzMDgwNnww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-07T23:00:02.814269+00:00"
-    },
-    {
-      "id": "AmLDjIBAEG8",
-      "url": "https://images.unsplash.com/photo-1765607476376-9574ea76b2ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8U2VuZWdhbGVzZSUyMHR3aXN0JTIwaGFpcnN0eWxlcyUyMG9uJTIwZGFyayUyMHNraW58ZW58MXwxfHx8MTc4MDg3MzIwOXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1765607476376-9574ea76b2ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8U2VuZWdhbGVzZSUyMHR3aXN0JTIwaGFpcnN0eWxlcyUyMG9uJTIwZGFyayUyMHNraW58ZW58MXwxfHx8MTc4MDg3MzIwOXww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1765607476376-9574ea76b2ee?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8U2VuZWdhbGVzZSUyMHR3aXN0JTIwaGFpcnN0eWxlcyUyMG9uJTIwZGFyayUyMHNraW58ZW58MXwxfHx8MTc4MDg3MzIwOXww&ixlib=rb-4.1.0&q=85",
-      "alt": "A young black woman with short hair gazes thoughtfully.",
-      "description": "",
-      "photographer": "Eze Joseph",
-      "photographer_url": "https://unsplash.com/@justbeingblythe",
-      "photo_url": "https://unsplash.com/photos/a-young-black-woman-with-short-hair-gazes-thoughtfully-AmLDjIBAEG8",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-07T23:00:02.814269+00:00"
     }
   ],
-  "updated_at": "2026-06-08T15:01:05.800119+00:00"
+  "updated_at": "2026-06-08T16:01:03.751581+00:00"
 }
