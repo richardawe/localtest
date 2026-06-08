@@ -1,6 +1,21 @@
 {
-  "summary": "Get ready to groove with the hottest hairstyles taking center stage, as we dive into today's top trending looks in Black and African women's hair!",
+  "summary": "Get ready to slay with today's hottest Black and African hair trends, featuring vibrant styles that are taking over the beauty scene right now!",
   "images": [
+    {
+      "id": "wiNBC--xhIo",
+      "url": "https://images.unsplash.com/photo-1773592615470-b91515d83a38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNnx8TG9jcyUyMGFuZCUyMGRyZWFkbG9ja3MlMjBvbiUyMGRhcmslMjBza2lufGVufDF8MXx8fDE3ODA4OTEyMzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1773592615470-b91515d83a38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNnx8TG9jcyUyMGFuZCUyMGRyZWFkbG9ja3MlMjBvbiUyMGRhcmslMjBza2lufGVufDF8MXx8fDE3ODA4OTEyMzF8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1773592615470-b91515d83a38?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNnx8TG9jcyUyMGFuZCUyMGRyZWFkbG9ja3MlMjBvbiUyMGRhcmslMjBza2lufGVufDF8MXx8fDE3ODA4OTEyMzF8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "Woman with glitter makeup and dreadlocks smiles.",
+      "description": "loving a narcissist",
+      "photographer": "IRIS AVI",
+      "photographer_url": "https://unsplash.com/@irisavi",
+      "photo_url": "https://unsplash.com/photos/woman-with-glitter-makeup-and-dreadlocks-smiles-wiNBC--xhIo",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-08T04:00:09.479145+00:00"
+    },
     {
       "id": "bOe09rJ89-Q",
       "url": "https://images.unsplash.com/photo-1757866332790-9deebc8b69de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8QWZybyUyMHRleHR1cmVkJTIwY29ybnJvd3MlMjBmb3IlMjBwcm90ZWN0aXZlJTIwY2FyZXxlbnwxfDF8fHwxNzgwODg3NjQzfDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-07T15:00:06.046726+00:00"
-    },
-    {
-      "id": "4c-wxrZMFsY",
-      "url": "https://images.unsplash.com/photo-1613730318129-bf0ca2a12364?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNnx8TmF0dXJhbCUyMEFmcm8lMjBIYWlyc3R5bGVzJTIwQmxhY2slMjBXb21hbiUyMENsb3NlJTIwVXB8ZW58MXwxfHx8MTc4MDg0MDgwOXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1613730318129-bf0ca2a12364?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNnx8TmF0dXJhbCUyMEFmcm8lMjBIYWlyc3R5bGVzJTIwQmxhY2slMjBXb21hbiUyMENsb3NlJTIwVXB8ZW58MXwxfHx8MTc4MDg0MDgwOXww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1613730318129-bf0ca2a12364?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNnx8TmF0dXJhbCUyMEFmcm8lMjBIYWlyc3R5bGVzJTIwQmxhY2slMjBXb21hbiUyMENsb3NlJTIwVXB8ZW58MXwxfHx8MTc4MDg0MDgwOXww&ixlib=rb-4.1.0&q=85",
-      "alt": "woman with black curly hair",
-      "description": "",
-      "photographer": "Gideon Hezekiah",
-      "photographer_url": "https://unsplash.com/@gideonhezekiah",
-      "photo_url": "https://unsplash.com/photos/woman-with-black-curly-hair-4c-wxrZMFsY",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-07T14:00:07.552472+00:00"
     }
   ],
-  "updated_at": "2026-06-08T03:01:26.333679+00:00"
+  "updated_at": "2026-06-08T04:01:06.487694+00:00"
 }
