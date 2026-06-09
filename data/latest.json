@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with today's hottest hairstyles, featuring the most inspiring and trendy looks from Black and African women around the world right now!",
   "images": [
+    {
+      "id": "0OH3BthuU_E",
+      "url": "https://images.unsplash.com/photo-1653375484049-77ba7d034ed5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8TG9jcyUyMERyZWFkbG9ja3MlMjBOYXR1cmFsJTIwQmxhY2slMjBIYWlyc3R5bGUlMjBQaG90b3N8ZW58MXwxfHx8MTc4MTAyNDUyNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1653375484049-77ba7d034ed5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8TG9jcyUyMERyZWFkbG9ja3MlMjBOYXR1cmFsJTIwQmxhY2slMjBIYWlyc3R5bGUlMjBQaG90b3N8ZW58MXwxfHx8MTc4MTAyNDUyNnww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1653375484049-77ba7d034ed5?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8TG9jcyUyMERyZWFkbG9ja3MlMjBOYXR1cmFsJTIwQmxhY2slMjBIYWlyc3R5bGUlMjBQaG90b3N8ZW58MXwxfHx8MTc4MTAyNDUyNnww&ixlib=rb-4.1.0&q=85",
+      "alt": "a woman with dreadlocks standing in front of a wall",
+      "description": "",
+      "photographer": "Frankie Cordoba",
+      "photographer_url": "https://unsplash.com/@noorvoux",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-dreadlocks-standing-in-front-of-a-wall-0OH3BthuU_E",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-09T17:00:07.963295+00:00"
+    },
     {
       "id": "7YFBNMIFtBc",
       "url": "https://images.unsplash.com/photo-1779708184081-f50db56fd22a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxXb21lbiUyMHdpdGglMjBGdWxhbmklMjBCcmFpZHMlMjBpbiUyMFB1YmxpY3xlbnwxfDF8fHwxNzgxMDEzNjA4fDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-09T04:00:07.260057+00:00"
-    },
-    {
-      "id": "S-7SjRQJL1Y",
-      "url": "https://images.unsplash.com/photo-1746190323174-ef20e76e0197?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8QWZyaWNhbiUyMFdvbWVuJTIwV2VhcmluZyUyMERyZWFkbG9ja3MlMjBpbiUyMFB1YmxpY3xlbnwxfDF8fHwxNzgwOTc3NjQxfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1746190323174-ef20e76e0197?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8QWZyaWNhbiUyMFdvbWVuJTIwV2VhcmluZyUyMERyZWFkbG9ja3MlMjBpbiUyMFB1YmxpY3xlbnwxfDF8fHwxNzgwOTc3NjQxfDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1746190323174-ef20e76e0197?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8QWZyaWNhbiUyMFdvbWVuJTIwV2VhcmluZyUyMERyZWFkbG9ja3MlMjBpbiUyMFB1YmxpY3xlbnwxfDF8fHwxNzgwOTc3NjQxfDA&ixlib=rb-4.1.0&q=85",
-      "alt": "Young woman with braided hair in striped shirt",
-      "description": "Girl Wearing Stripped T-shirt",
-      "photographer": "proudlyswazi",
-      "photographer_url": "https://unsplash.com/@proudlyswazi",
-      "photo_url": "https://unsplash.com/photos/young-woman-with-braided-hair-in-striped-shirt-S-7SjRQJL1Y",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-09T04:00:07.260057+00:00"
     }
   ],
-  "updated_at": "2026-06-09T16:00:54.747963+00:00"
+  "updated_at": "2026-06-09T17:02:55.430889+00:00"
 }
