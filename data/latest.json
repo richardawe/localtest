@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready for a vibrant journey as we dive into today's most stylish and empowering Black and African women's hair trends, straight from the continent to the globe!",
   "images": [
+    {
+      "id": "POBPq004Epo",
+      "url": "https://images.unsplash.com/photo-1775443601700-c37ad05544f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8VGVlbmllJTIwV2VlbmllJTIwQWZyb3MlMjBvbiUyMFlvdW5nJTIwV29tZW58ZW58MXwxfHx8MTc4MDk5MjAxNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1775443601700-c37ad05544f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8VGVlbmllJTIwV2VlbmllJTIwQWZyb3MlMjBvbiUyMFlvdW5nJTIwV29tZW58ZW58MXwxfHx8MTc4MDk5MjAxNnww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1775443601700-c37ad05544f8?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8VGVlbmllJTIwV2VlbmllJTIwQWZyb3MlMjBvbiUyMFlvdW5nJTIwV29tZW58ZW58MXwxfHx8MTc4MDk5MjAxNnww&ixlib=rb-4.1.0&q=85",
+      "alt": "Young woman in red shirt with braided hair",
+      "description": "",
+      "photographer": "Michael Kyule",
+      "photographer_url": "https://unsplash.com/@madness_leahcim_",
+      "photo_url": "https://unsplash.com/photos/young-woman-in-red-shirt-with-braided-hair-POBPq004Epo",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-09T08:00:05.089212+00:00"
+    },
     {
       "id": "ApZkeVyvudk",
       "url": "https://images.unsplash.com/photo-1779561259777-87823ba85e24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8QWZyaWNhbiUyMHdvbWVuJTIwd2l0aCUyMGRyZWFkbG9ja2VkJTIwbG9jcyUyMGFuZCUyMGJlYXJkc3xlbnwxfDF8fHwxNzgwOTg0ODI5fDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-08T20:00:07.409762+00:00"
-    },
-    {
-      "id": "MXsuQMTl7og",
-      "url": "https://images.unsplash.com/photo-1757597738197-eb85168591bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMHx8UmVsYXhlZCUyMHBlcm1lZCUyMGhhaXIlMjBvbiUyMG1hdHVyZSUyMHdvbWFufGVufDF8MXx8fDE3ODA5NDUzMjJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1757597738197-eb85168591bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMHx8UmVsYXhlZCUyMHBlcm1lZCUyMGhhaXIlMjBvbiUyMG1hdHVyZSUyMHdvbWFufGVufDF8MXx8fDE3ODA5NDUzMjJ8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1757597738197-eb85168591bc?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMHx8UmVsYXhlZCUyMHBlcm1lZCUyMGhhaXIlMjBvbiUyMG1hdHVyZSUyMHdvbWFufGVufDF8MXx8fDE3ODA5NDUzMjJ8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "Black and white portrait of a woman with curly hair.",
-      "description": "",
-      "photographer": "Daniel Manta",
-      "photographer_url": "https://unsplash.com/@1dmanta",
-      "photo_url": "https://unsplash.com/photos/black-and-white-portrait-of-a-woman-with-curly-hair-MXsuQMTl7og",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-08T19:00:04.613457+00:00"
     }
   ],
-  "updated_at": "2026-06-09T07:00:58.045655+00:00"
+  "updated_at": "2026-06-09T08:00:58.768475+00:00"
 }
