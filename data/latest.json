@@ -1,6 +1,21 @@
 {
-  "summary": "Get ready to vibe with the most on-point styles as we dish out the freshest Black and African women's hair trends of the moment!",
+  "summary": "Get ready to be inspired by the vibrant styles of today's featured Black and African women's hair trends that are taking over social media platforms!",
   "images": [
+    {
+      "id": "8sq_dpQj8Vc",
+      "url": "https://images.unsplash.com/photo-1763840418732-b8aab5e2b026?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw1fHxQcmVzcyUyMGFuZCUyMEN1cmwlMjBmb3IlMjBTbGF5aW5nJTIwTG9va3xlbnwxfDF8fHwxNzgwOTc0MDMyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1763840418732-b8aab5e2b026?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw1fHxQcmVzcyUyMGFuZCUyMEN1cmwlMjBmb3IlMjBTbGF5aW5nJTIwTG9va3xlbnwxfDF8fHwxNzgwOTc0MDMyfDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1763840418732-b8aab5e2b026?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw1fHxQcmVzcyUyMGFuZCUyMEN1cmwlMjBmb3IlMjBTbGF5aW5nJTIwTG9va3xlbnwxfDF8fHwxNzgwOTc0MDMyfDA&ixlib=rb-4.1.0&q=85",
+      "alt": "Young black woman with braided hair smiling outdoors",
+      "description": "",
+      "photographer": "Henry Ambele",
+      "photographer_url": "https://unsplash.com/@henryambele",
+      "photo_url": "https://unsplash.com/photos/young-black-woman-with-braided-hair-smiling-outdoors-8sq_dpQj8Vc",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-09T03:00:07.593189+00:00"
+    },
     {
       "id": "wXT0ZXfVvaQ",
       "url": "https://images.unsplash.com/photo-1777428411797-b0629c51eb38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8QWZyaWNhbiUyMEFtZXJpY2FuJTIwd29tYW4lMjB3aXRoJTIwcHJlc3MlMjBhbmQlMjBjdXJsfGVufDF8MXx8fDE3ODA5NzA0MzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-08T15:00:03.396038+00:00"
-    },
-    {
-      "id": "sS0uZSJyits",
-      "url": "https://images.unsplash.com/photo-1585707694552-a79d73bc11b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzfHxXb21lbiUyMHdpdGglMjBib3glMjBicmFpZHMlMjBhbmQlMjBtYWtldXB8ZW58MXwxfHx8MTc4MDkyNzIyNnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1585707694552-a79d73bc11b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzfHxXb21lbiUyMHdpdGglMjBib3glMjBicmFpZHMlMjBhbmQlMjBtYWtldXB8ZW58MXwxfHx8MTc4MDkyNzIyNnww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1585707694552-a79d73bc11b7?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzfHxXb21lbiUyMHdpdGglMjBib3glMjBicmFpZHMlMjBhbmQlMjBtYWtldXB8ZW58MXwxfHx8MTc4MDkyNzIyNnww&ixlib=rb-4.1.0&q=85",
-      "alt": "woman in black spaghetti strap top wearing pink and white floral head dress",
-      "description": "",
-      "photographer": "princess",
-      "photographer_url": "https://unsplash.com/@princessolan",
-      "photo_url": "https://unsplash.com/photos/woman-in-black-spaghetti-strap-top-wearing-pink-and-white-floral-head-dress-sS0uZSJyits",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-08T14:00:06.484193+00:00"
     }
   ],
-  "updated_at": "2026-06-09T02:01:07.762203+00:00"
+  "updated_at": "2026-06-09T03:01:15.292701+00:00"
 }
