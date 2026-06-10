@@ -1,6 +1,21 @@
 {
-  "summary": "Get ready to slay with today's top Black and African women's hair trends, featuring bold styles that are currently taking over the beauty scene!",
+  "summary": "Get ready to slay with our spotlight on the hottest Black and African women's hair trends of the moment - straight from the streets of Africa to the world!",
   "images": [
+    {
+      "id": "__dOVna1kyc",
+      "url": "https://images.unsplash.com/photo-1770113810023-21a13916e7d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxUZWVuaWUlMjB3ZWVuaWUlMjBhZnJvJTIwY2xvc2UlMjB1cCUyMHNob3RzfGVufDF8MXx8fDE3ODExMTQ0NDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1770113810023-21a13916e7d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxUZWVuaWUlMjB3ZWVuaWUlMjBhZnJvJTIwY2xvc2UlMjB1cCUyMHNob3RzfGVufDF8MXx8fDE3ODExMTQ0NDh8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1770113810023-21a13916e7d2?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxUZWVuaWUlMjB3ZWVuaWUlMjBhZnJvJTIwY2xvc2UlMjB1cCUyMHNob3RzfGVufDF8MXx8fDE3ODExMTQ0NDh8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "Young woman with afro holding a lollipop",
+      "description": "",
+      "photographer": "Cleopas Monbest",
+      "photographer_url": "https://unsplash.com/@monbestmedia",
+      "photo_url": "https://unsplash.com/photos/young-woman-with-afro-holding-a-lollipop-__dOVna1kyc",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-10T18:00:03.817219+00:00"
+    },
     {
       "id": "aGI38HFywDE",
       "url": "https://images.unsplash.com/photo-1602420028354-acadf9095ebe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8TmF0dXJhbCUyMEFmcm8lMjBCbGFjayUyMFdvbWFuJTIwQ2xvc2UlMjBVcHxlbnwxfDF8fHwxNzgxMTEwODM2fDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-10T00:00:08.978332+00:00"
-    },
-    {
-      "id": "AxUaovNjWDE",
-      "url": "https://images.unsplash.com/photo-1764724783203-9f8a03f891f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8VFdBJTIwVGVlbmllJTIwV2VlbmllJTIwQWZyb3MlMjBpbiUyMFN0dWRpb3xlbnwxfDF8fHwxNzgxMDQ5NjU2fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1764724783203-9f8a03f891f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8VFdBJTIwVGVlbmllJTIwV2VlbmllJTIwQWZyb3MlMjBpbiUyMFN0dWRpb3xlbnwxfDF8fHwxNzgxMDQ5NjU2fDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1764724783203-9f8a03f891f7?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8VFdBJTIwVGVlbmllJTIwV2VlbmllJTIwQWZyb3MlMjBpbiUyMFN0dWRpb3xlbnwxfDF8fHwxNzgxMDQ5NjU2fDA&ixlib=rb-4.1.0&q=85",
-      "alt": "A young person with dreadlocks sits in a chair.",
-      "description": "",
-      "photographer": "Ropa",
-      "photographer_url": "https://unsplash.com/@personofnote",
-      "photo_url": "https://unsplash.com/photos/a-young-person-with-dreadlocks-sits-in-a-chair-AxUaovNjWDE",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-10T00:00:08.978332+00:00"
     }
   ],
-  "updated_at": "2026-06-10T17:01:15.661661+00:00"
+  "updated_at": "2026-06-10T18:01:22.023615+00:00"
 }
