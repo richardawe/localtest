@@ -1,6 +1,21 @@
 {
-  "summary": "Get ready to slay with today's freshest hairstyles, featuring Afro-futuristic braids, sleek box bobs, and vibrant dreadlocks that are taking over the beauty scene!",
+  "summary": "Get ready to slay with this month's hottest hair trends, showcasing vibrant styles from Africa and the diaspora that are taking over social media!",
   "images": [
+    {
+      "id": "Gj4o-pYi1pc",
+      "url": "https://images.unsplash.com/photo-1679287145085-5f0d3f9f4438?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8Q2xvc2UtdXAlMjBCb3glMjBCcmFpZHMlMjBCbGFjayUyMEhhaXJjYXJlJTIwUm91dGluZXxlbnwxfDF8fHwxNzgxMDUzMjIyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1679287145085-5f0d3f9f4438?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8Q2xvc2UtdXAlMjBCb3glMjBCcmFpZHMlMjBCbGFjayUyMEhhaXJjYXJlJTIwUm91dGluZXxlbnwxfDF8fHwxNzgxMDUzMjIyfDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1679287145085-5f0d3f9f4438?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8Q2xvc2UtdXAlMjBCb3glMjBCcmFpZHMlMjBCbGFjayUyMEhhaXJjYXJlJTIwUm91dGluZXxlbnwxfDF8fHwxNzgxMDUzMjIyfDA&ixlib=rb-4.1.0&q=85",
+      "alt": "a close up of a person with dreadlocks",
+      "description": "",
+      "photographer": "Yvan Niyonzima",
+      "photographer_url": "https://unsplash.com/@yvanniyonzima",
+      "photo_url": "https://unsplash.com/photos/a-close-up-of-a-person-with-dreadlocks-Gj4o-pYi1pc",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-10T01:00:08.334864+00:00"
+    },
     {
       "id": "gYNh40_XrGk",
       "url": "https://images.unsplash.com/photo-1714667156704-38240d998c09?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8V2VhdmUlMjBFeHRlbnNpb25zJTIwZm9yJTIwTG9uZyUyMEJsYWNrJTIwQWZyb3xlbnwxfDF8fHwxNzgxMDQ5NjI0fDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-09T11:00:06.129927+00:00"
-    },
-    {
-      "id": "rltN2NMmAdI",
-      "url": "https://images.unsplash.com/photo-1714617006549-a2cf4c9607e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8U2VuZWdhbGVzZSUyMHR3aXN0cyUyMHByb3RlY3RpdmUlMjBzdHlsZSUyMHBob3Rvc2hvb3R8ZW58MXwxfHx8MTc4MDk5OTI0M3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1714617006549-a2cf4c9607e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8U2VuZWdhbGVzZSUyMHR3aXN0cyUyMHByb3RlY3RpdmUlMjBzdHlsZSUyMHBob3Rvc2hvb3R8ZW58MXwxfHx8MTc4MDk5OTI0M3ww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1714617006549-a2cf4c9607e7?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8U2VuZWdhbGVzZSUyMHR3aXN0cyUyMHByb3RlY3RpdmUlMjBzdHlsZSUyMHBob3Rvc2hvb3R8ZW58MXwxfHx8MTc4MDk5OTI0M3ww&ixlib=rb-4.1.0&q=85",
-      "alt": "a woman with braids and a white shirt",
-      "description": "",
-      "photographer": "Stephen Tettey Atsu",
-      "photographer_url": "https://unsplash.com/@atsu_tettey",
-      "photo_url": "https://unsplash.com/photos/a-woman-with-braids-and-a-white-shirt-rltN2NMmAdI",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-09T10:00:07.023013+00:00"
     }
   ],
-  "updated_at": "2026-06-10T00:03:14.670575+00:00"
+  "updated_at": "2026-06-10T01:01:18.090845+00:00"
 }
