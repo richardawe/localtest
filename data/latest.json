@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with our latest showcase of sizzling hairstyles from Africa and beyond, featuring the hottest trends taking over the globe right now!",
   "images": [
+    {
+      "id": "IkP0h-2IYZU",
+      "url": "https://images.unsplash.com/photo-1773921637520-fa316745bfa3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8QWZyaWNhbiUyMHdvbWVuJTIwZ29kZGVzcyUyMGJyYWlkcyUyMGFydGlzdGljJTIwcGhvdG9ncmFwaHklMjBpZGVhc3xlbnwxfDF8fHwxNzgxMTAwMDUxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1773921637520-fa316745bfa3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8QWZyaWNhbiUyMHdvbWVuJTIwZ29kZGVzcyUyMGJyYWlkcyUyMGFydGlzdGljJTIwcGhvdG9ncmFwaHklMjBpZGVhc3xlbnwxfDF8fHwxNzgxMTAwMDUxfDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1773921637520-fa316745bfa3?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8QWZyaWNhbiUyMHdvbWVuJTIwZ29kZGVzcyUyMGJyYWlkcyUyMGFydGlzdGljJTIwcGhvdG9ncmFwaHklMjBpZGVhc3xlbnwxfDF8fHwxNzgxMTAwMDUxfDA&ixlib=rb-4.1.0&q=85",
+      "alt": "Young woman with braided hair in a field",
+      "description": "",
+      "photographer": "K Studios",
+      "photographer_url": "https://unsplash.com/@kstudios",
+      "photo_url": "https://unsplash.com/photos/young-woman-with-braided-hair-in-a-field-IkP0h-2IYZU",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-10T14:00:06.755612+00:00"
+    },
     {
       "id": "6SOfRWeybiQ",
       "url": "https://images.unsplash.com/photo-1604077969015-569b97dfae36?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNnx8QmxvbmRlJTIwRXh0ZW5zaW9ucyUyMG9uJTIwYSUyMERhcmslMjBTa2lubmVkfGVufDF8MXx8fDE3ODEwOTI4NDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-09T22:00:06.594068+00:00"
-    },
-    {
-      "id": "j0sAxyYeX7g",
-      "url": "https://images.unsplash.com/photo-1712821125599-5966b35c0aa1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8UHJlc3NlZCUyMGFuZCUyMGN1cmxlZCUyMG5hdHVyYWwlMjBCbGFjayUyMGhhaXJ8ZW58MXwxfHx8MTc4MTA0MjU2NXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1712821125599-5966b35c0aa1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8UHJlc3NlZCUyMGFuZCUyMGN1cmxlZCUyMG5hdHVyYWwlMjBCbGFjayUyMGhhaXJ8ZW58MXwxfHx8MTc4MTA0MjU2NXww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1712821125599-5966b35c0aa1?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8UHJlc3NlZCUyMGFuZCUyMGN1cmxlZCUyMG5hdHVyYWwlMjBCbGFjayUyMGhhaXJ8ZW58MXwxfHx8MTc4MTA0MjU2NXww&ixlib=rb-4.1.0&q=85",
-      "alt": "a woman with an afro is posing for a picture",
-      "description": "Style",
-      "photographer": "Godfred Kwakye",
-      "photographer_url": "https://unsplash.com/@creativekg",
-      "photo_url": "https://unsplash.com/photos/a-woman-with-an-afro-is-posing-for-a-picture-j0sAxyYeX7g",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-09T22:00:06.594068+00:00"
     }
   ],
-  "updated_at": "2026-06-10T13:01:15.930342+00:00"
+  "updated_at": "2026-06-10T14:01:28.894594+00:00"
 }
