@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready for a vibrant showcase of the most trending hairstyles among Black and African women, straight from the streets to the runways!",
   "images": [
+    {
+      "id": "01hjEW7Hc-8",
+      "url": "https://images.unsplash.com/photo-1760908787110-94a285ab1f58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8RnVsYW5pJTIwYnJhaWRzJTIwdHJhZGl0aW9uYWwlMjBoYWlyc3R5bGVzJTIwb2YlMjBOaWdlcmlhfGVufDF8MXx8fDE3ODEwNjc2NDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1760908787110-94a285ab1f58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8RnVsYW5pJTIwYnJhaWRzJTIwdHJhZGl0aW9uYWwlMjBoYWlyc3R5bGVzJTIwb2YlMjBOaWdlcmlhfGVufDF8MXx8fDE3ODEwNjc2NDR8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1760908787110-94a285ab1f58?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8RnVsYW5pJTIwYnJhaWRzJTIwdHJhZGl0aW9uYWwlMjBoYWlyc3R5bGVzJTIwb2YlMjBOaWdlcmlhfGVufDF8MXx8fDE3ODEwNjc2NDR8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "A young woman with a headscarf and jewelry",
+      "description": "An intimate and powerful black and white close-up portrait of a beautiful young woman. She wears a patterned headwrap, a distinctive triangular earring, and a delicate nose ring. Her direct gaze and pursed lips create a compelling, soulful, and confident expression, making for a timeless and artistic photograph that highlights her striking features.",
+      "photographer": "Theresa Ude",
+      "photographer_url": "https://unsplash.com/@theresaude",
+      "photo_url": "https://unsplash.com/photos/a-young-woman-with-a-headscarf-and-jewelry-01hjEW7Hc-8",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-10T05:00:04.530009+00:00"
+    },
     {
       "id": "nay2RMsW0xI",
       "url": "https://images.unsplash.com/photo-1587995428098-8eb81d66513d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8UmVsYXhlZCUyMFBlcm1lZCUyMEhhaXIlMjBvbiUyMEJsYWNrJTIwRmVtYWxlfGVufDF8MXx8fDE3ODEwNjA0MjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-09T17:00:07.963295+00:00"
-    },
-    {
-      "id": "7YFBNMIFtBc",
-      "url": "https://images.unsplash.com/photo-1779708184081-f50db56fd22a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxXb21lbiUyMHdpdGglMjBGdWxhbmklMjBCcmFpZHMlMjBpbiUyMFB1YmxpY3xlbnwxfDF8fHwxNzgxMDEzNjA4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1779708184081-f50db56fd22a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxXb21lbiUyMHdpdGglMjBGdWxhbmklMjBCcmFpZHMlMjBpbiUyMFB1YmxpY3xlbnwxfDF8fHwxNzgxMDEzNjA4fDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1779708184081-f50db56fd22a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxXb21lbiUyMHdpdGglMjBGdWxhbmklMjBCcmFpZHMlMjBpbiUyMFB1YmxpY3xlbnwxfDF8fHwxNzgxMDEzNjA4fDA&ixlib=rb-4.1.0&q=85",
-      "alt": "Pink braided hair in a city square with rainbow flags.",
-      "description": "A figure with bright pink braids stands in the square as rainbow flags catch the wind across the Belle Époque façades.",
-      "photographer": "Leon Jacobs",
-      "photographer_url": "https://unsplash.com/@leonlikethewind",
-      "photo_url": "https://unsplash.com/photos/pink-braided-hair-in-a-city-square-with-rainbow-flags-7YFBNMIFtBc",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-09T14:00:07.099324+00:00"
     }
   ],
-  "updated_at": "2026-06-10T04:01:13.828590+00:00"
+  "updated_at": "2026-06-10T05:01:25.736104+00:00"
 }
