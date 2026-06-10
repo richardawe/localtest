@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to be blown away by this season's most vibrant, versatile, and unstoppable Black and African women's hair trends that are taking the world by storm!",
   "images": [
+    {
+      "id": "oN2KUOPt_4A",
+      "url": "https://images.unsplash.com/photo-1770113809695-290e5b86b2fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8VGVlbmllJTIwd2VlbmllJTIwYWZybyUyMGNsb3NlLXVwcyUyMHBob3RvZ3JhcGh5fGVufDF8MXx8fDE3ODEwODkyNTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1770113809695-290e5b86b2fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8VGVlbmllJTIwd2VlbmllJTIwYWZybyUyMGNsb3NlLXVwcyUyMHBob3RvZ3JhcGh5fGVufDF8MXx8fDE3ODEwODkyNTV8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1770113809695-290e5b86b2fd?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8VGVlbmllJTIwd2VlbmllJTIwYWZybyUyMGNsb3NlLXVwcyUyMHBob3RvZ3JhcGh5fGVufDF8MXx8fDE3ODEwODkyNTV8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "Woman with afro posing in light blue top and skirt.",
+      "description": "",
+      "photographer": "Cleopas Monbest",
+      "photographer_url": "https://unsplash.com/@monbestmedia",
+      "photo_url": "https://unsplash.com/photos/woman-with-afro-posing-in-light-blue-top-and-skirt-oN2KUOPt_4A",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-10T11:00:11.049193+00:00"
+    },
     {
       "id": "0qa6RuN9i2k",
       "url": "https://images.unsplash.com/photo-1732479554434-2e44ae574575?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8c2lzdGVybG9ja3MlMjBoYWlyc3R5bGVzJTIwZm9yJTIwc2hvcnQlMjBuYXR1cmFsJTIwaGFpcnxlbnwxfDF8fHwxNzgxMDgyMDIyfDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-09T19:00:07.667581+00:00"
-    },
-    {
-      "id": "XQsevEXoFFo",
-      "url": "https://images.unsplash.com/photo-1765560216325-e9dcf84ac25c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8QmxhY2slMjB3b21lbiUyMHdpdGglMjBsb2NzJTIwaW4lMjBuYXR1cmV8ZW58MXwxfHx8MTc4MTAzMTYxNXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1765560216325-e9dcf84ac25c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8QmxhY2slMjB3b21lbiUyMHdpdGglMjBsb2NzJTIwaW4lMjBuYXR1cmV8ZW58MXwxfHx8MTc4MTAzMTYxNXww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1765560216325-e9dcf84ac25c?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8QmxhY2slMjB3b21lbiUyMHdpdGglMjBsb2NzJTIwaW4lMjBuYXR1cmV8ZW58MXwxfHx8MTc4MTAzMTYxNXww&ixlib=rb-4.1.0&q=85",
-      "alt": "Woman with dreadlocks touching her hair outdoors",
-      "description": "",
-      "photographer": "Michael Kyule",
-      "photographer_url": "https://unsplash.com/@madness_leahcim_",
-      "photo_url": "https://unsplash.com/photos/woman-with-dreadlocks-touching-her-hair-outdoors-XQsevEXoFFo",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-09T19:00:07.667581+00:00"
     }
   ],
-  "updated_at": "2026-06-10T10:01:17.964844+00:00"
+  "updated_at": "2026-06-10T11:01:24.141729+00:00"
 }
