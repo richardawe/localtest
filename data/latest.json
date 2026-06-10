@@ -1,6 +1,36 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with the most on-trend styles from our favorite Black and African beauty influencers, showcasing vibrant looks that are taking over the hair scene!",
   "images": [
+    {
+      "id": "aQMHNzVhZ1E",
+      "url": "https://images.unsplash.com/photo-1778208721471-bc02f37fb1ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8TmF0dXJhbCUyMGhhaXIlMjBjb3Jucm93cyUyMGRlc2lnbnMlMjBpbnNwaXJhdGlvbiUyMHBpY3R1cmVzfGVufDF8MXx8fDE3ODExMjUyMzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1778208721471-bc02f37fb1ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8TmF0dXJhbCUyMGhhaXIlMjBjb3Jucm93cyUyMGRlc2lnbnMlMjBpbnNwaXJhdGlvbiUyMHBpY3R1cmVzfGVufDF8MXx8fDE3ODExMjUyMzB8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1778208721471-bc02f37fb1ee?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8TmF0dXJhbCUyMGhhaXIlMjBjb3Jucm93cyUyMGRlc2lnbnMlMjBpbnNwaXJhdGlvbiUyMHBpY3R1cmVzfGVufDF8MXx8fDE3ODExMjUyMzB8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "Woman with braided hair wearing a fur coat",
+      "description": "",
+      "photographer": "olaniyan oluwapelumi",
+      "photographer_url": "https://unsplash.com/@lumigraphy",
+      "photo_url": "https://unsplash.com/photos/woman-with-braided-hair-wearing-a-fur-coat-aQMHNzVhZ1E",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-10T21:00:03.405293+00:00"
+    },
+    {
+      "id": "DiHAa625zF8",
+      "url": "https://images.unsplash.com/photo-1635159784579-18905cf0124f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzfHxCbGFjayUyMGdpcmxzJTIwd2l0aCUyMG5hdHVyYWwlMjBhZnJvcyUyMHBob3RvZ3JhcGh5fGVufDF8MXx8fDE3ODExMjUyNDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1635159784579-18905cf0124f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzfHxCbGFjayUyMGdpcmxzJTIwd2l0aCUyMG5hdHVyYWwlMjBhZnJvcyUyMHBob3RvZ3JhcGh5fGVufDF8MXx8fDE3ODExMjUyNDl8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1635159784579-18905cf0124f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzfHxCbGFjayUyMGdpcmxzJTIwd2l0aCUyMG5hdHVyYWwlMjBhZnJvcyUyMHBob3RvZ3JhcGh5fGVufDF8MXx8fDE3ODExMjUyNDl8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "a close up of a person with dreadlocks",
+      "description": "",
+      "photographer": "Grâce Goubo",
+      "photographer_url": "https://unsplash.com/@graxe_ma",
+      "photo_url": "https://unsplash.com/photos/a-close-up-of-a-person-with-dreadlocks-DiHAa625zF8",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-10T21:00:03.405293+00:00"
+    },
     {
       "id": "zmUCOlrj4Aw",
       "url": "https://images.unsplash.com/photo-1771430908177-7cde60c1e070?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyfHxSZWxheGVkJTIwY3VybHklMjBoYWlyJTIwb24lMjB5b3VuZyUyMGJsYWNrfGVufDF8MXx8fDE3ODExMTgwMjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -270,37 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-10T00:00:08.978332+00:00"
-    },
-    {
-      "id": "LyZgEqGDuU4",
-      "url": "https://images.unsplash.com/photo-1775249297027-b1b6656c612c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxUV0ElMjBUZWVuaWUlMjBXZWVuaWUlMjBBZnJvcyUyMGluJTIwU3R1ZGlvfGVufDF8MXx8fDE3ODEwNDk2NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1775249297027-b1b6656c612c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxUV0ElMjBUZWVuaWUlMjBXZWVuaWUlMjBBZnJvcyUyMGluJTIwU3R1ZGlvfGVufDF8MXx8fDE3ODEwNDk2NTZ8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1775249297027-b1b6656c612c?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxUV0ElMjBUZWVuaWUlMjBXZWVuaWUlMjBBZnJvcyUyMGluJTIwU3R1ZGlvfGVufDF8MXx8fDE3ODEwNDk2NTZ8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "Young person with dreadlocks and jewelry on red background",
-      "description": "",
-      "photographer": "Ropa",
-      "photographer_url": "https://unsplash.com/@personofnote",
-      "photo_url": "https://unsplash.com/photos/young-person-with-dreadlocks-and-jewelry-on-red-background-LyZgEqGDuU4",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-10T00:00:08.978332+00:00"
-    },
-    {
-      "id": "ucW45o9T4DQ",
-      "url": "https://images.unsplash.com/photo-1768226760969-eac775562470?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw5fHxUV0ElMjBUZWVuaWUlMjBXZWVuaWUlMjBBZnJvcyUyMGluJTIwU3R1ZGlvfGVufDF8MXx8fDE3ODEwNDk2NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1768226760969-eac775562470?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw5fHxUV0ElMjBUZWVuaWUlMjBXZWVuaWUlMjBBZnJvcyUyMGluJTIwU3R1ZGlvfGVufDF8MXx8fDE3ODEwNDk2NTZ8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1768226760969-eac775562470?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw5fHxUV0ElMjBUZWVuaWUlMjBXZWVuaWUlMjBBZnJvcyUyMGluJTIwU3R1ZGlvfGVufDF8MXx8fDE3ODEwNDk2NTZ8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "Woman with afro hair wearing white boots, holding lollipop.",
-      "description": "",
-      "photographer": "Cleopas Monbest",
-      "photographer_url": "https://unsplash.com/@monbestmedia",
-      "photo_url": "https://unsplash.com/photos/woman-with-afro-hair-wearing-white-boots-holding-lollipop-ucW45o9T4DQ",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-10T00:00:08.978332+00:00"
     }
   ],
-  "updated_at": "2026-06-10T20:01:08.738312+00:00"
+  "updated_at": "2026-06-10T21:01:18.917998+00:00"
 }
