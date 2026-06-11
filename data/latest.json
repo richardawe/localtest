@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with this season's boldest, most vibrant hairstyles that are currently making waves in the Black and African beauty scene!",
   "images": [
+    {
+      "id": "f59HyG3XkPc",
+      "url": "https://images.unsplash.com/photo-1711821652431-0ae660d98f64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8Q3JvY2hldCUyMGJyYWlkcyUyMG9uJTIwQmxhY2slMjB3b21lbiUyN3MlMjBmYWNlc3xlbnwxfDF8fHwxNzgxMTcyMDA1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1711821652431-0ae660d98f64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8Q3JvY2hldCUyMGJyYWlkcyUyMG9uJTIwQmxhY2slMjB3b21lbiUyN3MlMjBmYWNlc3xlbnwxfDF8fHwxNzgxMTcyMDA1fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1711821652431-0ae660d98f64?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8Q3JvY2hldCUyMGJyYWlkcyUyMG9uJTIwQmxhY2slMjB3b21lbiUyN3MlMjBmYWNlc3xlbnwxfDF8fHwxNzgxMTcyMDA1fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "a woman with dreadlocks laying on a bed",
+      "description": "African Lady Portrait",
+      "photographer": "150 Billi",
+      "photographer_url": "https://unsplash.com/@150billi",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-dreadlocks-laying-on-a-bed-f59HyG3XkPc",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-11T10:00:05.243950+00:00"
+    },
     {
       "id": "6EvUrguVz7s",
       "url": "https://images.unsplash.com/photo-1760907949889-eb62b7fd9f75?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8V2VhdmVzJTIwYW5kJTIwZXh0ZW5zaW9ucyUyMGluJTIwQWZyaWNhbiUyMGN1bHR1cmV8ZW58MXwxfHx8MTc4MTE1MDQzN3ww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-10T12:00:09.418734+00:00"
-    },
-    {
-      "id": "oN2KUOPt_4A",
-      "url": "https://images.unsplash.com/photo-1770113809695-290e5b86b2fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8VGVlbmllJTIwd2VlbmllJTIwYWZybyUyMGNsb3NlLXVwcyUyMHBob3RvZ3JhcGh5fGVufDF8MXx8fDE3ODEwODkyNTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1770113809695-290e5b86b2fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8VGVlbmllJTIwd2VlbmllJTIwYWZybyUyMGNsb3NlLXVwcyUyMHBob3RvZ3JhcGh5fGVufDF8MXx8fDE3ODEwODkyNTV8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1770113809695-290e5b86b2fd?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8VGVlbmllJTIwd2VlbmllJTIwYWZybyUyMGNsb3NlLXVwcyUyMHBob3RvZ3JhcGh5fGVufDF8MXx8fDE3ODEwODkyNTV8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "Woman with afro posing in light blue top and skirt.",
-      "description": "",
-      "photographer": "Cleopas Monbest",
-      "photographer_url": "https://unsplash.com/@monbestmedia",
-      "photo_url": "https://unsplash.com/photos/woman-with-afro-posing-in-light-blue-top-and-skirt-oN2KUOPt_4A",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-10T11:00:11.049193+00:00"
     }
   ],
-  "updated_at": "2026-06-11T09:04:33.415005+00:00"
+  "updated_at": "2026-06-11T10:00:58.204057+00:00"
 }
