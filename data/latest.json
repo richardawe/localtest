@@ -1,6 +1,21 @@
 {
-  "summary": "Get ready to slay with our latest feature on the hottest current hair trends rocking the locks of Black and African women!",
+  "summary": "Get ready to slay with today's featured Black and African women's hair trends, showcasing vibrant styles that are taking the world by storm!",
   "images": [
+    {
+      "id": "kzyjC4k8rCM",
+      "url": "https://images.unsplash.com/photo-1698116522682-f5c454648d5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8UHJlc3MlMjBhbmQlMjBjdXJsJTIwb24lMjBBZnJvJTIwdGV4dHVyZWR8ZW58MXwxfHx8MTc4MTIxNTIzN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1698116522682-f5c454648d5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8UHJlc3MlMjBhbmQlMjBjdXJsJTIwb24lMjBBZnJvJTIwdGV4dHVyZWR8ZW58MXwxfHx8MTc4MTIxNTIzN3ww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1698116522682-f5c454648d5a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8UHJlc3MlMjBhbmQlMjBjdXJsJTIwb24lMjBBZnJvJTIwdGV4dHVyZWR8ZW58MXwxfHx8MTc4MTIxNTIzN3ww&ixlib=rb-4.1.0&q=85",
+      "alt": "a woman with an afro standing in front of a wall",
+      "description": "",
+      "photographer": "Stephen Tettey Atsu",
+      "photographer_url": "https://unsplash.com/@atsu_tettey",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-an-afro-standing-in-front-of-a-wall-kzyjC4k8rCM",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-11T22:00:10.486315+00:00"
+    },
     {
       "id": "mDPgAhnhGto",
       "url": "https://images.unsplash.com/photo-1773921637293-1c57d0324884?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8QWZyaWNhbiUyMFdvbWVuJTIwTG9jcyUyMERyZWFkbG9ja3MlMjBOYXR1cmFsJTIwQmVhdXR5fGVufDF8MXx8fDE3ODEyMTE2MTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-10T22:00:06.245990+00:00"
-    },
-    {
-      "id": "aQMHNzVhZ1E",
-      "url": "https://images.unsplash.com/photo-1778208721471-bc02f37fb1ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8TmF0dXJhbCUyMGhhaXIlMjBjb3Jucm93cyUyMGRlc2lnbnMlMjBpbnNwaXJhdGlvbiUyMHBpY3R1cmVzfGVufDF8MXx8fDE3ODExMjUyMzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1778208721471-bc02f37fb1ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8TmF0dXJhbCUyMGhhaXIlMjBjb3Jucm93cyUyMGRlc2lnbnMlMjBpbnNwaXJhdGlvbiUyMHBpY3R1cmVzfGVufDF8MXx8fDE3ODExMjUyMzB8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1778208721471-bc02f37fb1ee?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8TmF0dXJhbCUyMGhhaXIlMjBjb3Jucm93cyUyMGRlc2lnbnMlMjBpbnNwaXJhdGlvbiUyMHBpY3R1cmVzfGVufDF8MXx8fDE3ODExMjUyMzB8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "Woman with braided hair wearing a fur coat",
-      "description": "",
-      "photographer": "olaniyan oluwapelumi",
-      "photographer_url": "https://unsplash.com/@lumigraphy",
-      "photo_url": "https://unsplash.com/photos/woman-with-braided-hair-wearing-a-fur-coat-aQMHNzVhZ1E",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-10T21:00:03.405293+00:00"
     }
   ],
-  "updated_at": "2026-06-11T21:01:00.727747+00:00"
+  "updated_at": "2026-06-11T22:01:05.011542+00:00"
 }
