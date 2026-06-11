@@ -1,6 +1,36 @@
 {
-  "summary": "Get ready to slay with this season's boldest, most vibrant hairstyles that are currently making waves in the Black and African beauty scene!",
+  "summary": "Get ready to slay with today's featured Black and African hair trends, showcasing vibrant styles that are bold, beautiful, and currently trending everywhere!",
   "images": [
+    {
+      "id": "Av0LtkmiR18",
+      "url": "https://images.unsplash.com/photo-1683122804984-7c024b509487?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8QmxhY2slMjB3b21hbiUyMHdpdGglMjBib3glMjBicmFpZHMlMjBzbWlsaW5nfGVufDF8MXx8fDE3ODExNzU2MDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1683122804984-7c024b509487?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8QmxhY2slMjB3b21hbiUyMHdpdGglMjBib3glMjBicmFpZHMlMjBzbWlsaW5nfGVufDF8MXx8fDE3ODExNzU2MDV8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1683122804984-7c024b509487?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8QmxhY2slMjB3b21hbiUyMHdpdGglMjBib3glMjBicmFpZHMlMjBzbWlsaW5nfGVufDF8MXx8fDE3ODExNzU2MDV8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "a woman with braids smiling at the camera",
+      "description": "Smiling woman",
+      "photographer": "Michael Zadok",
+      "photographer_url": "https://unsplash.com/@michaelzadok",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-braids-smiling-at-the-camera-Av0LtkmiR18",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-11T11:00:05.269318+00:00"
+    },
+    {
+      "id": "wex9TYCGPBo",
+      "url": "https://images.unsplash.com/photo-1745070935046-aa6c9292f63a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8QmxhY2slMjB3b21hbiUyMHdpdGglMjBib3glMjBicmFpZHMlMjBzbWlsaW5nfGVufDF8MXx8fDE3ODExNzU2MDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1745070935046-aa6c9292f63a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8QmxhY2slMjB3b21hbiUyMHdpdGglMjBib3glMjBicmFpZHMlMjBzbWlsaW5nfGVufDF8MXx8fDE3ODExNzU2MDV8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1745070935046-aa6c9292f63a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8QmxhY2slMjB3b21hbiUyMHdpdGglMjBib3glMjBicmFpZHMlMjBzbWlsaW5nfGVufDF8MXx8fDE3ODExNzU2MDV8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "Smiling woman with glasses and long braids.",
+      "description": "",
+      "photographer": "JEaLiFe Pictures",
+      "photographer_url": "https://unsplash.com/@jealife_pictures",
+      "photo_url": "https://unsplash.com/photos/smiling-woman-with-glasses-and-long-braids-wex9TYCGPBo",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-11T11:00:05.269318+00:00"
+    },
     {
       "id": "f59HyG3XkPc",
       "url": "https://images.unsplash.com/photo-1711821652431-0ae660d98f64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8Q3JvY2hldCUyMGJyYWlkcyUyMG9uJTIwQmxhY2slMjB3b21lbiUyN3MlMjBmYWNlc3xlbnwxfDF8fHwxNzgxMTcyMDA1fDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -270,37 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-10T12:00:09.418734+00:00"
-    },
-    {
-      "id": "jFdhJoggdeQ",
-      "url": "https://images.unsplash.com/photo-1687364972604-77bfbd262c3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8QmxvbmRlJTIwRXh0ZW5zaW9ucyUyMG9uJTIwYSUyMERhcmslMjBTa2lubmVkfGVufDF8MXx8fDE3ODEwOTI4NDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1687364972604-77bfbd262c3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8QmxvbmRlJTIwRXh0ZW5zaW9ucyUyMG9uJTIwYSUyMERhcmslMjBTa2lubmVkfGVufDF8MXx8fDE3ODEwOTI4NDN8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1687364972604-77bfbd262c3e?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8QmxvbmRlJTIwRXh0ZW5zaW9ucyUyMG9uJTIwYSUyMERhcmslMjBTa2lubmVkfGVufDF8MXx8fDE3ODEwOTI4NDN8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "a woman with dreadlocks sitting in front of a plant",
-      "description": "Model in jungle",
-      "photographer": "Joseph Kellner",
-      "photographer_url": "https://unsplash.com/@jkellner",
-      "photo_url": "https://unsplash.com/photos/a-woman-with-dreadlocks-sitting-in-front-of-a-plant-jFdhJoggdeQ",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-10T12:00:09.418734+00:00"
-    },
-    {
-      "id": "4jlyO0LDQYU",
-      "url": "https://images.unsplash.com/photo-1770182023261-6d987dd2da38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8QmxvbmRlJTIwRXh0ZW5zaW9ucyUyMG9uJTIwYSUyMERhcmslMjBTa2lubmVkfGVufDF8MXx8fDE3ODEwOTI4NDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1770182023261-6d987dd2da38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8QmxvbmRlJTIwRXh0ZW5zaW9ucyUyMG9uJTIwYSUyMERhcmslMjBTa2lubmVkfGVufDF8MXx8fDE3ODEwOTI4NDN8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1770182023261-6d987dd2da38?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8QmxvbmRlJTIwRXh0ZW5zaW9ucyUyMG9uJTIwYSUyMERhcmslMjBTa2lubmVkfGVufDF8MXx8fDE3ODEwOTI4NDN8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "Young woman with braided hair stands near old cars.",
-      "description": "",
-      "photographer": "Michael Kyule",
-      "photographer_url": "https://unsplash.com/@madness_leahcim_",
-      "photo_url": "https://unsplash.com/photos/young-woman-with-braided-hair-stands-near-old-cars-4jlyO0LDQYU",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-10T12:00:09.418734+00:00"
     }
   ],
-  "updated_at": "2026-06-11T10:00:58.204057+00:00"
+  "updated_at": "2026-06-11T11:01:03.869592+00:00"
 }
