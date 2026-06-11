@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay your natural beauty, as we dive into the hottest hairstyles that are dominating the scene right now!",
   "images": [
+    {
+      "id": "6EvUrguVz7s",
+      "url": "https://images.unsplash.com/photo-1760907949889-eb62b7fd9f75?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8V2VhdmVzJTIwYW5kJTIwZXh0ZW5zaW9ucyUyMGluJTIwQWZyaWNhbiUyMGN1bHR1cmV8ZW58MXwxfHx8MTc4MTE1MDQzN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1760907949889-eb62b7fd9f75?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8V2VhdmVzJTIwYW5kJTIwZXh0ZW5zaW9ucyUyMGluJTIwQWZyaWNhbiUyMGN1bHR1cmV8ZW58MXwxfHx8MTc4MTE1MDQzN3ww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1760907949889-eb62b7fd9f75?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8V2VhdmVzJTIwYW5kJTIwZXh0ZW5zaW9ucyUyMGluJTIwQWZyaWNhbiUyMGN1bHR1cmV8ZW58MXwxfHx8MTc4MTE1MDQzN3ww&ixlib=rb-4.1.0&q=85",
+      "alt": "Young woman in a patterned dress smiles",
+      "description": "A series of authentic images capturing a beautiful young Nigerian woman in a rural setting. Dressed in vibrant traditional Ankara print fabric with her hair in a braided bun, she is seen cooking a meal in a large cast-iron pot over a traditional three-stone fire. Other images show her serene expressions and her strength as she carries a bucket on her head through a dry, grassy field. These photos celebrate African culture, heritage, resilience, and the simple joys of daily life.",
+      "photographer": "Theresa Ude",
+      "photographer_url": "https://unsplash.com/@theresaude",
+      "photo_url": "https://unsplash.com/photos/young-woman-in-a-patterned-dress-smiles-6EvUrguVz7s",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-11T04:00:07.015044+00:00"
+    },
     {
       "id": "PK0nKoDKPno",
       "url": "https://images.unsplash.com/photo-1663117172617-dada4103ecb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8YmxhY2slMjBhZnJpY2FuJTIwZ2lybHMlMjB3aXRoJTIwYm94JTIwYnJhaWRzfGVufDF8MXx8fDE3ODExMzYwMTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-10T11:00:11.049193+00:00"
-    },
-    {
-      "id": "0qa6RuN9i2k",
-      "url": "https://images.unsplash.com/photo-1732479554434-2e44ae574575?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8c2lzdGVybG9ja3MlMjBoYWlyc3R5bGVzJTIwZm9yJTIwc2hvcnQlMjBuYXR1cmFsJTIwaGFpcnxlbnwxfDF8fHwxNzgxMDgyMDIyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1732479554434-2e44ae574575?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8c2lzdGVybG9ja3MlMjBoYWlyc3R5bGVzJTIwZm9yJTIwc2hvcnQlMjBuYXR1cmFsJTIwaGFpcnxlbnwxfDF8fHwxNzgxMDgyMDIyfDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1732479554434-2e44ae574575?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8c2lzdGVybG9ja3MlMjBoYWlyc3R5bGVzJTIwZm9yJTIwc2hvcnQlMjBuYXR1cmFsJTIwaGFpcnxlbnwxfDF8fHwxNzgxMDgyMDIyfDA&ixlib=rb-4.1.0&q=85",
-      "alt": "A woman with dreadlocks and a black tank top",
-      "description": "",
-      "photographer": "Malama Mushitu",
-      "photographer_url": "https://unsplash.com/@ragnampiza",
-      "photo_url": "https://unsplash.com/photos/a-woman-with-dreadlocks-and-a-black-tank-top-0qa6RuN9i2k",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-10T09:00:07.974045+00:00"
     }
   ],
-  "updated_at": "2026-06-11T03:04:24.237389+00:00"
+  "updated_at": "2026-06-11T04:01:10.084473+00:00"
 }
