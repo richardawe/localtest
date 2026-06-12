@@ -1,6 +1,21 @@
 {
-  "summary": "Get ready to slay with today's hottest Black and African hair trends, showcasing bold styles that blend tradition with modern flair!",
+  "summary": "Get ready to slay the day with our spotlight on the latest, trendiest, and most empowering hairstyles of Black and African women right now!",
   "images": [
+    {
+      "id": "IXzSCAJ-lz4",
+      "url": "https://images.unsplash.com/photo-1721602328308-2b189b0fc3ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8QmVhdXRpZnVsJTIwQ29ybnJvd3MlMjBvbiUyMEJsYWNrJTIwYW5kJTIwQnJvd24lMjBTa2lufGVufDF8MXx8fDE3ODEyNTEzNDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1721602328308-2b189b0fc3ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8QmVhdXRpZnVsJTIwQ29ybnJvd3MlMjBvbiUyMEJsYWNrJTIwYW5kJTIwQnJvd24lMjBTa2lufGVufDF8MXx8fDE3ODEyNTEzNDZ8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1721602328308-2b189b0fc3ed?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8QmVhdXRpZnVsJTIwQ29ybnJvd3MlMjBvbiUyMEJsYWNrJTIwYW5kJTIwQnJvd24lMjBTa2lufGVufDF8MXx8fDE3ODEyNTEzNDZ8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman with braids looking up into the sky",
+      "description": "",
+      "photographer": "Stephen Tettey Atsu",
+      "photographer_url": "https://unsplash.com/@atsu_tettey",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-braids-looking-up-into-the-sky-IXzSCAJ-lz4",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-12T08:00:03.809491+00:00"
+    },
     {
       "id": "YOpW7lvK794",
       "url": "https://images.unsplash.com/photo-1654404886290-3d27a00bf4fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxM3x8V2VhdmUlMjBleHRlbnNpb25zJTIwb24lMjBjdXJseSUyMGRhcmslMjBicm93biUyMGhhaXJ8ZW58MXwxfHx8MTc4MTI0NDAzNXww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-11T00:00:07.698261+00:00"
-    },
-    {
-      "id": "hWUYHO7Wbhc",
-      "url": "https://images.unsplash.com/photo-1624978229553-a9e955b46fb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8YWZyaWNhbiUyMHdvbWVuJTIwd2l0aCUyMGNvcm5yb3dzJTIwaW4lMjBjcm93bnxlbnwxfDF8fHwxNzgxMTM2MDM4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1624978229553-a9e955b46fb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8YWZyaWNhbiUyMHdvbWVuJTIwd2l0aCUyMGNvcm5yb3dzJTIwaW4lMjBjcm93bnxlbnwxfDF8fHwxNzgxMTM2MDM4fDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1624978229553-a9e955b46fb5?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8YWZyaWNhbiUyMHdvbWVuJTIwd2l0aCUyMGNvcm5yb3dzJTIwaW4lMjBjcm93bnxlbnwxfDF8fHwxNzgxMTM2MDM4fDA&ixlib=rb-4.1.0&q=85",
-      "alt": "woman in black hijab and gold floral head dress",
-      "description": "",
-      "photographer": "Simi Iluyomade",
-      "photographer_url": "https://unsplash.com/@simisola",
-      "photo_url": "https://unsplash.com/photos/woman-in-black-hijab-and-gold-floral-head-dress-hWUYHO7Wbhc",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-11T00:00:07.698261+00:00"
     }
   ],
-  "updated_at": "2026-06-12T06:01:06.568058+00:00"
+  "updated_at": "2026-06-12T08:05:08.522106+00:00"
 }
