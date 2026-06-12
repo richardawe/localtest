@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with our top picks for this season's hottest Black and African women's hair trends that are taking the world by storm right now!",
   "images": [
+    {
+      "id": "KL0hbbjttP8",
+      "url": "https://images.unsplash.com/photo-1781274054513-6dad85ab6f20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8VFdBJTIwdGVlbmllJTIwd2VlbmllJTIwYWZybyUyMHBpY3R1cmVzJTIwbmF0dXJhbHxlbnwxfDF8fHwxNzgxMjk0NDIwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1781274054513-6dad85ab6f20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8VFdBJTIwdGVlbmllJTIwd2VlbmllJTIwYWZybyUyMHBpY3R1cmVzJTIwbmF0dXJhbHxlbnwxfDF8fHwxNzgxMjk0NDIwfDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1781274054513-6dad85ab6f20?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8VFdBJTIwdGVlbmllJTIwd2VlbmllJTIwYWZybyUyMHBpY3R1cmVzJTIwbmF0dXJhbHxlbnwxfDF8fHwxNzgxMjk0NDIwfDA&ixlib=rb-4.1.0&q=85",
+      "alt": "Woman with bantu knots, closed eyes, and hand on temple.",
+      "description": "",
+      "photographer": "Christian Agbede",
+      "photographer_url": "https://unsplash.com/@chriscreations__",
+      "photo_url": "https://unsplash.com/photos/woman-with-bantu-knots-closed-eyes-and-hand-on-temple-KL0hbbjttP8",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-12T20:00:06.020281+00:00"
+    },
     {
       "id": "zQ_80b76Z4M",
       "url": "https://images.unsplash.com/photo-1624278268360-cbcf1775a7e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8V2VhdmUlMjBFeHRlbnNpb25zJTIwb24lMjBBZnJpY2FuJTIwQW1lcmljYW4lMjBMYWR5fGVufDF8MXx8fDE3ODEyODcyNDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-12T01:00:05.613717+00:00"
-    },
-    {
-      "id": "kzyjC4k8rCM",
-      "url": "https://images.unsplash.com/photo-1698116522682-f5c454648d5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8UHJlc3MlMjBhbmQlMjBjdXJsJTIwb24lMjBBZnJvJTIwdGV4dHVyZWR8ZW58MXwxfHx8MTc4MTIxNTIzN3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1698116522682-f5c454648d5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8UHJlc3MlMjBhbmQlMjBjdXJsJTIwb24lMjBBZnJvJTIwdGV4dHVyZWR8ZW58MXwxfHx8MTc4MTIxNTIzN3ww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1698116522682-f5c454648d5a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8UHJlc3MlMjBhbmQlMjBjdXJsJTIwb24lMjBBZnJvJTIwdGV4dHVyZWR8ZW58MXwxfHx8MTc4MTIxNTIzN3ww&ixlib=rb-4.1.0&q=85",
-      "alt": "a woman with an afro standing in front of a wall",
-      "description": "",
-      "photographer": "Stephen Tettey Atsu",
-      "photographer_url": "https://unsplash.com/@atsu_tettey",
-      "photo_url": "https://unsplash.com/photos/a-woman-with-an-afro-standing-in-front-of-a-wall-kzyjC4k8rCM",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-11T22:00:10.486315+00:00"
     }
   ],
-  "updated_at": "2026-06-12T19:01:47.710441+00:00"
+  "updated_at": "2026-06-12T20:01:48.673751+00:00"
 }

@@ -420,6 +420,21 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-12T18:00:06.728133+00:00"
+    },
+    {
+      "id": "KL0hbbjttP8",
+      "url": "https://images.unsplash.com/photo-1781274054513-6dad85ab6f20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8VFdBJTIwdGVlbmllJTIwd2VlbmllJTIwYWZybyUyMHBpY3R1cmVzJTIwbmF0dXJhbHxlbnwxfDF8fHwxNzgxMjk0NDIwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1781274054513-6dad85ab6f20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8VFdBJTIwdGVlbmllJTIwd2VlbmllJTIwYWZybyUyMHBpY3R1cmVzJTIwbmF0dXJhbHxlbnwxfDF8fHwxNzgxMjk0NDIwfDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1781274054513-6dad85ab6f20?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8VFdBJTIwdGVlbmllJTIwd2VlbmllJTIwYWZybyUyMHBpY3R1cmVzJTIwbmF0dXJhbHxlbnwxfDF8fHwxNzgxMjk0NDIwfDA&ixlib=rb-4.1.0&q=85",
+      "alt": "Woman with bantu knots, closed eyes, and hand on temple.",
+      "description": "",
+      "photographer": "Christian Agbede",
+      "photographer_url": "https://unsplash.com/@chriscreations__",
+      "photo_url": "https://unsplash.com/photos/woman-with-bantu-knots-closed-eyes-and-hand-on-temple-KL0hbbjttP8",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-12T20:00:06.020281+00:00"
     }
   ]
 }
