@@ -1,6 +1,21 @@
 {
-  "summary": "Get ready for the ultimate dose of beauty inspiration as we dive into the most on-trend hairstyles taking over the world, straight from Africa and beyond!",
+  "summary": "Get ready for a sizzling dose of style as we dive into the most on-trend, jaw-dropping Black and African women's hair looks that are dominating social media right now!",
   "images": [
+    {
+      "id": "2t1HvDXMmUQ",
+      "url": "https://images.unsplash.com/photo-1780038303485-a1d2bb07e427?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8QmxhY2slMjBnaXJscyUyMHdpdGglMjBsb2NzJTIwYW5kJTIwZHJlYWRsb2Nrc3xlbnwxfDF8fHwxNzgxMjI5NjQ3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1780038303485-a1d2bb07e427?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8QmxhY2slMjBnaXJscyUyMHdpdGglMjBsb2NzJTIwYW5kJTIwZHJlYWRsb2Nrc3xlbnwxfDF8fHwxNzgxMjI5NjQ3fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1780038303485-a1d2bb07e427?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8QmxhY2slMjBnaXJscyUyMHdpdGglMjBsb2NzJTIwYW5kJTIwZHJlYWRsb2Nrc3xlbnwxfDF8fHwxNzgxMjI5NjQ3fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman with dreadlocks and tattoos sitting outdoors near water.",
+      "description": "",
+      "photographer": "Dali Bek",
+      "photographer_url": "https://unsplash.com/@dali_shots",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-dreadlocks-and-tattoos-sitting-outdoors-near-water-2t1HvDXMmUQ",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-12T02:00:07.076024+00:00"
+    },
     {
       "id": "5-05CjZvQgg",
       "url": "https://images.unsplash.com/photo-1755828564302-5c722f1c74a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8QmxhY2slMjBXb21lbiUyMHdpdGglMjBDb3Jucm93cyUyMGFuZCUyMEhlYWQlMjBXcmFwc3xlbnwxfDF8fHwxNzgxMjI2MDIwfDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-10T22:00:06.245990+00:00"
-    },
-    {
-      "id": "QURI5HFFqYc",
-      "url": "https://images.unsplash.com/photo-1745070934933-cd75f3346945?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8UmVsYXhlZCUyMFBlcm1lZCUyMEhhaXIlMjBBZnJpY2FuJTIwV29tZW4lMjBCZWF1dGlmdWwlMjBTbWlsZXN8ZW58MXwxfHx8MTc4MTEyODgwN3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1745070934933-cd75f3346945?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8UmVsYXhlZCUyMFBlcm1lZCUyMEhhaXIlMjBBZnJpY2FuJTIwV29tZW4lMjBCZWF1dGlmdWwlMjBTbWlsZXN8ZW58MXwxfHx8MTc4MTEyODgwN3ww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1745070934933-cd75f3346945?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8UmVsYXhlZCUyMFBlcm1lZCUyMEhhaXIlMjBBZnJpY2FuJTIwV29tZW4lMjBCZWF1dGlmdWwlMjBTbWlsZXN8ZW58MXwxfHx8MTc4MTEyODgwN3ww&ixlib=rb-4.1.0&q=85",
-      "alt": "Smiling woman with glasses and braided hair.",
-      "description": "",
-      "photographer": "JEaLiFe Pictures",
-      "photographer_url": "https://unsplash.com/@jealife_pictures",
-      "photo_url": "https://unsplash.com/photos/smiling-woman-with-glasses-and-braided-hair-QURI5HFFqYc",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-10T22:00:06.245990+00:00"
     }
   ],
-  "updated_at": "2026-06-12T01:01:06.471572+00:00"
+  "updated_at": "2026-06-12T02:01:18.701314+00:00"
 }
