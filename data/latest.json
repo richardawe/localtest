@@ -1,6 +1,21 @@
 {
-  "summary": "Get ready to slay with this month's hottest hair trends featuring stunning styles from Black and African women who are redefining beauty standards globally!",
+  "summary": "Get ready to slay with today's featured Black and African women's hair trends, showcasing stunning styles that are fresh off the runway!",
   "images": [
+    {
+      "id": "GHLL6PWQWWc",
+      "url": "https://images.unsplash.com/photo-1686318779895-760218cb319e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8QmVhdXRpZnVsJTIwQ29ybnJvd3MlMjBmb3IlMjBOYXR1cmFsJTIwSGFpcnxlbnwxfDF8fHwxNzgxMjY1NjEyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1686318779895-760218cb319e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8QmVhdXRpZnVsJTIwQ29ybnJvd3MlMjBmb3IlMjBOYXR1cmFsJTIwSGFpcnxlbnwxfDF8fHwxNzgxMjY1NjEyfDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1686318779895-760218cb319e?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8QmVhdXRpZnVsJTIwQ29ybnJvd3MlMjBmb3IlMjBOYXR1cmFsJTIwSGFpcnxlbnwxfDF8fHwxNzgxMjY1NjEyfDA&ixlib=rb-4.1.0&q=85",
+      "alt": "A black woman with braided hair holds a feather.",
+      "description": "",
+      "photographer": "John Ekow",
+      "photographer_url": "https://unsplash.com/@jaughnekow_",
+      "photo_url": "https://unsplash.com/photos/a-black-woman-with-braided-hair-holds-a-feather-GHLL6PWQWWc",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-12T12:00:09.067455+00:00"
+    },
     {
       "id": "MLDQVQL_4_0",
       "url": "https://images.unsplash.com/photo-1512084747998-038941f49b84?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzfHxXZWF2ZXMlMjBhbmQlMjBleHRlbnNpb25zJTIwb24lMjBmYXNoaW9uJTIwbW9kZWwlMjBwb3NlfGVufDF8MXx8fDE3ODEyNjIwMzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-11T18:00:06.229756+00:00"
-    },
-    {
-      "id": "PtpYmsy6p6M",
-      "url": "https://images.unsplash.com/photo-1777115213995-33005b798595?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8Q29ybnJvd3MlMjBpbnRyaWNhdGUlMjBkZXNpZ25zJTIwb24lMjBkYXJrJTIwZmFjZXN8ZW58MXwxfHx8MTc4MTIwMDgzOXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1777115213995-33005b798595?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8Q29ybnJvd3MlMjBpbnRyaWNhdGUlMjBkZXNpZ25zJTIwb24lMjBkYXJrJTIwZmFjZXN8ZW58MXwxfHx8MTc4MTIwMDgzOXww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1777115213995-33005b798595?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8Q29ybnJvd3MlMjBpbnRyaWNhdGUlMjBkZXNpZ25zJTIwb24lMjBkYXJrJTIwZmFjZXN8ZW58MXwxfHx8MTc4MTIwMDgzOXww&ixlib=rb-4.1.0&q=85",
-      "alt": "Young woman with face paint and braided hair",
-      "description": "",
-      "photographer": "Ben Iwara",
-      "photographer_url": "https://unsplash.com/@1hundredimages",
-      "photo_url": "https://unsplash.com/photos/young-woman-with-face-paint-and-braided-hair-PtpYmsy6p6M",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-11T18:00:06.229756+00:00"
     }
   ],
-  "updated_at": "2026-06-12T11:01:10.617853+00:00"
+  "updated_at": "2026-06-12T12:01:04.250412+00:00"
 }
