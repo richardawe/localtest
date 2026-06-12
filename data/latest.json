@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready for the ultimate dose of beauty inspiration as we dive into the most on-trend hairstyles taking over the world, straight from Africa and beyond!",
   "images": [
+    {
+      "id": "5-05CjZvQgg",
+      "url": "https://images.unsplash.com/photo-1755828564302-5c722f1c74a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8QmxhY2slMjBXb21lbiUyMHdpdGglMjBDb3Jucm93cyUyMGFuZCUyMEhlYWQlMjBXcmFwc3xlbnwxfDF8fHwxNzgxMjI2MDIwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1755828564302-5c722f1c74a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8QmxhY2slMjBXb21lbiUyMHdpdGglMjBDb3Jucm93cyUyMGFuZCUyMEhlYWQlMjBXcmFwc3xlbnwxfDF8fHwxNzgxMjI2MDIwfDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1755828564302-5c722f1c74a7?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8QmxhY2slMjBXb21lbiUyMHdpdGglMjBDb3Jucm93cyUyMGFuZCUyMEhlYWQlMjBXcmFwc3xlbnwxfDF8fHwxNzgxMjI2MDIwfDA&ixlib=rb-4.1.0&q=85",
+      "alt": "Woman with head wrap and large hoop earrings.",
+      "description": "",
+      "photographer": "karoline santos vieira",
+      "photographer_url": "https://unsplash.com/@karolinevieira",
+      "photo_url": "https://unsplash.com/photos/woman-with-head-wrap-and-large-hoop-earrings-5-05CjZvQgg",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-12T01:00:05.613717+00:00"
+    },
     {
       "id": "kzyjC4k8rCM",
       "url": "https://images.unsplash.com/photo-1698116522682-f5c454648d5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8UHJlc3MlMjBhbmQlMjBjdXJsJTIwb24lMjBBZnJvJTIwdGV4dHVyZWR8ZW58MXwxfHx8MTc4MTIxNTIzN3ww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-10T22:00:06.245990+00:00"
-    },
-    {
-      "id": "o9j5MRQ3Des",
-      "url": "https://images.unsplash.com/photo-1757866332579-9468cbf08cdd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8V2VhdmVzJTIwYW5kJTIwRXh0ZW5zaW9ucyUyMGZvciUyMFRoaWNrJTIwSGFpcnxlbnwxfDF8fHwxNzgxMTI4ODI3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1757866332579-9468cbf08cdd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8V2VhdmVzJTIwYW5kJTIwRXh0ZW5zaW9ucyUyMGZvciUyMFRoaWNrJTIwSGFpcnxlbnwxfDF8fHwxNzgxMTI4ODI3fDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1757866332579-9468cbf08cdd?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8V2VhdmVzJTIwYW5kJTIwRXh0ZW5zaW9ucyUyMGZvciUyMFRoaWNrJTIwSGFpcnxlbnwxfDF8fHwxNzgxMTI4ODI3fDA&ixlib=rb-4.1.0&q=85",
-      "alt": "Close-up of a braided hairstyle on dark hair",
-      "description": "",
-      "photographer": "Mohamed B.",
-      "photographer_url": "https://unsplash.com/@bangscreative",
-      "photo_url": "https://unsplash.com/photos/close-up-of-a-braided-hairstyle-on-dark-hair-o9j5MRQ3Des",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-10T22:00:06.245990+00:00"
     }
   ],
-  "updated_at": "2026-06-12T00:02:18.523471+00:00"
+  "updated_at": "2026-06-12T01:01:06.471572+00:00"
 }
