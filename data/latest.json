@@ -1,6 +1,21 @@
 {
-  "summary": "Get ready to slay with today's sizzling hot Black and African women's hair trends that are taking the world by storm!",
+  "summary": "Get ready to slay with today's hottest Black and African hair trends, showcasing bold styles that blend tradition with modern flair!",
   "images": [
+    {
+      "id": "YOpW7lvK794",
+      "url": "https://images.unsplash.com/photo-1654404886290-3d27a00bf4fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxM3x8V2VhdmUlMjBleHRlbnNpb25zJTIwb24lMjBjdXJseSUyMGRhcmslMjBicm93biUyMGhhaXJ8ZW58MXwxfHx8MTc4MTI0NDAzNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1654404886290-3d27a00bf4fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxM3x8V2VhdmUlMjBleHRlbnNpb25zJTIwb24lMjBjdXJseSUyMGRhcmslMjBicm93biUyMGhhaXJ8ZW58MXwxfHx8MTc4MTI0NDAzNXww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1654404886290-3d27a00bf4fa?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxM3x8V2VhdmUlMjBleHRlbnNpb25zJTIwb24lMjBjdXJseSUyMGRhcmslMjBicm93biUyMGhhaXJ8ZW58MXwxfHx8MTc4MTI0NDAzNXww&ixlib=rb-4.1.0&q=85",
+      "alt": "a woman with long curly hair smiling",
+      "description": "Egyptian girl with curly hair",
+      "photographer": "Michael Starkie",
+      "photographer_url": "https://unsplash.com/@starkie_pics",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-long-curly-hair-smiling-YOpW7lvK794",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-12T06:00:08.088175+00:00"
+    },
     {
       "id": "iuR98ipeOz0",
       "url": "https://images.unsplash.com/photo-1768876035769-6687eab84110?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8V2VhdmUlMjBFeHRlbnNpb25zJTIwb24lMjBBZnJpY2FuJTIwQmVhdXR5fGVufDF8MXx8fDE3ODEyNDA0MTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-11T00:00:07.698261+00:00"
-    },
-    {
-      "id": "XvnVGXhNV94",
-      "url": "https://images.unsplash.com/photo-1646457411135-37fa10a51c3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8UmVsYXhlZCUyMFBlcm1lZCUyMEhhaXIlMjBBZnJpY2FuJTIwV29tZW4lMjBCZWF1dGlmdWwlMjBTbWlsZXN8ZW58MXwxfHx8MTc4MTEyODgwN3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1646457411135-37fa10a51c3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8UmVsYXhlZCUyMFBlcm1lZCUyMEhhaXIlMjBBZnJpY2FuJTIwV29tZW4lMjBCZWF1dGlmdWwlMjBTbWlsZXN8ZW58MXwxfHx8MTc4MTEyODgwN3ww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1646457411135-37fa10a51c3d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8UmVsYXhlZCUyMFBlcm1lZCUyMEhhaXIlMjBBZnJpY2FuJTIwV29tZW4lMjBCZWF1dGlmdWwlMjBTbWlsZXN8ZW58MXwxfHx8MTc4MTEyODgwN3ww&ixlib=rb-4.1.0&q=85",
-      "alt": "a black woman with a shaved head smiling",
-      "description": "",
-      "photographer": "Ben Masora",
-      "photographer_url": "https://unsplash.com/@benmasora",
-      "photo_url": "https://unsplash.com/photos/a-black-woman-with-a-shaved-head-smiling-XvnVGXhNV94",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-10T22:00:06.245990+00:00"
     }
   ],
-  "updated_at": "2026-06-12T05:01:09.829034+00:00"
+  "updated_at": "2026-06-12T06:01:06.568058+00:00"
 }
