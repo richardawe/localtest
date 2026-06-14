@@ -100,3 +100,13 @@ The zero-cost floor is real. The ceiling is wherever you need it to be.
 *If you're building something similar, or work in an organization that could benefit from this pattern, I'd love to connect. The architecture is straightforward — the value is in knowing it exists.*
 
 #AI #MachineLearning #BuildInPublic #ZeroCost #LocalAI #Ollama #GitHubPages #ContentAutomation #BlackHairCulture #TechForGood #OpenSource #SoftwareEngineering #StaticSites #NaturalHair #CROWNAct
+
+---
+
+## For Property Operators (Short Version)
+
+Property operators are sitting on a content goldmine they never publish — neighbourhood guides, local market updates, listing trends, maintenance tips, tenant FAQs — and most pay handsomely for someone to produce it or skip it entirely. This repo is a working proof that you don't have to do either. The same pipeline that powers Crown & Culture can be pointed at your market in an afternoon: swap the search queries to pull local property news via Google News RSS, swap the image source to your own listing photos or a free Unsplash search for your city, and let a local AI model (running on any office laptop, no API bill) synthesise a weekly market briefing, a neighbourhood spotlight, or a blog post about rental trends — then deploy the whole thing as a static site on GitHub Pages for free. Hourly updates, automated attribution, zero cloud spend.
+
+If you manage a portfolio of rentals, run a letting agency, or operate a build-to-rent scheme and you're currently paying a content agency or leaving your website editorially dormant, check out the repo at github.com/richardawe/localtest. The architecture is five Python modules and a scheduler. The hosting is free. The AI runs locally. Fork it, point it at your market, and have a living editorial presence running before the end of the week — at no cost.
+
+#PropertyManagement #RealEstate #BuildToRent #PropTech #AIForProperty #ZeroCost #ContentAutomation #LetAgents #PropertyOperators #LocalAI
