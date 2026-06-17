@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with today's hottest hairstyles, featuring vibrant braids, stunning locs, and sleek afros that are dominating Black and African beauty scene!",
   "images": [
+    {
+      "id": "fez_R-wJhJc",
+      "url": "https://images.unsplash.com/photo-1769636929266-8057f2c5ed52?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyfHxMb2NzJTIwYW5kJTIwRHJlYWRsb2NrcyUyMEFmcmljYW4lMjBGZW1hbGUlMjBNb2RlbHN8ZW58MXwxfHx8MTc4MTcyMzcxNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1769636929266-8057f2c5ed52?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyfHxMb2NzJTIwYW5kJTIwRHJlYWRsb2NrcyUyMEFmcmljYW4lMjBGZW1hbGUlMjBNb2RlbHN8ZW58MXwxfHx8MTc4MTcyMzcxNXww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1769636929266-8057f2c5ed52?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyfHxMb2NzJTIwYW5kJTIwRHJlYWRsb2NrcyUyMEFmcmljYW4lMjBGZW1hbGUlMjBNb2RlbHN8ZW58MXwxfHx8MTc4MTcyMzcxNXww&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman with dreadlocks wearing a black t-shirt.",
+      "description": "",
+      "photographer": "Jadon Johnson",
+      "photographer_url": "https://unsplash.com/@jadonjohnson",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-dreadlocks-wearing-a-black-t-shirt-fez_R-wJhJc",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-17T19:14:52.199939+00:00"
+    },
     {
       "id": "8X6z6EJTyww",
       "url": "https://images.unsplash.com/photo-1741801526222-634317a56be2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8QWZyaWNhbiUyMGRyZWFkbG9ja3MlMjB3b21lbiUyN3MlMjBmYXNoaW9uJTIwcGhvdG9ncmFwaHklMjBleGFtcGxlc3xlbnwxfDF8fHwxNzgxNzA0ODIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-16T09:00:11.342871+00:00"
-    },
-    {
-      "id": "YaQsrJfPY5M",
-      "url": "https://images.unsplash.com/photo-1767249624998-3244ac913940?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxGdWxhbmklMjBCcmFpZHMlMjBCZWF1dGlmdWwlMjBCbGFjayUyME1vZGVsJTIwT3V0ZG9vcnxlbnwxfDF8fHwxNzgxNjAwNDI3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1767249624998-3244ac913940?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxGdWxhbmklMjBCcmFpZHMlMjBCZWF1dGlmdWwlMjBCbGFjayUyME1vZGVsJTIwT3V0ZG9vcnxlbnwxfDF8fHwxNzgxNjAwNDI3fDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1767249624998-3244ac913940?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxGdWxhbmklMjBCcmFpZHMlMjBCZWF1dGlmdWwlMjBCbGFjayUyME1vZGVsJTIwT3V0ZG9vcnxlbnwxfDF8fHwxNzgxNjAwNDI3fDA&ixlib=rb-4.1.0&q=85",
-      "alt": "Young black woman wearing red and white outfit outdoors.",
-      "description": "",
-      "photographer": "Michael Kyule",
-      "photographer_url": "https://unsplash.com/@madness_leahcim_",
-      "photo_url": "https://unsplash.com/photos/young-black-woman-wearing-red-and-white-outfit-outdoors-YaQsrJfPY5M",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-16T09:00:11.342871+00:00"
     }
   ],
-  "updated_at": "2026-06-17T18:24:46.759005+00:00"
+  "updated_at": "2026-06-17T19:15:54.268509+00:00"
 }
