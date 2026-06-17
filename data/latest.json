@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay the day with the hottest Black and African women's hair trends of the moment, straight from the runways!",
   "images": [
+    {
+      "id": "addJRSsIxsY",
+      "url": "https://images.unsplash.com/photo-1763280795744-606c973bd1a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8U2VuZWdhbGVzZSUyMHR3aXN0cyUyMG9uJTIwd29tZW4lMjdzJTIwaGVhZHMlMjBjbG9zZXxlbnwxfDF8fHwxNzgxNjU4MDM4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1763280795744-606c973bd1a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8U2VuZWdhbGVzZSUyMHR3aXN0cyUyMG9uJTIwd29tZW4lMjdzJTIwaGVhZHMlMjBjbG9zZXxlbnwxfDF8fHwxNzgxNjU4MDM4fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1763280795744-606c973bd1a6?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8U2VuZWdhbGVzZSUyMHR3aXN0cyUyMG9uJTIwd29tZW4lMjdzJTIwaGVhZHMlMjBjbG9zZXxlbnwxfDF8fHwxNzgxNjU4MDM4fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "Woman wearing a sheer orange headscarf with braided hair.",
+      "description": "",
+      "photographer": "Kyle Kioko",
+      "photographer_url": "https://unsplash.com/@kylekioko",
+      "photo_url": "https://unsplash.com/photos/woman-wearing-a-sheer-orange-headscarf-with-braided-hair-addJRSsIxsY",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-17T01:00:09.850701+00:00"
+    },
     {
       "id": "YYbTBh3iASY",
       "url": "https://images.unsplash.com/photo-1779181672443-3ef35f1d8953?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMHx8UHJlc3MlMjBhbmQlMjBDdXJsJTIwSGFpciUyMEJlYXV0eXxlbnwxfDF8fHwxNzgxNjQ3MjM1fDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-12T16:00:03.030989+00:00"
-    },
-    {
-      "id": "KvaWCdNXnvk",
-      "url": "https://images.unsplash.com/photo-1759250578864-04ef16185188?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8dGVlbmllJTIwd2VlbmllJTIwYWZybyUyMHNob3J0JTIwbmF0dXJhbCUyMHN0eWxlfGVufDF8MXx8fDE3ODEyODAwNjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1759250578864-04ef16185188?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8dGVlbmllJTIwd2VlbmllJTIwYWZybyUyMHNob3J0JTIwbmF0dXJhbCUyMHN0eWxlfGVufDF8MXx8fDE3ODEyODAwNjV8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1759250578864-04ef16185188?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8dGVlbmllJTIwd2VlbmllJTIwYWZybyUyMHNob3J0JTIwbmF0dXJhbCUyMHN0eWxlfGVufDF8MXx8fDE3ODEyODAwNjV8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "Woman in sunglasses on a sunny day",
-      "description": "Golden Hour Portrait of a Black Woman in Retro Sunglasses",
-      "photographer": "Theresa Ude",
-      "photographer_url": "https://unsplash.com/@theresaude",
-      "photo_url": "https://unsplash.com/photos/woman-in-sunglasses-on-a-sunny-day-KvaWCdNXnvk",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-12T16:00:03.030989+00:00"
     }
   ],
-  "updated_at": "2026-06-17T00:37:31.162376+00:00"
+  "updated_at": "2026-06-17T01:04:02.225974+00:00"
 }
