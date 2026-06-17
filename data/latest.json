@@ -1,6 +1,21 @@
 {
-  "summary": "Get ready to slay the day with the hottest Black and African women's hair trends of the moment, straight from the runways!",
+  "summary": "Get ready to slay with today's top picks for trending hairstyles that showcase Black and African beauty, from bold braids to vibrant Afros!",
   "images": [
+    {
+      "id": "If-Jg3vZOvk",
+      "url": "https://images.unsplash.com/photo-1767249612464-523c70ed563e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8VHJhZGl0aW9uYWwlMjBmdWxhbmklMjBicmFpZHMlMjBmb3IlMjB5b3VuZyUyMGdpcmxzfGVufDF8MXx8fDE3ODE2NjE4NTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1767249612464-523c70ed563e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8VHJhZGl0aW9uYWwlMjBmdWxhbmklMjBicmFpZHMlMjBmb3IlMjB5b3VuZyUyMGdpcmxzfGVufDF8MXx8fDE3ODE2NjE4NTB8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1767249612464-523c70ed563e?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8VHJhZGl0aW9uYWwlMjBmdWxhbmklMjBicmFpZHMlMjBmb3IlMjB5b3VuZyUyMGdpcmxzfGVufDF8MXx8fDE3ODE2NjE4NTB8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman with long braided hair and red sunglasses.",
+      "description": "",
+      "photographer": "Michael Kyule",
+      "photographer_url": "https://unsplash.com/@madness_leahcim_",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-long-braided-hair-and-red-sunglasses-If-Jg3vZOvk",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-17T02:03:35.334845+00:00"
+    },
     {
       "id": "addJRSsIxsY",
       "url": "https://images.unsplash.com/photo-1763280795744-606c973bd1a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8U2VuZWdhbGVzZSUyMHR3aXN0cyUyMG9uJTIwd29tZW4lMjdzJTIwaGVhZHMlMjBjbG9zZXxlbnwxfDF8fHwxNzgxNjU4MDM4fDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-12T17:00:04.802864+00:00"
-    },
-    {
-      "id": "SteEXfvaWgo",
-      "url": "https://images.unsplash.com/photo-1747710016904-2b93d97ffb72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8dGVlbmllJTIwd2VlbmllJTIwYWZybyUyMHNob3J0JTIwbmF0dXJhbCUyMHN0eWxlfGVufDF8MXx8fDE3ODEyODAwNjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1747710016904-2b93d97ffb72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8dGVlbmllJTIwd2VlbmllJTIwYWZybyUyMHNob3J0JTIwbmF0dXJhbCUyMHN0eWxlfGVufDF8MXx8fDE3ODEyODAwNjV8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1747710016904-2b93d97ffb72?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8dGVlbmllJTIwd2VlbmllJTIwYWZybyUyMHNob3J0JTIwbmF0dXJhbCUyMHN0eWxlfGVufDF8MXx8fDE3ODEyODAwNjV8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "A woman smiles joyfully with beautiful curly hair.",
-      "description": "",
-      "photographer": "josh A. D.",
-      "photographer_url": "https://unsplash.com/@mista_j",
-      "photo_url": "https://unsplash.com/photos/a-woman-smiles-joyfully-with-beautiful-curly-hair-SteEXfvaWgo",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-12T16:00:03.030989+00:00"
     }
   ],
-  "updated_at": "2026-06-17T01:04:02.225974+00:00"
+  "updated_at": "2026-06-17T02:04:44.009655+00:00"
 }
