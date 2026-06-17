@@ -1,6 +1,21 @@
 {
-  "summary": "Get ready to slay the day with our latest showcase of trendy hairstyles that are taking over social media, straight from Africa and beyond!",
+  "summary": "Get ready to slay with the most coveted styles of the season, as we reveal the hottest Black and African women's hair trends that are taking the world by storm!",
   "images": [
+    {
+      "id": "nvvvAy3nhX8",
+      "url": "https://images.unsplash.com/photo-1769636930016-5d9f0ca653aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8VGVlbmllJTIwV2VlbmllJTIwQWZyb3MlMjBvbiUyMHlvdW5nJTIwYmxhY2t8ZW58MXwxfHx8MTc4MTczNzMxNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1769636930016-5d9f0ca653aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8VGVlbmllJTIwV2VlbmllJTIwQWZyb3MlMjBvbiUyMHlvdW5nJTIwYmxhY2t8ZW58MXwxfHx8MTc4MTczNzMxNHww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1769636930016-5d9f0ca653aa?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8VGVlbmllJTIwV2VlbmllJTIwQWZyb3MlMjBvbiUyMHlvdW5nJTIwYmxhY2t8ZW58MXwxfHx8MTc4MTczNzMxNHww&ixlib=rb-4.1.0&q=85",
+      "alt": "A smiling black woman wearing a black t-shirt.",
+      "description": "",
+      "photographer": "Jadon Johnson",
+      "photographer_url": "https://unsplash.com/@jadonjohnson",
+      "photo_url": "https://unsplash.com/photos/a-smiling-black-woman-wearing-a-black-t-shirt-nvvvAy3nhX8",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-17T23:01:16.916467+00:00"
+    },
     {
       "id": "ViYaysRpryw",
       "url": "https://images.unsplash.com/photo-1775854324788-744e3fe0f394?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw3fHxHb2RkZXNzJTIwYnJhaWRzJTIwd2l0aCUyMGJlYWRzJTIwYW5kJTIwZmxvd2Vyc3xlbnwxfDF8fHwxNzgxNzMzNjYxfDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-16T22:00:06.696543+00:00"
-    },
-    {
-      "id": "Yn2ajx6oTsY",
-      "url": "https://images.unsplash.com/photo-1765560217019-ee308ba97b52?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8V29tZW4lMjB3aXRoJTIwbG9jcyUyMGFuZCUyMGRyZWFkbG9ja3MlMjBwb3Npbmd8ZW58MXwxfHx8MTc4MTY0MzYzNHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1765560217019-ee308ba97b52?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8V29tZW4lMjB3aXRoJTIwbG9jcyUyMGFuZCUyMGRyZWFkbG9ja3MlMjBwb3Npbmd8ZW58MXwxfHx8MTc4MTY0MzYzNHww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1765560217019-ee308ba97b52?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8V29tZW4lMjB3aXRoJTIwbG9jcyUyMGFuZCUyMGRyZWFkbG9ja3MlMjBwb3Npbmd8ZW58MXwxfHx8MTc4MTY0MzYzNHww&ixlib=rb-4.1.0&q=85",
-      "alt": "Woman with dreadlocks in a white tank top and jeans",
-      "description": "",
-      "photographer": "Michael Kyule",
-      "photographer_url": "https://unsplash.com/@madness_leahcim_",
-      "photo_url": "https://unsplash.com/photos/woman-with-dreadlocks-in-a-white-tank-top-and-jeans-Yn2ajx6oTsY",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-16T21:00:05.831117+00:00"
     }
   ],
-  "updated_at": "2026-06-17T22:01:37.721543+00:00"
+  "updated_at": "2026-06-17T23:17:55.714410+00:00"
 }
