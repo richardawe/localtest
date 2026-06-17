@@ -1,6 +1,21 @@
 {
-  "summary": "Get ready to slay with today's hottest hair trends featuring stunning styles from Black and African women that are taking over the globe right now!",
+  "summary": "Get ready to slay with today's most sizzling Black and African hair trends, where bold styles meet effortless chic in perfect harmony!",
   "images": [
+    {
+      "id": "VKRK-_4wiv0",
+      "url": "https://images.unsplash.com/photo-1647126075052-cfe84d596c21?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8V29tZW4lMjBSb2NraW5nJTIwQ29ybnJvd3MlMjBmb3IlMjBFdmVyeWRheSUyMExpZmV8ZW58MXwxfHx8MTc4MTY3MjQzN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1647126075052-cfe84d596c21?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8V29tZW4lMjBSb2NraW5nJTIwQ29ybnJvd3MlMjBmb3IlMjBFdmVyeWRheSUyMExpZmV8ZW58MXwxfHx8MTc4MTY3MjQzN3ww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1647126075052-cfe84d596c21?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8V29tZW4lMjBSb2NraW5nJTIwQ29ybnJvd3MlMjBmb3IlMjBFdmVyeWRheSUyMExpZmV8ZW58MXwxfHx8MTc4MTY3MjQzN3ww&ixlib=rb-4.1.0&q=85",
+      "alt": "a woman with black makeup and braids on her head",
+      "description": "",
+      "photographer": "MohammadReza BaBaei",
+      "photographer_url": "https://unsplash.com/@mohammadrezababaei",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-black-makeup-and-braids-on-her-head-VKRK-_4wiv0",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-17T05:00:04.803354+00:00"
+    },
     {
       "id": "6v2y2Cqpdis",
       "url": "https://images.unsplash.com/photo-1741940423327-96dbc4ab4763?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8V2VhdmVzJTIwYW5kJTIwRXh0ZW5zaW9ucyUyMG9uJTIwQmxhY2slMjBCZWF1dHl8ZW58MXwxfHx8MTc4MTY2OTQ1OXww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-12T18:00:06.728133+00:00"
-    },
-    {
-      "id": "JK1kdoMNajI",
-      "url": "https://images.unsplash.com/photo-1624278041368-6c76bf6b5e8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8V2VhdmUlMjBFeHRlbnNpb25zJTIwb24lMjBBZnJpY2FuJTIwQW1lcmljYW4lMjBMYWR5fGVufDF8MXx8fDE3ODEyODcyNDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1624278041368-6c76bf6b5e8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8V2VhdmUlMjBFeHRlbnNpb25zJTIwb24lMjBBZnJpY2FuJTIwQW1lcmljYW4lMjBMYWR5fGVufDF8MXx8fDE3ODEyODcyNDF8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1624278041368-6c76bf6b5e8f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8V2VhdmUlMjBFeHRlbnNpb25zJTIwb24lMjBBZnJpY2FuJTIwQW1lcmljYW4lMjBMYWR5fGVufDF8MXx8fDE3ODEyODcyNDF8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "a woman in a gray dress posing for a picture",
-      "description": "Beautiful African lady in straight dress smiling under sunset golden hour",
-      "photographer": "Raymond Owusu-Afriyie",
-      "photographer_url": "https://unsplash.com/@raystudiosgh",
-      "photo_url": "https://unsplash.com/photos/a-woman-in-a-gray-dress-posing-for-a-picture-JK1kdoMNajI",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-12T18:00:06.728133+00:00"
     }
   ],
-  "updated_at": "2026-06-17T04:28:09.698083+00:00"
+  "updated_at": "2026-06-17T05:16:35.194487+00:00"
 }
