@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with today's hottest hair trends featuring stunning styles from Black and African women that are taking over the globe right now!",
   "images": [
+    {
+      "id": "6v2y2Cqpdis",
+      "url": "https://images.unsplash.com/photo-1741940423327-96dbc4ab4763?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8V2VhdmVzJTIwYW5kJTIwRXh0ZW5zaW9ucyUyMG9uJTIwQmxhY2slMjBCZWF1dHl8ZW58MXwxfHx8MTc4MTY2OTQ1OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1741940423327-96dbc4ab4763?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8V2VhdmVzJTIwYW5kJTIwRXh0ZW5zaW9ucyUyMG9uJTIwQmxhY2slMjBCZWF1dHl8ZW58MXwxfHx8MTc4MTY2OTQ1OXww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1741940423327-96dbc4ab4763?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8V2VhdmVzJTIwYW5kJTIwRXh0ZW5zaW9ucyUyMG9uJTIwQmxhY2slMjBCZWF1dHl8ZW58MXwxfHx8MTc4MTY2OTQ1OXww&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman poses in dramatic, black and white lighting.",
+      "description": "Monochrome portrait of a braided African woman",
+      "photographer": "Lisa Marie Theck",
+      "photographer_url": "https://unsplash.com/@lisa_marie_theck",
+      "photo_url": "https://unsplash.com/photos/a-woman-poses-in-dramatic-black-and-white-lighting-6v2y2Cqpdis",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-17T04:10:30.429738+00:00"
+    },
     {
       "id": "If-Jg3vZOvk",
       "url": "https://images.unsplash.com/photo-1767249612464-523c70ed563e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8VHJhZGl0aW9uYWwlMjBmdWxhbmklMjBicmFpZHMlMjBmb3IlMjB5b3VuZyUyMGdpcmxzfGVufDF8MXx8fDE3ODE2NjE4NTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-12T18:00:06.728133+00:00"
-    },
-    {
-      "id": "sLh6o3GwB9Y",
-      "url": "https://images.unsplash.com/photo-1586027205524-fdabab651dcb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxfHxUV0ElMjBUZWVuaWUlMjBXZWVuaWUlMjBBZnJvcyUyMGluJTIwUGhvdG9zfGVufDF8MXx8fDE3ODEyODM2MTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1586027205524-fdabab651dcb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxfHxUV0ElMjBUZWVuaWUlMjBXZWVuaWUlMjBBZnJvcyUyMGluJTIwUGhvdG9zfGVufDF8MXx8fDE3ODEyODM2MTl8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1586027205524-fdabab651dcb?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxfHxUV0ElMjBUZWVuaWUlMjBXZWVuaWUlMjBBZnJvcyUyMGluJTIwUGhvdG9zfGVufDF8MXx8fDE3ODEyODM2MTl8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "girl in white and blue crew neck t-shirt and blue denim jeans sitting on brown",
-      "description": "A black african woman",
-      "photographer": "Thelma Dike",
-      "photographer_url": "https://unsplash.com/@dikethelmak",
-      "photo_url": "https://unsplash.com/photos/girl-in-white-and-blue-crew-neck-t-shirt-and-blue-denim-jeans-sitting-on-brown-sLh6o3GwB9Y",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-12T17:00:04.802864+00:00"
     }
   ],
-  "updated_at": "2026-06-17T03:26:13.734737+00:00"
+  "updated_at": "2026-06-17T04:28:09.698083+00:00"
 }
