@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with our top picks for the hottest Black and African women's hairstyles right now, straight from the runways and streets!",
   "images": [
+    {
+      "id": "3LOhgS5MU7g",
+      "url": "https://images.unsplash.com/photo-1755705195303-16afde6a5a8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8QmxhY2slMjB3b21hbiUyMHdpdGglMjBTZW5lZ2FsZXNlJTIwdHdpc3RzJTIwY3VybHN8ZW58MXwxfHx8MTc4MTc4NDE5N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1755705195303-16afde6a5a8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8QmxhY2slMjB3b21hbiUyMHdpdGglMjBTZW5lZ2FsZXNlJTIwdHdpc3RzJTIwY3VybHN8ZW58MXwxfHx8MTc4MTc4NDE5N3ww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1755705195303-16afde6a5a8a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8QmxhY2slMjB3b21hbiUyMHdpdGglMjBTZW5lZ2FsZXNlJTIwdHdpc3RzJTIwY3VybHN8ZW58MXwxfHx8MTc4MTc4NDE5N3ww&ixlib=rb-4.1.0&q=85",
+      "alt": "Woman with braided hair posing outdoors",
+      "description": "",
+      "photographer": "Ufoma Ojo",
+      "photographer_url": "https://unsplash.com/@ladyufoma001",
+      "photo_url": "https://unsplash.com/photos/woman-with-braided-hair-posing-outdoors-3LOhgS5MU7g",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-18T12:03:17.233441+00:00"
+    },
     {
       "id": "331kIE_jWg0",
       "url": "https://images.unsplash.com/photo-1724453639196-4995b88faafc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8Q2VsZWJyYXRpbmclMjB0aGUlMjBiZWF1dHklMjBvZiUyMG5hdHVyYWwlMjBhZnJvfGVufDF8MXx8fDE3ODE3Njk2MzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-17T19:14:52.199939+00:00"
-    },
-    {
-      "id": "8X6z6EJTyww",
-      "url": "https://images.unsplash.com/photo-1741801526222-634317a56be2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8QWZyaWNhbiUyMGRyZWFkbG9ja3MlMjB3b21lbiUyN3MlMjBmYXNoaW9uJTIwcGhvdG9ncmFwaHklMjBleGFtcGxlc3xlbnwxfDF8fHwxNzgxNzA0ODIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1741801526222-634317a56be2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8QWZyaWNhbiUyMGRyZWFkbG9ja3MlMjB3b21lbiUyN3MlMjBmYXNoaW9uJTIwcGhvdG9ncmFwaHklMjBleGFtcGxlc3xlbnwxfDF8fHwxNzgxNzA0ODIzfDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1741801526222-634317a56be2?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8QWZyaWNhbiUyMGRyZWFkbG9ja3MlMjB3b21lbiUyN3MlMjBmYXNoaW9uJTIwcGhvdG9ncmFwaHklMjBleGFtcGxlc3xlbnwxfDF8fHwxNzgxNzA0ODIzfDA&ixlib=rb-4.1.0&q=85",
-      "alt": "Woman with dreadlocks leans on an old car.",
-      "description": "",
-      "photographer": "Michael Kyule",
-      "photographer_url": "https://unsplash.com/@madness_leahcim_",
-      "photo_url": "https://unsplash.com/photos/woman-with-dreadlocks-leans-on-an-old-car-8X6z6EJTyww",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-17T14:00:03.770804+00:00"
     }
   ],
-  "updated_at": "2026-06-18T11:03:23.262819+00:00"
+  "updated_at": "2026-06-18T12:06:40.948328+00:00"
 }
