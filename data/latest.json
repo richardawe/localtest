@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready for a vibrant ride as we dive into the hottest, most empowering hairstyles trending among Black and African women right now!",
   "images": [
+    {
+      "id": "lFIhArjr53I",
+      "url": "https://images.unsplash.com/photo-1642807633363-6581c2bc7b84?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8QWZyaWNhbiUyMHdvbWVuJTIwd2l0aCUyMGxvbmclMjB3ZWF2ZXxlbnwxfDF8fHwxNzgxODA1NjMzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1642807633363-6581c2bc7b84?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8QWZyaWNhbiUyMHdvbWVuJTIwd2l0aCUyMGxvbmclMjB3ZWF2ZXxlbnwxfDF8fHwxNzgxODA1NjMzfDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1642807633363-6581c2bc7b84?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8QWZyaWNhbiUyMHdvbWVuJTIwd2l0aCUyMGxvbmclMjB3ZWF2ZXxlbnwxfDF8fHwxNzgxODA1NjMzfDA&ixlib=rb-4.1.0&q=85",
+      "alt": "a woman in a yellow dress with a red braid",
+      "description": "",
+      "photographer": "Chukwuemeka Odo",
+      "photographer_url": "https://unsplash.com/@santus4413",
+      "photo_url": "https://unsplash.com/photos/a-woman-in-a-yellow-dress-with-a-red-braid-lFIhArjr53I",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-18T18:00:03.361961+00:00"
+    },
     {
       "id": "Mgi1hW_ZuB4",
       "url": "https://images.unsplash.com/photo-1749325096153-9463a7ee9ffa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8VFdBJTIwVGVlbmllJTIwV2VlbmllJTIwQWZybyUyMENsb3NlJTIwVXB8ZW58MXwxfHx8MTc4MTc4Nzg2MHww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-17T22:00:16.968949+00:00"
-    },
-    {
-      "id": "JVjrC7583q8",
-      "url": "https://images.unsplash.com/photo-1643980368855-4f7285462119?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8TmF0dXJhbCUyMEFmcmljYW4lMjBBbWVyaWNhbiUyMEFmcm8lMjBIYWlyc3R5bGUlMjBJbnNwaXJhdGlvbnxlbnwxfDF8fHwxNzgxNzI2NzEyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1643980368855-4f7285462119?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8TmF0dXJhbCUyMEFmcmljYW4lMjBBbWVyaWNhbiUyMEFmcm8lMjBIYWlyc3R5bGUlMjBJbnNwaXJhdGlvbnxlbnwxfDF8fHwxNzgxNzI2NzEyfDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1643980368855-4f7285462119?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8TmF0dXJhbCUyMEFmcmljYW4lMjBBbWVyaWNhbiUyMEFmcm8lMjBIYWlyc3R5bGUlMjBJbnNwaXJhdGlvbnxlbnwxfDF8fHwxNzgxNzI2NzEyfDA&ixlib=rb-4.1.0&q=85",
-      "alt": "a woman with a flower in her hair",
-      "description": "African American woman black and white portrait.\n",
-      "photographer": "Dellon Thomas",
-      "photographer_url": "https://unsplash.com/@elsimage",
-      "photo_url": "https://unsplash.com/photos/a-woman-with-a-flower-in-her-hair-JVjrC7583q8",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-17T20:04:57.187901+00:00"
     }
   ],
-  "updated_at": "2026-06-18T17:08:31.981891+00:00"
+  "updated_at": "2026-06-18T18:01:04.208458+00:00"
 }
