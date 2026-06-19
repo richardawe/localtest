@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with this week's featured Black and African women's hair trends, showcasing fresh styles that are currently making waves!",
   "images": [
+    {
+      "id": "HyuPaVPYLYU",
+      "url": "https://images.unsplash.com/photo-1562186016-e3e97b2ed52e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8Qm94JTIwQnJhaWRzJTIwd2l0aCUyMEJlYWRzJTIwb24lMjBXb21lbnxlbnwxfDF8fHwxNzgxODMwODM4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1562186016-e3e97b2ed52e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8Qm94JTIwQnJhaWRzJTIwd2l0aCUyMEJlYWRzJTIwb24lMjBXb21lbnxlbnwxfDF8fHwxNzgxODMwODM4fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1562186016-e3e97b2ed52e?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8Qm94JTIwQnJhaWRzJTIwd2l0aCUyMEJlYWRzJTIwb24lMjBXb21lbnxlbnwxfDF8fHwxNzgxODMwODM4fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "woman with braided hair putting hands near her mouth",
+      "description": "",
+      "photographer": "Lucas Lenzi",
+      "photographer_url": "https://unsplash.com/@lucaslenzi",
+      "photo_url": "https://unsplash.com/photos/woman-with-braided-hair-putting-hands-near-her-mouth-HyuPaVPYLYU",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-19T01:00:08.728953+00:00"
+    },
     {
       "id": "lFIhArjr53I",
       "url": "https://images.unsplash.com/photo-1642807633363-6581c2bc7b84?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8QWZyaWNhbiUyMHdvbWVuJTIwd2l0aCUyMGxvbmclMjB3ZWF2ZXxlbnwxfDF8fHwxNzgxODA1NjMzfDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-17T22:00:16.968949+00:00"
-    },
-    {
-      "id": "hPi9ssQE2dc",
-      "url": "https://images.unsplash.com/photo-1678101629455-92a45d59b3b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8R29kZGVzcyUyMGJyYWlkcyUyMHdpdGglMjBiZWFkcyUyMGFuZCUyMGZsb3dlcnN8ZW58MXwxfHx8MTc4MTczMzY2MXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1678101629455-92a45d59b3b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8R29kZGVzcyUyMGJyYWlkcyUyMHdpdGglMjBiZWFkcyUyMGFuZCUyMGZsb3dlcnN8ZW58MXwxfHx8MTc4MTczMzY2MXww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1678101629455-92a45d59b3b3?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8R29kZGVzcyUyMGJyYWlkcyUyMHdpdGglMjBiZWFkcyUyMGFuZCUyMGZsb3dlcnN8ZW58MXwxfHx8MTc4MTczMzY2MXww&ixlib=rb-4.1.0&q=85",
-      "alt": "a woman with braids standing in front of a tree",
-      "description": "",
-      "photographer": "Dylann Hendricks | 딜란",
-      "photographer_url": "https://unsplash.com/@dylanhendricks",
-      "photo_url": "https://unsplash.com/photos/a-woman-with-braids-standing-in-front-of-a-tree-hPi9ssQE2dc",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-17T22:00:16.968949+00:00"
     }
   ],
-  "updated_at": "2026-06-19T00:13:57.930085+00:00"
+  "updated_at": "2026-06-19T01:07:06.539043+00:00"
 }
