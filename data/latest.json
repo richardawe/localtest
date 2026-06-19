@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with the hottest hairstyles taking over social media, featuring vibrant braids, afro-luxes, and sleek twists that are turning heads!",
   "images": [
+    {
+      "id": "7eZCYRQxbuY",
+      "url": "https://images.unsplash.com/photo-1707096356950-e99bc54acccd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8VHJhZGl0aW9uYWwlMjBGdWxhbmklMjBicmFpZHMlMjBpbiUyMEFmcmljYXxlbnwxfDF8fHwxNzgxODg0ODE0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1707096356950-e99bc54acccd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8VHJhZGl0aW9uYWwlMjBGdWxhbmklMjBicmFpZHMlMjBpbiUyMEFmcmljYXxlbnwxfDF8fHwxNzgxODg0ODE0fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1707096356950-e99bc54acccd?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8VHJhZGl0aW9uYWwlMjBGdWxhbmklMjBicmFpZHMlMjBpbiUyMEFmcmljYXxlbnwxfDF8fHwxNzgxODg0ODE0fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "a woman in a dress holding a bunch of flowers",
+      "description": "Mulher baiana negra segurando um ramo de folhas religioso no dia 2 de fevereiro",
+      "photographer": "SALEM.",
+      "photographer_url": "https://unsplash.com/@salem999",
+      "photo_url": "https://unsplash.com/photos/a-woman-in-a-dress-holding-a-bunch-of-flowers-7eZCYRQxbuY",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-19T16:00:02.066105+00:00"
+    },
     {
       "id": "BxJOjAWjZx4",
       "url": "https://images.unsplash.com/photo-1676564121755-de2648b693fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8UHJlc3MlMjBhbmQlMjBjdXJsJTIwaGFpcnN0eWxlcyUyMGluc3BpcmF0aW9ufGVufDF8MXx8fDE3ODE4NzA0MDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-18T08:00:02.002686+00:00"
-    },
-    {
-      "id": "UxyLSpR7Gfg",
-      "url": "https://images.unsplash.com/photo-1769636929761-266ec4aecca3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw3fHxUZWVuaWUlMjB3ZWVuaWUlMjBhZnJvcyUyMG9uJTIwYmxhY2slMjBnaXJsc3xlbnwxfDF8fHwxNzgxNzY5NjQxfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1769636929761-266ec4aecca3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw3fHxUZWVuaWUlMjB3ZWVuaWUlMjBhZnJvcyUyMG9uJTIwYmxhY2slMjBnaXJsc3xlbnwxfDF8fHwxNzgxNzY5NjQxfDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1769636929761-266ec4aecca3?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw3fHxUZWVuaWUlMjB3ZWVuaWUlMjBhZnJvcyUyMG9uJTIwYmxhY2slMjBnaXJsc3xlbnwxfDF8fHwxNzgxNzY5NjQxfDA&ixlib=rb-4.1.0&q=85",
-      "alt": "Young black woman wearing a black t-shirt",
-      "description": "",
-      "photographer": "Jadon Johnson",
-      "photographer_url": "https://unsplash.com/@jadonjohnson",
-      "photo_url": "https://unsplash.com/photos/young-black-woman-wearing-a-black-t-shirt-UxyLSpR7Gfg",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-18T08:00:02.002686+00:00"
     }
   ],
-  "updated_at": "2026-06-19T15:01:09.597926+00:00"
+  "updated_at": "2026-06-19T16:01:06.854167+00:00"
 }
