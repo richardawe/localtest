@@ -1,6 +1,36 @@
 {
-  "summary": "Get ready for a hair explosion as we dive into the latest styles, trends, and inspiration from Black and African women's current beauty landscape!",
+  "summary": "Get ready to slay with the most inspiring and innovative Black and African women's hair trends that are currently taking over the beauty scene worldwide!",
   "images": [
+    {
+      "id": "W04gJQbySw8",
+      "url": "https://images.unsplash.com/photo-1628148367217-e40746a72bd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8UHJlc3MlMjBhbmQlMjBjdXJsJTIwQWZybyUyMEFtZXJpY2FuJTIwd29tYW58ZW58MXwxfHx8MTc4MTg0MTc5MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1628148367217-e40746a72bd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8UHJlc3MlMjBhbmQlMjBjdXJsJTIwQWZybyUyMEFtZXJpY2FuJTIwd29tYW58ZW58MXwxfHx8MTc4MTg0MTc5MHww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1628148367217-e40746a72bd5?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8UHJlc3MlMjBhbmQlMjBjdXJsJTIwQWZybyUyMEFtZXJpY2FuJTIwd29tYW58ZW58MXwxfHx8MTc4MTg0MTc5MHww&ixlib=rb-4.1.0&q=85",
+      "alt": "woman in white sleeveless shirt",
+      "description": "Shy curly girl playing with her hair on a dark background",
+      "photographer": "Vianney CAHEN",
+      "photographer_url": "https://unsplash.com/@number313",
+      "photo_url": "https://unsplash.com/photos/woman-in-white-sleeveless-shirt-W04gJQbySw8",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-19T04:02:58.738765+00:00"
+    },
+    {
+      "id": "DF4NQ25fBEw",
+      "url": "https://images.unsplash.com/photo-1756700413623-ab0ab98e244f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8UHJlc3MlMjBhbmQlMjBjdXJsJTIwQWZybyUyMEFtZXJpY2FuJTIwd29tYW58ZW58MXwxfHx8MTc4MTg0MTc5MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1756700413623-ab0ab98e244f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8UHJlc3MlMjBhbmQlMjBjdXJsJTIwQWZybyUyMEFtZXJpY2FuJTIwd29tYW58ZW58MXwxfHx8MTc4MTg0MTc5MHww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1756700413623-ab0ab98e244f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8UHJlc3MlMjBhbmQlMjBjdXJsJTIwQWZybyUyMEFtZXJpY2FuJTIwd29tYW58ZW58MXwxfHx8MTc4MTg0MTc5MHww&ixlib=rb-4.1.0&q=85",
+      "alt": "Smiling woman with voluminous curly hair",
+      "description": "afro hair,afro girl,moda,model girl,fashion",
+      "photographer": "SoyBreno",
+      "photographer_url": "https://unsplash.com/@soybrenofotografia",
+      "photo_url": "https://unsplash.com/photos/smiling-woman-with-voluminous-curly-hair-DF4NQ25fBEw",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-19T04:02:58.738765+00:00"
+    },
     {
       "id": "yvie-2w9jnI",
       "url": "https://images.unsplash.com/photo-1744846689328-192b4f09ce7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw5fHxXb21hbiUyMHdpdGglMjBTaXN0ZXJsb2NrcyUyMGFuZCUyMEFmcm8lMjBQaWN8ZW58MXwxfHx8MTc4MTgzODMxNXww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -270,37 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-18T00:02:15.570205+00:00"
-    },
-    {
-      "id": "atuzT66aREQ",
-      "url": "https://images.unsplash.com/photo-1781586992069-b568d35c071d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8QmxhY2slMjBsYWRpZXMlMjB3aXRoJTIwcHJvdGVjdGl2ZSUyMHN0eWxlcyUyMG91dGRvb3JzfGVufDF8MXx8fDE3ODE3NDA5NjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1781586992069-b568d35c071d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8QmxhY2slMjBsYWRpZXMlMjB3aXRoJTIwcHJvdGVjdGl2ZSUyMHN0eWxlcyUyMG91dGRvb3JzfGVufDF8MXx8fDE3ODE3NDA5NjF8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1781586992069-b568d35c071d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8QmxhY2slMjBsYWRpZXMlMjB3aXRoJTIwcHJvdGVjdGl2ZSUyMHN0eWxlcyUyMG91dGRvb3JzfGVufDF8MXx8fDE3ODE3NDA5NjF8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "Smiling woman in sunglasses and blue sweater outdoors.",
-      "description": "A beautiful black lady smiling in the sun Instagram - @pip3layo",
-      "photographer": "Jonathan Majam",
-      "photographer_url": "https://unsplash.com/@jon__kelvin",
-      "photo_url": "https://unsplash.com/photos/smiling-woman-in-sunglasses-and-blue-sweater-outdoors-atuzT66aREQ",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-18T00:02:15.570205+00:00"
-    },
-    {
-      "id": "nvvvAy3nhX8",
-      "url": "https://images.unsplash.com/photo-1769636930016-5d9f0ca653aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8VGVlbmllJTIwV2VlbmllJTIwQWZyb3MlMjBvbiUyMHlvdW5nJTIwYmxhY2t8ZW58MXwxfHx8MTc4MTczNzMxNHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1769636930016-5d9f0ca653aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8VGVlbmllJTIwV2VlbmllJTIwQWZyb3MlMjBvbiUyMHlvdW5nJTIwYmxhY2t8ZW58MXwxfHx8MTc4MTczNzMxNHww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1769636930016-5d9f0ca653aa?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8VGVlbmllJTIwV2VlbmllJTIwQWZyb3MlMjBvbiUyMHlvdW5nJTIwYmxhY2t8ZW58MXwxfHx8MTc4MTczNzMxNHww&ixlib=rb-4.1.0&q=85",
-      "alt": "A smiling black woman wearing a black t-shirt.",
-      "description": "",
-      "photographer": "Jadon Johnson",
-      "photographer_url": "https://unsplash.com/@jadonjohnson",
-      "photo_url": "https://unsplash.com/photos/a-smiling-black-woman-wearing-a-black-t-shirt-nvvvAy3nhX8",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-17T23:01:16.916467+00:00"
     }
   ],
-  "updated_at": "2026-06-19T03:07:12.679760+00:00"
+  "updated_at": "2026-06-19T04:04:05.712263+00:00"
 }
