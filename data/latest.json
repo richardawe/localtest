@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with today's hottest hairstyles on Black and African women, featuring vibrant twists, afro-chic cuts, and bold braids!",
   "images": [
+    {
+      "id": "tQycisUG0Dg",
+      "url": "https://images.unsplash.com/flagged/photo-1579651462663-141d8440f098?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8Q3JvY2hldCUyMEJyYWlkcyUyMG9uJTIwQWZyaWNhbiUyMEFtZXJpY2FuJTIwTGFkaWVzfGVufDF8MXx8fDE3ODE4NTI0ODJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/flagged/photo-1579651462663-141d8440f098?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8Q3JvY2hldCUyMEJyYWlkcyUyMG9uJTIwQWZyaWNhbiUyMEFtZXJpY2FuJTIwTGFkaWVzfGVufDF8MXx8fDE3ODE4NTI0ODJ8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/flagged/photo-1579651462663-141d8440f098?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8Q3JvY2hldCUyMEJyYWlkcyUyMG9uJTIwQWZyaWNhbiUyMEFtZXJpY2FuJTIwTGFkaWVzfGVufDF8MXx8fDE3ODE4NTI0ODJ8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "woman in blue and white beaded earrings",
+      "description": "African American Female",
+      "photographer": "Antreina Stone",
+      "photographer_url": "https://unsplash.com/@antreinas",
+      "photo_url": "https://unsplash.com/photos/woman-in-blue-and-white-beaded-earrings-tQycisUG0Dg",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-19T07:01:04.681079+00:00"
+    },
     {
       "id": "W04gJQbySw8",
       "url": "https://images.unsplash.com/photo-1628148367217-e40746a72bd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8UHJlc3MlMjBhbmQlMjBjdXJsJTIwQWZybyUyMEFtZXJpY2FuJTIwd29tYW58ZW58MXwxfHx8MTc4MTg0MTc5MHww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-18T00:02:15.570205+00:00"
-    },
-    {
-      "id": "7khbA8S-78Y",
-      "url": "https://images.unsplash.com/photo-1765560216461-5ed171a0d4fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8QmxhY2slMjBsYWRpZXMlMjB3aXRoJTIwcHJvdGVjdGl2ZSUyMHN0eWxlcyUyMG91dGRvb3JzfGVufDF8MXx8fDE3ODE3NDA5NjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1765560216461-5ed171a0d4fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8QmxhY2slMjBsYWRpZXMlMjB3aXRoJTIwcHJvdGVjdGl2ZSUyMHN0eWxlcyUyMG91dGRvb3JzfGVufDF8MXx8fDE3ODE3NDA5NjF8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1765560216461-5ed171a0d4fc?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8QmxhY2slMjBsYWRpZXMlMjB3aXRoJTIwcHJvdGVjdGl2ZSUyMHN0eWxlcyUyMG91dGRvb3JzfGVufDF8MXx8fDE3ODE3NDA5NjF8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "A young woman with dreadlocks looks over her shoulder.",
-      "description": "",
-      "photographer": "Michael Kyule",
-      "photographer_url": "https://unsplash.com/@madness_leahcim_",
-      "photo_url": "https://unsplash.com/photos/a-young-woman-with-dreadlocks-looks-over-her-shoulder-7khbA8S-78Y",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-18T00:02:15.570205+00:00"
     }
   ],
-  "updated_at": "2026-06-19T06:17:58.137726+00:00"
+  "updated_at": "2026-06-19T07:18:02.373505+00:00"
 }
