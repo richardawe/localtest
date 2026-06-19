@@ -1,6 +1,21 @@
 {
-  "summary": "Get ready to slay with this month's spotlight on the hottest, most Instagrammable Black and African women's hair trends that are making waves globally!",
+  "summary": "Get ready to slay with this week's top picks for Black and African women's hairstyles, showcasing bold, vibrant looks that are currently taking over social media!",
   "images": [
+    {
+      "id": "BxJOjAWjZx4",
+      "url": "https://images.unsplash.com/photo-1676564121755-de2648b693fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8UHJlc3MlMjBhbmQlMjBjdXJsJTIwaGFpcnN0eWxlcyUyMGluc3BpcmF0aW9ufGVufDF8MXx8fDE3ODE4NzA0MDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1676564121755-de2648b693fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8UHJlc3MlMjBhbmQlMjBjdXJsJTIwaGFpcnN0eWxlcyUyMGluc3BpcmF0aW9ufGVufDF8MXx8fDE3ODE4NzA0MDd8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1676564121755-de2648b693fd?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8UHJlc3MlMjBhbmQlMjBjdXJsJTIwaGFpcnN0eWxlcyUyMGluc3BpcmF0aW9ufGVufDF8MXx8fDE3ODE4NzA0MDd8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "a woman with bright makeup and curly hair",
+      "description": "",
+      "photographer": "Peter Sil",
+      "photographer_url": "https://unsplash.com/@petersil",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-bright-makeup-and-curly-hair-BxJOjAWjZx4",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-19T12:00:01.823917+00:00"
+    },
     {
       "id": "9DYpaVSILKo",
       "url": "https://images.unsplash.com/photo-1756197257616-e4af9690ccdd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8TG9jcyUyMERyZWFkbG9ja3MlMjBCbGFjayUyMFdvbWVuJTIwQmVhdXRpZnVsJTIwU21pbGVzfGVufDF8MXx8fDE3ODE4NjY4MTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-18T08:00:02.002686+00:00"
-    },
-    {
-      "id": "2XM-6S-0Hq0",
-      "url": "https://images.unsplash.com/photo-1763051753859-c96eac696649?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8V29tZW4lMjB3ZWFyaW5nJTIwY3JvY2hldCUyMGJyYWlkJTIwdXBkb3MlMjBvdXRkb29yc3xlbnwxfDF8fHwxNzgxNzUxODgyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1763051753859-c96eac696649?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8V29tZW4lMjB3ZWFyaW5nJTIwY3JvY2hldCUyMGJyYWlkJTIwdXBkb3MlMjBvdXRkb29yc3xlbnwxfDF8fHwxNzgxNzUxODgyfDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1763051753859-c96eac696649?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8V29tZW4lMjB3ZWFyaW5nJTIwY3JvY2hldCUyMGJyYWlkJTIwdXBkb3MlMjBvdXRkb29yc3xlbnwxfDF8fHwxNzgxNzUxODgyfDA&ixlib=rb-4.1.0&q=85",
-      "alt": "Woman with braided hair in a sunlit park",
-      "description": "",
-      "photographer": "Raphael Nicolas",
-      "photographer_url": "https://unsplash.com/@raphael_nicolas",
-      "photo_url": "https://unsplash.com/photos/woman-with-braided-hair-in-a-sunlit-park-2XM-6S-0Hq0",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-18T03:04:36.495420+00:00"
     }
   ],
-  "updated_at": "2026-06-19T11:01:02.529091+00:00"
+  "updated_at": "2026-06-19T12:01:07.786090+00:00"
 }
