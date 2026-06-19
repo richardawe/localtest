@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with this month's spotlight on the hottest, most Instagrammable Black and African women's hair trends that are making waves globally!",
   "images": [
+    {
+      "id": "9DYpaVSILKo",
+      "url": "https://images.unsplash.com/photo-1756197257616-e4af9690ccdd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8TG9jcyUyMERyZWFkbG9ja3MlMjBCbGFjayUyMFdvbWVuJTIwQmVhdXRpZnVsJTIwU21pbGVzfGVufDF8MXx8fDE3ODE4NjY4MTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1756197257616-e4af9690ccdd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8TG9jcyUyMERyZWFkbG9ja3MlMjBCbGFjayUyMFdvbWVuJTIwQmVhdXRpZnVsJTIwU21pbGVzfGVufDF8MXx8fDE3ODE4NjY4MTl8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1756197257616-e4af9690ccdd?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8TG9jcyUyMERyZWFkbG9ja3MlMjBCbGFjayUyMFdvbWVuJTIwQmVhdXRpZnVsJTIwU21pbGVzfGVufDF8MXx8fDE3ODE4NjY4MTl8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "Young woman with braided hair and hoop earrings smiles.",
+      "description": "",
+      "photographer": "Dwayne joe",
+      "photographer_url": "https://unsplash.com/@spliff_dj_joe",
+      "photo_url": "https://unsplash.com/photos/young-woman-with-braided-hair-and-hoop-earrings-smiles-9DYpaVSILKo",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-19T11:00:02.010484+00:00"
+    },
     {
       "id": "iAIKSQo2sm0",
       "url": "https://images.unsplash.com/photo-1649217708180-b0675bc68fa9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8Q29ybnJvd3MlMjBhbmQlMjBkcmVhZGxvY2tzJTIwb24lMjB5b3VuZyUyMGdpcmx8ZW58MXwxfHx8MTc4MTg1NjE0Nnww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-18T03:04:36.495420+00:00"
-    },
-    {
-      "id": "Cd8QwnTRXMU",
-      "url": "https://images.unsplash.com/photo-1766041738941-b54e5b790671?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8V29tZW4lMjB3ZWFyaW5nJTIwY3JvY2hldCUyMGJyYWlkJTIwdXBkb3MlMjBvdXRkb29yc3xlbnwxfDF8fHwxNzgxNzUxODgyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1766041738941-b54e5b790671?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8V29tZW4lMjB3ZWFyaW5nJTIwY3JvY2hldCUyMGJyYWlkJTIwdXBkb3MlMjBvdXRkb29yc3xlbnwxfDF8fHwxNzgxNzUxODgyfDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1766041738941-b54e5b790671?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8V29tZW4lMjB3ZWFyaW5nJTIwY3JvY2hldCUyMGJyYWlkJTIwdXBkb3MlMjBvdXRkb29yc3xlbnwxfDF8fHwxNzgxNzUxODgyfDA&ixlib=rb-4.1.0&q=85",
-      "alt": "Woman with braided hair and flower looks at lake",
-      "description": "",
-      "photographer": "Alina Chernovolova",
-      "photographer_url": "https://unsplash.com/@alinachernovol",
-      "photo_url": "https://unsplash.com/photos/woman-with-braided-hair-and-flower-looks-at-lake-Cd8QwnTRXMU",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-18T03:04:36.495420+00:00"
     }
   ],
-  "updated_at": "2026-06-19T10:00:51.514473+00:00"
+  "updated_at": "2026-06-19T11:01:02.529091+00:00"
 }
