@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to be inspired as we dive into the most coveted Black and African women's hair trends of the moment, straight from the continent!",
   "images": [
+    {
+      "id": "jsbxKXxS9_U",
+      "url": "https://images.unsplash.com/photo-1712576420251-c9788d7c9a43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOHx8VFdBJTIwdGVlbmFnZSUyMHdvbWVuJTIwd2l0aCUyMGFmcm9zfGVufDF8MXx8fDE3ODE5NDYwMDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1712576420251-c9788d7c9a43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOHx8VFdBJTIwdGVlbmFnZSUyMHdvbWVuJTIwd2l0aCUyMGFmcm9zfGVufDF8MXx8fDE3ODE5NDYwMDJ8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1712576420251-c9788d7c9a43?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOHx8VFdBJTIwdGVlbmFnZSUyMHdvbWVuJTIwd2l0aCUyMGFmcm9zfGVufDF8MXx8fDE3ODE5NDYwMDJ8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "a woman wearing a bikini top and sunglasses",
+      "description": "Close-up of a female black woman with sun glasses",
+      "photographer": "Phillippe Mari",
+      "photographer_url": "https://unsplash.com/@phillippi",
+      "photo_url": "https://unsplash.com/photos/a-woman-wearing-a-bikini-top-and-sunglasses-jsbxKXxS9_U",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-20T09:00:01.911580+00:00"
+    },
     {
       "id": "aSwIaNVNa1E",
       "url": "https://images.unsplash.com/photo-1757866333063-4960512eee0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8U2lzdGVybG9ja3MlMjBvbiUyMEJsYWNrJTIwd29tYW4lMjdzJTIwc2NhbHAlMjBjbG9zZSUyMHVwfGVufDF8MXx8fDE3ODE5MjgwMDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-19T04:02:58.738765+00:00"
-    },
-    {
-      "id": "yvie-2w9jnI",
-      "url": "https://images.unsplash.com/photo-1744846689328-192b4f09ce7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw5fHxXb21hbiUyMHdpdGglMjBTaXN0ZXJsb2NrcyUyMGFuZCUyMEFmcm8lMjBQaWN8ZW58MXwxfHx8MTc4MTgzODMxNXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1744846689328-192b4f09ce7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw5fHxXb21hbiUyMHdpdGglMjBTaXN0ZXJsb2NrcyUyMGFuZCUyMEFmcm8lMjBQaWN8ZW58MXwxfHx8MTc4MTgzODMxNXww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1744846689328-192b4f09ce7e?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw5fHxXb21hbiUyMHdpdGglMjBTaXN0ZXJsb2NrcyUyMGFuZCUyMEFmcm8lMjBQaWN8ZW58MXwxfHx8MTc4MTgzODMxNXww&ixlib=rb-4.1.0&q=85",
-      "alt": "Two people with large afros and sunglasses pose.",
-      "description": "",
-      "photographer": "Dwayne joe",
-      "photographer_url": "https://unsplash.com/@spliff_dj_joe",
-      "photo_url": "https://unsplash.com/photos/two-people-with-large-afros-and-sunglasses-pose-yvie-2w9jnI",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-19T03:05:06.851128+00:00"
     }
   ],
-  "updated_at": "2026-06-20T08:00:59.803162+00:00"
+  "updated_at": "2026-06-20T09:01:00.193221+00:00"
 }
