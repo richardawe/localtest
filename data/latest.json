@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with this month's hottest Black and African women's hair trends, showcasing vibrant styles that are totally on fleek!",
   "images": [
+    {
+      "id": "uoUXWbujywk",
+      "url": "https://images.unsplash.com/photo-1612455037928-6e5c41f7add5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxDb3Jucm93cyUyMGFuZCUyMHR3aXN0JTIwYnJhaWRzJTIwdGVjaG5pcXVlc3xlbnwxfDF8fHwxNzgxOTE3MjI5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1612455037928-6e5c41f7add5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxDb3Jucm93cyUyMGFuZCUyMHR3aXN0JTIwYnJhaWRzJTIwdGVjaG5pcXVlc3xlbnwxfDF8fHwxNzgxOTE3MjI5fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1612455037928-6e5c41f7add5?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxDb3Jucm93cyUyMGFuZCUyMHR3aXN0JTIwYnJhaWRzJTIwdGVjaG5pcXVlc3xlbnwxfDF8fHwxNzgxOTE3MjI5fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "man in brown hoodie with black braided hair",
+      "description": "",
+      "photographer": "Brock Wegner",
+      "photographer_url": "https://unsplash.com/@isthatbrock",
+      "photo_url": "https://unsplash.com/photos/man-in-brown-hoodie-with-black-braided-hair-uoUXWbujywk",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-20T01:00:01.889328+00:00"
+    },
     {
       "id": "Lcl8MoyK9XM",
       "url": "https://images.unsplash.com/photo-1694676799027-33e237cf007a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw5fHxMb2NzJTIwZHJlYWRsb2NrcyUyMG9mJTIwQmxhY2slMjB3b21hbiUyMGluJTIwc3R1ZGlvfGVufDF8MXx8fDE3ODE4OTkyMjJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-19T03:05:06.851128+00:00"
-    },
-    {
-      "id": "AZpeXg6Z4bQ",
-      "url": "https://images.unsplash.com/photo-1760559159029-685af4905fb2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8RnVsYW5pJTIwYnJhaWRzJTIwYW5kJTIwQWZyaWNhbiUyMGN1bHR1cmUlMjBwaG90b3N8ZW58MXwxfHx8MTc4MTgzNDQyMnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1760559159029-685af4905fb2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8RnVsYW5pJTIwYnJhaWRzJTIwYW5kJTIwQWZyaWNhbiUyMGN1bHR1cmUlMjBwaG90b3N8ZW58MXwxfHx8MTc4MTgzNDQyMnww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1760559159029-685af4905fb2?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8RnVsYW5pJTIwYnJhaWRzJTIwYW5kJTIwQWZyaWNhbiUyMGN1bHR1cmUlMjBwaG90b3N8ZW58MXwxfHx8MTc4MTgzNDQyMnww&ixlib=rb-4.1.0&q=85",
-      "alt": "Woman carries large bundle of green leaves on head",
-      "description": "African woman carries branches on her head along the road in Uganda.",
-      "photographer": "Lisa Marie Theck",
-      "photographer_url": "https://unsplash.com/@lisa_marie_theck",
-      "photo_url": "https://unsplash.com/photos/woman-carries-large-bundle-of-green-leaves-on-head-AZpeXg6Z4bQ",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-19T02:00:02.959225+00:00"
     }
   ],
-  "updated_at": "2026-06-20T00:02:23.019994+00:00"
+  "updated_at": "2026-06-20T01:00:59.267684+00:00"
 }
