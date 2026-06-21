@@ -1,6 +1,21 @@
 {
-  "summary": "Get ready to slay with this week's top Black and African hair trends, showcasing vibrant styles that are taking over social media right now!",
+  "summary": "Get ready to be dazzled by the latest styles and must-haves in Black and African hair trends that are making waves this season!",
   "images": [
+    {
+      "id": "PSgcA2OvOIU",
+      "url": "https://images.unsplash.com/photo-1677759337900-bfebae5be4b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8Q3JvY2hldCUyMEJyYWlkcyUyMEJveCUyMEJyYWlkcyUyMEFmcmljYW4lMjBBbWVyaWNhbiUyME1vZGVsc3xlbnwxfDF8fHwxNzgyMDE4MDIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1677759337900-bfebae5be4b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8Q3JvY2hldCUyMEJyYWlkcyUyMEJveCUyMEJyYWlkcyUyMEFmcmljYW4lMjBBbWVyaWNhbiUyME1vZGVsc3xlbnwxfDF8fHwxNzgyMDE4MDIzfDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1677759337900-bfebae5be4b6?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8Q3JvY2hldCUyMEJyYWlkcyUyMEJveCUyMEJyYWlkcyUyMEFmcmljYW4lMjBBbWVyaWNhbiUyME1vZGVsc3xlbnwxfDF8fHwxNzgyMDE4MDIzfDA&ixlib=rb-4.1.0&q=85",
+      "alt": "a woman with dreadlocks holding her hand up to her face",
+      "description": "",
+      "photographer": "Tide_trasher_x",
+      "photographer_url": "https://unsplash.com/@tide_trasher_x",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-dreadlocks-holding-her-hand-up-to-her-face-PSgcA2OvOIU",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-21T05:00:02.213539+00:00"
+    },
     {
       "id": "LXpfiRAweYE",
       "url": "https://images.unsplash.com/photo-1756749038332-e72f829ac736?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8QmVhdXRpZnVsJTIwY3JvY2hldCUyMGJyYWlkcyUyMG9uJTIwYW4lMjBhZnJvfGVufDF8MXx8fDE3ODIwMTQ0MzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-20T09:00:01.911580+00:00"
-    },
-    {
-      "id": "aSwIaNVNa1E",
-      "url": "https://images.unsplash.com/photo-1757866333063-4960512eee0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8U2lzdGVybG9ja3MlMjBvbiUyMEJsYWNrJTIwd29tYW4lMjdzJTIwc2NhbHAlMjBjbG9zZSUyMHVwfGVufDF8MXx8fDE3ODE5MjgwMDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1757866333063-4960512eee0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8U2lzdGVybG9ja3MlMjBvbiUyMEJsYWNrJTIwd29tYW4lMjdzJTIwc2NhbHAlMjBjbG9zZSUyMHVwfGVufDF8MXx8fDE3ODE5MjgwMDl8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1757866333063-4960512eee0c?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8U2lzdGVybG9ja3MlMjBvbiUyMEJsYWNrJTIwd29tYW4lMjdzJTIwc2NhbHAlMjBjbG9zZSUyMHVwfGVufDF8MXx8fDE3ODE5MjgwMDl8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "Hands braiding dark, textured hair with a tool.",
-      "description": "",
-      "photographer": "Mohamed B.",
-      "photographer_url": "https://unsplash.com/@bangscreative",
-      "photo_url": "https://unsplash.com/photos/hands-braiding-dark-textured-hair-with-a-tool-aSwIaNVNa1E",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-20T04:00:02.035186+00:00"
     }
   ],
-  "updated_at": "2026-06-21T04:01:09.379327+00:00"
+  "updated_at": "2026-06-21T05:01:07.067398+00:00"
 }
