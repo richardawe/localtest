@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with this week's top Black and African hair trends, showcasing vibrant styles that are taking over social media right now!",
   "images": [
+    {
+      "id": "LXpfiRAweYE",
+      "url": "https://images.unsplash.com/photo-1756749038332-e72f829ac736?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8QmVhdXRpZnVsJTIwY3JvY2hldCUyMGJyYWlkcyUyMG9uJTIwYW4lMjBhZnJvfGVufDF8MXx8fDE3ODIwMTQ0MzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1756749038332-e72f829ac736?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8QmVhdXRpZnVsJTIwY3JvY2hldCUyMGJyYWlkcyUyMG9uJTIwYW4lMjBhZnJvfGVufDF8MXx8fDE3ODIwMTQ0MzN8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1756749038332-e72f829ac736?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8QmVhdXRpZnVsJTIwY3JvY2hldCUyMGJyYWlkcyUyMG9uJTIwYW4lMjBhZnJvfGVufDF8MXx8fDE3ODIwMTQ0MzN8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "Young woman with afro hair in a white sweater",
+      "description": "",
+      "photographer": "Christian Agbede",
+      "photographer_url": "https://unsplash.com/@chriscreations__",
+      "photo_url": "https://unsplash.com/photos/young-woman-with-afro-hair-in-a-white-sweater-LXpfiRAweYE",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-21T04:00:01.943576+00:00"
+    },
     {
       "id": "DtXZDtm7SVQ",
       "url": "https://images.unsplash.com/photo-1779181685949-13d8ce49a849?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxM3x8UmVsYXhlZCUyMGhhaXIlMjBpbiUyMHZhcmlvdXMlMjBnbGFtb3JvdXMlMjBzdHlsZXN8ZW58MXwxfHx8MTc4MjAwMDAwOHww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-20T04:00:02.035186+00:00"
-    },
-    {
-      "id": "uoUXWbujywk",
-      "url": "https://images.unsplash.com/photo-1612455037928-6e5c41f7add5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxDb3Jucm93cyUyMGFuZCUyMHR3aXN0JTIwYnJhaWRzJTIwdGVjaG5pcXVlc3xlbnwxfDF8fHwxNzgxOTE3MjI5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1612455037928-6e5c41f7add5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxDb3Jucm93cyUyMGFuZCUyMHR3aXN0JTIwYnJhaWRzJTIwdGVjaG5pcXVlc3xlbnwxfDF8fHwxNzgxOTE3MjI5fDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1612455037928-6e5c41f7add5?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxDb3Jucm93cyUyMGFuZCUyMHR3aXN0JTIwYnJhaWRzJTIwdGVjaG5pcXVlc3xlbnwxfDF8fHwxNzgxOTE3MjI5fDA&ixlib=rb-4.1.0&q=85",
-      "alt": "man in brown hoodie with black braided hair",
-      "description": "",
-      "photographer": "Brock Wegner",
-      "photographer_url": "https://unsplash.com/@isthatbrock",
-      "photo_url": "https://unsplash.com/photos/man-in-brown-hoodie-with-black-braided-hair-uoUXWbujywk",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-20T01:00:01.889328+00:00"
     }
   ],
-  "updated_at": "2026-06-21T03:00:55.705881+00:00"
+  "updated_at": "2026-06-21T04:01:09.379327+00:00"
 }
