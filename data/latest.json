@@ -1,6 +1,21 @@
 {
-  "summary": "Get ready to slay with this month's must-know Black and African women's hair trends, featuring bold styles that are taking over social media!",
+  "summary": "Get ready to slay with this month's spotlight on the most sought-after Black and African hairstyles, featuring trends that are totally current!",
   "images": [
+    {
+      "id": "DtXZDtm7SVQ",
+      "url": "https://images.unsplash.com/photo-1779181685949-13d8ce49a849?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxM3x8UmVsYXhlZCUyMGhhaXIlMjBpbiUyMHZhcmlvdXMlMjBnbGFtb3JvdXMlMjBzdHlsZXN8ZW58MXwxfHx8MTc4MjAwMDAwOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1779181685949-13d8ce49a849?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxM3x8UmVsYXhlZCUyMGhhaXIlMjBpbiUyMHZhcmlvdXMlMjBnbGFtb3JvdXMlMjBzdHlsZXN8ZW58MXwxfHx8MTc4MjAwMDAwOHww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1779181685949-13d8ce49a849?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxM3x8UmVsYXhlZCUyMGhhaXIlMjBpbiUyMHZhcmlvdXMlMjBnbGFtb3JvdXMlMjBzdHlsZXN8ZW58MXwxfHx8MTc4MjAwMDAwOHww&ixlib=rb-4.1.0&q=85",
+      "alt": "Young black woman with short hair wearing red dress.",
+      "description": "",
+      "photographer": "Christian Agbede",
+      "photographer_url": "https://unsplash.com/@chriscreations__",
+      "photo_url": "https://unsplash.com/photos/young-black-woman-with-short-hair-wearing-red-dress-DtXZDtm7SVQ",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-21T00:00:01.966235+00:00"
+    },
     {
       "id": "PfH1KwUcN3U",
       "url": "https://images.unsplash.com/photo-1714124731489-7eb16af0ac91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzfHxCYW50dSUyMGtub3RzJTIwaW4lMjB0cmFkaXRpb25hbCUyMFlvcnViYSUyMGN1bHR1cmV8ZW58MXwxfHx8MTc4MTk5NjQzMXww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-20T01:00:01.889328+00:00"
-    },
-    {
-      "id": "Lcl8MoyK9XM",
-      "url": "https://images.unsplash.com/photo-1694676799027-33e237cf007a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw5fHxMb2NzJTIwZHJlYWRsb2NrcyUyMG9mJTIwQmxhY2slMjB3b21hbiUyMGluJTIwc3R1ZGlvfGVufDF8MXx8fDE3ODE4OTkyMjJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1694676799027-33e237cf007a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw5fHxMb2NzJTIwZHJlYWRsb2NrcyUyMG9mJTIwQmxhY2slMjB3b21hbiUyMGluJTIwc3R1ZGlvfGVufDF8MXx8fDE3ODE4OTkyMjJ8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1694676799027-33e237cf007a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw5fHxMb2NzJTIwZHJlYWRsb2NrcyUyMG9mJTIwQmxhY2slMjB3b21hbiUyMGluJTIwc3R1ZGlvfGVufDF8MXx8fDE3ODE4OTkyMjJ8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "a person with dreadlocks standing in a dark room",
-      "description": "",
-      "photographer": "Nathan Ayoola",
-      "photographer_url": "https://unsplash.com/@nathanayoola",
-      "photo_url": "https://unsplash.com/photos/a-person-with-dreadlocks-standing-in-a-dark-room-Lcl8MoyK9XM",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-19T20:00:02.138656+00:00"
     }
   ],
-  "updated_at": "2026-06-20T23:00:56.050347+00:00"
+  "updated_at": "2026-06-21T00:02:22.724369+00:00"
 }
