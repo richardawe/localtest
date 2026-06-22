@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with the latest and greatest in Afrocentric beauty, as we dive into this season's top Black and African women's hair trends!",
   "images": [
+    {
+      "id": "XIj_G608oto",
+      "url": "https://images.unsplash.com/photo-1741886422073-24cd7f62e9dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxM3x8V2VhdmUlMjBFeHRlbnNpb25zJTIwb24lMjBCZWF1dGlmdWwlMjBBZnJpY2FuJTIwRmFjZXxlbnwxfDF8fHwxNzgyMTY1ODczfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1741886422073-24cd7f62e9dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxM3x8V2VhdmUlMjBFeHRlbnNpb25zJTIwb24lMjBCZWF1dGlmdWwlMjBBZnJpY2FuJTIwRmFjZXxlbnwxfDF8fHwxNzgyMTY1ODczfDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1741886422073-24cd7f62e9dc?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxM3x8V2VhdmUlMjBFeHRlbnNpb25zJTIwb24lMjBCZWF1dGlmdWwlMjBBZnJpY2FuJTIwRmFjZXxlbnwxfDF8fHwxNzgyMTY1ODczfDA&ixlib=rb-4.1.0&q=85",
+      "alt": "Beautiful woman wearing red necklace and earrings.",
+      "description": "African woman wearing red and gold jewelry walking",
+      "photographer": "Divaris Shirichena",
+      "photographer_url": "https://unsplash.com/@divaris",
+      "photo_url": "https://unsplash.com/photos/beautiful-woman-wearing-red-necklace-and-earrings-XIj_G608oto",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-22T22:04:07.087930+00:00"
+    },
     {
       "id": "YXAaVPwv3tM",
       "url": "https://images.unsplash.com/photo-1623761914357-df55818ce153?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8RnVsYW5pJTIwYnJhaWRzJTIwb24lMjBCbGFjayUyMGJlYXV0eSUyMG1vZGVsfGVufDF8MXx8fDE3ODIwOTcyMTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-20T15:00:02.032483+00:00"
-    },
-    {
-      "id": "Zg1PlESsZx0",
-      "url": "https://images.unsplash.com/photo-1758738181010-22bccb5ee292?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8Q3JvY2hldCUyMGJyYWlkcyUyMGluJTIwY3VybHklMjBibGFjayUyMGhhaXJ8ZW58MXwxfHx8MTc4MTk2NzYxNnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1758738181010-22bccb5ee292?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8Q3JvY2hldCUyMGJyYWlkcyUyMGluJTIwY3VybHklMjBibGFjayUyMGhhaXJ8ZW58MXwxfHx8MTc4MTk2NzYxNnww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1758738181010-22bccb5ee292?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8Q3JvY2hldCUyMGJyYWlkcyUyMGluJTIwY3VybHklMjBibGFjayUyMGhhaXJ8ZW58MXwxfHx8MTc4MTk2NzYxNnww&ixlib=rb-4.1.0&q=85",
-      "alt": "A woman with dark curly hair and makeup.",
-      "description": "",
-      "photographer": "mokhalad musavi",
-      "photographer_url": "https://unsplash.com/@mokhalad",
-      "photo_url": "https://unsplash.com/photos/a-woman-with-dark-curly-hair-and-makeup-Zg1PlESsZx0",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-20T15:00:02.032483+00:00"
     }
   ],
-  "updated_at": "2026-06-22T21:03:51.329918+00:00"
+  "updated_at": "2026-06-22T22:17:00.538966+00:00"
 }

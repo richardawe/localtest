@@ -390,6 +390,21 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-22T03:00:02.255445+00:00"
+    },
+    {
+      "id": "XIj_G608oto",
+      "url": "https://images.unsplash.com/photo-1741886422073-24cd7f62e9dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxM3x8V2VhdmUlMjBFeHRlbnNpb25zJTIwb24lMjBCZWF1dGlmdWwlMjBBZnJpY2FuJTIwRmFjZXxlbnwxfDF8fHwxNzgyMTY1ODczfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1741886422073-24cd7f62e9dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxM3x8V2VhdmUlMjBFeHRlbnNpb25zJTIwb24lMjBCZWF1dGlmdWwlMjBBZnJpY2FuJTIwRmFjZXxlbnwxfDF8fHwxNzgyMTY1ODczfDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1741886422073-24cd7f62e9dc?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxM3x8V2VhdmUlMjBFeHRlbnNpb25zJTIwb24lMjBCZWF1dGlmdWwlMjBBZnJpY2FuJTIwRmFjZXxlbnwxfDF8fHwxNzgyMTY1ODczfDA&ixlib=rb-4.1.0&q=85",
+      "alt": "Beautiful woman wearing red necklace and earrings.",
+      "description": "African woman wearing red and gold jewelry walking",
+      "photographer": "Divaris Shirichena",
+      "photographer_url": "https://unsplash.com/@divaris",
+      "photo_url": "https://unsplash.com/photos/beautiful-woman-wearing-red-necklace-and-earrings-XIj_G608oto",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-22T22:04:07.087930+00:00"
     }
   ]
 }
