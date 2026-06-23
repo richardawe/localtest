@@ -1,6 +1,36 @@
 {
-  "summary": "Get ready to slay with today's hottest looks, featuring vibrant braids, bold Afros, and stunning natural textures that showcase the beauty of Black and African women's hair!",
+  "summary": "Get ready to slay with this month's top picks for fresh, fabulous hairstyles straight from the world of Black and African beauty!",
   "images": [
+    {
+      "id": "C4ZwyIsx6VE",
+      "url": "https://images.unsplash.com/photo-1665050847323-97b44296ed63?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8QmxhY2slMjB3b21hbiUyMHdpdGglMjBsb2NzJTIwaW4lMjB0aGUlMjBzdW58ZW58MXwxfHx8MTc4MjIxOTY2NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1665050847323-97b44296ed63?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8QmxhY2slMjB3b21hbiUyMHdpdGglMjBsb2NzJTIwaW4lMjB0aGUlMjBzdW58ZW58MXwxfHx8MTc4MjIxOTY2NXww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1665050847323-97b44296ed63?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8QmxhY2slMjB3b21hbiUyMHdpdGglMjBsb2NzJTIwaW4lMjB0aGUlMjBzdW58ZW58MXwxfHx8MTc4MjIxOTY2NXww&ixlib=rb-4.1.0&q=85",
+      "alt": "a person standing on a beach",
+      "description": "Curly haired woman by the beach at sunset",
+      "photographer": "Michael Starkie",
+      "photographer_url": "https://unsplash.com/@starkie_pics",
+      "photo_url": "https://unsplash.com/photos/a-person-standing-on-a-beach-C4ZwyIsx6VE",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-23T13:01:04.343438+00:00"
+    },
+    {
+      "id": "Rf-i_yzYMik",
+      "url": "https://images.unsplash.com/photo-1722108990427-f0a5dae938f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8QmxhY2slMjBtb2RlbCUyMHdpdGglMjByZWxheGVkJTIwaGFpciUyMHBvc2luZ3xlbnwxfDF8fHwxNzgyMjE5Njg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1722108990427-f0a5dae938f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8QmxhY2slMjBtb2RlbCUyMHdpdGglMjByZWxheGVkJTIwaGFpciUyMHBvc2luZ3xlbnwxfDF8fHwxNzgyMjE5Njg3fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1722108990427-f0a5dae938f7?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8QmxhY2slMjBtb2RlbCUyMHdpdGglMjByZWxheGVkJTIwaGFpciUyMHBvc2luZ3xlbnwxfDF8fHwxNzgyMjE5Njg3fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman with an afro is posing for a picture",
+      "description": "",
+      "photographer": "Hoai Thanh",
+      "photographer_url": "https://unsplash.com/@hoaithanhphoto",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-an-afro-is-posing-for-a-picture-Rf-i_yzYMik",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-23T13:01:04.343438+00:00"
+    },
     {
       "id": "4ah9DlX7uxg",
       "url": "https://images.unsplash.com/photo-1672243176920-c0bda4b6909c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw0fHxCbGFjayUyMHdvbWVuJTI3cyUyMGhhaXJzdHlsZXMlMjBpbiUyMHRyYWRpdGlvbmFsJTIwd2VhcnxlbnwxfDF8fHwxNzgyMjE3MTQ0fDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -270,37 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-21T22:00:02.132719+00:00"
-    },
-    {
-      "id": "JDjLPmKDgsc",
-      "url": "https://images.unsplash.com/photo-1714617006524-13c7bf829893?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8R2hhbmFpYW4lMjB3b21lbiUyMHdpdGglMjBsb25nJTIwYm94JTIwYnJhaWRzfGVufDF8MXx8fDE3ODIwNzkyMjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1714617006524-13c7bf829893?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8R2hhbmFpYW4lMjB3b21lbiUyMHdpdGglMjBsb25nJTIwYm94JTIwYnJhaWRzfGVufDF8MXx8fDE3ODIwNzkyMjh8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1714617006524-13c7bf829893?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8R2hhbmFpYW4lMjB3b21lbiUyMHdpdGglMjBsb25nJTIwYm94JTIwYnJhaWRzfGVufDF8MXx8fDE3ODIwNzkyMjh8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "a woman with braids is posing for a picture",
-      "description": "",
-      "photographer": "Stephen Tettey Atsu",
-      "photographer_url": "https://unsplash.com/@atsu_tettey",
-      "photo_url": "https://unsplash.com/photos/a-woman-with-braids-is-posing-for-a-picture-JDjLPmKDgsc",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-21T22:00:02.132719+00:00"
-    },
-    {
-      "id": "u6Bu2LrNdfI",
-      "url": "https://images.unsplash.com/photo-1763013373677-dbbfae859b6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8TG9jcyUyMG9uJTIwQmxhY2slMjB3b21lbiUyN3MlMjBoZWFkcyUyMHBob3RvZ3JhcGh5fGVufDF8MXx8fDE3ODIwNzkyNDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1763013373677-dbbfae859b6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8TG9jcyUyMG9uJTIwQmxhY2slMjB3b21lbiUyN3MlMjBoZWFkcyUyMHBob3RvZ3JhcGh5fGVufDF8MXx8fDE3ODIwNzkyNDF8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1763013373677-dbbfae859b6d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8TG9jcyUyMG9uJTIwQmxhY2slMjB3b21lbiUyN3MlMjBoZWFkcyUyMHBob3RvZ3JhcGh5fGVufDF8MXx8fDE3ODIwNzkyNDF8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "Woman with dreadlocks smiling, hands in hair.",
-      "description": "",
-      "photographer": "Brooke Balentine",
-      "photographer_url": "https://unsplash.com/@brookebalentine",
-      "photo_url": "https://unsplash.com/photos/woman-with-dreadlocks-smiling-hands-in-hair-u6Bu2LrNdfI",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-21T22:00:02.132719+00:00"
     }
   ],
-  "updated_at": "2026-06-23T12:19:54.777588+00:00"
+  "updated_at": "2026-06-23T13:11:18.704312+00:00"
 }
