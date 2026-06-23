@@ -1,6 +1,36 @@
 {
-  "summary": "Get ready for a vibrant showcase of the hottest, most innovative hairstyles from Africa and its diaspora - today's Black beauty trends are serving LOOKS!",
+  "summary": "Get ready to slay with today's hottest looks, featuring vibrant braids, bold Afros, and stunning natural textures that showcase the beauty of Black and African women's hair!",
   "images": [
+    {
+      "id": "4ah9DlX7uxg",
+      "url": "https://images.unsplash.com/photo-1672243176920-c0bda4b6909c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw0fHxCbGFjayUyMHdvbWVuJTI3cyUyMGhhaXJzdHlsZXMlMjBpbiUyMHRyYWRpdGlvbmFsJTIwd2VhcnxlbnwxfDF8fHwxNzgyMjE3MTQ0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1672243176920-c0bda4b6909c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw0fHxCbGFjayUyMHdvbWVuJTI3cyUyMGhhaXJzdHlsZXMlMjBpbiUyMHRyYWRpdGlvbmFsJTIwd2VhcnxlbnwxfDF8fHwxNzgyMjE3MTQ0fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1672243176920-c0bda4b6909c?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw0fHxCbGFjayUyMHdvbWVuJTI3cyUyMGhhaXJzdHlsZXMlMjBpbiUyMHRyYWRpdGlvbmFsJTIwd2VhcnxlbnwxfDF8fHwxNzgyMjE3MTQ0fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "a woman sitting on top of a white chair",
+      "description": "Beautiful black woman wearing an orange dress",
+      "photographer": "Victor Eke",
+      "photographer_url": "https://unsplash.com/@victoreke",
+      "photo_url": "https://unsplash.com/photos/a-woman-sitting-on-top-of-a-white-chair-4ah9DlX7uxg",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-23T12:14:42.043111+00:00"
+    },
+    {
+      "id": "VFEbzdlXsSU",
+      "url": "https://images.unsplash.com/photo-1687052093309-7a14efa58ecb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxCbGFjayUyMHdvbWVuJTI3cyUyMGhhaXJzdHlsZXMlMjBpbiUyMHRyYWRpdGlvbmFsJTIwd2VhcnxlbnwxfDF8fHwxNzgyMjE3MTQ0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1687052093309-7a14efa58ecb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxCbGFjayUyMHdvbWVuJTI3cyUyMGhhaXJzdHlsZXMlMjBpbiUyMHRyYWRpdGlvbmFsJTIwd2VhcnxlbnwxfDF8fHwxNzgyMjE3MTQ0fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1687052093309-7a14efa58ecb?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxCbGFjayUyMHdvbWVuJTI3cyUyMGhhaXJzdHlsZXMlMjBpbiUyMHRyYWRpdGlvbmFsJTIwd2VhcnxlbnwxfDF8fHwxNzgyMjE3MTQ0fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "a woman dressed in a traditional african costume",
+      "description": "",
+      "photographer": "Ibrahima Toure",
+      "photographer_url": "https://unsplash.com/@gringophoto",
+      "photo_url": "https://unsplash.com/photos/a-woman-dressed-in-a-traditional-african-costume-VFEbzdlXsSU",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-23T12:14:42.043111+00:00"
+    },
     {
       "id": "ctkcWOWceVI",
       "url": "https://images.unsplash.com/photo-1774380543814-6370ab1a1c42?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNHx8QWZyaWNhbiUyMFdvbWFuJTI3cyUyMERyZWFkbG9ja3MlMjBpbiUyME5hdHVyZSUyMFNldHRpbmdzfGVufDF8MXx8fDE3ODIyMTI2MzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -270,37 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-21T22:00:02.132719+00:00"
-    },
-    {
-      "id": "oRYL-MZQmtw",
-      "url": "https://images.unsplash.com/photo-1767249606821-11b6fa4f4bc4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw4fHxCbGFjayUyMGxhZGllcyUyMHdpdGglMjBjcm9jaGV0JTIwYnJhaWRzJTIwcGhvdG9zaG9vdHxlbnwxfDF8fHwxNzgyMDM5NjA5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1767249606821-11b6fa4f4bc4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw4fHxCbGFjayUyMGxhZGllcyUyMHdpdGglMjBjcm9jaGV0JTIwYnJhaWRzJTIwcGhvdG9zaG9vdHxlbnwxfDF8fHwxNzgyMDM5NjA5fDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1767249606821-11b6fa4f4bc4?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw4fHxCbGFjayUyMGxhZGllcyUyMHdpdGglMjBjcm9jaGV0JTIwYnJhaWRzJTIwcGhvdG9zaG9vdHxlbnwxfDF8fHwxNzgyMDM5NjA5fDA&ixlib=rb-4.1.0&q=85",
-      "alt": "Woman with braided hair and red sunglasses",
-      "description": "",
-      "photographer": "Michael Kyule",
-      "photographer_url": "https://unsplash.com/@madness_leahcim_",
-      "photo_url": "https://unsplash.com/photos/woman-with-braided-hair-and-red-sunglasses-oRYL-MZQmtw",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-21T11:00:02.062990+00:00"
-    },
-    {
-      "id": "PSgcA2OvOIU",
-      "url": "https://images.unsplash.com/photo-1677759337900-bfebae5be4b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8Q3JvY2hldCUyMEJyYWlkcyUyMEJveCUyMEJyYWlkcyUyMEFmcmljYW4lMjBBbWVyaWNhbiUyME1vZGVsc3xlbnwxfDF8fHwxNzgyMDE4MDIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1677759337900-bfebae5be4b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8Q3JvY2hldCUyMEJyYWlkcyUyMEJveCUyMEJyYWlkcyUyMEFmcmljYW4lMjBBbWVyaWNhbiUyME1vZGVsc3xlbnwxfDF8fHwxNzgyMDE4MDIzfDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1677759337900-bfebae5be4b6?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8Q3JvY2hldCUyMEJyYWlkcyUyMEJveCUyMEJyYWlkcyUyMEFmcmljYW4lMjBBbWVyaWNhbiUyME1vZGVsc3xlbnwxfDF8fHwxNzgyMDE4MDIzfDA&ixlib=rb-4.1.0&q=85",
-      "alt": "a woman with dreadlocks holding her hand up to her face",
-      "description": "",
-      "photographer": "Tide_trasher_x",
-      "photographer_url": "https://unsplash.com/@tide_trasher_x",
-      "photo_url": "https://unsplash.com/photos/a-woman-with-dreadlocks-holding-her-hand-up-to-her-face-PSgcA2OvOIU",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-21T05:00:02.213539+00:00"
     }
   ],
-  "updated_at": "2026-06-23T11:07:27.660485+00:00"
+  "updated_at": "2026-06-23T12:19:54.777588+00:00"
 }
