@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with today's hottest hairstyles, as we dive into the most iconic and trending looks of Black and African women's hair!",
   "images": [
+    {
+      "id": "BWhzBaR79CM",
+      "url": "https://images.unsplash.com/photo-1696471630638-2cc120d0b483?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8V29tZW4lMjB3aXRoJTIwYWZybyUyMHRleHR1cmVzJTIwYW5kJTIwcGF0dGVybnN8ZW58MXwxfHx8MTc4MjIyNjgzN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1696471630638-2cc120d0b483?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8V29tZW4lMjB3aXRoJTIwYWZybyUyMHRleHR1cmVzJTIwYW5kJTIwcGF0dGVybnN8ZW58MXwxfHx8MTc4MjIyNjgzN3ww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1696471630638-2cc120d0b483?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8V29tZW4lMjB3aXRoJTIwYWZybyUyMHRleHR1cmVzJTIwYW5kJTIwcGF0dGVybnN8ZW58MXwxfHx8MTc4MjIyNjgzN3ww&ixlib=rb-4.1.0&q=85",
+      "alt": "a woman with an afro standing in front of a wall",
+      "description": "Pride001",
+      "photographer": "Stephen Tettey Atsu",
+      "photographer_url": "https://unsplash.com/@atsu_tettey",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-an-afro-standing-in-front-of-a-wall-BWhzBaR79CM",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-23T15:00:05.791237+00:00"
+    },
     {
       "id": "C4ZwyIsx6VE",
       "url": "https://images.unsplash.com/photo-1665050847323-97b44296ed63?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8QmxhY2slMjB3b21hbiUyMHdpdGglMjBsb2NzJTIwaW4lMjB0aGUlMjBzdW58ZW58MXwxfHx8MTc4MjIxOTY2NXww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-22T01:00:02.138933+00:00"
-    },
-    {
-      "id": "oq0xrZnI-KI",
-      "url": "https://images.unsplash.com/photo-1637932053449-40e8ee48b5f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8R2hhbmFpYW4lMjB3b21lbiUyMHdpdGglMjBsb25nJTIwYm94JTIwYnJhaWRzfGVufDF8MXx8fDE3ODIwNzkyMjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1637932053449-40e8ee48b5f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8R2hhbmFpYW4lMjB3b21lbiUyMHdpdGglMjBsb25nJTIwYm94JTIwYnJhaWRzfGVufDF8MXx8fDE3ODIwNzkyMjh8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1637932053449-40e8ee48b5f6?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8R2hhbmFpYW4lMjB3b21lbiUyMHdpdGglMjBsb25nJTIwYm94JTIwYnJhaWRzfGVufDF8MXx8fDE3ODIwNzkyMjh8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "a woman with dreadlocks standing in front of a building",
-      "description": "",
-      "photographer": "Eli Ayeke",
-      "photographer_url": "https://unsplash.com/@dir_elj",
-      "photo_url": "https://unsplash.com/photos/a-woman-with-dreadlocks-standing-in-front-of-a-building-oq0xrZnI-KI",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-21T22:00:02.132719+00:00"
     }
   ],
-  "updated_at": "2026-06-23T14:32:22.940540+00:00"
+  "updated_at": "2026-06-23T15:01:07.903937+00:00"
 }
