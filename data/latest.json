@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with today's hottest hairstyles, as we dive into the latest Black and African women's hair trends that are taking over the scene!",
   "images": [
+    {
+      "id": "cH52CCWQx8o",
+      "url": "https://images.unsplash.com/photo-1737599721013-9f9f78588b0d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8TmF0dXJhbCUyMGFmcm8lMjB0ZXh0dXJlcyUyMHBob3RvZ3JhcGhlZCUyMGNsb3NlbHklMjB1cHxlbnwxfDF8fHwxNzgyNDE3ODUxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1737599721013-9f9f78588b0d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8TmF0dXJhbCUyMGFmcm8lMjB0ZXh0dXJlcyUyMHBob3RvZ3JhcGhlZCUyMGNsb3NlbHklMjB1cHxlbnwxfDF8fHwxNzgyNDE3ODUxfDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1737599721013-9f9f78588b0d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8TmF0dXJhbCUyMGFmcm8lMjB0ZXh0dXJlcyUyMHBob3RvZ3JhcGhlZCUyMGNsb3NlbHklMjB1cHxlbnwxfDF8fHwxNzgyNDE3ODUxfDA&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman with an afro standing in the woods",
+      "description": "",
+      "photographer": "Malama Mushitu",
+      "photographer_url": "https://unsplash.com/@ragnampiza",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-an-afro-standing-in-the-woods-cH52CCWQx8o",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-25T20:03:41.690723+00:00"
+    },
     {
       "id": "dUBemJ4YzUc",
       "url": "https://images.unsplash.com/photo-1744808317816-fdb0f4c025ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8V29tZW4lMjB3aXRoJTIwbG9jcyUyMGluJTIwQWZyaWNhfGVufDF8MXx8fDE3ODIzODkwNjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-23T04:08:06.039352+00:00"
-    },
-    {
-      "id": "kvMiRQ0_8mA",
-      "url": "https://images.unsplash.com/photo-1631954748601-81a82f83c3be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8QWZybyUyMGhhaXJzdHlsZXMlMjBmb3IlMjBibGFjayUyMHdvbWVuJTIwaW4lMjBuYXR1cmV8ZW58MXwxfHx8MTc4MjE2OTM4OHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1631954748601-81a82f83c3be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8QWZybyUyMGhhaXJzdHlsZXMlMjBmb3IlMjBibGFjayUyMHdvbWVuJTIwaW4lMjBuYXR1cmV8ZW58MXwxfHx8MTc4MjE2OTM4OHww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1631954748601-81a82f83c3be?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8QWZybyUyMGhhaXJzdHlsZXMlMjBmb3IlMjBibGFjayUyMHdvbWVuJTIwaW4lMjBuYXR1cmV8ZW58MXwxfHx8MTc4MjE2OTM4OHww&ixlib=rb-4.1.0&q=85",
-      "alt": "a woman standing in a field with flowers in her hair",
-      "description": "Girl playing with her afro hair and flowers ",
-      "photographer": "Christophe Dusabe",
-      "photographer_url": "https://unsplash.com/@bronzeshooter",
-      "photo_url": "https://unsplash.com/photos/a-woman-standing-in-a-field-with-flowers-in-her-hair-kvMiRQ0_8mA",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-22T23:02:44.275755+00:00"
     }
   ],
-  "updated_at": "2026-06-25T19:05:09.282821+00:00"
+  "updated_at": "2026-06-25T20:04:55.597373+00:00"
 }
