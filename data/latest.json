@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with our latest scoop on the most on-trend styles from Black and African women's hair, straight from the current fashion scene!",
   "images": [
+    {
+      "id": "LeudxLK5RkU",
+      "url": "https://images.unsplash.com/photo-1740741702566-4d98a0296853?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8Q29ybnJvd3MlMjBhbmQlMjBCb3glMjBCcmFpZHMlMjBUcmFkaXRpb25hbCUyMEFmcmljYXxlbnwxfDF8fHwxNzgyNDI5MTg0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1740741702566-4d98a0296853?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8Q29ybnJvd3MlMjBhbmQlMjBCb3glMjBCcmFpZHMlMjBUcmFkaXRpb25hbCUyMEFmcmljYXxlbnwxfDF8fHwxNzgyNDI5MTg0fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1740741702566-4d98a0296853?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8Q29ybnJvd3MlMjBhbmQlMjBCb3glMjBCcmFpZHMlMjBUcmFkaXRpb25hbCUyMEFmcmljYXxlbnwxfDF8fHwxNzgyNDI5MTg0fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman with braids looking out of a window",
+      "description": "Portrait of an African woman",
+      "photographer": "Lisa Marie Theck",
+      "photographer_url": "https://unsplash.com/@lisa_marie_theck",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-braids-looking-out-of-a-window-LeudxLK5RkU",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-25T23:00:03.906413+00:00"
+    },
     {
       "id": "BLTE0Vlrb68",
       "url": "https://images.unsplash.com/photo-1747079300886-663f555c4860?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8RHJlYWRsb2NrZWQlMjBCbGFjayUyMFdvbWFuJTIwaW4lMjBOYXR1cmV8ZW58MXwxfHx8MTc4MjQyMTIxOXww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-23T09:01:30.938649+00:00"
-    },
-    {
-      "id": "bYz9DjNZbwQ",
-      "url": "https://images.unsplash.com/photo-1768076636882-b8015d21c0d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyfHxCb3glMjBCcmFpZHMlMjBvbiUyMEFmcmljYW4lMjBHaXJsJTI3cyUyMEJhY2slMjBWaWV3fGVufDF8MXx8fDE3ODIxODc2OTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1768076636882-b8015d21c0d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyfHxCb3glMjBCcmFpZHMlMjBvbiUyMEFmcmljYW4lMjBHaXJsJTI3cyUyMEJhY2slMjBWaWV3fGVufDF8MXx8fDE3ODIxODc2OTh8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1768076636882-b8015d21c0d0?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyfHxCb3glMjBCcmFpZHMlMjBvbiUyMEFmcmljYW4lMjBHaXJsJTI3cyUyMEJhY2slMjBWaWV3fGVufDF8MXx8fDE3ODIxODc2OTh8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "Person with braided hair wearing a light jacket",
-      "description": "",
-      "photographer": "Jonathan Majam",
-      "photographer_url": "https://unsplash.com/@jon__kelvin",
-      "photo_url": "https://unsplash.com/photos/person-with-braided-hair-wearing-a-light-jacket-bYz9DjNZbwQ",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-23T04:08:06.039352+00:00"
     }
   ],
-  "updated_at": "2026-06-25T22:12:47.244159+00:00"
+  "updated_at": "2026-06-25T23:13:44.303072+00:00"
 }
