@@ -735,6 +735,21 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-25T08:00:04.113977+00:00"
+    },
+    {
+      "id": "dUBemJ4YzUc",
+      "url": "https://images.unsplash.com/photo-1744808317816-fdb0f4c025ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8V29tZW4lMjB3aXRoJTIwbG9jcyUyMGluJTIwQWZyaWNhfGVufDF8MXx8fDE3ODIzODkwNjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1744808317816-fdb0f4c025ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8V29tZW4lMjB3aXRoJTIwbG9jcyUyMGluJTIwQWZyaWNhfGVufDF8MXx8fDE3ODIzODkwNjd8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1744808317816-fdb0f4c025ab?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8V29tZW4lMjB3aXRoJTIwbG9jcyUyMGluJTIwQWZyaWNhfGVufDF8MXx8fDE3ODIzODkwNjd8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "Woman walks with bowls balanced on her head.",
+      "description": "African woman in traditional clothing.",
+      "photographer": "David Geneugelijk",
+      "photographer_url": "https://unsplash.com/@davidgeneugelijk",
+      "photo_url": "https://unsplash.com/photos/woman-walks-with-bowls-balanced-on-her-head-dUBemJ4YzUc",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-25T12:04:00.671171+00:00"
     }
   ]
 }

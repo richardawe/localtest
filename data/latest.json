@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay the day with our latest spotlight on the most trendy, bold, and stunning Black and African women's hairstyles that are currently taking over social media!",
   "images": [
+    {
+      "id": "dUBemJ4YzUc",
+      "url": "https://images.unsplash.com/photo-1744808317816-fdb0f4c025ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8V29tZW4lMjB3aXRoJTIwbG9jcyUyMGluJTIwQWZyaWNhfGVufDF8MXx8fDE3ODIzODkwNjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1744808317816-fdb0f4c025ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8V29tZW4lMjB3aXRoJTIwbG9jcyUyMGluJTIwQWZyaWNhfGVufDF8MXx8fDE3ODIzODkwNjd8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1744808317816-fdb0f4c025ab?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8V29tZW4lMjB3aXRoJTIwbG9jcyUyMGluJTIwQWZyaWNhfGVufDF8MXx8fDE3ODIzODkwNjd8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "Woman walks with bowls balanced on her head.",
+      "description": "African woman in traditional clothing.",
+      "photographer": "David Geneugelijk",
+      "photographer_url": "https://unsplash.com/@davidgeneugelijk",
+      "photo_url": "https://unsplash.com/photos/woman-walks-with-bowls-balanced-on-her-head-dUBemJ4YzUc",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-25T12:04:00.671171+00:00"
+    },
     {
       "id": "nLZdNy5E-AE",
       "url": "https://images.unsplash.com/photo-1729369703141-93c06cbd7852?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8UmVsYXhlZCUyMHBlcm1lZCUyMGhhaXIlMjBpbiUyMG5hdHVyYWwlMjBsaWdodHxlbnwxfDF8fHwxNzgyMzc0NDA0fDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-22T23:02:44.275755+00:00"
-    },
-    {
-      "id": "XgMuGwOi_p8",
-      "url": "https://images.unsplash.com/photo-1649633885990-336819ea27b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8QWZybyUyMGhhaXJzdHlsZXMlMjBmb3IlMjBibGFjayUyMHdvbWVuJTIwaW4lMjBuYXR1cmV8ZW58MXwxfHx8MTc4MjE2OTM4OHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1649633885990-336819ea27b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8QWZybyUyMGhhaXJzdHlsZXMlMjBmb3IlMjBibGFjayUyMHdvbWVuJTIwaW4lMjBuYXR1cmV8ZW58MXwxfHx8MTc4MjE2OTM4OHww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1649633885990-336819ea27b8?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8QWZybyUyMGhhaXJzdHlsZXMlMjBmb3IlMjBibGFjayUyMHdvbWVuJTIwaW4lMjBuYXR1cmV8ZW58MXwxfHx8MTc4MjE2OTM4OHww&ixlib=rb-4.1.0&q=85",
-      "alt": "a woman with an afro smoking a cigarette",
-      "description": "",
-      "photographer": "Marlon Schmeiski",
-      "photographer_url": "https://unsplash.com/@marlonschmeiski",
-      "photo_url": "https://unsplash.com/photos/a-woman-with-an-afro-smoking-a-cigarette-XgMuGwOi_p8",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-22T23:02:44.275755+00:00"
     }
   ],
-  "updated_at": "2026-06-25T11:03:27.103794+00:00"
+  "updated_at": "2026-06-25T12:05:07.447174+00:00"
 }
