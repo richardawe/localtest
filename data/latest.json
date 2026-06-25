@@ -1,6 +1,36 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with today's sizzling hot Black and African hair trends, showcasing bold styles that are taking the world by storm!",
   "images": [
+    {
+      "id": "nLZdNy5E-AE",
+      "url": "https://images.unsplash.com/photo-1729369703141-93c06cbd7852?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8UmVsYXhlZCUyMHBlcm1lZCUyMGhhaXIlMjBpbiUyMG5hdHVyYWwlMjBsaWdodHxlbnwxfDF8fHwxNzgyMzc0NDA0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1729369703141-93c06cbd7852?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8UmVsYXhlZCUyMHBlcm1lZCUyMGhhaXIlMjBpbiUyMG5hdHVyYWwlMjBsaWdodHxlbnwxfDF8fHwxNzgyMzc0NDA0fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1729369703141-93c06cbd7852?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8UmVsYXhlZCUyMHBlcm1lZCUyMGhhaXIlMjBpbiUyMG5hdHVyYWwlMjBsaWdodHxlbnwxfDF8fHwxNzgyMzc0NDA0fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman standing in front of a glass wall",
+      "description": "A woman with braids is standing in front of a greenhouse",
+      "photographer": "Bruno Ngarukiye",
+      "photographer_url": "https://unsplash.com/@itsbrunoagain",
+      "photo_url": "https://unsplash.com/photos/a-woman-standing-in-front-of-a-glass-wall-nLZdNy5E-AE",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-25T08:00:04.113977+00:00"
+    },
+    {
+      "id": "Hwf9UIclfiw",
+      "url": "https://images.unsplash.com/photo-1781909907688-7c26289069b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8VGVlbmllJTIwd2VlbmllJTIwYWZybyUyMG1vZGVscyUyMGNsb3NlJTIwdXB8ZW58MXwxfHx8MTc4MjM3NDQyMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1781909907688-7c26289069b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8VGVlbmllJTIwd2VlbmllJTIwYWZybyUyMG1vZGVscyUyMGNsb3NlJTIwdXB8ZW58MXwxfHx8MTc4MjM3NDQyMXww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1781909907688-7c26289069b8?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8VGVlbmllJTIwd2VlbmllJTIwYWZybyUyMG1vZGVscyUyMGNsb3NlJTIwdXB8ZW58MXwxfHx8MTc4MjM3NDQyMXww&ixlib=rb-4.1.0&q=85",
+      "alt": "Smiling person with an afro hairstyle against a red background.",
+      "description": "Black skin, white mask",
+      "photographer": "Babarinde Tosin",
+      "photographer_url": "https://unsplash.com/@artistrypixels",
+      "photo_url": "https://unsplash.com/photos/smiling-person-with-an-afro-hairstyle-against-a-red-background-Hwf9UIclfiw",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-25T08:00:04.113977+00:00"
+    },
     {
       "id": "MrEWTdt48fk",
       "url": "https://images.unsplash.com/photo-1728040409836-9f77fc11d8ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8UHJvdGVjdGl2ZSUyMFN0eWxlJTIwQm94JTIwQnJhaWRzJTIwVW5zcGxhc2glMjBJbWFnZXN8ZW58MXwxfHx8MTc4MjM2MzYyNHww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -270,37 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-22T23:02:44.275755+00:00"
-    },
-    {
-      "id": "F2y-8X-4ufk",
-      "url": "https://images.unsplash.com/photo-1631954707834-fefbc3c67ae5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8QWZybyUyMGhhaXJzdHlsZXMlMjBmb3IlMjBibGFjayUyMHdvbWVuJTIwaW4lMjBuYXR1cmV8ZW58MXwxfHx8MTc4MjE2OTM4OHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1631954707834-fefbc3c67ae5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8QWZybyUyMGhhaXJzdHlsZXMlMjBmb3IlMjBibGFjayUyMHdvbWVuJTIwaW4lMjBuYXR1cmV8ZW58MXwxfHx8MTc4MjE2OTM4OHww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1631954707834-fefbc3c67ae5?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8QWZybyUyMGhhaXJzdHlsZXMlMjBmb3IlMjBibGFjayUyMHdvbWVuJTIwaW4lMjBuYXR1cmV8ZW58MXwxfHx8MTc4MjE2OTM4OHww&ixlib=rb-4.1.0&q=85",
-      "alt": "a woman is smiling and holding flowers in her hands",
-      "description": "Girl playing with her afro hair and flowers ",
-      "photographer": "Christophe Dusabe",
-      "photographer_url": "https://unsplash.com/@bronzeshooter",
-      "photo_url": "https://unsplash.com/photos/a-woman-is-smiling-and-holding-flowers-in-her-hands-F2y-8X-4ufk",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-22T23:02:44.275755+00:00"
-    },
-    {
-      "id": "RZZZGPJ6_Yk",
-      "url": "https://images.unsplash.com/photo-1649633885625-c88b86fb7a8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8QWZybyUyMGhhaXJzdHlsZXMlMjBmb3IlMjBibGFjayUyMHdvbWVuJTIwaW4lMjBuYXR1cmV8ZW58MXwxfHx8MTc4MjE2OTM4OHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1649633885625-c88b86fb7a8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8QWZybyUyMGhhaXJzdHlsZXMlMjBmb3IlMjBibGFjayUyMHdvbWVuJTIwaW4lMjBuYXR1cmV8ZW58MXwxfHx8MTc4MjE2OTM4OHww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1649633885625-c88b86fb7a8f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8QWZybyUyMGhhaXJzdHlsZXMlMjBmb3IlMjBibGFjayUyMHdvbWVuJTIwaW4lMjBuYXR1cmV8ZW58MXwxfHx8MTc4MjE2OTM4OHww&ixlib=rb-4.1.0&q=85",
-      "alt": "a woman with an afro standing on a beach",
-      "description": "",
-      "photographer": "Marlon Schmeiski",
-      "photographer_url": "https://unsplash.com/@marlonschmeiski",
-      "photo_url": "https://unsplash.com/photos/a-woman-with-an-afro-standing-on-a-beach-RZZZGPJ6_Yk",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-22T23:02:44.275755+00:00"
     }
   ],
-  "updated_at": "2026-06-25T07:01:03.328788+00:00"
+  "updated_at": "2026-06-25T08:01:37.782874+00:00"
 }
