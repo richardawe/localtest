@@ -1,6 +1,21 @@
 {
-  "summary": "Get ready to slay with today's hottest hairstyles, as we dive into the latest Black and African women's hair trends that are taking over the scene!",
+  "summary": "Get ready to groove with today's featured Black and African women's hair trends, showcasing vibrant styles that are fierce, fresh, and full of flair!",
   "images": [
+    {
+      "id": "BLTE0Vlrb68",
+      "url": "https://images.unsplash.com/photo-1747079300886-663f555c4860?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8RHJlYWRsb2NrZWQlMjBCbGFjayUyMFdvbWFuJTIwaW4lMjBOYXR1cmV8ZW58MXwxfHx8MTc4MjQyMTIxOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1747079300886-663f555c4860?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8RHJlYWRsb2NrZWQlMjBCbGFjayUyMFdvbWFuJTIwaW4lMjBOYXR1cmV8ZW58MXwxfHx8MTc4MjQyMTIxOXww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1747079300886-663f555c4860?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8RHJlYWRsb2NrZWQlMjBCbGFjayUyMFdvbWFuJTIwaW4lMjBOYXR1cmV8ZW58MXwxfHx8MTc4MjQyMTIxOXww&ixlib=rb-4.1.0&q=85",
+      "alt": "A person with dreads gazes upwards from tall grass.",
+      "description": "Model standing serenely in a sunlit field.",
+      "photographer": "Christian Agbede",
+      "photographer_url": "https://unsplash.com/@chriscreations__",
+      "photo_url": "https://unsplash.com/photos/a-person-with-dreads-gazes-upwards-from-tall-grass-BLTE0Vlrb68",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-25T21:00:04.489708+00:00"
+    },
     {
       "id": "cH52CCWQx8o",
       "url": "https://images.unsplash.com/photo-1737599721013-9f9f78588b0d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8TmF0dXJhbCUyMGFmcm8lMjB0ZXh0dXJlcyUyMHBob3RvZ3JhcGhlZCUyMGNsb3NlbHklMjB1cHxlbnwxfDF8fHwxNzgyNDE3ODUxfDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-23T04:08:06.039352+00:00"
-    },
-    {
-      "id": "PMGMBjF5g6s",
-      "url": "https://images.unsplash.com/photo-1765560216571-c36feaadb8a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxCb3glMjBCcmFpZHMlMjBvbiUyMEFmcmljYW4lMjBHaXJsJTI3cyUyMEJhY2slMjBWaWV3fGVufDF8MXx8fDE3ODIxODc2OTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1765560216571-c36feaadb8a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxCb3glMjBCcmFpZHMlMjBvbiUyMEFmcmljYW4lMjBHaXJsJTI3cyUyMEJhY2slMjBWaWV3fGVufDF8MXx8fDE3ODIxODc2OTh8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1765560216571-c36feaadb8a7?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxCb3glMjBCcmFpZHMlMjBvbiUyMEFmcmljYW4lMjBHaXJsJTI3cyUyMEJhY2slMjBWaWV3fGVufDF8MXx8fDE3ODIxODc2OTh8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "Woman with dreadlocks wearing a white top and jeans",
-      "description": "",
-      "photographer": "Michael Kyule",
-      "photographer_url": "https://unsplash.com/@madness_leahcim_",
-      "photo_url": "https://unsplash.com/photos/woman-with-dreadlocks-wearing-a-white-top-and-jeans-PMGMBjF5g6s",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-23T04:08:06.039352+00:00"
     }
   ],
-  "updated_at": "2026-06-25T20:04:55.597373+00:00"
+  "updated_at": "2026-06-25T21:01:30.285463+00:00"
 }
