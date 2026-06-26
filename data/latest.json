@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with today's most iconic Black and African women's hair trends that are currently taking over social media by storm!",
   "images": [
+    {
+      "id": "qimPKHr-ZlM",
+      "url": "https://images.unsplash.com/photo-1768088980275-cf844092e456?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8V2VhdmVzJTIwZXh0ZW5zaW9ucyUyMGxvbmclMjBjdXJseSUyMGJsYWNrJTIwaGFpcnN0eWxlc3xlbnwxfDF8fHwxNzgyNTEyMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1768088980275-cf844092e456?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8V2VhdmVzJTIwZXh0ZW5zaW9ucyUyMGxvbmclMjBjdXJseSUyMGJsYWNrJTIwaGFpcnN0eWxlc3xlbnwxfDF8fHwxNzgyNTEyMDAwfDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1768088980275-cf844092e456?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8V2VhdmVzJTIwZXh0ZW5zaW9ucyUyMGxvbmclMjBjdXJseSUyMGJsYWNrJTIwaGFpcnN0eWxlc3xlbnwxfDF8fHwxNzgyNTEyMDAwfDA&ixlib=rb-4.1.0&q=85",
+      "alt": "Woman with dark curly hair and blue feathers",
+      "description": "",
+      "photographer": "Marina Nazina",
+      "photographer_url": "https://unsplash.com/@nazinamari",
+      "photo_url": "https://unsplash.com/photos/woman-with-dark-curly-hair-and-blue-feathers-qimPKHr-ZlM",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-26T22:13:01.426801+00:00"
+    },
     {
       "id": "SNOZOmivlrw",
       "url": "https://images.unsplash.com/photo-1780245747707-a2f727ec8333?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8QWZyaWNhbiUyMHdvbWVuJTIwcHJvdGVjdGl2ZSUyMHN0eWxlcyUyMGZvciUyMGhhaXIlMjBjYXJlfGVufDF8MXx8fDE3ODI1MDQzMjl8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-23T21:00:06.068657+00:00"
-    },
-    {
-      "id": "BWhzBaR79CM",
-      "url": "https://images.unsplash.com/photo-1696471630638-2cc120d0b483?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8V29tZW4lMjB3aXRoJTIwYWZybyUyMHRleHR1cmVzJTIwYW5kJTIwcGF0dGVybnN8ZW58MXwxfHx8MTc4MjIyNjgzN3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1696471630638-2cc120d0b483?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8V29tZW4lMjB3aXRoJTIwYWZybyUyMHRleHR1cmVzJTIwYW5kJTIwcGF0dGVybnN8ZW58MXwxfHx8MTc4MjIyNjgzN3ww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1696471630638-2cc120d0b483?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8V29tZW4lMjB3aXRoJTIwYWZybyUyMHRleHR1cmVzJTIwYW5kJTIwcGF0dGVybnN8ZW58MXwxfHx8MTc4MjIyNjgzN3ww&ixlib=rb-4.1.0&q=85",
-      "alt": "a woman with an afro standing in front of a wall",
-      "description": "Pride001",
-      "photographer": "Stephen Tettey Atsu",
-      "photographer_url": "https://unsplash.com/@atsu_tettey",
-      "photo_url": "https://unsplash.com/photos/a-woman-with-an-afro-standing-in-front-of-a-wall-BWhzBaR79CM",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-23T15:00:05.791237+00:00"
     }
   ],
-  "updated_at": "2026-06-26T21:10:50.957109+00:00"
+  "updated_at": "2026-06-26T22:14:09.801050+00:00"
 }
