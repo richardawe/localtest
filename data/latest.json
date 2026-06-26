@@ -1,6 +1,21 @@
 {
-  "summary": "Get ready to slay with our latest scoop on the most on-trend styles from Black and African women's hair, straight from the current fashion scene!",
+  "summary": "Get ready to slay with today's sizzling hot picks for Black and African women's hairstyles that are taking over social media by storm!",
   "images": [
+    {
+      "id": "NbxWlzRT1vg",
+      "url": "https://images.unsplash.com/photo-1774773133644-265820b920d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8Qm94JTIwYnJhaWRzJTIwd2l0aCUyMGNvbG9yZnVsJTIwYmVhZHN8ZW58MXwxfHx8MTc4MjQzNTk2OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1774773133644-265820b920d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8Qm94JTIwYnJhaWRzJTIwd2l0aCUyMGNvbG9yZnVsJTIwYmVhZHN8ZW58MXwxfHx8MTc4MjQzNTk2OHww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1774773133644-265820b920d1?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8Qm94JTIwYnJhaWRzJTIwd2l0aCUyMGNvbG9yZnVsJTIwYmVhZHN8ZW58MXwxfHx8MTc4MjQzNTk2OHww&ixlib=rb-4.1.0&q=85",
+      "alt": "Young woman with beaded braids smiles outdoors.",
+      "description": "",
+      "photographer": "Michael Kyule",
+      "photographer_url": "https://unsplash.com/@madness_leahcim_",
+      "photo_url": "https://unsplash.com/photos/young-woman-with-beaded-braids-smiles-outdoors-NbxWlzRT1vg",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-26T01:05:30.110359+00:00"
+    },
     {
       "id": "LeudxLK5RkU",
       "url": "https://images.unsplash.com/photo-1740741702566-4d98a0296853?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8Q29ybnJvd3MlMjBhbmQlMjBCb3glMjBCcmFpZHMlMjBUcmFkaXRpb25hbCUyMEFmcmljYXxlbnwxfDF8fHwxNzgyNDI5MTg0fDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-23T09:01:30.938649+00:00"
-    },
-    {
-      "id": "IqftJfyYVR0",
-      "url": "https://images.unsplash.com/photo-1664629153251-ba6873479d15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8U2VuZWdhbGVzZSUyMFR3aXN0cyUyMGluJTIwQWZyaWNhbiUyMEJlYXV0eSUyMFBob3RvZ3JhcGh5fGVufDF8MXx8fDE3ODIyMDUzMTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1664629153251-ba6873479d15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8U2VuZWdhbGVzZSUyMFR3aXN0cyUyMGluJTIwQWZyaWNhbiUyMEJlYXV0eSUyMFBob3RvZ3JhcGh5fGVufDF8MXx8fDE3ODIyMDUzMTd8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1664629153251-ba6873479d15?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8U2VuZWdhbGVzZSUyMFR3aXN0cyUyMGluJTIwQWZyaWNhbiUyMEJlYXV0eSUyMFBob3RvZ3JhcGh5fGVufDF8MXx8fDE3ODIyMDUzMTd8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "a man with dark hair",
-      "description": "PORTRAIT OF A BEAUTIFUL AFRICAN BLACK GIRL",
-      "photographer": "Ali Drabo",
-      "photographer_url": "https://unsplash.com/@draboali33",
-      "photo_url": "https://unsplash.com/photos/a-man-with-dark-hair-IqftJfyYVR0",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-23T09:01:30.938649+00:00"
     }
   ],
-  "updated_at": "2026-06-25T23:13:44.303072+00:00"
+  "updated_at": "2026-06-26T01:21:50.746622+00:00"
 }
