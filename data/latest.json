@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with this month's hottest looks, featuring the freshest hairstyles trending among Black and African women right now!",
   "images": [
+    {
+      "id": "o_xqz81w7K8",
+      "url": "https://images.unsplash.com/photo-1744846896601-b91ce15ad9d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNHx8RHJlYWRsb2NrcyUyMGFkb3JuJTIwc3R1bm5pbmclMjBCbGFjayUyMGZlbWFsZSUyMG1vZGVsfGVufDF8MXx8fDE3ODI0NzUyMDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1744846896601-b91ce15ad9d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNHx8RHJlYWRsb2NrcyUyMGFkb3JuJTIwc3R1bm5pbmclMjBCbGFjayUyMGZlbWFsZSUyMG1vZGVsfGVufDF8MXx8fDE3ODI0NzUyMDd8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1744846896601-b91ce15ad9d7?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNHx8RHJlYWRsb2NrcyUyMGFkb3JuJTIwc3R1bm5pbmclMjBCbGFjayUyMGZlbWFsZSUyMG1vZGVsfGVufDF8MXx8fDE3ODI0NzUyMDd8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "Woman with striking makeup and dreadlocks stares intently.",
+      "description": "",
+      "photographer": "Dwayne joe",
+      "photographer_url": "https://unsplash.com/@spliff_dj_joe",
+      "photo_url": "https://unsplash.com/photos/woman-with-striking-makeup-and-dreadlocks-stares-intently-o_xqz81w7K8",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-26T12:00:03.843188+00:00"
+    },
     {
       "id": "x90q-HJ8WAI",
       "url": "https://images.unsplash.com/photo-1753256373476-bd6367dd7b19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8U2lzdGVybG9ja3MlMjBvbiUyMGN1cmx5JTIwYnJvd24lMjBoYWlyfGVufDF8MXx8fDE3ODI0Mzk2Mzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-23T11:03:18.672664+00:00"
-    },
-    {
-      "id": "rv4RF3KN76w",
-      "url": "https://images.unsplash.com/photo-1774380255874-69319b2275de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8QWZyaWNhbiUyMFdvbWFuJTI3cyUyMERyZWFkbG9ja3MlMjBpbiUyME5hdHVyZSUyMFNldHRpbmdzfGVufDF8MXx8fDE3ODIyMTI2MzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1774380255874-69319b2275de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8QWZyaWNhbiUyMFdvbWFuJTI3cyUyMERyZWFkbG9ja3MlMjBpbiUyME5hdHVyZSUyMFNldHRpbmdzfGVufDF8MXx8fDE3ODIyMTI2MzN8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1774380255874-69319b2275de?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8QWZyaWNhbiUyMFdvbWFuJTI3cyUyMERyZWFkbG9ja3MlMjBpbiUyME5hdHVyZSUyMFNldHRpbmdzfGVufDF8MXx8fDE3ODIyMTI2MzN8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "A woman in a white top and patterned skirt outdoors.",
-      "description": "Elegant African woman in a vibrant skirt, standing confidently in soft natural light.",
-      "photographer": "Dion Martins",
-      "photographer_url": "https://unsplash.com/@dionmartins",
-      "photo_url": "https://unsplash.com/photos/a-woman-in-a-white-top-and-patterned-skirt-outdoors-rv4RF3KN76w",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-23T11:03:18.672664+00:00"
     }
   ],
-  "updated_at": "2026-06-26T11:23:41.785999+00:00"
+  "updated_at": "2026-06-26T12:01:05.368229+00:00"
 }
