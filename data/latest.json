@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with today's top picks, as we dish out the hottest Black and African women's hair trends that are taking over the globe currently!",
   "images": [
+    {
+      "id": "7DDHuVAtsJw",
+      "url": "https://images.unsplash.com/photo-1643785767287-cc8ae6371353?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw0fHxHb2RkZXNzJTIwYnJhaWRzJTIwb24lMjBuYXR1cmFsJTIwQWZyaWNhbiUyMGJlYXV0eSUyMG1vZGVsc3xlbnwxfDF8fHwxNzgyNTg3NTY0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1643785767287-cc8ae6371353?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw0fHxHb2RkZXNzJTIwYnJhaWRzJTIwb24lMjBuYXR1cmFsJTIwQWZyaWNhbiUyMGJlYXV0eSUyMG1vZGVsc3xlbnwxfDF8fHwxNzgyNTg3NTY0fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1643785767287-cc8ae6371353?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw0fHxHb2RkZXNzJTIwYnJhaWRzJTIwb24lMjBuYXR1cmFsJTIwQWZyaWNhbiUyMGJlYXV0eSUyMG1vZGVsc3xlbnwxfDF8fHwxNzgyNTg3NTY0fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "a woman with braids wearing a blue dress",
+      "description": "",
+      "photographer": "Rohan Odhiambo",
+      "photographer_url": "https://unsplash.com/@skanky",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-braids-wearing-a-blue-dress-7DDHuVAtsJw",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-27T19:12:35.880653+00:00"
+    },
     {
       "id": "TlyLUGtta94",
       "url": "https://images.unsplash.com/photo-1758178309498-036c3d7d73b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw1fHxCbGFjayUyMEdpcmwlMjB3aXRoJTIwQm94JTIwQnJhaWRzJTIwYW5kJTIwU21pbGV8ZW58MXwxfHx8MTc4MjU4MDAyNHww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-25T04:07:08.353665+00:00"
-    },
-    {
-      "id": "mn4xMM3E4HE",
-      "url": "https://images.unsplash.com/photo-1743755059676-2f3beae0d35e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8TmF0dXJhbCUyMENvcm5yb3dzJTIwQmxhY2slMjBXb21lbiUyMEJlYXV0aWZ1bCUyMEZhY2VzfGVufDF8MXx8fDE3ODIyNzQ0ODN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1743755059676-2f3beae0d35e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8TmF0dXJhbCUyMENvcm5yb3dzJTIwQmxhY2slMjBXb21lbiUyMEJlYXV0aWZ1bCUyMEZhY2VzfGVufDF8MXx8fDE3ODIyNzQ0ODN8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1743755059676-2f3beae0d35e?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8TmF0dXJhbCUyMENvcm5yb3dzJTIwQmxhY2slMjBXb21lbiUyMEJlYXV0aWZ1bCUyMEZhY2VzfGVufDF8MXx8fDE3ODIyNzQ0ODN8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "Beautiful woman with braids and a nose ring.",
-      "description": "",
-      "photographer": "Michael Kyule",
-      "photographer_url": "https://unsplash.com/@madness_leahcim_",
-      "photo_url": "https://unsplash.com/photos/beautiful-woman-with-braids-and-a-nose-ring-mn4xMM3E4HE",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-24T04:14:16.651834+00:00"
     }
   ],
-  "updated_at": "2026-06-27T18:02:15.677796+00:00"
+  "updated_at": "2026-06-27T19:29:27.227522+00:00"
 }
