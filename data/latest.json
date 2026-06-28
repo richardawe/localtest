@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with this season's hottest hairstyles, featuring vibrant braids, sleek afros, and effortless box braids from Black and African queens!",
   "images": [
+    {
+      "id": "eNovYfSXzxs",
+      "url": "https://images.unsplash.com/photo-1744846895009-063f8dcfb769?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyfHxEcmVhZGxvY2tzJTIwb24lMjBCbGFjayUyMGZlbWFsZSUyMG1vZGVsJTIwc21pbGluZ3xlbnwxfDF8fHwxNzgyNjQ0Njg5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1744846895009-063f8dcfb769?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyfHxEcmVhZGxvY2tzJTIwb24lMjBCbGFjayUyMGZlbWFsZSUyMG1vZGVsJTIwc21pbGluZ3xlbnwxfDF8fHwxNzgyNjQ0Njg5fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1744846895009-063f8dcfb769?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyfHxEcmVhZGxvY2tzJTIwb24lMjBCbGFjayUyMGZlbWFsZSUyMG1vZGVsJTIwc21pbGluZ3xlbnwxfDF8fHwxNzgyNjQ0Njg5fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman with dreadlocks smiles happily.",
+      "description": "",
+      "photographer": "Dwayne joe",
+      "photographer_url": "https://unsplash.com/@spliff_dj_joe",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-dreadlocks-smiles-happily-eNovYfSXzxs",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-28T11:04:43.698461+00:00"
+    },
     {
       "id": "nlU1ZDf7sBk",
       "url": "https://images.unsplash.com/photo-1757866332291-28877a1c0973?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8QmVhdXRpZnVsJTIwd2VhdmVzJTIwYW5kJTIwZXh0ZW5zaW9ucyUyMG9uJTIwYmxhY2t8ZW58MXwxfHx8MTc4MjYzNzI2MHww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-25T21:00:04.489708+00:00"
-    },
-    {
-      "id": "cH52CCWQx8o",
-      "url": "https://images.unsplash.com/photo-1737599721013-9f9f78588b0d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8TmF0dXJhbCUyMGFmcm8lMjB0ZXh0dXJlcyUyMHBob3RvZ3JhcGhlZCUyMGNsb3NlbHklMjB1cHxlbnwxfDF8fHwxNzgyNDE3ODUxfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1737599721013-9f9f78588b0d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8TmF0dXJhbCUyMGFmcm8lMjB0ZXh0dXJlcyUyMHBob3RvZ3JhcGhlZCUyMGNsb3NlbHklMjB1cHxlbnwxfDF8fHwxNzgyNDE3ODUxfDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1737599721013-9f9f78588b0d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8TmF0dXJhbCUyMGFmcm8lMjB0ZXh0dXJlcyUyMHBob3RvZ3JhcGhlZCUyMGNsb3NlbHklMjB1cHxlbnwxfDF8fHwxNzgyNDE3ODUxfDA&ixlib=rb-4.1.0&q=85",
-      "alt": "A woman with an afro standing in the woods",
-      "description": "",
-      "photographer": "Malama Mushitu",
-      "photographer_url": "https://unsplash.com/@ragnampiza",
-      "photo_url": "https://unsplash.com/photos/a-woman-with-an-afro-standing-in-the-woods-cH52CCWQx8o",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-25T20:03:41.690723+00:00"
     }
   ],
-  "updated_at": "2026-06-28T10:04:47.832372+00:00"
+  "updated_at": "2026-06-28T11:11:00.339517+00:00"
 }
