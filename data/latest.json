@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with today's hottest hairstyles, featuring bold braids, stunning afros, and vibrant colors that celebrate the beauty of Black and African women's tresses!",
   "images": [
+    {
+      "id": "nlU1ZDf7sBk",
+      "url": "https://images.unsplash.com/photo-1757866332291-28877a1c0973?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8QmVhdXRpZnVsJTIwd2VhdmVzJTIwYW5kJTIwZXh0ZW5zaW9ucyUyMG9uJTIwYmxhY2t8ZW58MXwxfHx8MTc4MjYzNzI2MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1757866332291-28877a1c0973?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8QmVhdXRpZnVsJTIwd2VhdmVzJTIwYW5kJTIwZXh0ZW5zaW9ucyUyMG9uJTIwYmxhY2t8ZW58MXwxfHx8MTc4MjYzNzI2MHww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1757866332291-28877a1c0973?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8QmVhdXRpZnVsJTIwd2VhdmVzJTIwYW5kJTIwZXh0ZW5zaW9ucyUyMG9uJTIwYmxhY2t8ZW58MXwxfHx8MTc4MjYzNzI2MHww&ixlib=rb-4.1.0&q=85",
+      "alt": "A hand braiding dark hair with pink nail polish.",
+      "description": "",
+      "photographer": "Mohamed B.",
+      "photographer_url": "https://unsplash.com/@bangscreative",
+      "photo_url": "https://unsplash.com/photos/a-hand-braiding-dark-hair-with-pink-nail-polish-nlU1ZDf7sBk",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-28T09:00:44.701625+00:00"
+    },
     {
       "id": "NCzd5o9DoSA",
       "url": "https://images.unsplash.com/photo-1730140323263-8f6dccddd3f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8R29kZGVzcyUyMGJyYWlkcyUyMG9uJTIwQWZyaWNhbiUyMGJlYXV0eSUyMG1vZGVsfGVufDF8MXx8fDE3ODI2MDQ4ODl8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-25T20:03:41.690723+00:00"
-    },
-    {
-      "id": "dUBemJ4YzUc",
-      "url": "https://images.unsplash.com/photo-1744808317816-fdb0f4c025ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8V29tZW4lMjB3aXRoJTIwbG9jcyUyMGluJTIwQWZyaWNhfGVufDF8MXx8fDE3ODIzODkwNjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1744808317816-fdb0f4c025ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8V29tZW4lMjB3aXRoJTIwbG9jcyUyMGluJTIwQWZyaWNhfGVufDF8MXx8fDE3ODIzODkwNjd8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1744808317816-fdb0f4c025ab?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8V29tZW4lMjB3aXRoJTIwbG9jcyUyMGluJTIwQWZyaWNhfGVufDF8MXx8fDE3ODIzODkwNjd8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "Woman walks with bowls balanced on her head.",
-      "description": "African woman in traditional clothing.",
-      "photographer": "David Geneugelijk",
-      "photographer_url": "https://unsplash.com/@davidgeneugelijk",
-      "photo_url": "https://unsplash.com/photos/woman-walks-with-bowls-balanced-on-her-head-dUBemJ4YzUc",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-25T12:04:00.671171+00:00"
     }
   ],
-  "updated_at": "2026-06-28T08:02:20.955099+00:00"
+  "updated_at": "2026-06-28T09:02:51.827920+00:00"
 }
