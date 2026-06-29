@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with this season's hottest hairstyles, showcasing the diverse beauty of Black and African women's hair trends that are currently taking over the globe!",
   "images": [
+    {
+      "id": "6njZ_UIQlrk",
+      "url": "https://images.unsplash.com/photo-1771358342231-1e7c38f58d0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8QmxhY2slMjB3b21hbiUyMHdpdGglMjBnb2RkZXNzJTIwYnJhaWRzJTIwcG9ydHJhaXR8ZW58MXwxfHx8MTc4MjcwOTIwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1771358342231-1e7c38f58d0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8QmxhY2slMjB3b21hbiUyMHdpdGglMjBnb2RkZXNzJTIwYnJhaWRzJTIwcG9ydHJhaXR8ZW58MXwxfHx8MTc4MjcwOTIwM3ww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1771358342231-1e7c38f58d0e?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8QmxhY2slMjB3b21hbiUyMHdpdGglMjBnb2RkZXNzJTIwYnJhaWRzJTIwcG9ydHJhaXR8ZW58MXwxfHx8MTc4MjcwOTIwM3ww&ixlib=rb-4.1.0&q=85",
+      "alt": "Woman with gray skin and dreadlocks wearing necklaces",
+      "description": "Turquoise Galactic Goddess",
+      "photographer": "IRIS AVI",
+      "photographer_url": "https://unsplash.com/@irisavi",
+      "photo_url": "https://unsplash.com/photos/woman-with-gray-skin-and-dreadlocks-wearing-necklaces-6njZ_UIQlrk",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-29T05:00:02.991090+00:00"
+    },
     {
       "id": "TlnAEH-nkbo",
       "url": "https://images.unsplash.com/photo-1633998979261-0e5b2ce6dbbc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8UHJvdGVjdGl2ZSUyMFN0eWxlcyUyMGZvciUyMEN1cmx5JTIwSGFpciUyMEdyb3d0aHxlbnwxfDF8fHwxNzgyNjY2MDE3fDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-26T02:07:06.547808+00:00"
-    },
-    {
-      "id": "NbxWlzRT1vg",
-      "url": "https://images.unsplash.com/photo-1774773133644-265820b920d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8Qm94JTIwYnJhaWRzJTIwd2l0aCUyMGNvbG9yZnVsJTIwYmVhZHN8ZW58MXwxfHx8MTc4MjQzNTk2OHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1774773133644-265820b920d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8Qm94JTIwYnJhaWRzJTIwd2l0aCUyMGNvbG9yZnVsJTIwYmVhZHN8ZW58MXwxfHx8MTc4MjQzNTk2OHww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1774773133644-265820b920d1?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8Qm94JTIwYnJhaWRzJTIwd2l0aCUyMGNvbG9yZnVsJTIwYmVhZHN8ZW58MXwxfHx8MTc4MjQzNTk2OHww&ixlib=rb-4.1.0&q=85",
-      "alt": "Young woman with beaded braids smiles outdoors.",
-      "description": "",
-      "photographer": "Michael Kyule",
-      "photographer_url": "https://unsplash.com/@madness_leahcim_",
-      "photo_url": "https://unsplash.com/photos/young-woman-with-beaded-braids-smiles-outdoors-NbxWlzRT1vg",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-26T01:05:30.110359+00:00"
     }
   ],
-  "updated_at": "2026-06-29T04:06:46.418341+00:00"
+  "updated_at": "2026-06-29T05:03:12.516773+00:00"
 }
