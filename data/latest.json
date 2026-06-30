@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with today's hottest Black and African women's hair trends, straight from the runways and streets of Africa and beyond!",
   "images": [
+    {
+      "id": "wzDS9tFYcLU",
+      "url": "https://images.unsplash.com/photo-1645484094476-c8afbc69a878?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw5fHxUaWdodCUyMGxvY3MlMjBhbmQlMjBkcmVhZGxvY2tzJTIwb24lMjBlYm9ueXxlbnwxfDF8fHwxNzgyODQyNzE4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1645484094476-c8afbc69a878?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw5fHxUaWdodCUyMGxvY3MlMjBhbmQlMjBkcmVhZGxvY2tzJTIwb24lMjBlYm9ueXxlbnwxfDF8fHwxNzgyODQyNzE4fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1645484094476-c8afbc69a878?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw5fHxUaWdodCUyMGxvY3MlMjBhbmQlMjBkcmVhZGxvY2tzJTIwb24lMjBlYm9ueXxlbnwxfDF8fHwxNzgyODQyNzE4fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "a black and white photo of a woman with braids",
+      "description": "Moody Black and white portrait ",
+      "photographer": "Brian Asare",
+      "photographer_url": "https://unsplash.com/@brianasarejr",
+      "photo_url": "https://unsplash.com/photos/a-black-and-white-photo-of-a-woman-with-braids-wzDS9tFYcLU",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-30T18:04:47.232422+00:00"
+    },
     {
       "id": "sVq8eQlqwKM",
       "url": "https://images.unsplash.com/photo-1767249633098-3ea439e96054?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw3fHxHb2RkZXNzJTIwQnJhaWRzJTIwd2l0aCUyMEdvbGQlMjBBY2Nlc3Nvcmllc3xlbnwxfDF8fHwxNzgyODI4NTgxfDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-27T19:12:35.880653+00:00"
-    },
-    {
-      "id": "TlyLUGtta94",
-      "url": "https://images.unsplash.com/photo-1758178309498-036c3d7d73b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw1fHxCbGFjayUyMEdpcmwlMjB3aXRoJTIwQm94JTIwQnJhaWRzJTIwYW5kJTIwU21pbGV8ZW58MXwxfHx8MTc4MjU4MDAyNHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1758178309498-036c3d7d73b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw1fHxCbGFjayUyMEdpcmwlMjB3aXRoJTIwQm94JTIwQnJhaWRzJTIwYW5kJTIwU21pbGV8ZW58MXwxfHx8MTc4MjU4MDAyNHww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1758178309498-036c3d7d73b3?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw1fHxCbGFjayUyMEdpcmwlMjB3aXRoJTIwQm94JTIwQnJhaWRzJTIwYW5kJTIwU21pbGV8ZW58MXwxfHx8MTc4MjU4MDAyNHww&ixlib=rb-4.1.0&q=85",
-      "alt": "Young woman with braided hair smiles outdoors.",
-      "description": "",
-      "photographer": "Shalom Ejiofor",
-      "photographer_url": "https://unsplash.com/@shalom_ej",
-      "photo_url": "https://unsplash.com/photos/young-woman-with-braided-hair-smiles-outdoors-TlyLUGtta94",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-27T17:07:01.537213+00:00"
     }
   ],
-  "updated_at": "2026-06-30T17:04:13.206748+00:00"
+  "updated_at": "2026-06-30T18:11:10.929758+00:00"
 }
