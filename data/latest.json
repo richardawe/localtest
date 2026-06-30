@@ -1,6 +1,21 @@
 {
-  "summary": "Get ready to be inspired as we dive into the most buzzworthy Black and African women's hair trends that are taking the world by storm right now!",
+  "summary": "Get ready to slay with today's top Black and African women's hair trends, featuring vibrant styles that are taking over the beauty scene!",
   "images": [
+    {
+      "id": "4xc2sgUf-Fw",
+      "url": "https://images.unsplash.com/photo-1749181830021-e03822eb1252?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8RnVsYW5pJTIwQnJhaWRzJTIwYW5kJTIwSGVhZHdyYXBzJTIwb24lMjBCZWF1dGlmdWwlMjBXb21lbnxlbnwxfDF8fHwxNzgyODE3ODEyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1749181830021-e03822eb1252?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8RnVsYW5pJTIwQnJhaWRzJTIwYW5kJTIwSGVhZHdyYXBzJTIwb24lMjBCZWF1dGlmdWwlMjBXb21lbnxlbnwxfDF8fHwxNzgyODE3ODEyfDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1749181830021-e03822eb1252?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8RnVsYW5pJTIwQnJhaWRzJTIwYW5kJTIwSGVhZHdyYXBzJTIwb24lMjBCZWF1dGlmdWwlMjBXb21lbnxlbnwxfDF8fHwxNzgyODE3ODEyfDA&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman with braids gazes thoughtfully at the camera.",
+      "description": "",
+      "photographer": "Gabriel Ogulu",
+      "photographer_url": "https://unsplash.com/@ogulu_18",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-braids-gazes-thoughtfully-at-the-camera-4xc2sgUf-Fw",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-30T11:09:50.881730+00:00"
+    },
     {
       "id": "CKNNFHc6b8w",
       "url": "https://images.unsplash.com/photo-1765146487984-71305d1be5bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8Qm94JTIwYnJhaWQlMjBzdHlsZXMlMjB3aXRoJTIwY29sb3JmdWwlMjBhY2Nlc3Nvcmllc3xlbnwxfDF8fHwxNzgyODE0MjkyfDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-26T20:05:22.570755+00:00"
-    },
-    {
-      "id": "fefsIFNHXbo",
-      "url": "https://images.unsplash.com/photo-1762810543525-189cc724409f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxCbGFjayUyMHdvbWVuJTIwd2l0aCUyMGJveCUyMGJyYWlkcyUyMG91dGRvb3JzfGVufDF8MXx8fDE3ODI0ODI0NTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1762810543525-189cc724409f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxCbGFjayUyMHdvbWVuJTIwd2l0aCUyMGJveCUyMGJyYWlkcyUyMG91dGRvb3JzfGVufDF8MXx8fDE3ODI0ODI0NTR8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1762810543525-189cc724409f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxCbGFjayUyMHdvbWVuJTIwd2l0aCUyMGJveCUyMGJyYWlkcyUyMG91dGRvb3JzfGVufDF8MXx8fDE3ODI0ODI0NTR8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "A young woman with braided hair in a desert",
-      "description": "blue hour",
-      "photographer": "Luigi Ritchie",
-      "photographer_url": "https://unsplash.com/@luigir",
-      "photo_url": "https://unsplash.com/photos/a-young-woman-with-braided-hair-in-a-desert-fefsIFNHXbo",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-26T14:00:53.524115+00:00"
     }
   ],
-  "updated_at": "2026-06-30T10:12:05.208914+00:00"
+  "updated_at": "2026-06-30T11:10:52.074424+00:00"
 }
