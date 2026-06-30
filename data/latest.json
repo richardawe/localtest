@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to be inspired as we dive into the most buzzworthy Black and African women's hair trends that are taking the world by storm right now!",
   "images": [
+    {
+      "id": "CKNNFHc6b8w",
+      "url": "https://images.unsplash.com/photo-1765146487984-71305d1be5bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8Qm94JTIwYnJhaWQlMjBzdHlsZXMlMjB3aXRoJTIwY29sb3JmdWwlMjBhY2Nlc3Nvcmllc3xlbnwxfDF8fHwxNzgyODE0MjkyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1765146487984-71305d1be5bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8Qm94JTIwYnJhaWQlMjBzdHlsZXMlMjB3aXRoJTIwY29sb3JmdWwlMjBhY2Nlc3Nvcmllc3xlbnwxfDF8fHwxNzgyODE0MjkyfDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1765146487984-71305d1be5bc?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8Qm94JTIwYnJhaWQlMjBzdHlsZXMlMjB3aXRoJTIwY29sb3JmdWwlMjBhY2Nlc3Nvcmllc3xlbnwxfDF8fHwxNzgyODE0MjkyfDA&ixlib=rb-4.1.0&q=85",
+      "alt": "A black woman with braided hair and sunglasses laughs.",
+      "description": "",
+      "photographer": "Ben Iwara",
+      "photographer_url": "https://unsplash.com/@1hundredimages",
+      "photo_url": "https://unsplash.com/photos/a-black-woman-with-braided-hair-and-sunglasses-laughs-CKNNFHc6b8w",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-30T10:11:08.796801+00:00"
+    },
     {
       "id": "dst-pRolf58",
       "url": "https://images.unsplash.com/photo-1571153416569-f64235175296?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8TmF0dXJhbCUyMEhhaXIlMjBHb2RkZXNzJTIwQnJhaWRzJTIwUG9ydHJhaXRzJTIwSW1hZ2VzfGVufDF8MXx8fDE3ODI3OTU2Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-26T14:00:53.524115+00:00"
-    },
-    {
-      "id": "iLOE53bQJ_k",
-      "url": "https://images.unsplash.com/photo-1778991056280-93b8563fc33d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw4fHxCbGFjayUyMHdvbWVuJTIwd2l0aCUyMGJveCUyMGJyYWlkcyUyMG91dGRvb3JzfGVufDF8MXx8fDE3ODI0ODI0NTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1778991056280-93b8563fc33d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw4fHxCbGFjayUyMHdvbWVuJTIwd2l0aCUyMGJveCUyMGJyYWlkcyUyMG91dGRvb3JzfGVufDF8MXx8fDE3ODI0ODI0NTR8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1778991056280-93b8563fc33d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw4fHxCbGFjayUyMHdvbWVuJTIwd2l0aCUyMGJveCUyMGJyYWlkcyUyMG91dGRvb3JzfGVufDF8MXx8fDE3ODI0ODI0NTR8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "Young woman with long braids and sunglasses outdoors",
-      "description": "",
-      "photographer": "Michael Kyule",
-      "photographer_url": "https://unsplash.com/@madness_leahcim_",
-      "photo_url": "https://unsplash.com/photos/young-woman-with-long-braids-and-sunglasses-outdoors-iLOE53bQJ_k",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-26T14:00:53.524115+00:00"
     }
   ],
-  "updated_at": "2026-06-30T09:09:06.788222+00:00"
+  "updated_at": "2026-06-30T10:12:05.208914+00:00"
 }
