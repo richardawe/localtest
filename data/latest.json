@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with today's hottest Black and African hair trends, showcasing vibrant styles that are bold, beautiful, and totally on point!",
   "images": [
+    {
+      "id": "x6f9I0KVb5E",
+      "url": "https://images.unsplash.com/photo-1699640368217-9514aba80e58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOHx8Qm94JTIwYnJhaWRlZCUyMHVwZG8lMjBzdHlsZXMlMjBpbnNwaXJhdGlvbnxlbnwxfDF8fHwxNzgyODYwOTAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1699640368217-9514aba80e58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOHx8Qm94JTIwYnJhaWRlZCUyMHVwZG8lMjBzdHlsZXMlMjBpbnNwaXJhdGlvbnxlbnwxfDF8fHwxNzgyODYwOTAwfDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1699640368217-9514aba80e58?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOHx8Qm94JTIwYnJhaWRlZCUyMHVwZG8lMjBzdHlsZXMlMjBpbnNwaXJhdGlvbnxlbnwxfDF8fHwxNzgyODYwOTAwfDA&ixlib=rb-4.1.0&q=85",
+      "alt": "a woman with a braid in her hair",
+      "description": "An honest reaction to an amazing hairstyle. Braiding hair is not easy, but is always interesting to see.",
+      "photographer": "Manuel E Sankitts",
+      "photographer_url": "https://unsplash.com/@manrikphoto",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-a-braid-in-her-hair-x6f9I0KVb5E",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-30T23:07:59.571016+00:00"
+    },
     {
       "id": "uiY5WasrpBE",
       "url": "https://images.unsplash.com/photo-1768244016484-54dcc66173e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8V29tZW4lMjB3aXRoJTIwbmF0dXJhbCUyMGFmcm8lMjBoYWlyc3R5bGVzJTIwb3V0c2lkZXxlbnwxfDF8fHwxNzgyODUwMTM5fDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-28T00:00:54.116947+00:00"
-    },
-    {
-      "id": "7EEWV2po0Dk",
-      "url": "https://images.unsplash.com/photo-1757942654336-58ce3d880f42?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8R29kZGVzcyUyMGJyYWlkcyUyMG9uJTIwQWZyaWNhbiUyMGJlYXV0eSUyMG1vZGVsfGVufDF8MXx8fDE3ODI2MDQ4ODl8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1757942654336-58ce3d880f42?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8R29kZGVzcyUyMGJyYWlkcyUyMG9uJTIwQWZyaWNhbiUyMGJlYXV0eSUyMG1vZGVsfGVufDF8MXx8fDE3ODI2MDQ4ODl8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1757942654336-58ce3d880f42?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8R29kZGVzcyUyMGJyYWlkcyUyMG9uJTIwQWZyaWNhbiUyMGJlYXV0eSUyMG1vZGVsfGVufDF8MXx8fDE3ODI2MDQ4ODl8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "Woman with afro touches her temples in front of greenery.",
-      "description": "",
-      "photographer": "Kingsley Hemans",
-      "photographer_url": "https://unsplash.com/@hemansjr",
-      "photo_url": "https://unsplash.com/photos/woman-with-afro-touches-her-temples-in-front-of-greenery-7EEWV2po0Dk",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-28T00:00:54.116947+00:00"
     }
   ],
-  "updated_at": "2026-06-30T22:01:03.963666+00:00"
+  "updated_at": "2026-06-30T23:09:03.122895+00:00"
 }
