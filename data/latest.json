@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with today's hottest hairstyles, featuring sleek Afros, vibrant braids, and effortless box buns that are taking over the scene!",
   "images": [
+    {
+      "id": "dst-pRolf58",
+      "url": "https://images.unsplash.com/photo-1571153416569-f64235175296?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8TmF0dXJhbCUyMEhhaXIlMjBHb2RkZXNzJTIwQnJhaWRzJTIwUG9ydHJhaXRzJTIwSW1hZ2VzfGVufDF8MXx8fDE3ODI3OTU2Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1571153416569-f64235175296?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8TmF0dXJhbCUyMEhhaXIlMjBHb2RkZXNzJTIwQnJhaWRzJTIwUG9ydHJhaXRzJTIwSW1hZ2VzfGVufDF8MXx8fDE3ODI3OTU2Mjd8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1571153416569-f64235175296?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8TmF0dXJhbCUyMEhhaXIlMjBHb2RkZXNzJTIwQnJhaWRzJTIwUG9ydHJhaXRzJTIwSW1hZ2VzfGVufDF8MXx8fDE3ODI3OTU2Mjd8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "woman in gray tank top",
+      "description": "Self portrait of a black woman",
+      "photographer": "Cassandra Saint-Jean",
+      "photographer_url": "https://unsplash.com/@cassandrasaintjean",
+      "photo_url": "https://unsplash.com/photos/woman-in-gray-tank-top-dst-pRolf58",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-06-30T05:00:04.768241+00:00"
+    },
     {
       "id": "ps-4fIAKEco",
       "url": "https://images.unsplash.com/photo-1632723293895-36dffe2fcb1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxfHxZb3VuZyUyMEJsYWNrJTIwZ2lybCUyMHdpdGglMjBkcmVhZGxvY2tzJTIwcGxheWluZ3xlbnwxfDF8fHwxNzgyNzU2NTc4fDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-26T14:00:53.524115+00:00"
-    },
-    {
-      "id": "NB-DvbAQRok",
-      "url": "https://images.unsplash.com/photo-1778953501987-ece284f0b34a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMHx8QmxhY2slMjB3b21lbiUyMHdpdGglMjBib3glMjBicmFpZHMlMjBvdXRkb29yc3xlbnwxfDF8fHwxNzgyNDgyNDU0fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1778953501987-ece284f0b34a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMHx8QmxhY2slMjB3b21lbiUyMHdpdGglMjBib3glMjBicmFpZHMlMjBvdXRkb29yc3xlbnwxfDF8fHwxNzgyNDgyNDU0fDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1778953501987-ece284f0b34a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMHx8QmxhY2slMjB3b21lbiUyMHdpdGglMjBib3glMjBicmFpZHMlMjBvdXRkb29yc3xlbnwxfDF8fHwxNzgyNDgyNDU0fDA&ixlib=rb-4.1.0&q=85",
-      "alt": "Young woman with braids and sunglasses outdoors",
-      "description": "",
-      "photographer": "Michael Kyule",
-      "photographer_url": "https://unsplash.com/@madness_leahcim_",
-      "photo_url": "https://unsplash.com/photos/young-woman-with-braids-and-sunglasses-outdoors-NB-DvbAQRok",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-26T14:00:53.524115+00:00"
     }
   ],
-  "updated_at": "2026-06-30T04:18:38.314381+00:00"
+  "updated_at": "2026-06-30T05:18:26.501174+00:00"
 }
