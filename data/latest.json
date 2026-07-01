@@ -1,6 +1,21 @@
 {
-  "summary": "Get ready to slay with today's hottest Black and African hair trends, showcasing vibrant styles that are bold, beautiful, and totally on point!",
+  "summary": "Get ready to slay the day with our spotlight on the hottest, most vibrant Black and African hair trends that are taking over the beauty scene currently!",
   "images": [
+    {
+      "id": "DZEhv9bG9Ec",
+      "url": "https://images.unsplash.com/photo-1782491224154-97069bca95ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8U2VuZWdhbGVzZSUyMHR3aXN0cyUyMG9uJTIwY3VybHklMjBibGFjayUyMHdvbWFuJTI3cyUyMGJhY2t8ZW58MXwxfHx8MTc4Mjg2NDMyOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1782491224154-97069bca95ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8U2VuZWdhbGVzZSUyMHR3aXN0cyUyMG9uJTIwY3VybHklMjBibGFjayUyMHdvbWFuJTI3cyUyMGJhY2t8ZW58MXwxfHx8MTc4Mjg2NDMyOHww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1782491224154-97069bca95ec?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8U2VuZWdhbGVzZSUyMHR3aXN0cyUyMG9uJTIwY3VybHklMjBibGFjayUyMHdvbWFuJTI3cyUyMGJhY2t8ZW58MXwxfHx8MTc4Mjg2NDMyOHww&ixlib=rb-4.1.0&q=85",
+      "alt": "A person with long, dark curly hair tossing it outdoors.",
+      "description": "",
+      "photographer": "Gylain Omer",
+      "photographer_url": "https://unsplash.com/@gullin_omer",
+      "photo_url": "https://unsplash.com/photos/a-person-with-long-dark-curly-hair-tossing-it-outdoors-DZEhv9bG9Ec",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-07-01T00:05:01.353855+00:00"
+    },
     {
       "id": "x6f9I0KVb5E",
       "url": "https://images.unsplash.com/photo-1699640368217-9514aba80e58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOHx8Qm94JTIwYnJhaWRlZCUyMHVwZG8lMjBzdHlsZXMlMjBpbnNwaXJhdGlvbnxlbnwxfDF8fHwxNzgyODYwOTAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-28T00:00:54.116947+00:00"
-    },
-    {
-      "id": "orINvarsjCI",
-      "url": "https://images.unsplash.com/photo-1730140990656-478ea72f7ad9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxM3x8R29kZGVzcyUyMGJyYWlkcyUyMG9uJTIwQWZyaWNhbiUyMGJlYXV0eSUyMG1vZGVsfGVufDF8MXx8fDE3ODI2MDQ4ODl8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1730140990656-478ea72f7ad9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxM3x8R29kZGVzcyUyMGJyYWlkcyUyMG9uJTIwQWZyaWNhbiUyMGJlYXV0eSUyMG1vZGVsfGVufDF8MXx8fDE3ODI2MDQ4ODl8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1730140990656-478ea72f7ad9?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxM3x8R29kZGVzcyUyMGJyYWlkcyUyMG9uJTIwQWZyaWNhbiUyMGJlYXV0eSUyMG1vZGVsfGVufDF8MXx8fDE3ODI2MDQ4ODl8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "A woman standing in front of a palm tree",
-      "description": "Black woman in a white dress standing amongst palm leaves",
-      "photographer": "Lisa Marie Theck",
-      "photographer_url": "https://unsplash.com/@lisa_marie_theck",
-      "photo_url": "https://unsplash.com/photos/a-woman-standing-in-front-of-a-palm-tree-orINvarsjCI",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-28T00:00:54.116947+00:00"
     }
   ],
-  "updated_at": "2026-06-30T23:09:03.122895+00:00"
+  "updated_at": "2026-07-01T00:25:09.773607+00:00"
 }
