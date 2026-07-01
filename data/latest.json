@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to be inspired as we dive into this season's most stunning Black and African women's hair trends, straight from the runways to your roots!",
   "images": [
+    {
+      "id": "NCjudS77G_E",
+      "url": "https://images.unsplash.com/photo-1722370023891-d7fc3d777313?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8MTk0MHMlMjBCbGFjayUyMHdvbWVuJTIwaGFpcnN0eWxlJTIwd2FydGltZSUyMGVyYXxlbnwxfDF8fHwxNzgyOTI2NDI3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1722370023891-d7fc3d777313?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8MTk0MHMlMjBCbGFjayUyMHdvbWVuJTIwaGFpcnN0eWxlJTIwd2FydGltZSUyMGVyYXxlbnwxfDF8fHwxNzgyOTI2NDI3fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1722370023891-d7fc3d777313?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8MTk0MHMlMjBCbGFjayUyMHdvbWVuJTIwaGFpcnN0eWxlJTIwd2FydGltZSUyMGVyYXxlbnwxfDF8fHwxNzgyOTI2NDI3fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman with a braided hairstyle and scarf",
+      "description": "Madame Meri, August 1936, Wellington, by Spencer Digby Studios. Spencer Digby / Ronald D Woolf Collection. Gift of Ronald Woolf, 1975. Te Papa (B.048769). https://collections.tepapa.govt.nz/object/458793",
+      "photographer": "Museum of New Zealand Te Papa Tongarewa",
+      "photographer_url": "https://unsplash.com/@tepapa",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-a-braided-hairstyle-and-scarf-NCjudS77G_E",
+      "tags": "",
+      "era": "1940s",
+      "category": "historical",
+      "fetched_at": "2026-07-01T18:11:00.750608+00:00"
+    },
     {
       "id": "VQd2Ax8Nfdc",
       "url": "https://images.unsplash.com/photo-1779370574327-87d6b9f9f36d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8U2VuZWdhbGVzZSUyMFR3aXN0cyUyMG9uJTIwRWxlZ2FudCUyMEFmcmljYW4lMjBGYWNlfGVufDF8MXx8fDE3ODI5MjE3MDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-28T11:04:43.698461+00:00"
-    },
-    {
-      "id": "nlU1ZDf7sBk",
-      "url": "https://images.unsplash.com/photo-1757866332291-28877a1c0973?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8QmVhdXRpZnVsJTIwd2VhdmVzJTIwYW5kJTIwZXh0ZW5zaW9ucyUyMG9uJTIwYmxhY2t8ZW58MXwxfHx8MTc4MjYzNzI2MHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1757866332291-28877a1c0973?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8QmVhdXRpZnVsJTIwd2VhdmVzJTIwYW5kJTIwZXh0ZW5zaW9ucyUyMG9uJTIwYmxhY2t8ZW58MXwxfHx8MTc4MjYzNzI2MHww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1757866332291-28877a1c0973?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8QmVhdXRpZnVsJTIwd2VhdmVzJTIwYW5kJTIwZXh0ZW5zaW9ucyUyMG9uJTIwYmxhY2t8ZW58MXwxfHx8MTc4MjYzNzI2MHww&ixlib=rb-4.1.0&q=85",
-      "alt": "A hand braiding dark hair with pink nail polish.",
-      "description": "",
-      "photographer": "Mohamed B.",
-      "photographer_url": "https://unsplash.com/@bangscreative",
-      "photo_url": "https://unsplash.com/photos/a-hand-braiding-dark-hair-with-pink-nail-polish-nlU1ZDf7sBk",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-28T09:00:44.701625+00:00"
     }
   ],
-  "updated_at": "2026-07-01T17:20:54.595007+00:00"
+  "updated_at": "2026-07-01T18:17:23.956753+00:00"
 }
