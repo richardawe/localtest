@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with the most coveted Black and African women's hairstyles of the season, straight from the runways to your doorstep!",
   "images": [
+    {
+      "id": "bHSGyeDCSwk",
+      "url": "https://images.unsplash.com/photo-1582588498376-48c11c0d90b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMHx8R2hhbmFpYW4lMjB3b21lbiUyMHdpdGglMjBiYW50dSUyMGtub3RzJTIwb24lMjBoZWFkc3xlbnwxfDF8fHwxNzgyOTM5NjIyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1582588498376-48c11c0d90b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMHx8R2hhbmFpYW4lMjB3b21lbiUyMHdpdGglMjBiYW50dSUyMGtub3RzJTIwb24lMjBoZWFkc3xlbnwxfDF8fHwxNzgyOTM5NjIyfDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1582588498376-48c11c0d90b2?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMHx8R2hhbmFpYW4lMjB3b21lbiUyMHdpdGglMjBiYW50dSUyMGtub3RzJTIwb24lMjBoZWFkc3xlbnwxfDF8fHwxNzgyOTM5NjIyfDA&ixlib=rb-4.1.0&q=85",
+      "alt": "girl in purple and blue floral dress wearing helmet",
+      "description": "Mid-age woman with colourful dress with typical African patterns is walking in the streets of Freetown, Sierra Leone with chickens in the hand and on her head.",
+      "photographer": "Random Institute",
+      "photographer_url": "https://unsplash.com/@randominstitute",
+      "photo_url": "https://unsplash.com/photos/girl-in-purple-and-blue-floral-dress-wearing-helmet-bHSGyeDCSwk",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-07-01T21:00:05.001274+00:00"
+    },
     {
       "id": "NCjudS77G_E",
       "url": "https://images.unsplash.com/photo-1722370023891-d7fc3d777313?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8MTk0MHMlMjBCbGFjayUyMHdvbWVuJTIwaGFpcnN0eWxlJTIwd2FydGltZSUyMGVyYXxlbnwxfDF8fHwxNzgyOTI2NDI3fDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-28T17:00:02.661040+00:00"
-    },
-    {
-      "id": "eNovYfSXzxs",
-      "url": "https://images.unsplash.com/photo-1744846895009-063f8dcfb769?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyfHxEcmVhZGxvY2tzJTIwb24lMjBCbGFjayUyMGZlbWFsZSUyMG1vZGVsJTIwc21pbGluZ3xlbnwxfDF8fHwxNzgyNjQ0Njg5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1744846895009-063f8dcfb769?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyfHxEcmVhZGxvY2tzJTIwb24lMjBCbGFjayUyMGZlbWFsZSUyMG1vZGVsJTIwc21pbGluZ3xlbnwxfDF8fHwxNzgyNjQ0Njg5fDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1744846895009-063f8dcfb769?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyfHxEcmVhZGxvY2tzJTIwb24lMjBCbGFjayUyMGZlbWFsZSUyMG1vZGVsJTIwc21pbGluZ3xlbnwxfDF8fHwxNzgyNjQ0Njg5fDA&ixlib=rb-4.1.0&q=85",
-      "alt": "A woman with dreadlocks smiles happily.",
-      "description": "",
-      "photographer": "Dwayne joe",
-      "photographer_url": "https://unsplash.com/@spliff_dj_joe",
-      "photo_url": "https://unsplash.com/photos/a-woman-with-dreadlocks-smiles-happily-eNovYfSXzxs",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-28T11:04:43.698461+00:00"
     }
   ],
-  "updated_at": "2026-07-01T20:10:39.944583+00:00"
+  "updated_at": "2026-07-01T21:01:19.950425+00:00"
 }
