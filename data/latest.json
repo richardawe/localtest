@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with the most on-trend hairstyles from the continent, as we dive into the hottest Black and African women's hair styles of the moment!",
   "images": [
+    {
+      "id": "VQd2Ax8Nfdc",
+      "url": "https://images.unsplash.com/photo-1779370574327-87d6b9f9f36d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8U2VuZWdhbGVzZSUyMFR3aXN0cyUyMG9uJTIwRWxlZ2FudCUyMEFmcmljYW4lMjBGYWNlfGVufDF8MXx8fDE3ODI5MjE3MDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1779370574327-87d6b9f9f36d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8U2VuZWdhbGVzZSUyMFR3aXN0cyUyMG9uJTIwRWxlZ2FudCUyMEFmcmljYW4lMjBGYWNlfGVufDF8MXx8fDE3ODI5MjE3MDV8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1779370574327-87d6b9f9f36d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8U2VuZWdhbGVzZSUyMFR3aXN0cyUyMG9uJTIwRWxlZ2FudCUyMEFmcmljYW4lMjBGYWNlfGVufDF8MXx8fDE3ODI5MjE3MDV8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "Dark-skinned woman in pink turban with hands under chin.",
+      "description": "",
+      "photographer": "Kyle Kioko",
+      "photographer_url": "https://unsplash.com/@kylekioko",
+      "photo_url": "https://unsplash.com/photos/dark-skinned-woman-in-pink-turban-with-hands-under-chin-VQd2Ax8Nfdc",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-07-01T16:00:04.483059+00:00"
+    },
     {
       "id": "V3Gfi5ODJ_I",
       "url": "https://images.unsplash.com/photo-1782491224200-2708750895ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8Q29ybnJvd3MlMjBvbiUyMFlvdW5nJTIwQmxhY2slMjBHaXJscyUyMEZhY2VzfGVufDF8MXx8fDE3ODI4NzU3OTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-28T09:00:44.701625+00:00"
-    },
-    {
-      "id": "NCzd5o9DoSA",
-      "url": "https://images.unsplash.com/photo-1730140323263-8f6dccddd3f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8R29kZGVzcyUyMGJyYWlkcyUyMG9uJTIwQWZyaWNhbiUyMGJlYXV0eSUyMG1vZGVsfGVufDF8MXx8fDE3ODI2MDQ4ODl8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1730140323263-8f6dccddd3f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8R29kZGVzcyUyMGJyYWlkcyUyMG9uJTIwQWZyaWNhbiUyMGJlYXV0eSUyMG1vZGVsfGVufDF8MXx8fDE3ODI2MDQ4ODl8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1730140323263-8f6dccddd3f8?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8R29kZGVzcyUyMGJyYWlkcyUyMG9uJTIwQWZyaWNhbiUyMGJlYXV0eSUyMG1vZGVsfGVufDF8MXx8fDE3ODI2MDQ4ODl8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "A black and white photo of a woman in a bikini",
-      "description": "Black woman comes out of the sea and poses",
-      "photographer": "Lisa Marie Theck",
-      "photographer_url": "https://unsplash.com/@lisa_marie_theck",
-      "photo_url": "https://unsplash.com/photos/a-black-and-white-photo-of-a-woman-in-a-bikini-NCzd5o9DoSA",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-28T00:00:54.116947+00:00"
     }
   ],
-  "updated_at": "2026-07-01T15:02:13.172908+00:00"
+  "updated_at": "2026-07-01T16:09:58.177133+00:00"
 }
