@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with our spotlight on the hottest current Black and African women's hair trends that are taking the world by storm!",
   "images": [
+    {
+      "id": "j1YajkeF_hQ",
+      "url": "https://images.unsplash.com/photo-1672638219032-4982467971ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8UmVsYXhlZCUyMHBlcm1lZCUyMGhhaXIlMjBvbiUyMHNtaWxpbmclMjBtb2RlbHxlbnwxfDF8fHwxNzgyOTk3MzMzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1672638219032-4982467971ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8UmVsYXhlZCUyMHBlcm1lZCUyMGhhaXIlMjBvbiUyMHNtaWxpbmclMjBtb2RlbHxlbnwxfDF8fHwxNzgyOTk3MzMzfDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1672638219032-4982467971ad?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8UmVsYXhlZCUyMHBlcm1lZCUyMGhhaXIlMjBvbiUyMHNtaWxpbmclMjBtb2RlbHxlbnwxfDF8fHwxNzgyOTk3MzMzfDA&ixlib=rb-4.1.0&q=85",
+      "alt": "a woman with dreadlocks standing in front of a building",
+      "description": "",
+      "photographer": "Venrick Azcueta",
+      "photographer_url": "https://unsplash.com/@venrick",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-dreadlocks-standing-in-front-of-a-building-j1YajkeF_hQ",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-07-02T13:01:47.287482+00:00"
+    },
     {
       "id": "f5NLcpxRTCY",
       "url": "https://images.unsplash.com/photo-1714666990471-0b1cb70c0824?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8VGVlbmllJTIwV2VlbmllJTIwQWZyb3MlMjBvbiUyMEJsYWNrJTIwR2lybHN8ZW58MXwxfHx8MTc4Mjk5MDIwOXww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-29T18:00:03.310675+00:00"
-    },
-    {
-      "id": "THHneP0eUkI",
-      "url": "https://images.unsplash.com/photo-1664629153316-15c342bc2773?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8QmVhdXRpZnVsJTIwcmVsYXhlZCUyMHBlcm1lZCUyMGJsYWNrJTIwd29tYW4lMjdzJTIwcG9ydHJhaXR8ZW58MXwxfHx8MTc4MjcyMzgwOXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1664629153316-15c342bc2773?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8QmVhdXRpZnVsJTIwcmVsYXhlZCUyMHBlcm1lZCUyMGJsYWNrJTIwd29tYW4lMjdzJTIwcG9ydHJhaXR8ZW58MXwxfHx8MTc4MjcyMzgwOXww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1664629153316-15c342bc2773?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8QmVhdXRpZnVsJTIwcmVsYXhlZCUyMHBlcm1lZCUyMGJsYWNrJTIwd29tYW4lMjdzJTIwcG9ydHJhaXR8ZW58MXwxfHx8MTc4MjcyMzgwOXww&ixlib=rb-4.1.0&q=85",
-      "alt": "a person with the eyes closed",
-      "description": "PORTRAIT OF A BEAUTIFUL AFRICAN BLACK GIRL",
-      "photographer": "Ali Drabo",
-      "photographer_url": "https://unsplash.com/@draboali33",
-      "photo_url": "https://unsplash.com/photos/a-person-with-the-eyes-closed-THHneP0eUkI",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-29T09:03:03.022435+00:00"
     }
   ],
-  "updated_at": "2026-07-02T12:01:02.571764+00:00"
+  "updated_at": "2026-07-02T13:03:02.563801+00:00"
 }
