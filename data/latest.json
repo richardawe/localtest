@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with today's featured Black and African women's hair trends, straight from the streets of Africa to your social media feeds!",
   "images": [
+    {
+      "id": "f5NLcpxRTCY",
+      "url": "https://images.unsplash.com/photo-1714666990471-0b1cb70c0824?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8VGVlbmllJTIwV2VlbmllJTIwQWZyb3MlMjBvbiUyMEJsYWNrJTIwR2lybHN8ZW58MXwxfHx8MTc4Mjk5MDIwOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1714666990471-0b1cb70c0824?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8VGVlbmllJTIwV2VlbmllJTIwQWZyb3MlMjBvbiUyMEJsYWNrJTIwR2lybHN8ZW58MXwxfHx8MTc4Mjk5MDIwOXww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1714666990471-0b1cb70c0824?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8VGVlbmllJTIwV2VlbmllJTIwQWZyb3MlMjBvbiUyMEJsYWNrJTIwR2lybHN8ZW58MXwxfHx8MTc4Mjk5MDIwOXww&ixlib=rb-4.1.0&q=85",
+      "alt": "a close up of a person with an afro",
+      "description": "portrait photography with iyonna! Kansas City USA",
+      "photographer": "Freddy Rezvanian",
+      "photographer_url": "https://unsplash.com/@farshadrezvanian",
+      "photo_url": "https://unsplash.com/photos/a-close-up-of-a-person-with-an-afro-f5NLcpxRTCY",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-07-02T11:00:06.037425+00:00"
+    },
     {
       "id": "_qj7TelAP9Y",
       "url": "https://images.unsplash.com/photo-1758554401930-d64e5e932fc2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxCbGFjayUyMFdvbWVuJTIwd2l0aCUyMEJveCUyMEJyYWlkcyUyMGluJTIwUHVibGljfGVufDF8MXx8fDE3ODI5NzkyMDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-29T09:03:03.022435+00:00"
-    },
-    {
-      "id": "6njZ_UIQlrk",
-      "url": "https://images.unsplash.com/photo-1771358342231-1e7c38f58d0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8QmxhY2slMjB3b21hbiUyMHdpdGglMjBnb2RkZXNzJTIwYnJhaWRzJTIwcG9ydHJhaXR8ZW58MXwxfHx8MTc4MjcwOTIwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1771358342231-1e7c38f58d0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8QmxhY2slMjB3b21hbiUyMHdpdGglMjBnb2RkZXNzJTIwYnJhaWRzJTIwcG9ydHJhaXR8ZW58MXwxfHx8MTc4MjcwOTIwM3ww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1771358342231-1e7c38f58d0e?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8QmxhY2slMjB3b21hbiUyMHdpdGglMjBnb2RkZXNzJTIwYnJhaWRzJTIwcG9ydHJhaXR8ZW58MXwxfHx8MTc4MjcwOTIwM3ww&ixlib=rb-4.1.0&q=85",
-      "alt": "Woman with gray skin and dreadlocks wearing necklaces",
-      "description": "Turquoise Galactic Goddess",
-      "photographer": "IRIS AVI",
-      "photographer_url": "https://unsplash.com/@irisavi",
-      "photo_url": "https://unsplash.com/photos/woman-with-gray-skin-and-dreadlocks-wearing-necklaces-6njZ_UIQlrk",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-29T05:00:02.991090+00:00"
     }
   ],
-  "updated_at": "2026-07-02T10:15:47.185648+00:00"
+  "updated_at": "2026-07-02T11:03:55.225315+00:00"
 }
