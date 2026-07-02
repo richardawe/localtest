@@ -1,6 +1,21 @@
 {
-  "summary": "Get ready to be inspired by the boldest, most beautiful hairstyles of the season from talented Black and African women worldwide!",
+  "summary": "Get ready to slay with today's featured Black and African women's hair trends, showcasing bold styles that are fresh, fierce, and forever on point!",
   "images": [
+    {
+      "id": "e6ouIRE5vuI",
+      "url": "https://images.unsplash.com/photo-1761661769337-1efb17d08a91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw4fHx0ZWVuaWUlMjB3ZWVuaWUlMjBhZnJvJTIwYmxhY2slMjBnaXJsJTIwcHJpZGV8ZW58MXwxfHx8MTc4MzAyNjAzMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1761661769337-1efb17d08a91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw4fHx0ZWVuaWUlMjB3ZWVuaWUlMjBhZnJvJTIwYmxhY2slMjBnaXJsJTIwcHJpZGV8ZW58MXwxfHx8MTc4MzAyNjAzMnww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1761661769337-1efb17d08a91?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw4fHx0ZWVuaWUlMjB3ZWVuaWUlMjBhZnJvJTIwYmxhY2slMjBnaXJsJTIwcHJpZGV8ZW58MXwxfHx8MTc4MzAyNjAzMnww&ixlib=rb-4.1.0&q=85",
+      "alt": "Young black woman with glasses and afro hairstyle",
+      "description": "",
+      "photographer": "Dwayne joe",
+      "photographer_url": "https://unsplash.com/@spliff_dj_joe",
+      "photo_url": "https://unsplash.com/photos/young-black-woman-with-glasses-and-afro-hairstyle-e6ouIRE5vuI",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-07-02T21:00:04.724112+00:00"
+    },
     {
       "id": "Yoet1nBSsbc",
       "url": "https://images.unsplash.com/photo-1783012399215-ff10ae1fc626?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8VGVlbmllJTIwd2VlbmllJTIwYWZyb3MlMjBuYXR1cmFsJTIwaGFpciUyMHBob3Rvc3xlbnwxfDF8fHwxNzgzMDIyNDE1fDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-30T14:09:05.379814+00:00"
-    },
-    {
-      "id": "4xc2sgUf-Fw",
-      "url": "https://images.unsplash.com/photo-1749181830021-e03822eb1252?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8RnVsYW5pJTIwQnJhaWRzJTIwYW5kJTIwSGVhZHdyYXBzJTIwb24lMjBCZWF1dGlmdWwlMjBXb21lbnxlbnwxfDF8fHwxNzgyODE3ODEyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1749181830021-e03822eb1252?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8RnVsYW5pJTIwQnJhaWRzJTIwYW5kJTIwSGVhZHdyYXBzJTIwb24lMjBCZWF1dGlmdWwlMjBXb21lbnxlbnwxfDF8fHwxNzgyODE3ODEyfDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1749181830021-e03822eb1252?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8RnVsYW5pJTIwQnJhaWRzJTIwYW5kJTIwSGVhZHdyYXBzJTIwb24lMjBCZWF1dGlmdWwlMjBXb21lbnxlbnwxfDF8fHwxNzgyODE3ODEyfDA&ixlib=rb-4.1.0&q=85",
-      "alt": "A woman with braids gazes thoughtfully at the camera.",
-      "description": "",
-      "photographer": "Gabriel Ogulu",
-      "photographer_url": "https://unsplash.com/@ogulu_18",
-      "photo_url": "https://unsplash.com/photos/a-woman-with-braids-gazes-thoughtfully-at-the-camera-4xc2sgUf-Fw",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-30T11:09:50.881730+00:00"
     }
   ],
-  "updated_at": "2026-07-02T20:01:05.628324+00:00"
+  "updated_at": "2026-07-02T21:09:25.470473+00:00"
 }
