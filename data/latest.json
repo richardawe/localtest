@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with our top picks from the latest Black and African women's hair trends, straight from the runway to your roots!",
   "images": [
+    {
+      "id": "CNBTTQD0PPU",
+      "url": "https://images.unsplash.com/photo-1783013957035-e28473afa2ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8TmF0dXJhbCUyMEFmcm8lMjBQdWZmJTIwQmxhY2slMjBXb21hbiUyMFBvcnRyYWl0fGVufDF8MXx8fDE3ODMxMTYwODJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1783013957035-e28473afa2ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8TmF0dXJhbCUyMEFmcm8lMjBQdWZmJTIwQmxhY2slMjBXb21hbiUyMFBvcnRyYWl0fGVufDF8MXx8fDE3ODMxMTYwODJ8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1783013957035-e28473afa2ab?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8TmF0dXJhbCUyMEFmcm8lMjBQdWZmJTIwQmxhY2slMjBXb21hbiUyMFBvcnRyYWl0fGVufDF8MXx8fDE3ODMxMTYwODJ8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "Young black woman in a beautiful embellished dress.",
+      "description": "",
+      "photographer": "melvin Ankrah",
+      "photographer_url": "https://unsplash.com/@hashtagmelvin",
+      "photo_url": "https://unsplash.com/photos/young-black-woman-in-a-beautiful-embellished-dress-CNBTTQD0PPU",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-07-03T22:00:46.881361+00:00"
+    },
     {
       "id": "Jx8bPNv9lbM",
       "url": "https://images.unsplash.com/photo-1783013955612-9fccfbc747af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8VFdBJTIwVGVlbmllJTIwV2VlbmllJTIwQWZybyUyME5hdHVyYWwlMjBCZWF1dHl8ZW58MXwxfHx8MTc4MzEwNTg1NHww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-07-02T08:00:02.696828+00:00"
-    },
-    {
-      "id": "bHSGyeDCSwk",
-      "url": "https://images.unsplash.com/photo-1582588498376-48c11c0d90b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMHx8R2hhbmFpYW4lMjB3b21lbiUyMHdpdGglMjBiYW50dSUyMGtub3RzJTIwb24lMjBoZWFkc3xlbnwxfDF8fHwxNzgyOTM5NjIyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1582588498376-48c11c0d90b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMHx8R2hhbmFpYW4lMjB3b21lbiUyMHdpdGglMjBiYW50dSUyMGtub3RzJTIwb24lMjBoZWFkc3xlbnwxfDF8fHwxNzgyOTM5NjIyfDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1582588498376-48c11c0d90b2?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMHx8R2hhbmFpYW4lMjB3b21lbiUyMHdpdGglMjBiYW50dSUyMGtub3RzJTIwb24lMjBoZWFkc3xlbnwxfDF8fHwxNzgyOTM5NjIyfDA&ixlib=rb-4.1.0&q=85",
-      "alt": "girl in purple and blue floral dress wearing helmet",
-      "description": "Mid-age woman with colourful dress with typical African patterns is walking in the streets of Freetown, Sierra Leone with chickens in the hand and on her head.",
-      "photographer": "Random Institute",
-      "photographer_url": "https://unsplash.com/@randominstitute",
-      "photo_url": "https://unsplash.com/photos/girl-in-purple-and-blue-floral-dress-wearing-helmet-bHSGyeDCSwk",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-07-01T21:00:05.001274+00:00"
     }
   ],
-  "updated_at": "2026-07-03T21:05:11.780157+00:00"
+  "updated_at": "2026-07-03T22:04:29.803127+00:00"
 }
