@@ -1,6 +1,21 @@
 {
-  "summary": "Get ready to slay with today's sizzling Black and African women's hair trends, featuring vibrant styles that are making major waves this season!",
+  "summary": "Get ready to vibe with the hottest locks of the season, as we dish out the latest must-know styles for Afrofuturistic beauty!",
   "images": [
+    {
+      "id": "n2YNGmoXZ8Q",
+      "url": "https://images.unsplash.com/photo-1763256674006-b8397df2fdd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8QWZyaWNhbiUyMHdvbWVuJTIwd2l0aCUyMGRyZWFkbG9ja3MlMjBwb3J0cmFpdHN8ZW58MXwxfHx8MTc4MzA0NzYyOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1763256674006-b8397df2fdd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8QWZyaWNhbiUyMHdvbWVuJTIwd2l0aCUyMGRyZWFkbG9ja3MlMjBwb3J0cmFpdHN8ZW58MXwxfHx8MTc4MzA0NzYyOHww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1763256674006-b8397df2fdd8?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8QWZyaWNhbiUyMHdvbWVuJTIwd2l0aCUyMGRyZWFkbG9ja3MlMjBwb3J0cmFpdHN8ZW58MXwxfHx8MTc4MzA0NzYyOHww&ixlib=rb-4.1.0&q=85",
+      "alt": "Black and white portrait of a woman with braided hair.",
+      "description": "",
+      "photographer": "Ufoma Ojo",
+      "photographer_url": "https://unsplash.com/@ladyufoma001",
+      "photo_url": "https://unsplash.com/photos/black-and-white-portrait-of-a-woman-with-braided-hair-n2YNGmoXZ8Q",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-07-03T03:00:03.359476+00:00"
+    },
     {
       "id": "nPr74TG7f18",
       "url": "https://images.unsplash.com/photo-1783013954316-69dfbfca49d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8MTk1MHMlMjBCbGFjayUyMHdvbWVuJTIwaGFpciUyMHN0eWxlJTIwcHJlc3MlMjBhbmQlMjBjdXJsfGVufDF8MXx8fDE3ODMwMjY1NTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-06-30T14:09:05.379814+00:00"
-    },
-    {
-      "id": "J4nAmw6B-Nw",
-      "url": "https://images.unsplash.com/photo-1763957047258-30279b6043e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8R29kZGVzcyUyMEJyYWlkcyUyMHdpdGglMjBHb2xkJTIwQWNjZXNzb3JpZXN8ZW58MXwxfHx8MTc4MjgyODU4MXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1763957047258-30279b6043e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8R29kZGVzcyUyMEJyYWlkcyUyMHdpdGglMjBHb2xkJTIwQWNjZXNzb3JpZXN8ZW58MXwxfHx8MTc4MjgyODU4MXww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1763957047258-30279b6043e1?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8R29kZGVzcyUyMEJyYWlkcyUyMHdpdGglMjBHb2xkJTIwQWNjZXNzb3JpZXN8ZW58MXwxfHx8MTc4MjgyODU4MXww&ixlib=rb-4.1.0&q=85",
-      "alt": "Woman with dreadlocks wearing flashy jewelry and money print clothing.",
-      "description": "Commi$$ion$",
-      "photographer": "IRIS AVI",
-      "photographer_url": "https://unsplash.com/@irisavi",
-      "photo_url": "https://unsplash.com/photos/woman-with-dreadlocks-wearing-flashy-jewelry-and-money-print-clothing-J4nAmw6B-Nw",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-30T14:09:05.379814+00:00"
     }
   ],
-  "updated_at": "2026-07-03T02:17:01.160564+00:00"
+  "updated_at": "2026-07-03T03:01:10.154167+00:00"
 }
