@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with our rundown of the hottest, most on-trend hairstyles currently dominating the scene among Black and African women everywhere!",
   "images": [
+    {
+      "id": "CHfBGWeH-F8",
+      "url": "https://images.unsplash.com/photo-1739770521306-ef1a0e159a95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8QmxhY2slMjBHaXJscyUyMFJvY2tpbmclMjBTZW5lZ2FsZXNlJTIwVHdpc3RzJTIwQnJhaWRzfGVufDF8MXx8fDE3ODMwODcyMTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1739770521306-ef1a0e159a95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8QmxhY2slMjBHaXJscyUyMFJvY2tpbmclMjBTZW5lZ2FsZXNlJTIwVHdpc3RzJTIwQnJhaWRzfGVufDF8MXx8fDE3ODMwODcyMTB8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1739770521306-ef1a0e159a95?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8QmxhY2slMjBHaXJscyUyMFJvY2tpbmclMjBTZW5lZ2FsZXNlJTIwVHdpc3RzJTIwQnJhaWRzfGVufDF8MXx8fDE3ODMwODcyMTB8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman with long braids leaning on a fence",
+      "description": "",
+      "photographer": "Samir Vanegas",
+      "photographer_url": "https://unsplash.com/@samir_vanegas_",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-long-braids-leaning-on-a-fence-CHfBGWeH-F8",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-07-03T14:00:03.950237+00:00"
+    },
     {
       "id": "YfvufrCZJBQ",
       "url": "https://images.unsplash.com/photo-1783013956209-119730a37a72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNHx8SGlnaCUyMHF1YWxpdHklMjBpbWFnZXMlMjBvZiUyMG5hdHVyYWwlMjBBZnJvfGVufDF8MXx8fDE3ODMwNzMyOTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-07-01T00:05:01.353855+00:00"
-    },
-    {
-      "id": "x6f9I0KVb5E",
-      "url": "https://images.unsplash.com/photo-1699640368217-9514aba80e58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOHx8Qm94JTIwYnJhaWRlZCUyMHVwZG8lMjBzdHlsZXMlMjBpbnNwaXJhdGlvbnxlbnwxfDF8fHwxNzgyODYwOTAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1699640368217-9514aba80e58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOHx8Qm94JTIwYnJhaWRlZCUyMHVwZG8lMjBzdHlsZXMlMjBpbnNwaXJhdGlvbnxlbnwxfDF8fHwxNzgyODYwOTAwfDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1699640368217-9514aba80e58?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOHx8Qm94JTIwYnJhaWRlZCUyMHVwZG8lMjBzdHlsZXMlMjBpbnNwaXJhdGlvbnxlbnwxfDF8fHwxNzgyODYwOTAwfDA&ixlib=rb-4.1.0&q=85",
-      "alt": "a woman with a braid in her hair",
-      "description": "An honest reaction to an amazing hairstyle. Braiding hair is not easy, but is always interesting to see.",
-      "photographer": "Manuel E Sankitts",
-      "photographer_url": "https://unsplash.com/@manrikphoto",
-      "photo_url": "https://unsplash.com/photos/a-woman-with-a-braid-in-her-hair-x6f9I0KVb5E",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-06-30T23:07:59.571016+00:00"
     }
   ],
-  "updated_at": "2026-07-03T13:17:18.490532+00:00"
+  "updated_at": "2026-07-03T14:14:24.716888+00:00"
 }

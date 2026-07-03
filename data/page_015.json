@@ -75,6 +75,21 @@
       "era": "1960s",
       "category": "historical",
       "fetched_at": "2026-07-03T10:08:02.738086+00:00"
+    },
+    {
+      "id": "CHfBGWeH-F8",
+      "url": "https://images.unsplash.com/photo-1739770521306-ef1a0e159a95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8QmxhY2slMjBHaXJscyUyMFJvY2tpbmclMjBTZW5lZ2FsZXNlJTIwVHdpc3RzJTIwQnJhaWRzfGVufDF8MXx8fDE3ODMwODcyMTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1739770521306-ef1a0e159a95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8QmxhY2slMjBHaXJscyUyMFJvY2tpbmclMjBTZW5lZ2FsZXNlJTIwVHdpc3RzJTIwQnJhaWRzfGVufDF8MXx8fDE3ODMwODcyMTB8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1739770521306-ef1a0e159a95?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8QmxhY2slMjBHaXJscyUyMFJvY2tpbmclMjBTZW5lZ2FsZXNlJTIwVHdpc3RzJTIwQnJhaWRzfGVufDF8MXx8fDE3ODMwODcyMTB8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman with long braids leaning on a fence",
+      "description": "",
+      "photographer": "Samir Vanegas",
+      "photographer_url": "https://unsplash.com/@samir_vanegas_",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-long-braids-leaning-on-a-fence-CHfBGWeH-F8",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-07-03T14:00:03.950237+00:00"
     }
   ]
 }
