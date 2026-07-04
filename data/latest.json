@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with the latest Black and African women's hair trends that are currently taking over social media and beauty scenes everywhere!",
   "images": [
+    {
+      "id": "GtOnfXd6mkg",
+      "url": "https://images.unsplash.com/photo-1756136511887-5be9e418c486?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxNb3RoZXJzJTIwd2l0aCUyMGxvY3MlMjBhbmQlMjBkcmVhZGxvY2tzJTIwc21pbGluZ3xlbnwxfDF8fHwxNzgzMTgwODMwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1756136511887-5be9e418c486?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxNb3RoZXJzJTIwd2l0aCUyMGxvY3MlMjBhbmQlMjBkcmVhZGxvY2tzJTIwc21pbGluZ3xlbnwxfDF8fHwxNzgzMTgwODMwfDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1756136511887-5be9e418c486?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxNb3RoZXJzJTIwd2l0aCUyMGxvY3MlMjBhbmQlMjBkcmVhZGxvY2tzJTIwc21pbGluZ3xlbnwxfDF8fHwxNzgzMTgwODMwfDA&ixlib=rb-4.1.0&q=85",
+      "alt": "Two women embracing, one with dreadlocks",
+      "description": "",
+      "photographer": "Ufoma Ojo",
+      "photographer_url": "https://unsplash.com/@ladyufoma001",
+      "photo_url": "https://unsplash.com/photos/two-women-embracing-one-with-dreadlocks-GtOnfXd6mkg",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-07-04T16:00:04.069805+00:00"
+    },
     {
       "id": "gNDr7ekFxIU",
       "url": "https://images.unsplash.com/photo-1663919402780-8e218287d1ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNnx8QWZyaWNhbiUyMHdvbWFuJTIwY29ybnJvd3MlMjB0cmFkaXRpb25hbCUyMGhlYWQlMjB3cmFwc3xlbnwxfDF8fHwxNzgzMTY2NTk2fDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-07-02T20:00:03.554947+00:00"
-    },
-    {
-      "id": "caZsOABKnYM",
-      "url": "https://images.unsplash.com/photo-1783012172973-bd944f64d27c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw5fHxSZWxheGVkJTIwUGVybWVkJTIwQWZybyUyMEhhaXJzdHlsZXMlMjBJbnNwaXJhdGlvbiUyMFBpY3R1cmVzfGVufDF8MXx8fDE3ODMwMTg4NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1783012172973-bd944f64d27c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw5fHxSZWxheGVkJTIwUGVybWVkJTIwQWZybyUyMEhhaXJzdHlsZXMlMjBJbnNwaXJhdGlvbiUyMFBpY3R1cmVzfGVufDF8MXx8fDE3ODMwMTg4NTZ8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1783012172973-bd944f64d27c?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw5fHxSZWxheGVkJTIwUGVybWVkJTIwQWZybyUyMEhhaXJzdHlsZXMlMjBJbnNwaXJhdGlvbiUyMFBpY3R1cmVzfGVufDF8MXx8fDE3ODMwMTg4NTZ8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "Young black woman with an afro hairstyle looking left.",
-      "description": "",
-      "photographer": "melvin Ankrah",
-      "photographer_url": "https://unsplash.com/@hashtagmelvin",
-      "photo_url": "https://unsplash.com/photos/young-black-woman-with-an-afro-hairstyle-looking-left-caZsOABKnYM",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-07-02T19:00:39.941704+00:00"
     }
   ],
-  "updated_at": "2026-07-04T15:06:44.469125+00:00"
+  "updated_at": "2026-07-04T16:02:27.897768+00:00"
 }
