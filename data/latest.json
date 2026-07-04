@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready for a vibrant showcase of the hottest hairstyles trending among Black and African women, straight from the runways to your favorite social media feeds!",
   "images": [
+    {
+      "id": "gNDr7ekFxIU",
+      "url": "https://images.unsplash.com/photo-1663919402780-8e218287d1ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNnx8QWZyaWNhbiUyMHdvbWFuJTIwY29ybnJvd3MlMjB0cmFkaXRpb25hbCUyMGhlYWQlMjB3cmFwc3xlbnwxfDF8fHwxNzgzMTY2NTk2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1663919402780-8e218287d1ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNnx8QWZyaWNhbiUyMHdvbWFuJTIwY29ybnJvd3MlMjB0cmFkaXRpb25hbCUyMGhlYWQlMjB3cmFwc3xlbnwxfDF8fHwxNzgzMTY2NTk2fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1663919402780-8e218287d1ba?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNnx8QWZyaWNhbiUyMHdvbWFuJTIwY29ybnJvd3MlMjB0cmFkaXRpb25hbCUyMGhlYWQlMjB3cmFwc3xlbnwxfDF8fHwxNzgzMTY2NTk2fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "a person sitting on the ground",
+      "description": "Nmanduonu, GHANA- August 23, 2022: Portraits of a 90-year-old Fulani woman who migrated and now lives in the town of Nmanduono. The Fula or Fulanis are one of the largest ethnic groups in the Sahel and West Africa and are widely dispersed across the region. They usually travel as Nomads and their ethnic group has the largest nomadic pastoral community in the world.",
+      "photographer": "Charles William Adofo",
+      "photographer_url": "https://unsplash.com/@cw_adofo",
+      "photo_url": "https://unsplash.com/photos/a-person-sitting-on-the-ground-gNDr7ekFxIU",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-07-04T12:00:08.249760+00:00"
+    },
     {
       "id": "d4y6oggs2RE",
       "url": "https://images.unsplash.com/photo-1783013953144-c764339c3b27?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8cmVsYXhlZCUyMGN1cmx5JTIwcGVybSUyMGhhaXIlMjBibGFjayUyMHdvbWFufGVufDF8MXx8fDE3ODMxNTU3MjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-07-02T19:00:39.941704+00:00"
-    },
-    {
-      "id": "bsmhJ9ujVrk",
-      "url": "https://images.unsplash.com/photo-1783012399214-df0539813f65?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8UmVsYXhlZCUyMFBlcm1lZCUyMEFmcm8lMjBIYWlyc3R5bGVzJTIwSW5zcGlyYXRpb24lMjBQaWN0dXJlc3xlbnwxfDF8fHwxNzgzMDE4ODU2fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1783012399214-df0539813f65?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8UmVsYXhlZCUyMFBlcm1lZCUyMEFmcm8lMjBIYWlyc3R5bGVzJTIwSW5zcGlyYXRpb24lMjBQaWN0dXJlc3xlbnwxfDF8fHwxNzgzMDE4ODU2fDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1783012399214-df0539813f65?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8UmVsYXhlZCUyMFBlcm1lZCUyMEFmcm8lMjBIYWlyc3R5bGVzJTIwSW5zcGlyYXRpb24lMjBQaWN0dXJlc3xlbnwxfDF8fHwxNzgzMDE4ODU2fDA&ixlib=rb-4.1.0&q=85",
-      "alt": "Young black woman with natural afro hair looking forward.",
-      "description": "",
-      "photographer": "melvin Ankrah",
-      "photographer_url": "https://unsplash.com/@hashtagmelvin",
-      "photo_url": "https://unsplash.com/photos/young-black-woman-with-natural-afro-hair-looking-forward-bsmhJ9ujVrk",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-07-02T19:00:39.941704+00:00"
     }
   ],
-  "updated_at": "2026-07-04T11:01:47.702930+00:00"
+  "updated_at": "2026-07-04T12:15:05.303847+00:00"
 }
