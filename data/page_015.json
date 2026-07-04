@@ -165,6 +165,36 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-07-03T22:00:46.881361+00:00"
+    },
+    {
+      "id": "QEAMrOjsl3k",
+      "url": "https://images.unsplash.com/photo-1669437959945-cb78531139bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8TmF0dXJhbCUyMEFmcm8lMjBQdWZmcyUyMGluJTIwU3VtbWVyfGVufDF8MXx8fDE3ODMxMzQ1NTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1669437959945-cb78531139bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8TmF0dXJhbCUyMEFmcm8lMjBQdWZmcyUyMGluJTIwU3VtbWVyfGVufDF8MXx8fDE3ODMxMzQ1NTN8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1669437959945-cb78531139bc?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8TmF0dXJhbCUyMEFmcm8lMjBQdWZmcyUyMGluJTIwU3VtbWVyfGVufDF8MXx8fDE3ODMxMzQ1NTN8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "a woman wearing sunglasses and smoking a cigarette",
+      "description": "Curly haired Egyptian woman puts her finger to her lips",
+      "photographer": "Michael Starkie",
+      "photographer_url": "https://unsplash.com/@starkie_pics",
+      "photo_url": "https://unsplash.com/photos/a-woman-wearing-sunglasses-and-smoking-a-cigarette-QEAMrOjsl3k",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-07-04T03:08:53.881511+00:00"
+    },
+    {
+      "id": "eUSGjgWZ2iY",
+      "url": "https://images.unsplash.com/photo-1757866332421-946b23d3d140?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8V2VhdmVzJTIwYW5kJTIwRXh0ZW5zaW9ucyUyMGZvciUyMFZvbHVtZXxlbnwxfDF8fHwxNzgzMTM0NTU5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1757866332421-946b23d3d140?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8V2VhdmVzJTIwYW5kJTIwRXh0ZW5zaW9ucyUyMGZvciUyMFZvbHVtZXxlbnwxfDF8fHwxNzgzMTM0NTU5fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1757866332421-946b23d3d140?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8V2VhdmVzJTIwYW5kJTIwRXh0ZW5zaW9ucyUyMGZvciUyMFZvbHVtZXxlbnwxfDF8fHwxNzgzMTM0NTU5fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "Close-up of a braided hairstyle with dark hair.",
+      "description": "",
+      "photographer": "Mohamed B.",
+      "photographer_url": "https://unsplash.com/@bangscreative",
+      "photo_url": "https://unsplash.com/photos/close-up-of-a-braided-hairstyle-with-dark-hair-eUSGjgWZ2iY",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-07-04T03:08:53.881511+00:00"
     }
   ]
 }
