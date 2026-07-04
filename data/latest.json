@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with our latest showcase of the hottest, most on-trend hairstyles from Black and African women taking over the beauty scene today!",
   "images": [
+    {
+      "id": "rt64ahHdvGw",
+      "url": "https://images.unsplash.com/photo-1647163848239-dd82bf59f458?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxM3x8QmxhY2slMjBnaXJscyUyMHdpdGglMjB0ZWVuaWUlMjB3ZWVuaWUlMjBhZnJvc3xlbnwxfDF8fHwxNzgzMjAyNDIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1647163848239-dd82bf59f458?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxM3x8QmxhY2slMjBnaXJscyUyMHdpdGglMjB0ZWVuaWUlMjB3ZWVuaWUlMjBhZnJvc3xlbnwxfDF8fHwxNzgzMjAyNDIzfDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1647163848239-dd82bf59f458?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxM3x8QmxhY2slMjBnaXJscyUyMHdpdGglMjB0ZWVuaWUlMjB3ZWVuaWUlMjBhZnJvc3xlbnwxfDF8fHwxNzgzMjAyNDIzfDA&ixlib=rb-4.1.0&q=85",
+      "alt": "a woman with an afro standing in front of a wooden wall",
+      "description": "",
+      "photographer": "Jennifer mela444",
+      "photographer_url": "https://unsplash.com/@verypettygirl",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-an-afro-standing-in-front-of-a-wooden-wall-rt64ahHdvGw",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-07-04T22:00:13.641694+00:00"
+    },
     {
       "id": "GtOnfXd6mkg",
       "url": "https://images.unsplash.com/photo-1756136511887-5be9e418c486?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxNb3RoZXJzJTIwd2l0aCUyMGxvY3MlMjBhbmQlMjBkcmVhZGxvY2tzJTIwc21pbGluZ3xlbnwxfDF8fHwxNzgzMTgwODMwfDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-07-02T20:00:03.554947+00:00"
-    },
-    {
-      "id": "R92yksNSpf0",
-      "url": "https://images.unsplash.com/photo-1783013956958-3db9b7ea666f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8TmF0dXJhbCUyMGFmcmljYW4lMjBhZnJvJTIwaGFpcnN0eWxlcyUyMGNsb3NlJTIwdXB8ZW58MXwxfHx8MTc4MzAyMjQzOXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1783013956958-3db9b7ea666f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8TmF0dXJhbCUyMGFmcmljYW4lMjBhZnJvJTIwaGFpcnN0eWxlcyUyMGNsb3NlJTIwdXB8ZW58MXwxfHx8MTc4MzAyMjQzOXww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1783013956958-3db9b7ea666f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8TmF0dXJhbCUyMGFmcmljYW4lMjBhZnJvJTIwaGFpcnN0eWxlcyUyMGNsb3NlJTIwdXB8ZW58MXwxfHx8MTc4MzAyMjQzOXww&ixlib=rb-4.1.0&q=85",
-      "alt": "Dark-skinned woman with curly hair in a floral dress.",
-      "description": "",
-      "photographer": "melvin Ankrah",
-      "photographer_url": "https://unsplash.com/@hashtagmelvin",
-      "photo_url": "https://unsplash.com/photos/dark-skinned-woman-with-curly-hair-in-a-floral-dress-R92yksNSpf0",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-07-02T20:00:03.554947+00:00"
     }
   ],
-  "updated_at": "2026-07-04T21:05:52.779506+00:00"
+  "updated_at": "2026-07-04T22:07:04.283534+00:00"
 }
