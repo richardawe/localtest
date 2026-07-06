@@ -1,6 +1,21 @@
 {
-  "summary": "Get ready to be inspired by the latest and greatest in Black and African women's hairstyles, from bold braids to luscious locks!",
+  "summary": "Get ready to slay with the most iconic hairstyles of the season, showcasing the vibrant beauty of Black and African women's hair trends!",
   "images": [
+    {
+      "id": "m2KdBr8TkK0",
+      "url": "https://images.unsplash.com/photo-1783013954327-c8e375ed1cf3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8UmVsYXhlZCUyMFBlcm1lZCUyMEhhaXIlMjBCbGFjayUyMFdvbWVuJTIwUG9ydHJhaXR8ZW58MXwxfHx8MTc4MzMzMjAzOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1783013954327-c8e375ed1cf3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8UmVsYXhlZCUyMFBlcm1lZCUyMEhhaXIlMjBCbGFjayUyMFdvbWVuJTIwUG9ydHJhaXR8ZW58MXwxfHx8MTc4MzMzMjAzOXww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1783013954327-c8e375ed1cf3?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8UmVsYXhlZCUyMFBlcm1lZCUyMEhhaXIlMjBCbGFjayUyMFdvbWVuJTIwUG9ydHJhaXR8ZW58MXwxfHx8MTc4MzMzMjAzOXww&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman with an afro and floral top smiles.",
+      "description": "",
+      "photographer": "melvin Ankrah",
+      "photographer_url": "https://unsplash.com/@hashtagmelvin",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-an-afro-and-floral-top-smiles-m2KdBr8TkK0",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-07-06T10:00:38.222078+00:00"
+    },
     {
       "id": "s-plBfWWSgA",
       "url": "https://images.unsplash.com/photo-1767249632414-30b047965414?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMHx8QmxhY2slMjB3b21hbiUyMHdpdGglMjBjcm9jaGV0JTIwYnJhaWRlZCUyMHVwZG98ZW58MXwxfHx8MTc4MzMyODUyNHww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-07-03T15:13:53.521792+00:00"
-    },
-    {
-      "id": "Dpey8rnUBCk",
-      "url": "https://images.unsplash.com/photo-1740411987039-f5835582e765?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8QWZyaWNhbiUyMGdvZGRlc3MlMjBicmFpZHMlMjBvbiUyMGJlYXV0aWZ1bCUyMHdvbWVufGVufDF8MXx8fDE3ODMwOTE2Mzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1740411987039-f5835582e765?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8QWZyaWNhbiUyMGdvZGRlc3MlMjBicmFpZHMlMjBvbiUyMGJlYXV0aWZ1bCUyMHdvbWVufGVufDF8MXx8fDE3ODMwOTE2Mzl8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1740411987039-f5835582e765?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8QWZyaWNhbiUyMGdvZGRlc3MlMjBicmFpZHMlMjBvbiUyMGJlYXV0aWZ1bCUyMHdvbWVufGVufDF8MXx8fDE3ODMwOTE2Mzl8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "A woman with dreadlocks and a ring on her ear",
-      "description": "",
-      "photographer": "Dwayne joe",
-      "photographer_url": "https://unsplash.com/@spliff_dj_joe",
-      "photo_url": "https://unsplash.com/photos/a-woman-with-dreadlocks-and-a-ring-on-her-ear-Dpey8rnUBCk",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-07-03T15:13:53.521792+00:00"
     }
   ],
-  "updated_at": "2026-07-06T09:03:21.250416+00:00"
+  "updated_at": "2026-07-06T10:03:34.671484+00:00"
 }
