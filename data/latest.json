@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with today's hottest Black and African women's hair trends, showcasing vibrant styles that are bold, daring, and totally on fleek!",
   "images": [
+    {
+      "id": "oCvEnDbkwAE",
+      "url": "https://images.unsplash.com/photo-1783012385316-9f077ec270dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8QWZybyUyMFB1ZmYlMjBIYWlyc3R5bGUlMjBJbnNwaXJhdGlvbiUyMGZvciUyMEFmcmljYW4lMjBXb21lbnxlbnwxfDF8fHwxNzgzMzY0NjgwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1783012385316-9f077ec270dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8QWZybyUyMFB1ZmYlMjBIYWlyc3R5bGUlMjBJbnNwaXJhdGlvbiUyMGZvciUyMEFmcmljYW4lMjBXb21lbnxlbnwxfDF8fHwxNzgzMzY0NjgwfDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1783012385316-9f077ec270dd?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8QWZybyUyMFB1ZmYlMjBIYWlyc3R5bGUlMjBJbnNwaXJhdGlvbiUyMGZvciUyMEFmcmljYW4lMjBXb21lbnxlbnwxfDF8fHwxNzgzMzY0NjgwfDA&ixlib=rb-4.1.0&q=85",
+      "alt": "A young woman with an afro hairstyle touching her chin.",
+      "description": "",
+      "photographer": "melvin Ankrah",
+      "photographer_url": "https://unsplash.com/@hashtagmelvin",
+      "photo_url": "https://unsplash.com/photos/a-young-woman-with-an-afro-hairstyle-touching-her-chin-oCvEnDbkwAE",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-07-06T19:04:00.322740+00:00"
+    },
     {
       "id": "m2KdBr8TkK0",
       "url": "https://images.unsplash.com/photo-1783013954327-c8e375ed1cf3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8UmVsYXhlZCUyMFBlcm1lZCUyMEhhaXIlMjBCbGFjayUyMFdvbWVuJTIwUG9ydHJhaXR8ZW58MXwxfHx8MTc4MzMzMjAzOXww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-07-03T19:10:46.498167+00:00"
-    },
-    {
-      "id": "o_Rz9atMjCo",
-      "url": "https://images.unsplash.com/photo-1731135227376-587474afd8cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8QWZyaWNhbiUyMGdvZGRlc3MlMjBicmFpZHMlMjBvbiUyMGJlYXV0aWZ1bCUyMHdvbWVufGVufDF8MXx8fDE3ODMwOTE2Mzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1731135227376-587474afd8cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8QWZyaWNhbiUyMGdvZGRlc3MlMjBicmFpZHMlMjBvbiUyMGJlYXV0aWZ1bCUyMHdvbWVufGVufDF8MXx8fDE3ODMwOTE2Mzl8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1731135227376-587474afd8cb?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8QWZyaWNhbiUyMGdvZGRlc3MlMjBicmFpZHMlMjBvbiUyMGJlYXV0aWZ1bCUyMHdvbWVufGVufDF8MXx8fDE3ODMwOTE2Mzl8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "A woman sitting on the ground with her hand on her face",
-      "description": "Black woman with dreadlocks, wearing gold jewellery poses in front of the great pyramid of Giza.",
-      "photographer": "Lisa Marie Theck",
-      "photographer_url": "https://unsplash.com/@lisa_marie_theck",
-      "photo_url": "https://unsplash.com/photos/a-woman-sitting-on-the-ground-with-her-hand-on-her-face-o_Rz9atMjCo",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-07-03T15:13:53.521792+00:00"
     }
   ],
-  "updated_at": "2026-07-06T18:08:32.668067+00:00"
+  "updated_at": "2026-07-06T19:05:09.493626+00:00"
 }
