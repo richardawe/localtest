@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with today's featured Black and African women's hair trends, showcasing the most on-trend styles of the season!",
   "images": [
+    {
+      "id": "dh3JLSOBH98",
+      "url": "https://images.unsplash.com/photo-1783013952835-912ffa186afa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8UHJlc3NlZCUyMGN1cmxzJTIwb24lMjBhJTIwQmxhY2slMjBtb2RlbHxlbnwxfDF8fHwxNzgzMzcxNjI5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1783013952835-912ffa186afa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8UHJlc3NlZCUyMGN1cmxzJTIwb24lMjBhJTIwQmxhY2slMjBtb2RlbHxlbnwxfDF8fHwxNzgzMzcxNjI5fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1783013952835-912ffa186afa?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8UHJlc3NlZCUyMGN1cmxzJTIwb24lMjBhJTIwQmxhY2slMjBtb2RlbHxlbnwxfDF8fHwxNzgzMzcxNjI5fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "Smiling woman with dark curly hair looking over her shoulder.",
+      "description": "",
+      "photographer": "melvin Ankrah",
+      "photographer_url": "https://unsplash.com/@hashtagmelvin",
+      "photo_url": "https://unsplash.com/photos/smiling-woman-with-dark-curly-hair-looking-over-her-shoulder-dh3JLSOBH98",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-07-06T21:00:04.323121+00:00"
+    },
     {
       "id": "oCvEnDbkwAE",
       "url": "https://images.unsplash.com/photo-1783012385316-9f077ec270dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8QWZybyUyMFB1ZmYlMjBIYWlyc3R5bGUlMjBJbnNwaXJhdGlvbiUyMGZvciUyMEFmcmljYW4lMjBXb21lbnxlbnwxfDF8fHwxNzgzMzY0NjgwfDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-07-03T22:00:46.881361+00:00"
-    },
-    {
-      "id": "Jx8bPNv9lbM",
-      "url": "https://images.unsplash.com/photo-1783013955612-9fccfbc747af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8VFdBJTIwVGVlbmllJTIwV2VlbmllJTIwQWZybyUyME5hdHVyYWwlMjBCZWF1dHl8ZW58MXwxfHx8MTc4MzEwNTg1NHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1783013955612-9fccfbc747af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8VFdBJTIwVGVlbmllJTIwV2VlbmllJTIwQWZybyUyME5hdHVyYWwlMjBCZWF1dHl8ZW58MXwxfHx8MTc4MzEwNTg1NHww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1783013955612-9fccfbc747af?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8VFdBJTIwVGVlbmllJTIwV2VlbmllJTIwQWZybyUyME5hdHVyYWwlMjBCZWF1dHl8ZW58MXwxfHx8MTc4MzEwNTg1NHww&ixlib=rb-4.1.0&q=85",
-      "alt": "Young black woman in embellished top outdoors.",
-      "description": "",
-      "photographer": "melvin Ankrah",
-      "photographer_url": "https://unsplash.com/@hashtagmelvin",
-      "photo_url": "https://unsplash.com/photos/young-black-woman-in-embellished-top-outdoors-Jx8bPNv9lbM",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-07-03T19:10:46.498167+00:00"
     }
   ],
-  "updated_at": "2026-07-06T20:09:47.253345+00:00"
+  "updated_at": "2026-07-06T21:02:57.491760+00:00"
 }
