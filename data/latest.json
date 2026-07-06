@@ -1,6 +1,36 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay the day with the hottest Black and African women's hair trends that are currently ruling the beauty scene globally!",
   "images": [
+    {
+      "id": "cWp48xa7YYU",
+      "url": "https://images.unsplash.com/photo-1751065218523-3c1780fef7d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8QWZyaWNhbiUyMFdvbWFuJTIwd2l0aCUyMExvY3MlMjBhbmQlMjBTbWlsZXxlbnwxfDF8fHwxNzgzMzA2ODY4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1751065218523-3c1780fef7d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8QWZyaWNhbiUyMFdvbWFuJTIwd2l0aCUyMExvY3MlMjBhbmQlMjBTbWlsZXxlbnwxfDF8fHwxNzgzMzA2ODY4fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1751065218523-3c1780fef7d7?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8QWZyaWNhbiUyMFdvbWFuJTIwd2l0aCUyMExvY3MlMjBhbmQlMjBTbWlsZXxlbnwxfDF8fHwxNzgzMzA2ODY4fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "Smiling woman with braids and a vibrant patterned top.",
+      "description": "",
+      "photographer": "Stephen Tettey Atsu",
+      "photographer_url": "https://unsplash.com/@atsu_tettey",
+      "photo_url": "https://unsplash.com/photos/smiling-woman-with-braids-and-a-vibrant-patterned-top-cWp48xa7YYU",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-07-06T03:00:59.592694+00:00"
+    },
+    {
+      "id": "aoIc4Wf2RSs",
+      "url": "https://images.unsplash.com/photo-1588973185663-4a813304a081?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8UmVsYXhlZCUyMFBlcm1lZCUyMEhhaXIlMjBvbiUyMEhhcHB5JTIwV29tYW58ZW58MXwxfHx8MTc4MzMwNjg3M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1588973185663-4a813304a081?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8UmVsYXhlZCUyMFBlcm1lZCUyMEhhaXIlMjBvbiUyMEhhcHB5JTIwV29tYW58ZW58MXwxfHx8MTc4MzMwNjg3M3ww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1588973185663-4a813304a081?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8UmVsYXhlZCUyMFBlcm1lZCUyMEhhaXIlMjBvbiUyMEhhcHB5JTIwV29tYW58ZW58MXwxfHx8MTc4MzMwNjg3M3ww&ixlib=rb-4.1.0&q=85",
+      "alt": "smiling woman in white and red stripe tank top",
+      "description": "Black woman smiling",
+      "photographer": "Rodrigo dos Reis",
+      "photographer_url": "https://unsplash.com/@rodreis",
+      "photo_url": "https://unsplash.com/photos/smiling-woman-in-white-and-red-stripe-tank-top-aoIc4Wf2RSs",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-07-06T03:00:59.592694+00:00"
+    },
     {
       "id": "YMRurVXIyrQ",
       "url": "https://images.unsplash.com/photo-1646248022008-64b9b62b42f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8R29kZGVzcyUyMGJyYWlkcyUyMGluJTIwc29mdCUyMHJvbWFudGljJTIwbGlnaHRpbmd8ZW58MXwxfHx8MTc4MzI5NjAzMnww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -270,37 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-07-03T10:08:02.738086+00:00"
-    },
-    {
-      "id": "1La5SFO4C6o",
-      "url": "https://images.unsplash.com/photo-1783013958986-09185193cae4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8MTk2MHMlMjBDaXZpbCUyMFJpZ2h0cyUyMG1vdmVtZW50JTIwQmxhY2slMjB3b21lbiUyMGFmcm8lMjBoYWlyc3R5bGV8ZW58MXwxfHx8MTc4MzA2OTk0MXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1783013958986-09185193cae4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8MTk2MHMlMjBDaXZpbCUyMFJpZ2h0cyUyMG1vdmVtZW50JTIwQmxhY2slMjB3b21lbiUyMGFmcm8lMjBoYWlyc3R5bGV8ZW58MXwxfHx8MTc4MzA2OTk0MXww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1783013958986-09185193cae4?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8MTk2MHMlMjBDaXZpbCUyMFJpZ2h0cyUyMG1vdmVtZW50JTIwQmxhY2slMjB3b21lbiUyMGFmcm8lMjBoYWlyc3R5bGV8ZW58MXwxfHx8MTc4MzA2OTk0MXww&ixlib=rb-4.1.0&q=85",
-      "alt": "Woman with afro and floral top in black and white.",
-      "description": "",
-      "photographer": "melvin Ankrah",
-      "photographer_url": "https://unsplash.com/@hashtagmelvin",
-      "photo_url": "https://unsplash.com/photos/woman-with-afro-and-floral-top-in-black-and-white-1La5SFO4C6o",
-      "tags": "",
-      "era": "1960s",
-      "category": "historical",
-      "fetched_at": "2026-07-03T10:08:02.738086+00:00"
-    },
-    {
-      "id": "n2YNGmoXZ8Q",
-      "url": "https://images.unsplash.com/photo-1763256674006-b8397df2fdd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8QWZyaWNhbiUyMHdvbWVuJTIwd2l0aCUyMGRyZWFkbG9ja3MlMjBwb3J0cmFpdHN8ZW58MXwxfHx8MTc4MzA0NzYyOHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1763256674006-b8397df2fdd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8QWZyaWNhbiUyMHdvbWVuJTIwd2l0aCUyMGRyZWFkbG9ja3MlMjBwb3J0cmFpdHN8ZW58MXwxfHx8MTc4MzA0NzYyOHww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1763256674006-b8397df2fdd8?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8QWZyaWNhbiUyMHdvbWVuJTIwd2l0aCUyMGRyZWFkbG9ja3MlMjBwb3J0cmFpdHN8ZW58MXwxfHx8MTc4MzA0NzYyOHww&ixlib=rb-4.1.0&q=85",
-      "alt": "Black and white portrait of a woman with braided hair.",
-      "description": "",
-      "photographer": "Ufoma Ojo",
-      "photographer_url": "https://unsplash.com/@ladyufoma001",
-      "photo_url": "https://unsplash.com/photos/black-and-white-portrait-of-a-woman-with-braided-hair-n2YNGmoXZ8Q",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-07-03T03:00:03.359476+00:00"
     }
   ],
-  "updated_at": "2026-07-06T02:11:42.788007+00:00"
+  "updated_at": "2026-07-06T03:17:14.189640+00:00"
 }
