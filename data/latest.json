@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with today's featured Black and African women's hair trends, showcasing vibrant styles that are bold, daring, and unapologetically fierce!",
   "images": [
+    {
+      "id": "Pk-vGiVNE0c",
+      "url": "https://images.unsplash.com/photo-1783013956868-0e0ee29e4e03?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNnx8Q2xvc2UlMjBVcCUyMG9mJTIwQWZybyUyMGluJTIwU2xpZ2h0JTIwV2F2ZXN8ZW58MXwxfHx8MTc4MzQzNjU1NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1783013956868-0e0ee29e4e03?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNnx8Q2xvc2UlMjBVcCUyMG9mJTIwQWZybyUyMGluJTIwU2xpZ2h0JTIwV2F2ZXN8ZW58MXwxfHx8MTc4MzQzNjU1NHww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1783013956868-0e0ee29e4e03?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNnx8Q2xvc2UlMjBVcCUyMG9mJTIwQWZybyUyMGluJTIwU2xpZ2h0JTIwV2F2ZXN8ZW58MXwxfHx8MTc4MzQzNjU1NHww&ixlib=rb-4.1.0&q=85",
+      "alt": "Stylish woman with natural hair and ornate dress outdoors.",
+      "description": "",
+      "photographer": "melvin Ankrah",
+      "photographer_url": "https://unsplash.com/@hashtagmelvin",
+      "photo_url": "https://unsplash.com/photos/stylish-woman-with-natural-hair-and-ornate-dress-outdoors-Pk-vGiVNE0c",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-07-07T15:00:03.962967+00:00"
+    },
     {
       "id": "q-x6-X3urGc",
       "url": "https://images.unsplash.com/photo-1767899281330-9d59ebaf89b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8Q3JvY2hldCUyMEJyYWlkcyUyMG9uJTIwRWxlZ2FudCUyMEJsYWNrJTIwV29tYW58ZW58MXwxfHx8MTc4MzQyOTQyN3ww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-07-04T12:00:08.249760+00:00"
-    },
-    {
-      "id": "d4y6oggs2RE",
-      "url": "https://images.unsplash.com/photo-1783013953144-c764339c3b27?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8cmVsYXhlZCUyMGN1cmx5JTIwcGVybSUyMGhhaXIlMjBibGFjayUyMHdvbWFufGVufDF8MXx8fDE3ODMxNTU3MjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1783013953144-c764339c3b27?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8cmVsYXhlZCUyMGN1cmx5JTIwcGVybSUyMGhhaXIlMjBibGFjayUyMHdvbWFufGVufDF8MXx8fDE3ODMxNTU3MjF8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1783013953144-c764339c3b27?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8cmVsYXhlZCUyMGN1cmx5JTIwcGVybSUyMGhhaXIlMjBibGFjayUyMHdvbWFufGVufDF8MXx8fDE3ODMxNTU3MjF8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "A smiling woman with curly hair wearing a black dress.",
-      "description": "",
-      "photographer": "melvin Ankrah",
-      "photographer_url": "https://unsplash.com/@hashtagmelvin",
-      "photo_url": "https://unsplash.com/photos/a-smiling-woman-with-curly-hair-wearing-a-black-dress-d4y6oggs2RE",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-07-04T09:02:00.898175+00:00"
     }
   ],
-  "updated_at": "2026-07-07T14:04:52.723423+00:00"
+  "updated_at": "2026-07-07T15:03:39.026497+00:00"
 }
