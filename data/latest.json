@@ -1,6 +1,21 @@
 {
-  "summary": "Get ready to slay with our rundown of the hottest, most on-trend hairstyles currently dominating the beauty scene among Black and African women!",
+  "summary": "Get ready to slay with today's must-try looks, as we dive into the hottest Black and African women's hair trends that are currently making waves worldwide!",
   "images": [
+    {
+      "id": "As2wBGjzfNA",
+      "url": "https://images.unsplash.com/photo-1712718893714-0b1f83111b0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8Qm94JTIwQnJhaWRzJTIwTG9uZyUyMEhhaXIlMjBDZWxlYnJpdHklMjBQaG90b3Nob290fGVufDF8MXx8fDE3ODM0NTQ5MTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1712718893714-0b1f83111b0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8Qm94JTIwQnJhaWRzJTIwTG9uZyUyMEhhaXIlMjBDZWxlYnJpdHklMjBQaG90b3Nob290fGVufDF8MXx8fDE3ODM0NTQ5MTJ8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1712718893714-0b1f83111b0f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8Qm94JTIwQnJhaWRzJTIwTG9uZyUyMEhhaXIlMjBDZWxlYnJpdHklMjBQaG90b3Nob290fGVufDF8MXx8fDE3ODM0NTQ5MTJ8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "a woman with dreadlocks posing for a picture",
+      "description": "",
+      "photographer": "Bjorn Pierre",
+      "photographer_url": "https://unsplash.com/@bjornpierre",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-dreadlocks-posing-for-a-picture-As2wBGjzfNA",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-07-07T20:00:03.866827+00:00"
+    },
     {
       "id": "8VrpqRCnX7U",
       "url": "https://images.unsplash.com/photo-1767249615394-c2f36d563a2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8QmxhY2slMjBXb21lbiUyMFdlYXJpbmclMjBGdWxhbmklMjBCcmFpZHMlMjBPdXRzaWRlfGVufDF8MXx8fDE3ODM0NTA4MzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-07-05T03:00:03.804893+00:00"
-    },
-    {
-      "id": "rt64ahHdvGw",
-      "url": "https://images.unsplash.com/photo-1647163848239-dd82bf59f458?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxM3x8QmxhY2slMjBnaXJscyUyMHdpdGglMjB0ZWVuaWUlMjB3ZWVuaWUlMjBhZnJvc3xlbnwxfDF8fHwxNzgzMjAyNDIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1647163848239-dd82bf59f458?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxM3x8QmxhY2slMjBnaXJscyUyMHdpdGglMjB0ZWVuaWUlMjB3ZWVuaWUlMjBhZnJvc3xlbnwxfDF8fHwxNzgzMjAyNDIzfDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1647163848239-dd82bf59f458?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxM3x8QmxhY2slMjBnaXJscyUyMHdpdGglMjB0ZWVuaWUlMjB3ZWVuaWUlMjBhZnJvc3xlbnwxfDF8fHwxNzgzMjAyNDIzfDA&ixlib=rb-4.1.0&q=85",
-      "alt": "a woman with an afro standing in front of a wooden wall",
-      "description": "",
-      "photographer": "Jennifer mela444",
-      "photographer_url": "https://unsplash.com/@verypettygirl",
-      "photo_url": "https://unsplash.com/photos/a-woman-with-an-afro-standing-in-front-of-a-wooden-wall-rt64ahHdvGw",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-07-04T22:00:13.641694+00:00"
     }
   ],
-  "updated_at": "2026-07-07T19:01:03.988035+00:00"
+  "updated_at": "2026-07-07T20:24:17.675769+00:00"
 }
