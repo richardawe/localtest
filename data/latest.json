@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with today's hottest Black and African hair trends, featuring vibrant styles that are bold, beautiful, and utterly on point!",
   "images": [
+    {
+      "id": "q-x6-X3urGc",
+      "url": "https://images.unsplash.com/photo-1767899281330-9d59ebaf89b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8Q3JvY2hldCUyMEJyYWlkcyUyMG9uJTIwRWxlZ2FudCUyMEJsYWNrJTIwV29tYW58ZW58MXwxfHx8MTc4MzQyOTQyN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1767899281330-9d59ebaf89b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8Q3JvY2hldCUyMEJyYWlkcyUyMG9uJTIwRWxlZ2FudCUyMEJsYWNrJTIwV29tYW58ZW58MXwxfHx8MTc4MzQyOTQyN3ww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1767899281330-9d59ebaf89b8?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8Q3JvY2hldCUyMEJyYWlkcyUyMG9uJTIwRWxlZ2FudCUyMEJsYWNrJTIwV29tYW58ZW58MXwxfHx8MTc4MzQyOTQyN3ww&ixlib=rb-4.1.0&q=85",
+      "alt": "A young black woman posing by a staircase.",
+      "description": "",
+      "photographer": "Christian Agbede",
+      "photographer_url": "https://unsplash.com/@chriscreations__",
+      "photo_url": "https://unsplash.com/photos/a-young-black-woman-posing-by-a-staircase-q-x6-X3urGc",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-07-07T13:03:15.025000+00:00"
+    },
     {
       "id": "nSElMT7rLUU",
       "url": "https://images.unsplash.com/photo-1648032229755-8e3478882b9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxM3x8QWZyaWNhbiUyMFdvbWFuJTIwd2l0aCUyMExvY3MlMjBpbiUyMFByb2ZpbGV8ZW58MXwxfHx8MTc4MzM3NTcwNXww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-07-04T09:02:00.898175+00:00"
-    },
-    {
-      "id": "_Swg6CuqLlE",
-      "url": "https://images.unsplash.com/photo-1765560215430-61a347b52da5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8V29tYW4lMjB3ZWFyaW5nJTIwY3JvY2hldCUyMGJyYWlkZWQlMjBoYWlyc3R5bGUlMjBvdXRkb29yc3xlbnwxfDF8fHwxNzgzMTM3NjEwfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1765560215430-61a347b52da5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8V29tYW4lMjB3ZWFyaW5nJTIwY3JvY2hldCUyMGJyYWlkZWQlMjBoYWlyc3R5bGUlMjBvdXRkb29yc3xlbnwxfDF8fHwxNzgzMTM3NjEwfDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1765560215430-61a347b52da5?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8V29tYW4lMjB3ZWFyaW5nJTIwY3JvY2hldCUyMGJyYWlkZWQlMjBoYWlyc3R5bGUlMjBvdXRkb29yc3xlbnwxfDF8fHwxNzgzMTM3NjEwfDA&ixlib=rb-4.1.0&q=85",
-      "alt": "A young woman with dreadlocks touches her face.",
-      "description": "",
-      "photographer": "Michael Kyule",
-      "photographer_url": "https://unsplash.com/@madness_leahcim_",
-      "photo_url": "https://unsplash.com/photos/a-young-woman-with-dreadlocks-touches-her-face-_Swg6CuqLlE",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-07-04T04:00:03.731137+00:00"
     }
   ],
-  "updated_at": "2026-07-07T12:04:57.208244+00:00"
+  "updated_at": "2026-07-07T13:05:19.192281+00:00"
 }
