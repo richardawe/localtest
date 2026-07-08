@@ -1,6 +1,21 @@
 {
-  "summary": "Get ready to slay with our top picks for the hottest Black and African hairstyles of the season, straight from the runways!",
+  "summary": "Get ready to slay with our top picks for the most on-trend hairstyles of the season, straight from Africa and beyond!",
   "images": [
+    {
+      "id": "RxkYwKS0AMU",
+      "url": "https://images.unsplash.com/photo-1671790504316-7aac22818e37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8UHJlc3MlMjBhbmQlMjBDdXJsJTIwQmxhY2slMjBXb21hbiUyMEJlYXV0eXxlbnwxfDF8fHwxNzgzNTMzNjI2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1671790504316-7aac22818e37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8UHJlc3MlMjBhbmQlMjBDdXJsJTIwQmxhY2slMjBXb21hbiUyMEJlYXV0eXxlbnwxfDF8fHwxNzgzNTMzNjI2fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1671790504316-7aac22818e37?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8UHJlc3MlMjBhbmQlMjBDdXJsJTIwQmxhY2slMjBXb21hbiUyMEJlYXV0eXxlbnwxfDF8fHwxNzgzNTMzNjI2fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "a woman holding a bouquet of flowers in her hands",
+      "description": "Portrait Beautiful African woman with flowers",
+      "photographer": "Ali Drabo",
+      "photographer_url": "https://unsplash.com/@draboali33",
+      "photo_url": "https://unsplash.com/photos/a-woman-holding-a-bouquet-of-flowers-in-her-hands-RxkYwKS0AMU",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-07-08T18:00:16.326250+00:00"
+    },
     {
       "id": "T1ZpP_ASYzc",
       "url": "https://images.unsplash.com/photo-1783445744072-b2bc87d633ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw1fHxUZWVuaWUlMjBXZWVuaWUlMjBBZnJvJTIwTmF0dXJhbCUyMFRleHR1cmUlMjBQaG90b3N8ZW58MXwxfHx8MTc4MzUzMDA4NHww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-07-06T03:00:59.592694+00:00"
-    },
-    {
-      "id": "aoIc4Wf2RSs",
-      "url": "https://images.unsplash.com/photo-1588973185663-4a813304a081?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8UmVsYXhlZCUyMFBlcm1lZCUyMEhhaXIlMjBvbiUyMEhhcHB5JTIwV29tYW58ZW58MXwxfHx8MTc4MzMwNjg3M3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1588973185663-4a813304a081?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8UmVsYXhlZCUyMFBlcm1lZCUyMEhhaXIlMjBvbiUyMEhhcHB5JTIwV29tYW58ZW58MXwxfHx8MTc4MzMwNjg3M3ww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1588973185663-4a813304a081?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8UmVsYXhlZCUyMFBlcm1lZCUyMEhhaXIlMjBvbiUyMEhhcHB5JTIwV29tYW58ZW58MXwxfHx8MTc4MzMwNjg3M3ww&ixlib=rb-4.1.0&q=85",
-      "alt": "smiling woman in white and red stripe tank top",
-      "description": "Black woman smiling",
-      "photographer": "Rodrigo dos Reis",
-      "photographer_url": "https://unsplash.com/@rodreis",
-      "photo_url": "https://unsplash.com/photos/smiling-woman-in-white-and-red-stripe-tank-top-aoIc4Wf2RSs",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-07-06T03:00:59.592694+00:00"
     }
   ],
-  "updated_at": "2026-07-08T17:13:43.373756+00:00"
+  "updated_at": "2026-07-08T18:17:14.336411+00:00"
 }
