@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with the latest hot hairstyles taking over social media, featuring bold braids, vibrant colors, and effortless afro-chic vibes!",
   "images": [
+    {
+      "id": "xRqOMTNZfEo",
+      "url": "https://images.unsplash.com/photo-1716827172167-d782e3c74822?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8U2lzdGVybG9ja3MlMjBvbiUyMEJsYWNrJTIwd29tZW4lMjBpbiUyMHN0dWRpb3xlbnwxfDF8fHwxNzgzNDgwMjIyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1716827172167-d782e3c74822?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8U2lzdGVybG9ja3MlMjBvbiUyMEJsYWNrJTIwd29tZW4lMjBpbiUyMHN0dWRpb3xlbnwxfDF8fHwxNzgzNDgwMjIyfDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1716827172167-d782e3c74822?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8U2lzdGVybG9ja3MlMjBvbiUyMEJsYWNrJTIwd29tZW4lMjBpbiUyMHN0dWRpb3xlbnwxfDF8fHwxNzgzNDgwMjIyfDA&ixlib=rb-4.1.0&q=85",
+      "alt": "a woman with dreadlocks sitting on the ground",
+      "description": "Woman Posing in front of Brown Background",
+      "photographer": "Matthew Jackson",
+      "photographer_url": "https://unsplash.com/@levijackson",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-dreadlocks-sitting-on-the-ground-xRqOMTNZfEo",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-07-08T03:09:55.013252+00:00"
+    },
     {
       "id": "As2wBGjzfNA",
       "url": "https://images.unsplash.com/photo-1712718893714-0b1f83111b0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8Qm94JTIwQnJhaWRzJTIwTG9uZyUyMEhhaXIlMjBDZWxlYnJpdHklMjBQaG90b3Nob290fGVufDF8MXx8fDE3ODM0NTQ5MTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-07-05T12:05:04.588714+00:00"
-    },
-    {
-      "id": "OgTveWwQ4F0",
-      "url": "https://images.unsplash.com/photo-1783013954733-ceed90c4e29f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8TmF0dXJhbCUyMEFmcm8lMjB0ZXh0dXJlJTIwY2xvc2UlMjB1cCUyMHNob3RzfGVufDF8MXx8fDE3ODMyMjA0MzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1783013954733-ceed90c4e29f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8TmF0dXJhbCUyMEFmcm8lMjB0ZXh0dXJlJTIwY2xvc2UlMjB1cCUyMHNob3RzfGVufDF8MXx8fDE3ODMyMjA0MzZ8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1783013954733-ceed90c4e29f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8TmF0dXJhbCUyMEFmcm8lMjB0ZXh0dXJlJTIwY2xvc2UlMjB1cCUyMHNob3RzfGVufDF8MXx8fDE3ODMyMjA0MzZ8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "Woman with closed eyes and natural hair in warm light.",
-      "description": "",
-      "photographer": "melvin Ankrah",
-      "photographer_url": "https://unsplash.com/@hashtagmelvin",
-      "photo_url": "https://unsplash.com/photos/woman-with-closed-eyes-and-natural-hair-in-warm-light-OgTveWwQ4F0",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-07-05T03:00:03.804893+00:00"
     }
   ],
-  "updated_at": "2026-07-08T02:17:55.197047+00:00"
+  "updated_at": "2026-07-08T03:27:26.280127+00:00"
 }
