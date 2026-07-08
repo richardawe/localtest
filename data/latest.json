@@ -1,6 +1,36 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with our top picks for the hottest Black and African hairstyles of the season, straight from the runways!",
   "images": [
+    {
+      "id": "T1ZpP_ASYzc",
+      "url": "https://images.unsplash.com/photo-1783445744072-b2bc87d633ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw1fHxUZWVuaWUlMjBXZWVuaWUlMjBBZnJvJTIwTmF0dXJhbCUyMFRleHR1cmUlMjBQaG90b3N8ZW58MXwxfHx8MTc4MzUzMDA4NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1783445744072-b2bc87d633ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw1fHxUZWVuaWUlMjBXZWVuaWUlMjBBZnJvJTIwTmF0dXJhbCUyMFRleHR1cmUlMjBQaG90b3N8ZW58MXwxfHx8MTc4MzUzMDA4NHww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1783445744072-b2bc87d633ec?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw1fHxUZWVuaWUlMjBXZWVuaWUlMjBBZnJvJTIwTmF0dXJhbCUyMFRleHR1cmUlMjBQaG90b3N8ZW58MXwxfHx8MTc4MzUzMDA4NHww&ixlib=rb-4.1.0&q=85",
+      "alt": "Woman with afro and denim shirt on a yellow background.",
+      "description": "",
+      "photographer": "Cleopas Monbest",
+      "photographer_url": "https://unsplash.com/@monbestmedia",
+      "photo_url": "https://unsplash.com/photos/woman-with-afro-and-denim-shirt-on-a-yellow-background-T1ZpP_ASYzc",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-07-08T17:01:13.231067+00:00"
+    },
+    {
+      "id": "iKnfVhqNMpA",
+      "url": "https://images.unsplash.com/photo-1783445749679-8e40a949f646?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8VGVlbmllJTIwV2VlbmllJTIwQWZybyUyME5hdHVyYWwlMjBUZXh0dXJlJTIwUGhvdG9zfGVufDF8MXx8fDE3ODM1MzAwODR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1783445749679-8e40a949f646?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8VGVlbmllJTIwV2VlbmllJTIwQWZybyUyME5hdHVyYWwlMjBUZXh0dXJlJTIwUGhvdG9zfGVufDF8MXx8fDE3ODM1MzAwODR8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1783445749679-8e40a949f646?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8VGVlbmllJTIwV2VlbmllJTIwQWZybyUyME5hdHVyYWwlMjBUZXh0dXJlJTIwUGhvdG9zfGVufDF8MXx8fDE3ODM1MzAwODR8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "Dark-skinned woman with afro hair wearing denim against yellow.",
+      "description": "",
+      "photographer": "Cleopas Monbest",
+      "photographer_url": "https://unsplash.com/@monbestmedia",
+      "photo_url": "https://unsplash.com/photos/dark-skinned-woman-with-afro-hair-wearing-denim-against-yellow-iKnfVhqNMpA",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-07-08T17:01:13.231067+00:00"
+    },
     {
       "id": "xRqOMTNZfEo",
       "url": "https://images.unsplash.com/photo-1716827172167-d782e3c74822?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8U2lzdGVybG9ja3MlMjBvbiUyMEJsYWNrJTIwd29tZW4lMjBpbiUyMHN0dWRpb3xlbnwxfDF8fHwxNzgzNDgwMjIyfDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -270,37 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-07-06T03:00:59.592694+00:00"
-    },
-    {
-      "id": "YMRurVXIyrQ",
-      "url": "https://images.unsplash.com/photo-1646248022008-64b9b62b42f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8R29kZGVzcyUyMGJyYWlkcyUyMGluJTIwc29mdCUyMHJvbWFudGljJTIwbGlnaHRpbmd8ZW58MXwxfHx8MTc4MzI5NjAzMnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1646248022008-64b9b62b42f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8R29kZGVzcyUyMGJyYWlkcyUyMGluJTIwc29mdCUyMHJvbWFudGljJTIwbGlnaHRpbmd8ZW58MXwxfHx8MTc4MzI5NjAzMnww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1646248022008-64b9b62b42f2?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8R29kZGVzcyUyMGJyYWlkcyUyMGluJTIwc29mdCUyMHJvbWFudGljJTIwbGlnaHRpbmd8ZW58MXwxfHx8MTc4MzI5NjAzMnww&ixlib=rb-4.1.0&q=85",
-      "alt": "a woman with braids standing in a dark room",
-      "description": "",
-      "photographer": "Alex Preyer",
-      "photographer_url": "https://unsplash.com/@preyer",
-      "photo_url": "https://unsplash.com/photos/a-woman-with-braids-standing-in-a-dark-room-YMRurVXIyrQ",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-07-06T00:00:06.725463+00:00"
-    },
-    {
-      "id": "CL_srvNGW7w",
-      "url": "https://images.unsplash.com/photo-1777309816713-73c2cdb71766?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8RHJlYWRsb2NrcyUyMG9uJTIwQWZyaWNhbiUyMHdvbWFuJTIwd2l0aCUyMHByaWRlfGVufDF8MXx8fDE3ODMyNTMxMTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1777309816713-73c2cdb71766?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8RHJlYWRsb2NrcyUyMG9uJTIwQWZyaWNhbiUyMHdvbWFuJTIwd2l0aCUyMHByaWRlfGVufDF8MXx8fDE3ODMyNTMxMTF8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1777309816713-73c2cdb71766?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8RHJlYWRsb2NrcyUyMG9uJTIwQWZyaWNhbiUyMHdvbWFuJTIwd2l0aCUyMHByaWRlfGVufDF8MXx8fDE3ODMyNTMxMTF8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "Woman wearing colorful headwrap and beaded necklace.",
-      "description": "A detailed close-up of a woman wearing a Pan-African colored headwrap (yellow, green, and red). Her smile and gold accessories convey an energy of joy and cultural pride.",
-      "photographer": "Sergio Aguirre",
-      "photographer_url": "https://unsplash.com/@zeryozero",
-      "photo_url": "https://unsplash.com/photos/woman-wearing-colorful-headwrap-and-beaded-necklace-CL_srvNGW7w",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-07-05T12:05:04.588714+00:00"
     }
   ],
-  "updated_at": "2026-07-08T16:01:03.256716+00:00"
+  "updated_at": "2026-07-08T17:13:43.373756+00:00"
 }
