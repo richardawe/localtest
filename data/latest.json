@@ -1,6 +1,21 @@
 {
-  "summary": "Get ready to slay with this month's hottest hair trends, featuring bold styles that showcase the beauty and diversity of Black and African women's hair!",
+  "summary": "Get ready to be inspired by the latest styles from Africa and beyond, showcasing vibrant textures, bold colors, and innovative twists on traditional beauty!",
   "images": [
+    {
+      "id": "VWPdwW3-Xlc",
+      "url": "https://images.unsplash.com/photo-1783445722364-20021676e2e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8VGVlbmllJTIwd2VlbmllJTIwQWZybyUyMGhhaXJzdHlsZSUyMHBob3Rvc2hvb3R8ZW58MXwxfHx8MTc4MzU2MzE1NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1783445722364-20021676e2e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8VGVlbmllJTIwd2VlbmllJTIwQWZybyUyMGhhaXJzdHlsZSUyMHBob3Rvc2hvb3R8ZW58MXwxfHx8MTc4MzU2MzE1NHww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1783445722364-20021676e2e6?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8VGVlbmllJTIwd2VlbmllJTIwQWZybyUyMGhhaXJzdHlsZSUyMHBob3Rvc2hvb3R8ZW58MXwxfHx8MTc4MzU2MzE1NHww&ixlib=rb-4.1.0&q=85",
+      "alt": "Woman with afro and open denim shirt kneeling on red.",
+      "description": "",
+      "photographer": "Cleopas Monbest",
+      "photographer_url": "https://unsplash.com/@monbestmedia",
+      "photo_url": "https://unsplash.com/photos/woman-with-afro-and-open-denim-shirt-kneeling-on-red-VWPdwW3-Xlc",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-07-09T02:12:08.314517+00:00"
+    },
     {
       "id": "iDIJv1xvatY",
       "url": "https://images.unsplash.com/photo-1783445721066-454dc4184878?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyfHxSZWxheGVkJTIwcGVybWVkJTIwaGFpciUyMG9mJTIwQmxhY2slMjBtb2RlbHN8ZW58MXwxfHx8MTc4MzU1OTIwN3ww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-07-06T08:00:05.588488+00:00"
-    },
-    {
-      "id": "2EBHQxD_yJw",
-      "url": "https://images.unsplash.com/photo-1782931684641-39b88b348e1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8Q3JvY2hldCUyMGJyYWlkcyUyMG9uJTIwbmF0dXJhbCUyMGhhaXJ8ZW58MXwxfHx8MTc4MzMyNDg2OXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1782931684641-39b88b348e1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8Q3JvY2hldCUyMGJyYWlkcyUyMG9uJTIwbmF0dXJhbCUyMGhhaXJ8ZW58MXwxfHx8MTc4MzMyNDg2OXww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1782931684641-39b88b348e1e?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8Q3JvY2hldCUyMGJyYWlkcyUyMG9uJTIwbmF0dXJhbCUyMGhhaXJ8ZW58MXwxfHx8MTc4MzMyNDg2OXww&ixlib=rb-4.1.0&q=85",
-      "alt": "Smiling young woman with braided hair and closed eyes.",
-      "description": "",
-      "photographer": "Simon Ebele",
-      "photographer_url": "https://unsplash.com/@yobs_simon",
-      "photo_url": "https://unsplash.com/photos/smiling-young-woman-with-braided-hair-and-closed-eyes-2EBHQxD_yJw",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-07-06T08:00:05.588488+00:00"
     }
   ],
-  "updated_at": "2026-07-09T01:22:41.086976+00:00"
+  "updated_at": "2026-07-09T02:13:21.100229+00:00"
 }
