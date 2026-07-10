@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with today's top picks on the hottest current hairstyles trending among Black and African women - bold, fierce, and unapologetically fabulous!",
   "images": [
+    {
+      "id": "6oVVB8-4RRM",
+      "url": "https://images.unsplash.com/photo-1757140447782-8503452b2204?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8RnVsYW5pJTIwQnJhaWRzJTIwd2l0aCUyMENvbG9yZnVsJTIwQmVhZGVkJTIwSGVhZGJhbmR8ZW58MXwxfHx8MTc4MzcxNzIzMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1757140447782-8503452b2204?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8RnVsYW5pJTIwQnJhaWRzJTIwd2l0aCUyMENvbG9yZnVsJTIwQmVhZGVkJTIwSGVhZGJhbmR8ZW58MXwxfHx8MTc4MzcxNzIzMHww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1757140447782-8503452b2204?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8RnVsYW5pJTIwQnJhaWRzJTIwd2l0aCUyMENvbG9yZnVsJTIwQmVhZGVkJTIwSGVhZGJhbmR8ZW58MXwxfHx8MTc4MzcxNzIzMHww&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman wears traditional beaded jewelry and headwear.",
+      "description": "african woman close up",
+      "photographer": "Divaris Shirichena",
+      "photographer_url": "https://unsplash.com/@divaris",
+      "photo_url": "https://unsplash.com/photos/a-woman-wears-traditional-beaded-jewelry-and-headwear-6oVVB8-4RRM",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-07-10T21:00:05.197530+00:00"
+    },
     {
       "id": "bkPD_i9X1Ng",
       "url": "https://images.unsplash.com/photo-1762521337195-53b12282bc18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8QmxhY2slMjB3b21lbiUyMHdpdGglMjBzaXN0ZXJsb2NrcyUyMGhhaXJzdHlsZXMlMjBvdXRzaWRlfGVufDF8MXx8fDE3ODM2ODE0OTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-07-08T03:09:55.013252+00:00"
-    },
-    {
-      "id": "As2wBGjzfNA",
-      "url": "https://images.unsplash.com/photo-1712718893714-0b1f83111b0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8Qm94JTIwQnJhaWRzJTIwTG9uZyUyMEhhaXIlMjBDZWxlYnJpdHklMjBQaG90b3Nob290fGVufDF8MXx8fDE3ODM0NTQ5MTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1712718893714-0b1f83111b0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8Qm94JTIwQnJhaWRzJTIwTG9uZyUyMEhhaXIlMjBDZWxlYnJpdHklMjBQaG90b3Nob290fGVufDF8MXx8fDE3ODM0NTQ5MTJ8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1712718893714-0b1f83111b0f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8Qm94JTIwQnJhaWRzJTIwTG9uZyUyMEhhaXIlMjBDZWxlYnJpdHklMjBQaG90b3Nob290fGVufDF8MXx8fDE3ODM0NTQ5MTJ8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "a woman with dreadlocks posing for a picture",
-      "description": "",
-      "photographer": "Bjorn Pierre",
-      "photographer_url": "https://unsplash.com/@bjornpierre",
-      "photo_url": "https://unsplash.com/photos/a-woman-with-dreadlocks-posing-for-a-picture-As2wBGjzfNA",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-07-07T20:00:03.866827+00:00"
     }
   ],
-  "updated_at": "2026-07-10T20:16:08.802460+00:00"
+  "updated_at": "2026-07-10T21:02:36.118395+00:00"
 }
