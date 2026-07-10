@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with today's top picks from Africa and beyond, featuring bold styles that showcase the beauty of Black and African women's hair!",
   "images": [
+    {
+      "id": "gRxyFWZbt9c",
+      "url": "https://images.unsplash.com/photo-1767249622953-5090291758da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw3fHxCbGFjayUyMHdvbWVuJTIwYWZyb3MlMjBpbiUyMG91dGRvb3IlMjBzZXR0aW5nc3xlbnwxfDF8fHwxNzgzNjYzMjA4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1767249622953-5090291758da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw3fHxCbGFjayUyMHdvbWVuJTIwYWZyb3MlMjBpbiUyMG91dGRvb3IlMjBzZXR0aW5nc3xlbnwxfDF8fHwxNzgzNjYzMjA4fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1767249622953-5090291758da?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw3fHxCbGFjayUyMHdvbWVuJTIwYWZyb3MlMjBpbiUyMG91dGRvb3IlMjBzZXR0aW5nc3xlbnwxfDF8fHwxNzgzNjYzMjA4fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "Young black woman with braided hair holds hands up.",
+      "description": "",
+      "photographer": "Michael Kyule",
+      "photographer_url": "https://unsplash.com/@madness_leahcim_",
+      "photo_url": "https://unsplash.com/photos/young-black-woman-with-braided-hair-holds-hands-up-gRxyFWZbt9c",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-07-10T06:00:07.874485+00:00"
+    },
     {
       "id": "4T4hcryOn2M",
       "url": "https://images.unsplash.com/photo-1783445743777-798e39487570?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8UHJlc3MlMjBhbmQlMjBDdXJsJTIwQWZybyUyMEJlYXV0eSUyMFNob3RzfGVufDF8MXx8fDE3ODM2NTYwMzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-07-07T19:00:03.842272+00:00"
-    },
-    {
-      "id": "ENI104Fw9yo",
-      "url": "https://images.unsplash.com/photo-1763256674005-aa10ff98167c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8QmxhY2slMjBXb21lbiUyMFdlYXJpbmclMjBGdWxhbmklMjBCcmFpZHMlMjBPdXRzaWRlfGVufDF8MXx8fDE3ODM0NTA4MzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1763256674005-aa10ff98167c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8QmxhY2slMjBXb21lbiUyMFdlYXJpbmclMjBGdWxhbmklMjBCcmFpZHMlMjBPdXRzaWRlfGVufDF8MXx8fDE3ODM0NTA4MzZ8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1763256674005-aa10ff98167c?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8QmxhY2slMjBXb21lbiUyMFdlYXJpbmclMjBGdWxhbmklMjBCcmFpZHMlMjBPdXRzaWRlfGVufDF8MXx8fDE3ODM0NTA4MzZ8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "Woman with braided hair smiles near building",
-      "description": "",
-      "photographer": "Ufoma Ojo",
-      "photographer_url": "https://unsplash.com/@ladyufoma001",
-      "photo_url": "https://unsplash.com/photos/woman-with-braided-hair-smiles-near-building-ENI104Fw9yo",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-07-07T19:00:03.842272+00:00"
     }
   ],
-  "updated_at": "2026-07-10T05:17:14.177088+00:00"
+  "updated_at": "2026-07-10T06:03:54.206655+00:00"
 }
