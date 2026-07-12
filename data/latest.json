@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with the most coveted Black and African women's hair trends of the moment, straight from the streets!",
   "images": [
+    {
+      "id": "SmXGmQ1GInU",
+      "url": "https://images.unsplash.com/photo-1783512784830-5259c034c507?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8V2VhdmVzJTIwZXh0ZW5zaW9ucyUyMGZvciUyMGN1cmx5JTIwaGFpcnxlbnwxfDF8fHwxNzgzODQ2ODkyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1783512784830-5259c034c507?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8V2VhdmVzJTIwZXh0ZW5zaW9ucyUyMGZvciUyMGN1cmx5JTIwaGFpcnxlbnwxfDF8fHwxNzgzODQ2ODkyfDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1783512784830-5259c034c507?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8V2VhdmVzJTIwZXh0ZW5zaW9ucyUyMGZvciUyMGN1cmx5JTIwaGFpcnxlbnwxfDF8fHwxNzgzODQ2ODkyfDA&ixlib=rb-4.1.0&q=85",
+      "alt": "Woman in a cream dress holding her long curly hair.",
+      "description": "",
+      "photographer": "Fast Incorporated",
+      "photographer_url": "https://unsplash.com/@francoop",
+      "photo_url": "https://unsplash.com/photos/woman-in-a-cream-dress-holding-her-long-curly-hair-SmXGmQ1GInU",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-07-12T09:01:03.936190+00:00"
+    },
     {
       "id": "glPrT0oV9a4",
       "url": "https://images.unsplash.com/photo-1763957047273-8063e7bf8b61?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMHx8Qm94JTIwQnJhaWRzJTIwd2l0aCUyMEdvbGQlMjBBY2NlbnRzfGVufDF8MXx8fDE3ODM4NDA2NTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-07-09T16:00:03.470447+00:00"
-    },
-    {
-      "id": "Vr0i_4F5D5Q",
-      "url": "https://images.unsplash.com/photo-1773859096712-ff0c5d17c4a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8TmF0dXJhbCUyMGFmcm8lMjBoYWlyJTIwb24lMjBjb25maWRlbnQlMjB3b21hbnxlbnwxfDF8fHwxNzgzNjEyODM5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1773859096712-ff0c5d17c4a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8TmF0dXJhbCUyMGFmcm8lMjBoYWlyJTIwb24lMjBjb25maWRlbnQlMjB3b21hbnxlbnwxfDF8fHwxNzgzNjEyODM5fDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1773859096712-ff0c5d17c4a6?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8TmF0dXJhbCUyMGFmcm8lMjBoYWlyJTIwb24lMjBjb25maWRlbnQlMjB3b21hbnxlbnwxfDF8fHwxNzgzNjEyODM5fDA&ixlib=rb-4.1.0&q=85",
-      "alt": "A black woman in a pink blazer smiles confidently.",
-      "description": "",
-      "photographer": "K Studios",
-      "photographer_url": "https://unsplash.com/@kstudios",
-      "photo_url": "https://unsplash.com/photos/a-black-woman-in-a-pink-blazer-smiles-confidently-Vr0i_4F5D5Q",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-07-09T16:00:03.470447+00:00"
     }
   ],
-  "updated_at": "2026-07-12T08:03:23.308589+00:00"
+  "updated_at": "2026-07-12T09:02:37.897041+00:00"
 }
