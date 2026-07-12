@@ -1,6 +1,36 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with this month's freshest picks from the world of Black and African hair, featuring bold styles that are taking over social media!",
   "images": [
+    {
+      "id": "Nq43qD_3sgQ",
+      "url": "https://images.unsplash.com/photo-1783445739863-17400c9f5239?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8V29tZW4lMjByb2NraW5nJTIwbmF0dXJhbCUyMGFmcm9zJTIwaW4lMjBzdHVkaW98ZW58MXwxfHx8MTc4Mzg5MzcyOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1783445739863-17400c9f5239?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8V29tZW4lMjByb2NraW5nJTIwbmF0dXJhbCUyMGFmcm9zJTIwaW4lMjBzdHVkaW98ZW58MXwxfHx8MTc4Mzg5MzcyOHww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1783445739863-17400c9f5239?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8V29tZW4lMjByb2NraW5nJTIwbmF0dXJhbCUyMGFmcm9zJTIwaW4lMjBzdHVkaW98ZW58MXwxfHx8MTc4Mzg5MzcyOHww&ixlib=rb-4.1.0&q=85",
+      "alt": "Woman with afro kneeling, wearing open denim shirt, yellow background.",
+      "description": "",
+      "photographer": "Cleopas Monbest",
+      "photographer_url": "https://unsplash.com/@monbestmedia",
+      "photo_url": "https://unsplash.com/photos/woman-with-afro-kneeling-wearing-open-denim-shirt-yellow-background-Nq43qD_3sgQ",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-07-12T22:01:55.439479+00:00"
+    },
+    {
+      "id": "gN1Bd1eUaFQ",
+      "url": "https://images.unsplash.com/photo-1707162740904-a32d78db444d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8V29tZW4lMjByb2NraW5nJTIwbmF0dXJhbCUyMGFmcm9zJTIwaW4lMjBzdHVkaW98ZW58MXwxfHx8MTc4Mzg5MzcyOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1707162740904-a32d78db444d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8V29tZW4lMjByb2NraW5nJTIwbmF0dXJhbCUyMGFmcm9zJTIwaW4lMjBzdHVkaW98ZW58MXwxfHx8MTc4Mzg5MzcyOHww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1707162740904-a32d78db444d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8V29tZW4lMjByb2NraW5nJTIwbmF0dXJhbCUyMGFmcm9zJTIwaW4lMjBzdHVkaW98ZW58MXwxfHx8MTc4Mzg5MzcyOHww&ixlib=rb-4.1.0&q=85",
+      "alt": "a woman with an afro sitting on the ground",
+      "description": "",
+      "photographer": "Dwayne joe",
+      "photographer_url": "https://unsplash.com/@spliff_dj_joe",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-an-afro-sitting-on-the-ground-gN1Bd1eUaFQ",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-07-12T22:01:55.439479+00:00"
+    },
     {
       "id": "SmXGmQ1GInU",
       "url": "https://images.unsplash.com/photo-1783512784830-5259c034c507?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8V2VhdmVzJTIwZXh0ZW5zaW9ucyUyMGZvciUyMGN1cmx5JTIwaGFpcnxlbnwxfDF8fHwxNzgzODQ2ODkyfDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -270,37 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-07-09T16:00:03.470447+00:00"
-    },
-    {
-      "id": "iFNaCzc3_Z4",
-      "url": "https://images.unsplash.com/photo-1777223127656-2eb060fef4fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNnx8TmF0dXJhbCUyMGFmcm8lMjBoYWlyJTIwb24lMjBjb25maWRlbnQlMjB3b21hbnxlbnwxfDF8fHwxNzgzNjEyODM5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1777223127656-2eb060fef4fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNnx8TmF0dXJhbCUyMGFmcm8lMjBoYWlyJTIwb24lMjBjb25maWRlbnQlMjB3b21hbnxlbnwxfDF8fHwxNzgzNjEyODM5fDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1777223127656-2eb060fef4fe?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNnx8TmF0dXJhbCUyMGFmcm8lMjBoYWlyJTIwb24lMjBjb25maWRlbnQlMjB3b21hbnxlbnwxfDF8fHwxNzgzNjEyODM5fDA&ixlib=rb-4.1.0&q=85",
-      "alt": "Woman with braids and bandana in car",
-      "description": "",
-      "photographer": "Michael Kyule",
-      "photographer_url": "https://unsplash.com/@madness_leahcim_",
-      "photo_url": "https://unsplash.com/photos/woman-with-braids-and-bandana-in-car-iFNaCzc3_Z4",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-07-09T16:00:03.470447+00:00"
-    },
-    {
-      "id": "Rjs6FVXZMF0",
-      "url": "https://images.unsplash.com/photo-1771736809946-b1f9485fba30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8TmF0dXJhbCUyMGFmcm8lMjBoYWlyJTIwb24lMjBjb25maWRlbnQlMjB3b21hbnxlbnwxfDF8fHwxNzgzNjEyODM5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1771736809946-b1f9485fba30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8TmF0dXJhbCUyMGFmcm8lMjBoYWlyJTIwb24lMjBjb25maWRlbnQlMjB3b21hbnxlbnwxfDF8fHwxNzgzNjEyODM5fDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1771736809946-b1f9485fba30?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8TmF0dXJhbCUyMGFmcm8lMjBoYWlyJTIwb24lMjBjb25maWRlbnQlMjB3b21hbnxlbnwxfDF8fHwxNzgzNjEyODM5fDA&ixlib=rb-4.1.0&q=85",
-      "alt": "A young woman with braided hair wearing jewelry",
-      "description": "",
-      "photographer": "Michael Kyule",
-      "photographer_url": "https://unsplash.com/@madness_leahcim_",
-      "photo_url": "https://unsplash.com/photos/a-young-woman-with-braided-hair-wearing-jewelry-Rjs6FVXZMF0",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-07-09T16:00:03.470447+00:00"
     }
   ],
-  "updated_at": "2026-07-12T21:01:54.992316+00:00"
+  "updated_at": "2026-07-12T22:12:51.770398+00:00"
 }
