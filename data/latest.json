@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with our top picks of the latest must-have hairstyles that are taking over the world, straight from the global stage!",
   "images": [
+    {
+      "id": "d1Y5ihBqMpc",
+      "url": "https://images.unsplash.com/photo-1777430926923-b526a5f0b55d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8UmVsYXhlZCUyMFBlcm1lZCUyMEhhaXIlMjBpbiUyMFZpbnRhZ2UlMjBQaG90b3N8ZW58MXwxfHx8MTc4Mzk2NTc0M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1777430926923-b526a5f0b55d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8UmVsYXhlZCUyMFBlcm1lZCUyMEhhaXIlMjBpbiUyMFZpbnRhZ2UlMjBQaG90b3N8ZW58MXwxfHx8MTc4Mzk2NTc0M3ww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1777430926923-b526a5f0b55d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8UmVsYXhlZCUyMFBlcm1lZCUyMEhhaXIlMjBpbiUyMFZpbnRhZ2UlMjBQaG90b3N8ZW58MXwxfHx8MTc4Mzk2NTc0M3ww&ixlib=rb-4.1.0&q=85",
+      "alt": "A performer in costume sits on a reflective surface.",
+      "description": "Artist: Stanislaw Julian Ignacy Ostroróg, known as Walery, Sitter: Josephine Baker, Date: 1926, Medium: Gelatin silver print, Record ID: npg_NPG.95.105",
+      "photographer": "Smithsonian",
+      "photographer_url": "https://unsplash.com/@smithsonian",
+      "photo_url": "https://unsplash.com/photos/a-performer-in-costume-sits-on-a-reflective-surface-d1Y5ihBqMpc",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-07-13T18:02:02.091305+00:00"
+    },
     {
       "id": "wuQ1t_bpP3w",
       "url": "https://images.unsplash.com/photo-1648762393333-c1206489c424?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMHx8RHJlYWRsb2NrZWQlMjBCbGFjayUyMHdvbWVuJTIwaW4lMjB0cmFkaXRpb25hbCUyMGF0dGlyZXxlbnwxfDF8fHwxNzgzOTQ0MjY0fDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-07-10T00:00:29.195874+00:00"
-    },
-    {
-      "id": "l5a99003tr4",
-      "url": "https://images.unsplash.com/photo-1528991435120-e73e05a58897?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNnx8VFdBJTIwdGVlbmllJTIwd2VlbmllJTIwYWZyb3MlMjBvbiUyMHdvbWVufGVufDF8MXx8fDE3ODM2NDE2MzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1528991435120-e73e05a58897?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNnx8VFdBJTIwdGVlbmllJTIwd2VlbmllJTIwYWZyb3MlMjBvbiUyMHdvbWVufGVufDF8MXx8fDE3ODM2NDE2MzB8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1528991435120-e73e05a58897?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNnx8VFdBJTIwdGVlbmllJTIwd2VlbmllJTIwYWZyb3MlMjBvbiUyMHdvbWVufGVufDF8MXx8fDE3ODM2NDE2MzB8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "woman standing in front of closed door",
-      "description": "Black Woman",
-      "photographer": "Lucas Lenzi",
-      "photographer_url": "https://unsplash.com/@lucaslenzi",
-      "photo_url": "https://unsplash.com/photos/woman-standing-in-front-of-closed-door-l5a99003tr4",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-07-10T00:00:29.195874+00:00"
     }
   ],
-  "updated_at": "2026-07-13T17:10:51.147245+00:00"
+  "updated_at": "2026-07-13T18:05:46.495404+00:00"
 }
