@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to be inspired by the most vibrant and innovative hairstyles from around the world, celebrating the beauty of Black and African women!",
   "images": [
+    {
+      "id": "CWwiyJQ5EqI",
+      "url": "https://images.unsplash.com/photo-1757140448722-f8511eb97cf1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyfHxQcmVzcyUyMGFuZCUyMGN1cmwlMjBBZnJpY2FuJTIwd29tZW4lMjdzJTIwYmVhdXR5fGVufDF8MXx8fDE3ODQwNDQ4MTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1757140448722-f8511eb97cf1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyfHxQcmVzcyUyMGFuZCUyMGN1cmwlMjBBZnJpY2FuJTIwd29tZW4lMjdzJTIwYmVhdXR5fGVufDF8MXx8fDE3ODQwNDQ4MTB8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1757140448722-f8511eb97cf1?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyfHxQcmVzcyUyMGFuZCUyMGN1cmwlMjBBZnJpY2FuJTIwd29tZW4lMjdzJTIwYmVhdXR5fGVufDF8MXx8fDE3ODQwNDQ4MTB8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman with braided hair and large earrings.",
+      "description": "African earrings",
+      "photographer": "Divaris Shirichena",
+      "photographer_url": "https://unsplash.com/@divaris",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-braided-hair-and-large-earrings-CWwiyJQ5EqI",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-07-14T16:00:04.282576+00:00"
+    },
     {
       "id": "0OOaj5fsE-s",
       "url": "https://images.unsplash.com/photo-1783512785520-2d4be2f777bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzfHxHb2RkZXNzJTIwQnJhaWRzJTIwZm9yJTIwV2VkZGluZyUyMERheSUyMExvb2tzfGVufDF8MXx8fDE3ODM5OTQ4NTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-07-10T06:00:07.874485+00:00"
-    },
-    {
-      "id": "4T4hcryOn2M",
-      "url": "https://images.unsplash.com/photo-1783445743777-798e39487570?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8UHJlc3MlMjBhbmQlMjBDdXJsJTIwQWZybyUyMEJlYXV0eSUyMFNob3RzfGVufDF8MXx8fDE3ODM2NTYwMzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1783445743777-798e39487570?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8UHJlc3MlMjBhbmQlMjBDdXJsJTIwQWZybyUyMEJlYXV0eSUyMFNob3RzfGVufDF8MXx8fDE3ODM2NTYwMzJ8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1783445743777-798e39487570?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8UHJlc3MlMjBhbmQlMjBDdXJsJTIwQWZybyUyMEJlYXV0eSUyMFNob3RzfGVufDF8MXx8fDE3ODM2NTYwMzJ8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "Woman with afro, closed eyes, and finger on her chin.",
-      "description": "",
-      "photographer": "Cleopas Monbest",
-      "photographer_url": "https://unsplash.com/@monbestmedia",
-      "photo_url": "https://unsplash.com/photos/woman-with-afro-closed-eyes-and-finger-on-her-chin-4T4hcryOn2M",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-07-10T04:00:03.570774+00:00"
     }
   ],
-  "updated_at": "2026-07-14T15:08:16.502970+00:00"
+  "updated_at": "2026-07-14T16:02:46.344176+00:00"
 }
