@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready for a vibrant celebration of texture, pattern, and style as we dive into this season's hottest Black and African hair trends!",
   "images": [
+    {
+      "id": "PHSbWdhBEQM",
+      "url": "https://images.unsplash.com/photo-1730140322846-e6be13da2ce1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxfHxDcm9jaGV0JTIwYnJhaWRzJTIwb24lMjBBZnJpY2FuJTIwd29tYW4lMjBiYWNrfGVufDF8MXx8fDE3ODQwNzcyNTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1730140322846-e6be13da2ce1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxfHxDcm9jaGV0JTIwYnJhaWRzJTIwb24lMjBBZnJpY2FuJTIwd29tYW4lMjBiYWNrfGVufDF8MXx8fDE3ODQwNzcyNTZ8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1730140322846-e6be13da2ce1?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxfHxDcm9jaGV0JTIwYnJhaWRzJTIwb24lMjBBZnJpY2FuJTIwd29tYW4lMjBiYWNrfGVufDF8MXx8fDE3ODQwNzcyNTZ8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman with dreadlocks standing on a balcony",
+      "description": "Black woman in a long black dress",
+      "photographer": "Lisa Marie Theck",
+      "photographer_url": "https://unsplash.com/@lisa_marie_theck",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-dreadlocks-standing-on-a-balcony-PHSbWdhBEQM",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-07-15T01:00:31.094315+00:00"
+    },
     {
       "id": "CWwiyJQ5EqI",
       "url": "https://images.unsplash.com/photo-1757140448722-f8511eb97cf1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyfHxQcmVzcyUyMGFuZCUyMGN1cmwlMjBBZnJpY2FuJTIwd29tZW4lMjdzJTIwYmVhdXR5fGVufDF8MXx8fDE3ODQwNDQ4MTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-07-10T11:04:52.214388+00:00"
-    },
-    {
-      "id": "gRxyFWZbt9c",
-      "url": "https://images.unsplash.com/photo-1767249622953-5090291758da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw3fHxCbGFjayUyMHdvbWVuJTIwYWZyb3MlMjBpbiUyMG91dGRvb3IlMjBzZXR0aW5nc3xlbnwxfDF8fHwxNzgzNjYzMjA4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1767249622953-5090291758da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw3fHxCbGFjayUyMHdvbWVuJTIwYWZyb3MlMjBpbiUyMG91dGRvb3IlMjBzZXR0aW5nc3xlbnwxfDF8fHwxNzgzNjYzMjA4fDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1767249622953-5090291758da?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw3fHxCbGFjayUyMHdvbWVuJTIwYWZyb3MlMjBpbiUyMG91dGRvb3IlMjBzZXR0aW5nc3xlbnwxfDF8fHwxNzgzNjYzMjA4fDA&ixlib=rb-4.1.0&q=85",
-      "alt": "Young black woman with braided hair holds hands up.",
-      "description": "",
-      "photographer": "Michael Kyule",
-      "photographer_url": "https://unsplash.com/@madness_leahcim_",
-      "photo_url": "https://unsplash.com/photos/young-black-woman-with-braided-hair-holds-hands-up-gRxyFWZbt9c",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-07-10T06:00:07.874485+00:00"
     }
   ],
-  "updated_at": "2026-07-15T00:18:41.272966+00:00"
+  "updated_at": "2026-07-15T01:01:22.421554+00:00"
 }
