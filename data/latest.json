@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with today's featured Black and African women's hair trends, where style meets culture in a world of vibrant expression!",
   "images": [
+    {
+      "id": "T36QGZLmIAg",
+      "url": "https://images.unsplash.com/photo-1708704860573-68d9a80fa8d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8V29tZW4lMjB3aXRoJTIwd2VhdmVzJTIwYW5kJTIwZXh0ZW5zaW9ucyUyMGluJTIwcHVibGljJTIwc3BhY2VzfGVufDF8MXx8fDE3ODQxMzQ4MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1708704860573-68d9a80fa8d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8V29tZW4lMjB3aXRoJTIwd2VhdmVzJTIwYW5kJTIwZXh0ZW5zaW9ucyUyMGluJTIwcHVibGljJTIwc3BhY2VzfGVufDF8MXx8fDE3ODQxMzQ4MzJ8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1708704860573-68d9a80fa8d2?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8V29tZW4lMjB3aXRoJTIwd2VhdmVzJTIwYW5kJTIwZXh0ZW5zaW9ucyUyMGluJTIwcHVibGljJTIwc3BhY2VzfGVufDF8MXx8fDE3ODQxMzQ4MzJ8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "a woman with braids standing in a dark room",
+      "description": "",
+      "photographer": "Danica Lim",
+      "photographer_url": "https://unsplash.com/@fwhphoto",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-braids-standing-in-a-dark-room-T36QGZLmIAg",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-07-15T17:00:04.080947+00:00"
+    },
     {
       "id": "PHSbWdhBEQM",
       "url": "https://images.unsplash.com/photo-1730140322846-e6be13da2ce1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxfHxDcm9jaGV0JTIwYnJhaWRzJTIwb24lMjBBZnJpY2FuJTIwd29tYW4lMjBiYWNrfGVufDF8MXx8fDE3ODQwNzcyNTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-07-10T21:00:05.197530+00:00"
-    },
-    {
-      "id": "bkPD_i9X1Ng",
-      "url": "https://images.unsplash.com/photo-1762521337195-53b12282bc18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8QmxhY2slMjB3b21lbiUyMHdpdGglMjBzaXN0ZXJsb2NrcyUyMGhhaXJzdHlsZXMlMjBvdXRzaWRlfGVufDF8MXx8fDE3ODM2ODE0OTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1762521337195-53b12282bc18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8QmxhY2slMjB3b21lbiUyMHdpdGglMjBzaXN0ZXJsb2NrcyUyMGhhaXJzdHlsZXMlMjBvdXRzaWRlfGVufDF8MXx8fDE3ODM2ODE0OTN8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1762521337195-53b12282bc18?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8QmxhY2slMjB3b21lbiUyMHdpdGglMjBzaXN0ZXJsb2NrcyUyMGhhaXJzdHlsZXMlMjBvdXRzaWRlfGVufDF8MXx8fDE3ODM2ODE0OTN8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "Young woman with braided hair sitting on park bench",
-      "description": "A girl smiling on a bench",
-      "photographer": "Faustina Okeke",
-      "photographer_url": "https://unsplash.com/@thefourthwxll",
-      "photo_url": "https://unsplash.com/photos/young-woman-with-braided-hair-sitting-on-park-bench-bkPD_i9X1Ng",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-07-10T11:04:52.214388+00:00"
     }
   ],
-  "updated_at": "2026-07-15T16:08:03.788570+00:00"
+  "updated_at": "2026-07-15T17:01:12.690086+00:00"
 }
