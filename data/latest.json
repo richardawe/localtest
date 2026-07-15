@@ -1,6 +1,36 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with the latest hairstyles trending among Black and African women, showcasing vibrant colors, bold textures, and unapologetic self-expression!",
   "images": [
+    {
+      "id": "BHjIZH3guuA",
+      "url": "https://images.unsplash.com/photo-1781116780156-b4ffa62d202e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxM3x8UmVsYXhlZCUyMHBlcm1lZCUyMGhhaXIlMjBpbiUyMGJsYWNrJTIwY3VsdHVyZXxlbnwxfDF8fHwxNzg0MTU2Nzc4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1781116780156-b4ffa62d202e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxM3x8UmVsYXhlZCUyMHBlcm1lZCUyMGhhaXIlMjBpbiUyMGJsYWNrJTIwY3VsdHVyZXxlbnwxfDF8fHwxNzg0MTU2Nzc4fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1781116780156-b4ffa62d202e?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxM3x8UmVsYXhlZCUyMHBlcm1lZCUyMGhhaXIlMjBpbiUyMGJsYWNrJTIwY3VsdHVyZXxlbnwxfDF8fHwxNzg0MTU2Nzc4fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "Smiling woman with afro holding a radio against patterned fabric.",
+      "description": "",
+      "photographer": "Olumide Adekunle",
+      "photographer_url": "https://unsplash.com/@0rangevisuals",
+      "photo_url": "https://unsplash.com/photos/smiling-woman-with-afro-holding-a-radio-against-patterned-fabric-BHjIZH3guuA",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-07-15T23:05:39.227240+00:00"
+    },
+    {
+      "id": "uWnEEe4-lms",
+      "url": "https://images.unsplash.com/photo-1767234071411-142a33427cc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8UmVsYXhlZCUyMHBlcm1lZCUyMGhhaXIlMjBpbiUyMGJsYWNrJTIwY3VsdHVyZXxlbnwxfDF8fHwxNzg0MTU2Nzc4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1767234071411-142a33427cc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8UmVsYXhlZCUyMHBlcm1lZCUyMGhhaXIlMjBpbiUyMGJsYWNrJTIwY3VsdHVyZXxlbnwxfDF8fHwxNzg0MTU2Nzc4fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1767234071411-142a33427cc1?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8UmVsYXhlZCUyMHBlcm1lZCUyMGhhaXIlMjBpbiUyMGJsYWNrJTIwY3VsdHVyZXxlbnwxfDF8fHwxNzg0MTU2Nzc4fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "A young black woman leans on a railing outdoors.",
+      "description": "",
+      "photographer": "Stephen Tettey Atsu",
+      "photographer_url": "https://unsplash.com/@atsu_tettey",
+      "photo_url": "https://unsplash.com/photos/a-young-black-woman-leans-on-a-railing-outdoors-uWnEEe4-lms",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-07-15T23:05:39.227240+00:00"
+    },
     {
       "id": "T36QGZLmIAg",
       "url": "https://images.unsplash.com/photo-1708704860573-68d9a80fa8d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8V29tZW4lMjB3aXRoJTIwd2VhdmVzJTIwYW5kJTIwZXh0ZW5zaW9ucyUyMGluJTIwcHVibGljJTIwc3BhY2VzfGVufDF8MXx8fDE3ODQxMzQ4MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -270,37 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-07-12T07:00:03.299890+00:00"
-    },
-    {
-      "id": "ANMAPSUPmfg",
-      "url": "https://images.unsplash.com/photo-1601744562351-e1675822a397?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8bmF0dXJhbCUyMGFmcm9zJTIwb2YlMjBhZnJpY2FuJTIwZGVzY2VudHxlbnwxfDF8fHwxNzgzNzI4NjQ2fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1601744562351-e1675822a397?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8bmF0dXJhbCUyMGFmcm9zJTIwb2YlMjBhZnJpY2FuJTIwZGVzY2VudHxlbnwxfDF8fHwxNzgzNzI4NjQ2fDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1601744562351-e1675822a397?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8bmF0dXJhbCUyMGFmcm9zJTIwb2YlMjBhZnJpY2FuJTIwZGVzY2VudHxlbnwxfDF8fHwxNzgzNzI4NjQ2fDA&ixlib=rb-4.1.0&q=85",
-      "alt": "woman in red dress wearing gold necklace",
-      "description": "Cierume - The dancing warrior from Mbeere\n\nPlayed by @byenkyuuuh\nMake up and body art by\n@creatively_kinyagia\n\nFor the full story visit shujaastories.com and Google Arts and Culture\n\n#shujaastorieschallenge\n#cosplay #cosplaymakeup #cosplayphotoshoot #googleartsandculture\n#utamaduni #cierume",
-      "photographer": "Shalom Mwenesi",
-      "photographer_url": "https://unsplash.com/@5halom_",
-      "photo_url": "https://unsplash.com/photos/woman-in-red-dress-wearing-gold-necklace-ANMAPSUPmfg",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-07-11T00:10:17.796861+00:00"
-    },
-    {
-      "id": "6oVVB8-4RRM",
-      "url": "https://images.unsplash.com/photo-1757140447782-8503452b2204?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8RnVsYW5pJTIwQnJhaWRzJTIwd2l0aCUyMENvbG9yZnVsJTIwQmVhZGVkJTIwSGVhZGJhbmR8ZW58MXwxfHx8MTc4MzcxNzIzMHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1757140447782-8503452b2204?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8RnVsYW5pJTIwQnJhaWRzJTIwd2l0aCUyMENvbG9yZnVsJTIwQmVhZGVkJTIwSGVhZGJhbmR8ZW58MXwxfHx8MTc4MzcxNzIzMHww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1757140447782-8503452b2204?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8RnVsYW5pJTIwQnJhaWRzJTIwd2l0aCUyMENvbG9yZnVsJTIwQmVhZGVkJTIwSGVhZGJhbmR8ZW58MXwxfHx8MTc4MzcxNzIzMHww&ixlib=rb-4.1.0&q=85",
-      "alt": "A woman wears traditional beaded jewelry and headwear.",
-      "description": "african woman close up",
-      "photographer": "Divaris Shirichena",
-      "photographer_url": "https://unsplash.com/@divaris",
-      "photo_url": "https://unsplash.com/photos/a-woman-wears-traditional-beaded-jewelry-and-headwear-6oVVB8-4RRM",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-07-10T21:00:05.197530+00:00"
     }
   ],
-  "updated_at": "2026-07-15T22:20:08.716253+00:00"
+  "updated_at": "2026-07-15T23:11:33.374927+00:00"
 }
