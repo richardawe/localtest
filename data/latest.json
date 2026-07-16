@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with today's top Black and African women's hair trends, featuring vibrant styles that are bold, fierce, and unapologetically fabulous!",
   "images": [
+    {
+      "id": "l6d8luq46VM",
+      "url": "https://images.unsplash.com/photo-1723509616741-65a333545a9c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8QWZyaWNhbiUyMHdvbWFuJTIwd2l0aCUyMHNlbmVnYWxlc2UlMjB0d2lzdHMlMjBzbWlsaW5nfGVufDF8MXx8fDE3ODQyMjg4NjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1723509616741-65a333545a9c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8QWZyaWNhbiUyMHdvbWFuJTIwd2l0aCUyMHNlbmVnYWxlc2UlMjB0d2lzdHMlMjBzbWlsaW5nfGVufDF8MXx8fDE3ODQyMjg4NjB8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1723509616741-65a333545a9c?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8QWZyaWNhbiUyMHdvbWFuJTIwd2l0aCUyMHNlbmVnYWxlc2UlMjB0d2lzdHMlMjBzbWlsaW5nfGVufDF8MXx8fDE3ODQyMjg4NjB8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman sitting on a bench smiling for the camera",
+      "description": "African woman, Chad, Tchad, beauty",
+      "photographer": "Tracy Jentzsch",
+      "photographer_url": "https://unsplash.com/@tjentzsch",
+      "photo_url": "https://unsplash.com/photos/a-woman-sitting-on-a-bench-smiling-for-the-camera-l6d8luq46VM",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-07-16T19:07:33.646382+00:00"
+    },
     {
       "id": "g1DQLfT1zF4",
       "url": "https://images.unsplash.com/photo-1603449133876-211a797b2ad5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8V2VhdmUlMjBhbmQlMjBleHRlbnNpb24lMjBoYWlyc3R5bGVzJTIwZm9yJTIwcGx1cyUyMHNpemV8ZW58MXwxfHx8MTc4NDE5NjAyNHww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-07-12T07:00:03.299890+00:00"
-    },
-    {
-      "id": "P6wzsq2jx_c",
-      "url": "https://images.unsplash.com/photo-1763957047202-eb63dc4d0876?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8Qm94JTIwQnJhaWRzJTIwd2l0aCUyMEdvbGQlMjBBY2NlbnRzfGVufDF8MXx8fDE3ODM4NDA2NTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1763957047202-eb63dc4d0876?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8Qm94JTIwQnJhaWRzJTIwd2l0aCUyMEdvbGQlMjBBY2NlbnRzfGVufDF8MXx8fDE3ODM4NDA2NTB8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1763957047202-eb63dc4d0876?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8Qm94JTIwQnJhaWRzJTIwd2l0aCUyMEdvbGQlMjBBY2NlbnRzfGVufDF8MXx8fDE3ODM4NDA2NTB8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "Woman with dreadlocks and bold makeup wears jewelry.",
-      "description": "Commi$$ion$",
-      "photographer": "IRIS AVI",
-      "photographer_url": "https://unsplash.com/@irisavi",
-      "photo_url": "https://unsplash.com/photos/woman-with-dreadlocks-and-bold-makeup-wears-jewelry-P6wzsq2jx_c",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-07-12T07:00:03.299890+00:00"
     }
   ],
-  "updated_at": "2026-07-16T18:05:48.547436+00:00"
+  "updated_at": "2026-07-16T19:23:32.248081+00:00"
 }
