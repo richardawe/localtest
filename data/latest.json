@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to be inspired by the latest styles, textures, and trends taking over the world of Black and African women's hair!",
   "images": [
+    {
+      "id": "N0irOm9PCZU",
+      "url": "https://images.unsplash.com/photo-1774380543796-17324581a070?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8QmFudHUlMjBrbm90cyUyMGluJTIwbmF0dXJhbCUyMG91dGRvb3IlMjBzZXR0aW5nfGVufDF8MXx8fDE3ODQzMTE0NjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1774380543796-17324581a070?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8QmFudHUlMjBrbm90cyUyMGluJTIwbmF0dXJhbCUyMG91dGRvb3IlMjBzZXR0aW5nfGVufDF8MXx8fDE3ODQzMTE0NjZ8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1774380543796-17324581a070?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8QmFudHUlMjBrbm90cyUyMGluJTIwbmF0dXJhbCUyMG91dGRvb3IlMjBzZXR0aW5nfGVufDF8MXx8fDE3ODQzMTE0NjZ8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "Woman with henna tattoos holding a black handbag",
+      "description": "Elegant African woman in a vibrant skirt, standing confidently in soft natural light.",
+      "photographer": "Dion Martins",
+      "photographer_url": "https://unsplash.com/@dionmartins",
+      "photo_url": "https://unsplash.com/photos/woman-with-henna-tattoos-holding-a-black-handbag-N0irOm9PCZU",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-07-17T18:03:56.162681+00:00"
+    },
     {
       "id": "OaNRM_NMbcs",
       "url": "https://images.unsplash.com/photo-1647643408250-f9a2560de834?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyfHxSZWxheGVkJTIwUGVybWVkJTIwSGFpciUyMG9uJTIwQ3VybHklMjBIZWFkc3xlbnwxfDF8fHwxNzg0Mjk2OTk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-07-12T22:01:55.439479+00:00"
-    },
-    {
-      "id": "SmXGmQ1GInU",
-      "url": "https://images.unsplash.com/photo-1783512784830-5259c034c507?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8V2VhdmVzJTIwZXh0ZW5zaW9ucyUyMGZvciUyMGN1cmx5JTIwaGFpcnxlbnwxfDF8fHwxNzgzODQ2ODkyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1783512784830-5259c034c507?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8V2VhdmVzJTIwZXh0ZW5zaW9ucyUyMGZvciUyMGN1cmx5JTIwaGFpcnxlbnwxfDF8fHwxNzgzODQ2ODkyfDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1783512784830-5259c034c507?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8V2VhdmVzJTIwZXh0ZW5zaW9ucyUyMGZvciUyMGN1cmx5JTIwaGFpcnxlbnwxfDF8fHwxNzgzODQ2ODkyfDA&ixlib=rb-4.1.0&q=85",
-      "alt": "Woman in a cream dress holding her long curly hair.",
-      "description": "",
-      "photographer": "Fast Incorporated",
-      "photographer_url": "https://unsplash.com/@francoop",
-      "photo_url": "https://unsplash.com/photos/woman-in-a-cream-dress-holding-her-long-curly-hair-SmXGmQ1GInU",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-07-12T09:01:03.936190+00:00"
     }
   ],
-  "updated_at": "2026-07-17T17:02:56.404477+00:00"
+  "updated_at": "2026-07-17T18:04:56.154163+00:00"
 }
