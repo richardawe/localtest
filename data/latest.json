@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with today's sizzling showcase of the latest Black and African women's hair trends, straight from the streets of Africa to your social media feeds!",
   "images": [
+    {
+      "id": "OaNRM_NMbcs",
+      "url": "https://images.unsplash.com/photo-1647643408250-f9a2560de834?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyfHxSZWxheGVkJTIwUGVybWVkJTIwSGFpciUyMG9uJTIwQ3VybHklMjBIZWFkc3xlbnwxfDF8fHwxNzg0Mjk2OTk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1647643408250-f9a2560de834?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyfHxSZWxheGVkJTIwUGVybWVkJTIwSGFpciUyMG9uJTIwQ3VybHklMjBIZWFkc3xlbnwxfDF8fHwxNzg0Mjk2OTk0fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1647643408250-f9a2560de834?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyfHxSZWxheGVkJTIwUGVybWVkJTIwSGFpciUyMG9uJTIwQ3VybHklMjBIZWFkc3xlbnwxfDF8fHwxNzg0Mjk2OTk0fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "a black and white photo of a woman with curly hair",
+      "description": "Portrait of a gorgeous curly haired freckled model",
+      "photographer": "Houcine Ncib",
+      "photographer_url": "https://unsplash.com/@houcinencibphotography",
+      "photo_url": "https://unsplash.com/photos/a-black-and-white-photo-of-a-woman-with-curly-hair-OaNRM_NMbcs",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-07-17T14:02:40.664355+00:00"
+    },
     {
       "id": "7l5j_afULjk",
       "url": "https://images.unsplash.com/photo-1764662028086-e74ce491080e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8QWZyaWNhbiUyMHdvbWFuJTIwd2l0aCUyMG5hdHVyYWwlMjBhZnJvJTIwYmVhdXR5fGVufDF8MXx8fDE3ODQyODYwNTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-07-12T09:01:03.936190+00:00"
-    },
-    {
-      "id": "glPrT0oV9a4",
-      "url": "https://images.unsplash.com/photo-1763957047273-8063e7bf8b61?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMHx8Qm94JTIwQnJhaWRzJTIwd2l0aCUyMEdvbGQlMjBBY2NlbnRzfGVufDF8MXx8fDE3ODM4NDA2NTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1763957047273-8063e7bf8b61?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMHx8Qm94JTIwQnJhaWRzJTIwd2l0aCUyMEdvbGQlMjBBY2NlbnRzfGVufDF8MXx8fDE3ODM4NDA2NTB8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1763957047273-8063e7bf8b61?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMHx8Qm94JTIwQnJhaWRzJTIwd2l0aCUyMEdvbGQlMjBBY2NlbnRzfGVufDF8MXx8fDE3ODM4NDA2NTB8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "Woman with dreadlocks and layered necklaces",
-      "description": "Commi$$ion$",
-      "photographer": "IRIS AVI",
-      "photographer_url": "https://unsplash.com/@irisavi",
-      "photo_url": "https://unsplash.com/photos/woman-with-dreadlocks-and-layered-necklaces-glPrT0oV9a4",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-07-12T07:00:03.299890+00:00"
     }
   ],
-  "updated_at": "2026-07-17T13:05:06.557628+00:00"
+  "updated_at": "2026-07-17T14:06:17.313723+00:00"
 }
