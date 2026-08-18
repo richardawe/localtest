@@ -9,6 +9,7 @@ import sqlite3
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
+from typing import List, Dict, Set
 
 import requests
 from config import DB_PATH, NEWS_QUERIES, NEWS_MAX_PER_QUERY
@@ -52,7 +53,7 @@ def _clean_title(raw: str) -> str:
     return re.sub(r"\s*-\s*[^-]{2,60}$", "", raw).strip()
 
 
-def _fetch_query(query: str) -> list[dict]:
+def _fetch_query(query: str) -> List[Dict]:
     params = {
         "q": query,
         "hl": "en-US",
@@ -87,7 +88,7 @@ def _fetch_query(query: str) -> list[dict]:
     return articles
 
 
-def fetch_articles() -> list[dict]:
+def fetch_articles() -> List[Dict]:
     """
     Fetches from all NEWS_QUERIES, deduplicates by title, stores new articles
     in SQLite, and returns the fresh batch for today's blog post.
@@ -96,8 +97,8 @@ def fetch_articles() -> list[dict]:
     _init_db(conn)
     now = datetime.now(timezone.utc).isoformat()
 
-    seen_titles: set[str] = set()
-    fresh: list[dict] = []
+    seen_titles: Set[str] = set()
+    fresh: List[Dict] = []
 
     for query in NEWS_QUERIES:
         log.info("Fetching news: %r", query)

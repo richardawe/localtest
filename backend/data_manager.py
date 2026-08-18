@@ -8,6 +8,7 @@ import math
 import sqlite3
 from datetime import datetime, timezone
 from pathlib import Path
+from typing import Optional, Union
 
 from config import DB_PATH, FRONTEND_DIR, PAGES_SIZE, LATEST_COUNT, ERA_QUERIES, BASE_DIR, BLOG_POSTS_KEEP
 
@@ -152,7 +153,7 @@ def export_blog() -> int:
     return len(posts)
 
 
-def write_status(success: bool, error: str | None = None, stats: dict | None = None) -> None:
+def write_status(success: bool, error: Optional[str] = None, stats: Optional[dict] = None) -> None:
     _ensure_dirs()
     status = {
         "last_run": datetime.now(timezone.utc).isoformat(),
@@ -164,7 +165,7 @@ def write_status(success: bool, error: str | None = None, stats: dict | None = N
     log.info("Wrote status.json: success=%s", success)
 
 
-def _write(path: Path, data: dict | list) -> None:
+def _write(path: Path, data: Union[dict, list]) -> None:
     path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
 
 

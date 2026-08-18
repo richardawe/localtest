@@ -5,6 +5,7 @@ All calls use a single model (llama3.1:8b) to avoid swap overhead.
 import logging
 import random
 import ollama
+from typing import List, Dict
 from config import (
     OLLAMA_MODEL, STYLE_CATEGORIES, ERA_QUERIES,
     KEYWORD_PROMPT, SUMMARY_PROMPT, UNSPLASH_MAX_QUERIES_PER_RUN,
@@ -22,7 +23,7 @@ def _call(prompt: str, max_tokens: int = 256) -> str:
     return response["response"].strip()
 
 
-def generate_search_queries() -> list[dict]:
+def generate_search_queries() -> List[Dict]:
     """
     Returns a list of dicts: {query: str, category: str, era: str|None}
     Stays within UNSPLASH_MAX_QUERIES_PER_RUN to respect free-tier limits.

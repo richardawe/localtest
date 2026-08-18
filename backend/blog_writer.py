@@ -7,6 +7,7 @@ import json
 import logging
 import sqlite3
 from datetime import datetime, timezone
+from typing import Optional, List, Dict
 
 import ollama
 from config import DB_PATH, OLLAMA_MODEL, NEWS_MAX_ARTICLES
@@ -56,7 +57,7 @@ def _already_ran_today(conn: sqlite3.Connection) -> bool:
     return row is not None
 
 
-def _format_articles_for_prompt(articles: list[dict]) -> str:
+def _format_articles_for_prompt(articles: List[Dict]) -> str:
     lines = []
     for i, a in enumerate(articles[:NEWS_MAX_ARTICLES], 1):
         pub = a.get("published", "")[:10]  # YYYY-MM-DD only
@@ -64,7 +65,7 @@ def _format_articles_for_prompt(articles: list[dict]) -> str:
     return "\n".join(lines)
 
 
-def _parse_llm_output(raw: str) -> tuple[str, str]:
+def _parse_llm_output(raw: str) -> tuple:
     """Extract TITLE and BODY from structured LLM output."""
     title = ""
     body = ""
@@ -86,7 +87,7 @@ def _parse_llm_output(raw: str) -> tuple[str, str]:
     return title, body
 
 
-def write_post(articles: list[dict]) -> dict | None:
+def write_post(articles: List[Dict]) -> Optional[Dict]:
     """
     Generates and stores today's blog post.
     Returns the post dict, or None if already done today or on error.
@@ -148,7 +149,7 @@ def write_post(articles: list[dict]) -> dict | None:
     return {"title": title, "body": body, "sources": sources, "published_at": now}
 
 
-def get_all_posts(limit: int = 30) -> list[dict]:
+def get_all_posts(limit: int = 30) -> List[Dict]:
     """Returns recent blog posts newest-first, for data_manager export."""
     conn = sqlite3.connect(DB_PATH)
     _init_db(conn)

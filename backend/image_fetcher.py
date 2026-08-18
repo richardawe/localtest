@@ -8,6 +8,7 @@ import time
 import sqlite3
 import requests
 import ollama
+from typing import List, Dict
 from config import (
     UNSPLASH_ACCESS_KEY, UNSPLASH_API_BASE, UNSPLASH_RESULTS_PER_PAGE,
     DB_PATH, OLLAMA_MODEL, RELEVANCE_PROMPT,
@@ -60,7 +61,7 @@ def _is_relevant(alt: str, desc: str, tags: str) -> bool:
         return True
 
 
-def _search(query: str, page: int = 1) -> list[dict]:
+def _search(query: str, page: int = 1) -> List[Dict]:
     url = f"{UNSPLASH_API_BASE}/search/photos"
     params = {
         "query": query,

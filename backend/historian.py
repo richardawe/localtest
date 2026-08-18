@@ -7,10 +7,12 @@ import logging
 import sqlite3
 import requests
 import ollama
+from typing import Optional
 from config import (
     WIKIPEDIA_API_BASE, WIKIPEDIA_ARTICLES,
     ERA_QUERIES, OLLAMA_MODEL, DB_PATH,
 )
+from typing import Optional, Dict
 
 log = logging.getLogger(__name__)
 
@@ -48,7 +50,7 @@ def _init_db(conn: sqlite3.Connection) -> None:
     conn.commit()
 
 
-def _fetch_wikipedia_extract(article: str) -> str | None:
+def _fetch_wikipedia_extract(article: str) -> Optional[str]:
     url = f"{WIKIPEDIA_API_BASE}/page/summary/{article}"
     try:
         resp = requests.get(url, timeout=10, headers={"User-Agent": "HairTrendsApp/1.0"})
@@ -142,7 +144,7 @@ def update_decade_narratives() -> None:
     conn.close()
 
 
-def get_all_narratives() -> dict[str, str]:
+def get_all_narratives() -> Dict[str, str]:
     """Returns {decade: narrative} dict for use by data_manager."""
     conn = sqlite3.connect(DB_PATH)
     _init_db(conn)
