@@ -1,5 +1,5 @@
 {
-  "total_images": 786,
+  "total_images": 790,
   "total_pages": 16,
   "page_size": 50,
   "era_counts": {
@@ -8,7 +8,7 @@
     "1940s": 2,
     "1950s": 2,
     "1960s": 8,
-    "1970s": 3,
+    "1970s": 4,
     "1980s": 6,
     "1990s": 5,
     "2000s": 2,
@@ -16,8 +16,8 @@
     "2020s": 2
   },
   "category_counts": {
-    "current": 745,
-    "historical": 41
+    "current": 748,
+    "historical": 42
   },
-  "updated_at": "2026-07-17T19:11:03.965680+00:00"
+  "updated_at": "2026-08-18T14:03:22.331550+00:00"
 }
