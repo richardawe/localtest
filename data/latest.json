@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with today's hottest hair trends, straight from the runways and streets of Africa, featuring bold styles for every texture!",
   "images": [
+    {
+      "id": "mDAfoWkvLkk",
+      "url": "https://images.unsplash.com/photo-1784412713394-b1ef727ba1ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8cmVsYXhlZCUyMGhhaXIlMjBzdHlsZXMlMjB3aXRoJTIwY3VybHMlMjBib3VuY2V8ZW58MXwxfHx8MTc4NzE3MzIxOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1784412713394-b1ef727ba1ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8cmVsYXhlZCUyMGhhaXIlMjBzdHlsZXMlMjB3aXRoJTIwY3VybHMlMjBib3VuY2V8ZW58MXwxfHx8MTc4NzE3MzIxOXww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1784412713394-b1ef727ba1ec?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8cmVsYXhlZCUyMGhhaXIlMjBzdHlsZXMlMjB3aXRoJTIwY3VybHMlMjBib3VuY2V8ZW58MXwxfHx8MTc4NzE3MzIxOXww&ixlib=rb-4.1.0&q=85",
+      "alt": "Elegant black woman with intricate updo and sparkling jewelry",
+      "description": "Glowing skin lady",
+      "photographer": "mcpeter",
+      "photographer_url": "https://unsplash.com/@thisismcpeter",
+      "photo_url": "https://unsplash.com/photos/elegant-black-woman-with-intricate-updo-and-sparkling-jewelry-mDAfoWkvLkk",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-08-19T21:00:06.190361+00:00"
+    },
     {
       "id": "q5fCrN2_cto",
       "url": "https://images.unsplash.com/photo-1785545334860-579252e666a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyfHxBZnJpY2FuJTIwd29tZW4lMjdzJTIwYm94JTIwYnJhaWRzJTIwb24lMjBoZWFkc3xlbnwxfDF8fHwxNzg3MTU4ODE0fDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-07-17T18:03:56.162681+00:00"
-    },
-    {
-      "id": "OaNRM_NMbcs",
-      "url": "https://images.unsplash.com/photo-1647643408250-f9a2560de834?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyfHxSZWxheGVkJTIwUGVybWVkJTIwSGFpciUyMG9uJTIwQ3VybHklMjBIZWFkc3xlbnwxfDF8fHwxNzg0Mjk2OTk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1647643408250-f9a2560de834?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyfHxSZWxheGVkJTIwUGVybWVkJTIwSGFpciUyMG9uJTIwQ3VybHklMjBIZWFkc3xlbnwxfDF8fHwxNzg0Mjk2OTk0fDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1647643408250-f9a2560de834?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyfHxSZWxheGVkJTIwUGVybWVkJTIwSGFpciUyMG9uJTIwQ3VybHklMjBIZWFkc3xlbnwxfDF8fHwxNzg0Mjk2OTk0fDA&ixlib=rb-4.1.0&q=85",
-      "alt": "a black and white photo of a woman with curly hair",
-      "description": "Portrait of a gorgeous curly haired freckled model",
-      "photographer": "Houcine Ncib",
-      "photographer_url": "https://unsplash.com/@houcinencibphotography",
-      "photo_url": "https://unsplash.com/photos/a-black-and-white-photo-of-a-woman-with-curly-hair-OaNRM_NMbcs",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-07-17T14:02:40.664355+00:00"
     }
   ],
-  "updated_at": "2026-08-19T20:01:23.270447+00:00"
+  "updated_at": "2026-08-19T21:01:08.525703+00:00"
 }
