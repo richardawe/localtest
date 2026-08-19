@@ -1,6 +1,6 @@
 {
-  "total_images": 800,
-  "total_pages": 16,
+  "total_images": 804,
+  "total_pages": 17,
   "page_size": 50,
   "era_counts": {
     "1920s": 6,
@@ -16,8 +16,8 @@
     "2020s": 2
   },
   "category_counts": {
-    "current": 757,
+    "current": 761,
     "historical": 43
   },
-  "updated_at": "2026-08-19T16:01:34.230606+00:00"
+  "updated_at": "2026-08-19T17:01:18.667174+00:00"
 }
