@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with today's hottest hairstyles, as we dive into the freshest looks trending among Black and African women right now!",
   "images": [
+    {
+      "id": "EwXszufrumM",
+      "url": "https://images.unsplash.com/photo-1785436859380-f22f139cc212?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8U2lzdGVybG9ja3MlMjBIYWlyc3R5bGUlMjBDbG9zZSUyMFVwJTIwU2hvdCUyMEJlYXV0eXxlbnwxfDF8fHwxNzg3MjAyMDE5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1785436859380-f22f139cc212?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8U2lzdGVybG9ja3MlMjBIYWlyc3R5bGUlMjBDbG9zZSUyMFVwJTIwU2hvdCUyMEJlYXV0eXxlbnwxfDF8fHwxNzg3MjAyMDE5fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1785436859380-f22f139cc212?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8U2lzdGVybG9ja3MlMjBIYWlyc3R5bGUlMjBDbG9zZSUyMFVwJTIwU2hvdCUyMEJlYXV0eXxlbnwxfDF8fHwxNzg3MjAyMDE5fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "Woman in orange strapless dress with braided hair",
+      "description": "",
+      "photographer": "Kyle Kioko",
+      "photographer_url": "https://unsplash.com/@kylekioko",
+      "photo_url": "https://unsplash.com/photos/woman-in-orange-strapless-dress-with-braided-hair-EwXszufrumM",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-08-20T05:00:04.689497+00:00"
+    },
     {
       "id": "-9b2fdmU4bQ",
       "url": "https://images.unsplash.com/photo-1784123476756-a8fc424d1d2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNnx8QWZyaWNhbiUyMFF1ZWVucyUyMHdpdGglMjBEcmVhZGxvY2tzJTIwYW5kJTIwQ3Jvd258ZW58MXwxfHx8MTc4NzE4ODMzOXww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-08-18T13:00:07.319191+00:00"
-    },
-    {
-      "id": "FjvXUeYf1AA",
-      "url": "https://images.unsplash.com/photo-1539701938214-0d9736e1c16b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw3fHwxOTcwcyUyMEJsYWNrJTIwUG93ZXIlMjBuYXR1cmFsJTIwYWZybyUyMHdvbWVuJTIwaGFpcnxlbnwxfDF8fHwxNzg3MDU4MDkxfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1539701938214-0d9736e1c16b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw3fHwxOTcwcyUyMEJsYWNrJTIwUG93ZXIlMjBuYXR1cmFsJTIwYWZybyUyMHdvbWVuJTIwaGFpcnxlbnwxfDF8fHwxNzg3MDU4MDkxfDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1539701938214-0d9736e1c16b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw3fHwxOTcwcyUyMEJsYWNrJTIwUG93ZXIlMjBuYXR1cmFsJTIwYWZybyUyMHdvbWVuJTIwaGFpcnxlbnwxfDF8fHwxNzg3MDU4MDkxfDA&ixlib=rb-4.1.0&q=85",
-      "alt": "A silhouette of a woman with braided hair against a bright overcast sky",
-      "description": "This picture was taken Monday, a very Gloomy Monday.. but though I’m feeling gloomy, I need to keep reminding myself that everything is going to be ok…",
-      "photographer": "Jessica Felicio",
-      "photographer_url": "https://unsplash.com/@jekafe",
-      "photo_url": "https://unsplash.com/photos/woman-silhouette-against-overcast-sky-FjvXUeYf1AA",
-      "tags": "",
-      "era": "1970s",
-      "category": "historical",
-      "fetched_at": "2026-08-18T13:00:01.586171+00:00"
     }
   ],
-  "updated_at": "2026-08-20T04:01:09.763379+00:00"
+  "updated_at": "2026-08-20T05:01:11.496576+00:00"
 }
