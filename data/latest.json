@@ -1,6 +1,21 @@
 {
-  "summary": "Get ready to slay with our spotlight on the hottest, most divine hairstyles currently trending among Black and African women everywhere!",
+  "summary": "Get ready to slay with today's hottest hairstyles, featuring bold braids, sleek Afros, and vibrant dreadlocks that are dominating the beauty scene right now!",
   "images": [
+    {
+      "id": "Jpl7hrUhSjY",
+      "url": "https://images.unsplash.com/photo-1783877439073-b8430b5cc222?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyfHxCbGFjayUyMFdvbWVuJTIwUm9ja2luZyUyMFNpc3RlcmxvY2tzJTIwaW4lMjBQdWJsaWN8ZW58MXwxfHx8MTc4NzI2NjgzM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1783877439073-b8430b5cc222?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyfHxCbGFjayUyMFdvbWVuJTIwUm9ja2luZyUyMFNpc3RlcmxvY2tzJTIwaW4lMjBQdWJsaWN8ZW58MXwxfHx8MTc4NzI2NjgzM3ww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1783877439073-b8430b5cc222?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyfHxCbGFjayUyMFdvbWVuJTIwUm9ja2luZyUyMFNpc3RlcmxvY2tzJTIwaW4lMjBQdWJsaWN8ZW58MXwxfHx8MTc4NzI2NjgzM3ww&ixlib=rb-4.1.0&q=85",
+      "alt": "Cheerful woman with braided hair and sunglasses dancing outdoors",
+      "description": "fête de la musique",
+      "photographer": "Y.A",
+      "photographer_url": "https://unsplash.com/@_ya",
+      "photo_url": "https://unsplash.com/photos/cheerful-woman-with-braided-hair-and-sunglasses-dancing-outdoors-Jpl7hrUhSjY",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-08-20T23:00:03.989550+00:00"
+    },
     {
       "id": "iE0CS-rupQc",
       "url": "https://images.unsplash.com/photo-1787006651642-b2cba646b3f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOHx8VHJhZGl0aW9uYWwlMjBDb3Jucm93cyUyMGZvciUyME5hdHVyYWwlMjBIYWlyJTIwTW92ZW1lbnR8ZW58MXwxfHx8MTc4NzI2MzIyNnww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-08-18T15:00:07.701460+00:00"
-    },
-    {
-      "id": "iqUrsXhb5d0",
-      "url": "https://images.unsplash.com/photo-1786529743804-629214667506?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNnx8R29kZGVzcyUyMEJyYWlkcyUyMGZvciUyMFdlZGRpbmclMjBEYXklMjBMb29rc3xlbnwxfDF8fHwxNzg3MDY1MjQ3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1786529743804-629214667506?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNnx8R29kZGVzcyUyMEJyYWlkcyUyMGZvciUyMFdlZGRpbmclMjBEYXklMjBMb29rc3xlbnwxfDF8fHwxNzg3MDY1MjQ3fDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1786529743804-629214667506?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNnx8R29kZGVzcyUyMEJyYWlkcyUyMGZvciUyMFdlZGRpbmclMjBEYXklMjBMb29rc3xlbnwxfDF8fHwxNzg3MDY1MjQ3fDA&ixlib=rb-4.1.0&q=85",
-      "alt": "A woman with braided hair in a bun wearing a beaded hair accessory",
-      "description": "African bride on her wedding day",
-      "photographer": "Lisa Marie Theck",
-      "photographer_url": "https://unsplash.com/@lisa_marie_theck",
-      "photo_url": "https://unsplash.com/photos/woman-with-braided-hair-accessory-iqUrsXhb5d0",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-08-18T15:00:07.701460+00:00"
     }
   ],
-  "updated_at": "2026-08-20T22:01:04.719264+00:00"
+  "updated_at": "2026-08-20T23:00:55.781412+00:00"
 }
