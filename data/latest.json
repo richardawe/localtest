@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with our spotlight on the hottest, most divine hairstyles currently trending among Black and African women everywhere!",
   "images": [
+    {
+      "id": "iE0CS-rupQc",
+      "url": "https://images.unsplash.com/photo-1787006651642-b2cba646b3f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOHx8VHJhZGl0aW9uYWwlMjBDb3Jucm93cyUyMGZvciUyME5hdHVyYWwlMjBIYWlyJTIwTW92ZW1lbnR8ZW58MXwxfHx8MTc4NzI2MzIyNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1787006651642-b2cba646b3f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOHx8VHJhZGl0aW9uYWwlMjBDb3Jucm93cyUyMGZvciUyME5hdHVyYWwlMjBIYWlyJTIwTW92ZW1lbnR8ZW58MXwxfHx8MTc4NzI2MzIyNnww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1787006651642-b2cba646b3f9?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOHx8VHJhZGl0aW9uYWwlMjBDb3Jucm93cyUyMGZvciUyME5hdHVyYWwlMjBIYWlyJTIwTW92ZW1lbnR8ZW58MXwxfHx8MTc4NzI2MzIyNnww&ixlib=rb-4.1.0&q=85",
+      "alt": "Profile view of a person with a fade haircut and braided hair",
+      "description": "",
+      "photographer": "🔥John Rodriguez🔥",
+      "photographer_url": "https://unsplash.com/@firephotos",
+      "photo_url": "https://unsplash.com/photos/person-with-fade-and-braided-hair-iE0CS-rupQc",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-08-20T22:00:07.054375+00:00"
+    },
     {
       "id": "X7x9inD2mdY",
       "url": "https://images.unsplash.com/photo-1786664153632-ca458b42dae2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8V29tZW4lMjB3aXRoJTIwU2VuZWdhbGVzZSUyMFR3aXN0cyUyMGFuZCUyMFNtaWxlc3xlbnwxfDF8fHwxNzg3MjQxNjEyfDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-08-18T15:00:07.701460+00:00"
-    },
-    {
-      "id": "xagd416ptH0",
-      "url": "https://images.unsplash.com/photo-1786664731244-0e7316a552f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOHx8R29kZGVzcyUyMEJyYWlkcyUyMGZvciUyMFdlZGRpbmclMjBEYXklMjBMb29rc3xlbnwxfDF8fHwxNzg3MDY1MjQ3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1786664731244-0e7316a552f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOHx8R29kZGVzcyUyMEJyYWlkcyUyMGZvciUyMFdlZGRpbmclMjBEYXklMjBMb29rc3xlbnwxfDF8fHwxNzg3MDY1MjQ3fDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1786664731244-0e7316a552f7?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOHx8R29kZGVzcyUyMEJyYWlkcyUyMGZvciUyMFdlZGRpbmclMjBEYXklMjBMb29rc3xlbnwxfDF8fHwxNzg3MDY1MjQ3fDA&ixlib=rb-4.1.0&q=85",
-      "alt": "A woman with braided hair in a white lace top looking at the camera",
-      "description": "",
-      "photographer": "Gylain Omer",
-      "photographer_url": "https://unsplash.com/@gullin_omer",
-      "photo_url": "https://unsplash.com/photos/woman-with-braided-hair-in-lace-xagd416ptH0",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-08-18T15:00:07.701460+00:00"
     }
   ],
-  "updated_at": "2026-08-20T21:01:06.059744+00:00"
+  "updated_at": "2026-08-20T22:01:04.719264+00:00"
 }
