@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with today's hottest hairstyles, as we dive into the latest Black and African women's hair trends that are taking over the globe!",
   "images": [
+    {
+      "id": "X7x9inD2mdY",
+      "url": "https://images.unsplash.com/photo-1786664153632-ca458b42dae2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8V29tZW4lMjB3aXRoJTIwU2VuZWdhbGVzZSUyMFR3aXN0cyUyMGFuZCUyMFNtaWxlc3xlbnwxfDF8fHwxNzg3MjQxNjEyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1786664153632-ca458b42dae2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8V29tZW4lMjB3aXRoJTIwU2VuZWdhbGVzZSUyMFR3aXN0cyUyMGFuZCUyMFNtaWxlc3xlbnwxfDF8fHwxNzg3MjQxNjEyfDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1786664153632-ca458b42dae2?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8V29tZW4lMjB3aXRoJTIwU2VuZWdhbGVzZSUyMFR3aXN0cyUyMGFuZCUyMFNtaWxlc3xlbnwxfDF8fHwxNzg3MjQxNjEyfDA&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman with braided hair laughing with her eyes closed in monochrome light",
+      "description": "",
+      "photographer": "Gylain Omer",
+      "photographer_url": "https://unsplash.com/@gullin_omer",
+      "photo_url": "https://unsplash.com/photos/woman-with-braided-hair-laughing-X7x9inD2mdY",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-08-20T16:00:04.845547+00:00"
+    },
     {
       "id": "taPFyBeREYQ",
       "url": "https://images.unsplash.com/photo-1775443599507-b2175b57f8d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8WW91bmclMjBCbGFjayUyMGdpcmwlMjB3aXRoJTIwYSUyMHdlYXZlJTIwaGFpcmN1dHxlbnwxfDF8fHwxNzg3MjIwMTQzfDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-08-18T15:00:07.701460+00:00"
-    },
-    {
-      "id": "n85TIs6hBwU",
-      "url": "https://images.unsplash.com/photo-1786529745854-fb41cbaf5fa3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8R29kZGVzcyUyMEJyYWlkcyUyMGZvciUyMFdlZGRpbmclMjBEYXklMjBMb29rc3xlbnwxfDF8fHwxNzg3MDY1MjQ3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1786529745854-fb41cbaf5fa3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8R29kZGVzcyUyMEJyYWlkcyUyMGZvciUyMFdlZGRpbmclMjBEYXklMjBMb29rc3xlbnwxfDF8fHwxNzg3MDY1MjQ3fDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1786529745854-fb41cbaf5fa3?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8R29kZGVzcyUyMEJyYWlkcyUyMGZvciUyMFdlZGRpbmclMjBEYXklMjBMb29rc3xlbnwxfDF8fHwxNzg3MDY1MjQ3fDA&ixlib=rb-4.1.0&q=85",
-      "alt": "A woman in a beaded white dress adjusting her hair in a mirror",
-      "description": "African bride on her wedding day",
-      "photographer": "Lisa Marie Theck",
-      "photographer_url": "https://unsplash.com/@lisa_marie_theck",
-      "photo_url": "https://unsplash.com/photos/woman-in-beaded-dress-adjusting-hair-n85TIs6hBwU",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-08-18T15:00:07.701460+00:00"
     }
   ],
-  "updated_at": "2026-08-20T15:01:02.204454+00:00"
+  "updated_at": "2026-08-20T16:01:03.356256+00:00"
 }
