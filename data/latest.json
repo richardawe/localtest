@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with today's top Black and African women's hair trends, featuring bold styles that are making a statement currently worldwide!",
   "images": [
+    {
+      "id": "JxI3jc0P7DE",
+      "url": "https://images.unsplash.com/photo-1786529744126-c15f03a46300?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOHx8QWZyaWNhbiUyMHdvbWVuJTIwY29ybnJvd3MlMjBvbiUyMHdlZGRpbmclMjBkYXl8ZW58MXwxfHx8MTc4NzIxMjgxMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1786529744126-c15f03a46300?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOHx8QWZyaWNhbiUyMHdvbWVuJTIwY29ybnJvd3MlMjBvbiUyMHdlZGRpbmclMjBkYXl8ZW58MXwxfHx8MTc4NzIxMjgxMHww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1786529744126-c15f03a46300?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOHx8QWZyaWNhbiUyMHdvbWVuJTIwY29ybnJvd3MlMjBvbiUyMHdlZGRpbmclMjBkYXl8ZW58MXwxfHx8MTc4NzIxMjgxMHww&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman wearing a red off-the-shoulder dress and a beaded headpiece",
+      "description": "African bride on her wedding day",
+      "photographer": "Lisa Marie Theck",
+      "photographer_url": "https://unsplash.com/@lisa_marie_theck",
+      "photo_url": "https://unsplash.com/photos/woman-in-red-dress-and-headpiece-JxI3jc0P7DE",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-08-20T08:00:04.494765+00:00"
+    },
     {
       "id": "EwXszufrumM",
       "url": "https://images.unsplash.com/photo-1785436859380-f22f139cc212?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8U2lzdGVybG9ja3MlMjBIYWlyc3R5bGUlMjBDbG9zZSUyMFVwJTIwU2hvdCUyMEJlYXV0eXxlbnwxfDF8fHwxNzg3MjAyMDE5fDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-08-18T14:00:09.629066+00:00"
-    },
-    {
-      "id": "_RP_Uy6aMOw",
-      "url": "https://images.unsplash.com/photo-1785059078667-190542ffcee5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8V29tZW4lMjB3aXRoJTIwU2VuZWdhbGVzZSUyMHR3aXN0JTIwaGFpcnN0eWxlcyUyMGJlYXV0eXxlbnwxfDF8fHwxNzg3MDU4MDc4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1785059078667-190542ffcee5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8V29tZW4lMjB3aXRoJTIwU2VuZWdhbGVzZSUyMHR3aXN0JTIwaGFpcnN0eWxlcyUyMGJlYXV0eXxlbnwxfDF8fHwxNzg3MDU4MDc4fDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1785059078667-190542ffcee5?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8V29tZW4lMjB3aXRoJTIwU2VuZWdhbGVzZSUyMHR3aXN0JTIwaGFpcnN0eWxlcyUyMGJlYXV0eXxlbnwxfDF8fHwxNzg3MDU4MDc4fDA&ixlib=rb-4.1.0&q=85",
-      "alt": "A smiling woman with braided hair sitting on green grass",
-      "description": "",
-      "photographer": "Gylain Omer",
-      "photographer_url": "https://unsplash.com/@gullin_omer",
-      "photo_url": "https://unsplash.com/photos/a-smiling-woman-with-braided-hair-sitting-on-green-grass-_RP_Uy6aMOw",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-08-18T13:00:07.319191+00:00"
     }
   ],
-  "updated_at": "2026-08-20T07:02:45.480516+00:00"
+  "updated_at": "2026-08-20T08:01:12.271758+00:00"
 }
