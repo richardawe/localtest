@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay the day with our latest showcase of vibrant, fresh, and fabulous hair trends taking over the world of Black and African beauty!",
   "images": [
+    {
+      "id": "-9b2fdmU4bQ",
+      "url": "https://images.unsplash.com/photo-1784123476756-a8fc424d1d2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNnx8QWZyaWNhbiUyMFF1ZWVucyUyMHdpdGglMjBEcmVhZGxvY2tzJTIwYW5kJTIwQ3Jvd258ZW58MXwxfHx8MTc4NzE4ODMzOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1784123476756-a8fc424d1d2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNnx8QWZyaWNhbiUyMFF1ZWVucyUyMHdpdGglMjBEcmVhZGxvY2tzJTIwYW5kJTIwQ3Jvd258ZW58MXwxfHx8MTc4NzE4ODMzOXww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1784123476756-a8fc424d1d2c?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNnx8QWZyaWNhbiUyMFF1ZWVucyUyMHdpdGglMjBEcmVhZGxvY2tzJTIwYW5kJTIwQ3Jvd258ZW58MXwxfHx8MTc4NzE4ODMzOXww&ixlib=rb-4.1.0&q=85",
+      "alt": "Woman wearing colorful wax-print headwrap and top",
+      "description": "A dancer in an orange headwrap and blue wax-print top stands in profile at a summer carnival.",
+      "photographer": "Barney Goodman",
+      "photographer_url": "https://unsplash.com/@bgoodpic",
+      "photo_url": "https://unsplash.com/photos/woman-wearing-colorful-wax-print-headwrap-and-top--9b2fdmU4bQ",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-08-20T01:11:43.004465+00:00"
+    },
     {
       "id": "mDAfoWkvLkk",
       "url": "https://images.unsplash.com/photo-1784412713394-b1ef727ba1ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8cmVsYXhlZCUyMGhhaXIlMjBzdHlsZXMlMjB3aXRoJTIwY3VybHMlMjBib3VuY2V8ZW58MXwxfHx8MTc4NzE3MzIxOXww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "1970s",
       "category": "historical",
       "fetched_at": "2026-08-18T13:00:01.586171+00:00"
-    },
-    {
-      "id": "N0irOm9PCZU",
-      "url": "https://images.unsplash.com/photo-1774380543796-17324581a070?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8QmFudHUlMjBrbm90cyUyMGluJTIwbmF0dXJhbCUyMG91dGRvb3IlMjBzZXR0aW5nfGVufDF8MXx8fDE3ODQzMTE0NjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1774380543796-17324581a070?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8QmFudHUlMjBrbm90cyUyMGluJTIwbmF0dXJhbCUyMG91dGRvb3IlMjBzZXR0aW5nfGVufDF8MXx8fDE3ODQzMTE0NjZ8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1774380543796-17324581a070?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8QmFudHUlMjBrbm90cyUyMGluJTIwbmF0dXJhbCUyMG91dGRvb3IlMjBzZXR0aW5nfGVufDF8MXx8fDE3ODQzMTE0NjZ8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "Woman with henna tattoos holding a black handbag",
-      "description": "Elegant African woman in a vibrant skirt, standing confidently in soft natural light.",
-      "photographer": "Dion Martins",
-      "photographer_url": "https://unsplash.com/@dionmartins",
-      "photo_url": "https://unsplash.com/photos/woman-with-henna-tattoos-holding-a-black-handbag-N0irOm9PCZU",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-07-17T18:03:56.162681+00:00"
     }
   ],
-  "updated_at": "2026-08-20T00:03:08.611209+00:00"
+  "updated_at": "2026-08-20T01:12:40.618186+00:00"
 }
