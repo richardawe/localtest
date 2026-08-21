@@ -1,6 +1,36 @@
 {
-  "summary": "Get ready to slay with today's hottest hairstyles, featuring bold braids, sleek Afros, and vibrant dreadlocks that are dominating the beauty scene right now!",
+  "summary": "Get ready to slay with today's most iconic Black and African women's hair trends, from Afros to Box Braids, we've got the scoop!",
   "images": [
+    {
+      "id": "qojNH33bA00",
+      "url": "https://images.unsplash.com/photo-1756700414491-6836949606a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8UmVsYXhlZCUyMFBlcm1lZCUyMEJsYWNrJTIwSGFpciUyMEZhc2hpb24lMjBQaG90b3Nob290fGVufDF8MXx8fDE3ODcyNzA0MjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1756700414491-6836949606a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8UmVsYXhlZCUyMFBlcm1lZCUyMEJsYWNrJTIwSGFpciUyMEZhc2hpb24lMjBQaG90b3Nob290fGVufDF8MXx8fDE3ODcyNzA0MjN8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1756700414491-6836949606a2?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8UmVsYXhlZCUyMFBlcm1lZCUyMEJsYWNrJTIwSGFpciUyMEZhc2hpb24lMjBQaG90b3Nob290fGVufDF8MXx8fDE3ODcyNzA0MjN8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman with an afro poses against a beige background",
+      "description": "afro hair,afro girl,moda,model girl,fashion",
+      "photographer": "SoyBreno",
+      "photographer_url": "https://unsplash.com/@soybrenofotografia",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-an-afro-poses-against-a-beige-background-qojNH33bA00",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-08-21T00:00:07.096493+00:00"
+    },
+    {
+      "id": "pwI7essU4do",
+      "url": "https://images.unsplash.com/photo-1756700414377-393e54bc499e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8UmVsYXhlZCUyMFBlcm1lZCUyMEJsYWNrJTIwSGFpciUyMEZhc2hpb24lMjBQaG90b3Nob290fGVufDF8MXx8fDE3ODcyNzA0MjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1756700414377-393e54bc499e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8UmVsYXhlZCUyMFBlcm1lZCUyMEJsYWNrJTIwSGFpciUyMEZhc2hpb24lMjBQaG90b3Nob290fGVufDF8MXx8fDE3ODcyNzA0MjN8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1756700414377-393e54bc499e?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8UmVsYXhlZCUyMFBlcm1lZCUyMEJsYWNrJTIwSGFpciUyMEZhc2hpb24lMjBQaG90b3Nob290fGVufDF8MXx8fDE3ODcyNzA0MjN8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "Woman with large afro posing in a studio",
+      "description": "afro hair,afro girl,moda,model girl,fashion",
+      "photographer": "SoyBreno",
+      "photographer_url": "https://unsplash.com/@soybrenofotografia",
+      "photo_url": "https://unsplash.com/photos/woman-with-large-afro-posing-in-a-studio-pwI7essU4do",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-08-21T00:00:07.096493+00:00"
+    },
     {
       "id": "Jpl7hrUhSjY",
       "url": "https://images.unsplash.com/photo-1783877439073-b8430b5cc222?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyfHxCbGFjayUyMFdvbWVuJTIwUm9ja2luZyUyMFNpc3RlcmxvY2tzJTIwaW4lMjBQdWJsaWN8ZW58MXwxfHx8MTc4NzI2NjgzM3ww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -270,37 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-08-18T15:00:07.701460+00:00"
-    },
-    {
-      "id": "VrrjpxPuwo0",
-      "url": "https://images.unsplash.com/photo-1786529743856-4b92beab03a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMHx8R29kZGVzcyUyMEJyYWlkcyUyMGZvciUyMFdlZGRpbmclMjBEYXklMjBMb29rc3xlbnwxfDF8fHwxNzg3MDY1MjQ3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1786529743856-4b92beab03a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMHx8R29kZGVzcyUyMEJyYWlkcyUyMGZvciUyMFdlZGRpbmclMjBEYXklMjBMb29rc3xlbnwxfDF8fHwxNzg3MDY1MjQ3fDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1786529743856-4b92beab03a3?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMHx8R29kZGVzcyUyMEJyYWlkcyUyMGZvciUyMFdlZGRpbmclMjBEYXklMjBMb29rc3xlbnwxfDF8fHwxNzg3MDY1MjQ3fDA&ixlib=rb-4.1.0&q=85",
-      "alt": "A woman with braided hair and a pearl headpiece in a dark green dress",
-      "description": "African bride on her wedding day",
-      "photographer": "Lisa Marie Theck",
-      "photographer_url": "https://unsplash.com/@lisa_marie_theck",
-      "photo_url": "https://unsplash.com/photos/woman-with-braided-hair-and-headpiece-VrrjpxPuwo0",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-08-18T15:00:07.701460+00:00"
-    },
-    {
-      "id": "_R8lpamz53k",
-      "url": "https://images.unsplash.com/photo-1786529743708-591b0e6b7d90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNHx8R29kZGVzcyUyMEJyYWlkcyUyMGZvciUyMFdlZGRpbmclMjBEYXklMjBMb29rc3xlbnwxfDF8fHwxNzg3MDY1MjQ3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1786529743708-591b0e6b7d90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNHx8R29kZGVzcyUyMEJyYWlkcyUyMGZvciUyMFdlZGRpbmclMjBEYXklMjBMb29rc3xlbnwxfDF8fHwxNzg3MDY1MjQ3fDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1786529743708-591b0e6b7d90?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNHx8R29kZGVzcyUyMEJyYWlkcyUyMGZvciUyMFdlZGRpbmclMjBEYXklMjBMb29rc3xlbnwxfDF8fHwxNzg3MDY1MjQ3fDA&ixlib=rb-4.1.0&q=85",
-      "alt": "A woman with braided hair in a bun wearing a pearl hairpiece",
-      "description": "African bride on her wedding day",
-      "photographer": "Lisa Marie Theck",
-      "photographer_url": "https://unsplash.com/@lisa_marie_theck",
-      "photo_url": "https://unsplash.com/photos/woman-with-braided-hair-and-pearl-hairpiece-_R8lpamz53k",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-08-18T15:00:07.701460+00:00"
     }
   ],
-  "updated_at": "2026-08-20T23:00:55.781412+00:00"
+  "updated_at": "2026-08-21T00:02:19.357811+00:00"
 }
