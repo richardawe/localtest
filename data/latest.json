@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with this week's hottest Black and African hair trends, featuring vibrant styles that are taking the world by storm currently!",
   "images": [
+    {
+      "id": "NQpk2CGv3Ag",
+      "url": "https://images.unsplash.com/photo-1774804819277-09f24510f23e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8UHJlc3MlMjBhbmQlMjBDdXJsJTIwSGFpcnN0eWxlJTIwb24lMjBEYXJrfGVufDF8MXx8fDE3ODcyNzgyMTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1774804819277-09f24510f23e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8UHJlc3MlMjBhbmQlMjBDdXJsJTIwSGFpcnN0eWxlJTIwb24lMjBEYXJrfGVufDF8MXx8fDE3ODcyNzgyMTV8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1774804819277-09f24510f23e?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8UHJlc3MlMjBhbmQlMjBDdXJsJTIwSGFpcnN0eWxlJTIwb24lMjBEYXJrfGVufDF8MXx8fDE3ODcyNzgyMTV8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "A young woman with braided hair in a black jacket",
+      "description": "",
+      "photographer": "Ben Iwara",
+      "photographer_url": "https://unsplash.com/@1hundredimages",
+      "photo_url": "https://unsplash.com/photos/a-young-woman-with-braided-hair-in-a-black-jacket-NQpk2CGv3Ag",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-08-21T02:09:44.604612+00:00"
+    },
     {
       "id": "qojNH33bA00",
       "url": "https://images.unsplash.com/photo-1756700414491-6836949606a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8UmVsYXhlZCUyMFBlcm1lZCUyMEJsYWNrJTIwSGFpciUyMEZhc2hpb24lMjBQaG90b3Nob290fGVufDF8MXx8fDE3ODcyNzA0MjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "1960s",
       "category": "historical",
       "fetched_at": "2026-08-18T21:00:03.614291+00:00"
-    },
-    {
-      "id": "66iWL6OE7mY",
-      "url": "https://images.unsplash.com/photo-1786664731277-cbc00696cfc3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw3fHxHb2RkZXNzJTIwQnJhaWRzJTIwZm9yJTIwV2VkZGluZyUyMERheSUyMExvb2tzfGVufDF8MXx8fDE3ODcwNjUyNDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1786664731277-cbc00696cfc3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw3fHxHb2RkZXNzJTIwQnJhaWRzJTIwZm9yJTIwV2VkZGluZyUyMERheSUyMExvb2tzfGVufDF8MXx8fDE3ODcwNjUyNDd8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1786664731277-cbc00696cfc3?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw3fHxHb2RkZXNzJTIwQnJhaWRzJTIwZm9yJTIwV2VkZGluZyUyMERheSUyMExvb2tzfGVufDF8MXx8fDE3ODcwNjUyNDd8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "A woman with braided hair in a white lace dress leaning against a tree",
-      "description": "",
-      "photographer": "Gylain Omer",
-      "photographer_url": "https://unsplash.com/@gullin_omer",
-      "photo_url": "https://unsplash.com/photos/woman-in-white-lace-dress-66iWL6OE7mY",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-08-18T15:00:07.701460+00:00"
     }
   ],
-  "updated_at": "2026-08-21T01:06:47.509891+00:00"
+  "updated_at": "2026-08-21T02:10:59.317100+00:00"
 }
