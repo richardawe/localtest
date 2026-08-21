@@ -1,6 +1,36 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with today's hottest hair trends, showcasing the vibrant styles and innovative looks of Black and African women!",
   "images": [
+    {
+      "id": "B1_nSH54zBA",
+      "url": "https://images.unsplash.com/photo-1691373620591-8fbb12d1625a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8YmxhY2slMjB3b21lbiUyMHdlYXJpbmclMjBib3glMjBicmFpZGVkJTIwcG9ueXRhaWxzfGVufDF8MXx8fDE3ODczNDI1ODF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1691373620591-8fbb12d1625a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8YmxhY2slMjB3b21lbiUyMHdlYXJpbmclMjBib3glMjBicmFpZGVkJTIwcG9ueXRhaWxzfGVufDF8MXx8fDE3ODczNDI1ODF8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1691373620591-8fbb12d1625a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8YmxhY2slMjB3b21lbiUyMHdlYXJpbmclMjBib3glMjBicmFpZGVkJTIwcG9ueXRhaWxzfGVufDF8MXx8fDE3ODczNDI1ODF8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "a woman in a black top with a braid in her hair",
+      "description": "",
+      "photographer": "Noah Ngubane",
+      "photographer_url": "https://unsplash.com/@noahngubane",
+      "photo_url": "https://unsplash.com/photos/a-woman-in-a-black-top-with-a-braid-in-her-hair-B1_nSH54zBA",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-08-21T20:00:05.051325+00:00"
+    },
+    {
+      "id": "qKXWwTRK8xk",
+      "url": "https://images.unsplash.com/photo-1764264829786-2aff8b128d9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8YmxhY2slMjB3b21lbiUyMHdlYXJpbmclMjBib3glMjBicmFpZGVkJTIwcG9ueXRhaWxzfGVufDF8MXx8fDE3ODczNDI1ODF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1764264829786-2aff8b128d9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8YmxhY2slMjB3b21lbiUyMHdlYXJpbmclMjBib3glMjBicmFpZGVkJTIwcG9ueXRhaWxzfGVufDF8MXx8fDE3ODczNDI1ODF8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1764264829786-2aff8b128d9f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8YmxhY2slMjB3b21lbiUyMHdlYXJpbmclMjBib3glMjBicmFpZGVkJTIwcG9ueXRhaWxzfGVufDF8MXx8fDE3ODczNDI1ODF8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "Woman with braids holding a tie in a parking garage",
+      "description": "",
+      "photographer": "K Studios",
+      "photographer_url": "https://unsplash.com/@kstudios",
+      "photo_url": "https://unsplash.com/photos/woman-with-braids-holding-a-tie-in-a-parking-garage-qKXWwTRK8xk",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-08-21T20:00:05.051325+00:00"
+    },
     {
       "id": "nRVMVZvy6mo",
       "url": "https://images.unsplash.com/photo-1552413538-e4b15b0fd907?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMHx8Qm94JTIwYnJhaWRzJTIwb24lMjBuYXR1cmFsJTIwYmxhY2slMjBoYWlyfGVufDF8MXx8fDE3ODczMzE2Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -270,37 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-08-19T17:00:07.433445+00:00"
-    },
-    {
-      "id": "_WRC2h7wOpk",
-      "url": "https://images.unsplash.com/photo-1760559159145-9d19c7990a30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8QWZyaWNhbiUyMHdvbWVuJTI3cyUyMGJveCUyMGJyYWlkcyUyMG9uJTIwaGVhZHN8ZW58MXwxfHx8MTc4NzE1ODgxNHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1760559159145-9d19c7990a30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8QWZyaWNhbiUyMHdvbWVuJTI3cyUyMGJveCUyMGJyYWlkcyUyMG9uJTIwaGVhZHN8ZW58MXwxfHx8MTc4NzE1ODgxNHww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1760559159145-9d19c7990a30?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8QWZyaWNhbiUyMHdvbWVuJTI3cyUyMGJveCUyMGJyYWlkcyUyMG9uJTIwaGVhZHN8ZW58MXwxfHx8MTc4NzE1ODgxNHww&ixlib=rb-4.1.0&q=85",
-      "alt": "Silhouette of a person against a sunset",
-      "description": "African woman at sunrise",
-      "photographer": "Lisa Marie Theck",
-      "photographer_url": "https://unsplash.com/@lisa_marie_theck",
-      "photo_url": "https://unsplash.com/photos/silhouette-of-a-person-against-a-sunset-_WRC2h7wOpk",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-08-19T17:00:07.433445+00:00"
-    },
-    {
-      "id": "5p0By0TDH-k",
-      "url": "https://images.unsplash.com/photo-1785908274893-4cbe09efb83e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxCb3glMjBicmFpZHMlMjBhZG9ybmVkJTIwd2l0aCUyMGNvbG9yZnVsJTIwYmVhZHN8ZW58MXwxfHx8MTc4NzE0NDQyOHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1785908274893-4cbe09efb83e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxCb3glMjBicmFpZHMlMjBhZG9ybmVkJTIwd2l0aCUyMGNvbG9yZnVsJTIwYmVhZHN8ZW58MXwxfHx8MTc4NzE0NDQyOHww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1785908274893-4cbe09efb83e?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxCb3glMjBicmFpZHMlMjBhZG9ybmVkJTIwd2l0aCUyMGNvbG9yZnVsJTIwYmVhZHN8ZW58MXwxfHx8MTc4NzE0NDQyOHww&ixlib=rb-4.1.0&q=85",
-      "alt": "Young woman with braids and beads on a car hood",
-      "description": "",
-      "photographer": "Michael Kyule",
-      "photographer_url": "https://unsplash.com/@madness_leahcim_",
-      "photo_url": "https://unsplash.com/photos/young-woman-with-braids-and-beads-on-a-car-hood-5p0By0TDH-k",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-08-19T13:00:07.135284+00:00"
     }
   ],
-  "updated_at": "2026-08-21T19:05:08.507897+00:00"
+  "updated_at": "2026-08-21T20:04:51.042861+00:00"
 }
