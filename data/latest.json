@@ -1,6 +1,21 @@
 {
-  "summary": "Get ready to slay the day with the hottest hair trends featuring Black and African women, where elegance meets innovation in every style!",
+  "summary": "Get ready to be inspired as we dive into the latest styles, must-haves, and game-changing looks in current Black and African women's hair trends!",
   "images": [
+    {
+      "id": "W6p2qfL3LfM",
+      "url": "https://images.unsplash.com/photo-1706919976736-8902f9e0286c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxM3x8RHJlYWRsb2NrcyUyMG9uJTIwQmxhY2slMjBGZW1hbGUlMjBQb3J0cmFpdHN8ZW58MXwxfHx8MTc4NzQxNDUzNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1706919976736-8902f9e0286c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxM3x8RHJlYWRsb2NrcyUyMG9uJTIwQmxhY2slMjBGZW1hbGUlMjBQb3J0cmFpdHN8ZW58MXwxfHx8MTc4NzQxNDUzNXww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1706919976736-8902f9e0286c?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxM3x8RHJlYWRsb2NrcyUyMG9uJTIwQmxhY2slMjBGZW1hbGUlMjBQb3J0cmFpdHN8ZW58MXwxfHx8MTc4NzQxNDUzNXww&ixlib=rb-4.1.0&q=85",
+      "alt": "a woman with dreadlocks looking at her cell phone",
+      "description": "",
+      "photographer": "Ali Hadadi Kia",
+      "photographer_url": "https://unsplash.com/@alihadadikia",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-dreadlocks-looking-at-her-cell-phone-W6p2qfL3LfM",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-08-22T16:00:05.518688+00:00"
+    },
     {
       "id": "4nHxh4yX7Dg",
       "url": "https://images.unsplash.com/photo-1666645492015-c4dfa4cd6100?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw1fHxTaXN0ZXJsb2NrcyUyMFNtYWxsJTIwQ2xvc2VseSUyMFNoYWRlZCUyMEZhZGVkJTIwSGFpcnN0eWxlJTIwTW9kZWxzfGVufDF8MXx8fDE3ODc0MTA5MTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-08-20T16:00:04.845547+00:00"
-    },
-    {
-      "id": "taPFyBeREYQ",
-      "url": "https://images.unsplash.com/photo-1775443599507-b2175b57f8d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8WW91bmclMjBCbGFjayUyMGdpcmwlMjB3aXRoJTIwYSUyMHdlYXZlJTIwaGFpcmN1dHxlbnwxfDF8fHwxNzg3MjIwMTQzfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1775443599507-b2175b57f8d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8WW91bmclMjBCbGFjayUyMGdpcmwlMjB3aXRoJTIwYSUyMHdlYXZlJTIwaGFpcmN1dHxlbnwxfDF8fHwxNzg3MjIwMTQzfDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1775443599507-b2175b57f8d5?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8WW91bmclMjBCbGFjayUyMGdpcmwlMjB3aXRoJTIwYSUyMHdlYXZlJTIwaGFpcmN1dHxlbnwxfDF8fHwxNzg3MjIwMTQzfDA&ixlib=rb-4.1.0&q=85",
-      "alt": "Young woman with braided hair wearing a red shirt",
-      "description": "",
-      "photographer": "Michael Kyule",
-      "photographer_url": "https://unsplash.com/@madness_leahcim_",
-      "photo_url": "https://unsplash.com/photos/young-woman-with-braided-hair-wearing-a-red-shirt-taPFyBeREYQ",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-08-20T10:00:05.524540+00:00"
     }
   ],
-  "updated_at": "2026-08-22T15:04:05.724290+00:00"
+  "updated_at": "2026-08-22T16:05:02.065283+00:00"
 }
