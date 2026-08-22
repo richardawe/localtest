@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with today's top Black and African women's hair trends, featuring bold styles that are taking the world by storm!",
   "images": [
+    {
+      "id": "hG8XHTmj1mY",
+      "url": "https://images.unsplash.com/photo-1784979196900-55e59e47b588?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8TG9jcyUyMGRyZWFkbG9ja3MlMjBvbiUyMGJlYXV0aWZ1bCUyMGRhcmslMjBza2lufGVufDF8MXx8fDE3ODc0MDczNzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1784979196900-55e59e47b588?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8TG9jcyUyMGRyZWFkbG9ja3MlMjBvbiUyMGJlYXV0aWZ1bCUyMGRhcmslMjBza2lufGVufDF8MXx8fDE3ODc0MDczNzh8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1784979196900-55e59e47b588?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8TG9jcyUyMGRyZWFkbG9ja3MlMjBvbiUyMGJlYXV0aWZ1bCUyMGRhcmslMjBza2lufGVufDF8MXx8fDE3ODc0MDczNzh8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "A young black woman with dark hair and gold earrings",
+      "description": "",
+      "photographer": "mcpeter",
+      "photographer_url": "https://unsplash.com/@thisismcpeter",
+      "photo_url": "https://unsplash.com/photos/a-young-black-woman-with-dark-hair-and-gold-earrings-hG8XHTmj1mY",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-08-22T14:00:11.316990+00:00"
+    },
     {
       "id": "ZATwJ33JdLk",
       "url": "https://images.unsplash.com/photo-1770113810129-f4b91e50efb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8VGVlbmllJTIwV2VlbmllJTIwQWZybyUyMEdpcmwlMjBNb2RlbHMlMjBDbG90aGluZ3xlbnwxfDF8fHwxNzg3Mzk2NDM4fDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-08-20T08:00:04.494765+00:00"
-    },
-    {
-      "id": "EwXszufrumM",
-      "url": "https://images.unsplash.com/photo-1785436859380-f22f139cc212?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8U2lzdGVybG9ja3MlMjBIYWlyc3R5bGUlMjBDbG9zZSUyMFVwJTIwU2hvdCUyMEJlYXV0eXxlbnwxfDF8fHwxNzg3MjAyMDE5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1785436859380-f22f139cc212?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8U2lzdGVybG9ja3MlMjBIYWlyc3R5bGUlMjBDbG9zZSUyMFVwJTIwU2hvdCUyMEJlYXV0eXxlbnwxfDF8fHwxNzg3MjAyMDE5fDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1785436859380-f22f139cc212?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8U2lzdGVybG9ja3MlMjBIYWlyc3R5bGUlMjBDbG9zZSUyMFVwJTIwU2hvdCUyMEJlYXV0eXxlbnwxfDF8fHwxNzg3MjAyMDE5fDA&ixlib=rb-4.1.0&q=85",
-      "alt": "Woman in orange strapless dress with braided hair",
-      "description": "",
-      "photographer": "Kyle Kioko",
-      "photographer_url": "https://unsplash.com/@kylekioko",
-      "photo_url": "https://unsplash.com/photos/woman-in-orange-strapless-dress-with-braided-hair-EwXszufrumM",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-08-20T05:00:04.689497+00:00"
     }
   ],
-  "updated_at": "2026-08-22T13:05:07.962253+00:00"
+  "updated_at": "2026-08-22T14:07:08.087558+00:00"
 }
