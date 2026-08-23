@@ -1,6 +1,36 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with today's most on-trend styles, as we dive into the vibrant world of Black and African women's hairstyles that are dominating the beauty scene!",
   "images": [
+    {
+      "id": "jspby1gCJW8",
+      "url": "https://images.unsplash.com/photo-1768089294417-ef1719a369a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxSZWxheGVkJTIwcGVybWVkJTIwaGFpciUyMGluJTIwdmlicmFudCUyMGNvbG9yc3xlbnwxfDF8fHwxNzg3NDgzNzE2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1768089294417-ef1719a369a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxSZWxheGVkJTIwcGVybWVkJTIwaGFpciUyMGluJTIwdmlicmFudCUyMGNvbG9yc3xlbnwxfDF8fHwxNzg3NDgzNzE2fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1768089294417-ef1719a369a4?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxSZWxheGVkJTIwcGVybWVkJTIwaGFpciUyMGluJTIwdmlicmFudCUyMGNvbG9yc3xlbnwxfDF8fHwxNzg3NDgzNzE2fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "Woman with dark curly hair and blue feathers",
+      "description": "",
+      "photographer": "Marina Nazina",
+      "photographer_url": "https://unsplash.com/@nazinamari",
+      "photo_url": "https://unsplash.com/photos/woman-with-dark-curly-hair-and-blue-feathers-jspby1gCJW8",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-08-23T11:00:05.936569+00:00"
+    },
+    {
+      "id": "uuaAVXtPgpo",
+      "url": "https://images.unsplash.com/photo-1768089616392-b8a8efa76b78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8UmVsYXhlZCUyMHBlcm1lZCUyMGhhaXIlMjBpbiUyMHZpYnJhbnQlMjBjb2xvcnN8ZW58MXwxfHx8MTc4NzQ4MzcxNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1768089616392-b8a8efa76b78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8UmVsYXhlZCUyMHBlcm1lZCUyMGhhaXIlMjBpbiUyMHZpYnJhbnQlMjBjb2xvcnN8ZW58MXwxfHx8MTc4NzQ4MzcxNnww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1768089616392-b8a8efa76b78?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8UmVsYXhlZCUyMHBlcm1lZCUyMGhhaXIlMjBpbiUyMHZpYnJhbnQlMjBjb2xvcnN8ZW58MXwxfHx8MTc4NzQ4MzcxNnww&ixlib=rb-4.1.0&q=85",
+      "alt": "Woman with dark curly hair and blue feathers",
+      "description": "",
+      "photographer": "Marina Nazina",
+      "photographer_url": "https://unsplash.com/@nazinamari",
+      "photo_url": "https://unsplash.com/photos/woman-with-dark-curly-hair-and-blue-feathers-uuaAVXtPgpo",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-08-23T11:00:05.936569+00:00"
+    },
     {
       "id": "W6p2qfL3LfM",
       "url": "https://images.unsplash.com/photo-1706919976736-8902f9e0286c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxM3x8RHJlYWRsb2NrcyUyMG9uJTIwQmxhY2slMjBGZW1hbGUlMjBQb3J0cmFpdHN8ZW58MXwxfHx8MTc4NzQxNDUzNXww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -270,37 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-08-20T23:00:03.989550+00:00"
-    },
-    {
-      "id": "iE0CS-rupQc",
-      "url": "https://images.unsplash.com/photo-1787006651642-b2cba646b3f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOHx8VHJhZGl0aW9uYWwlMjBDb3Jucm93cyUyMGZvciUyME5hdHVyYWwlMjBIYWlyJTIwTW92ZW1lbnR8ZW58MXwxfHx8MTc4NzI2MzIyNnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1787006651642-b2cba646b3f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOHx8VHJhZGl0aW9uYWwlMjBDb3Jucm93cyUyMGZvciUyME5hdHVyYWwlMjBIYWlyJTIwTW92ZW1lbnR8ZW58MXwxfHx8MTc4NzI2MzIyNnww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1787006651642-b2cba646b3f9?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOHx8VHJhZGl0aW9uYWwlMjBDb3Jucm93cyUyMGZvciUyME5hdHVyYWwlMjBIYWlyJTIwTW92ZW1lbnR8ZW58MXwxfHx8MTc4NzI2MzIyNnww&ixlib=rb-4.1.0&q=85",
-      "alt": "Profile view of a person with a fade haircut and braided hair",
-      "description": "",
-      "photographer": "🔥John Rodriguez🔥",
-      "photographer_url": "https://unsplash.com/@firephotos",
-      "photo_url": "https://unsplash.com/photos/person-with-fade-and-braided-hair-iE0CS-rupQc",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-08-20T22:00:07.054375+00:00"
-    },
-    {
-      "id": "X7x9inD2mdY",
-      "url": "https://images.unsplash.com/photo-1786664153632-ca458b42dae2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8V29tZW4lMjB3aXRoJTIwU2VuZWdhbGVzZSUyMFR3aXN0cyUyMGFuZCUyMFNtaWxlc3xlbnwxfDF8fHwxNzg3MjQxNjEyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1786664153632-ca458b42dae2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8V29tZW4lMjB3aXRoJTIwU2VuZWdhbGVzZSUyMFR3aXN0cyUyMGFuZCUyMFNtaWxlc3xlbnwxfDF8fHwxNzg3MjQxNjEyfDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1786664153632-ca458b42dae2?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8V29tZW4lMjB3aXRoJTIwU2VuZWdhbGVzZSUyMFR3aXN0cyUyMGFuZCUyMFNtaWxlc3xlbnwxfDF8fHwxNzg3MjQxNjEyfDA&ixlib=rb-4.1.0&q=85",
-      "alt": "A woman with braided hair laughing with her eyes closed in monochrome light",
-      "description": "",
-      "photographer": "Gylain Omer",
-      "photographer_url": "https://unsplash.com/@gullin_omer",
-      "photo_url": "https://unsplash.com/photos/woman-with-braided-hair-laughing-X7x9inD2mdY",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-08-20T16:00:04.845547+00:00"
     }
   ],
-  "updated_at": "2026-08-23T09:04:45.784181+00:00"
+  "updated_at": "2026-08-23T11:17:44.526326+00:00"
 }
