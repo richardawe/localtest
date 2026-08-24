@@ -1,6 +1,21 @@
 {
-  "summary": "Get ready to slay with today's top trending styles from vibrant braids to sleek afros, showcasing the best of Black and African beauty!",
+  "summary": "Get ready to be inspired by this year's hottest hairstyles from Africa and its diaspora, showcasing vibrant creativity and Afrofuturism!",
   "images": [
+    {
+      "id": "ooa3h6GuXLk",
+      "url": "https://images.unsplash.com/photo-1783512785567-8c0d9e8429b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8V2VhdmVzJTIwYW5kJTIwRXh0ZW5zaW9ucyUyMGZvciUyMEJsYWNrJTIwR29kZGVzc2VzfGVufDF8MXx8fDE3ODc1NzI4ODh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1783512785567-8c0d9e8429b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8V2VhdmVzJTIwYW5kJTIwRXh0ZW5zaW9ucyUyMGZvciUyMEJsYWNrJTIwR29kZGVzc2VzfGVufDF8MXx8fDE3ODc1NzI4ODh8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1783512785567-8c0d9e8429b8?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8V2VhdmVzJTIwYW5kJTIwRXh0ZW5zaW9ucyUyMGZvciUyMEJsYWNrJTIwR29kZGVzc2VzfGVufDF8MXx8fDE3ODc1NzI4ODh8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "Two women with long braids posing in light dresses",
+      "description": "",
+      "photographer": "Fast Incorporated",
+      "photographer_url": "https://unsplash.com/@francoop",
+      "photo_url": "https://unsplash.com/photos/two-women-with-long-braids-posing-in-light-dresses-ooa3h6GuXLk",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-08-24T12:00:08.531519+00:00"
+    },
     {
       "id": "cM7iaurncoQ",
       "url": "https://images.unsplash.com/photo-1774773135353-1836e37feaae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOHx8RHJlYWRsb2NrcyUyMG9uJTIwQmxhY2slMjB3b21lbiUyMHBob3Rvc2hvb3RzJTIwb3V0ZG9vcnN8ZW58MXwxfHx8MTc4NzU2OTI2MXww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-08-21T07:01:03.822230+00:00"
-    },
-    {
-      "id": "NQpk2CGv3Ag",
-      "url": "https://images.unsplash.com/photo-1774804819277-09f24510f23e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8UHJlc3MlMjBhbmQlMjBDdXJsJTIwSGFpcnN0eWxlJTIwb24lMjBEYXJrfGVufDF8MXx8fDE3ODcyNzgyMTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1774804819277-09f24510f23e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8UHJlc3MlMjBhbmQlMjBDdXJsJTIwSGFpcnN0eWxlJTIwb24lMjBEYXJrfGVufDF8MXx8fDE3ODcyNzgyMTV8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1774804819277-09f24510f23e?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8UHJlc3MlMjBhbmQlMjBDdXJsJTIwSGFpcnN0eWxlJTIwb24lMjBEYXJrfGVufDF8MXx8fDE3ODcyNzgyMTV8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "A young woman with braided hair in a black jacket",
-      "description": "",
-      "photographer": "Ben Iwara",
-      "photographer_url": "https://unsplash.com/@1hundredimages",
-      "photo_url": "https://unsplash.com/photos/a-young-woman-with-braided-hair-in-a-black-jacket-NQpk2CGv3Ag",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-08-21T02:09:44.604612+00:00"
     }
   ],
-  "updated_at": "2026-08-24T11:02:26.957095+00:00"
+  "updated_at": "2026-08-24T12:02:05.555069+00:00"
 }
