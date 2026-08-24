@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay the day with our latest scoop on the hottest Black and African women's hair trends that are taking the world by storm right now!",
   "images": [
+    {
+      "id": "xZlCWtctzLA",
+      "url": "https://images.unsplash.com/photo-1768402127946-4ac4afe095a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw1fHxBZnJpY2FuJTIwU2lzdGVycyUyMHdpdGglMjBQcmVzcyUyMGFuZCUyMEN1cmx8ZW58MXwxfHx8MTc4NzUzMzIzMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1768402127946-4ac4afe095a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw1fHxBZnJpY2FuJTIwU2lzdGVycyUyMHdpdGglMjBQcmVzcyUyMGFuZCUyMEN1cmx8ZW58MXwxfHx8MTc4NzUzMzIzMXww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1768402127946-4ac4afe095a3?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw1fHxBZnJpY2FuJTIwU2lzdGVycyUyMHdpdGglMjBQcmVzcyUyMGFuZCUyMEN1cmx8ZW58MXwxfHx8MTc4NzUzMzIzMXww&ixlib=rb-4.1.0&q=85",
+      "alt": "A black woman with curly hair wears a patterned dress",
+      "description": "a model giving an expression!",
+      "photographer": "Gift Kasweka",
+      "photographer_url": "https://unsplash.com/@tsrow_127",
+      "photo_url": "https://unsplash.com/photos/a-black-woman-with-curly-hair-wears-a-patterned-dress-xZlCWtctzLA",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-08-24T01:00:11.380851+00:00"
+    },
     {
       "id": "jspby1gCJW8",
       "url": "https://images.unsplash.com/photo-1768089294417-ef1719a369a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxSZWxheGVkJTIwcGVybWVkJTIwaGFpciUyMGluJTIwdmlicmFudCUyMGNvbG9yc3xlbnwxfDF8fHwxNzg3NDgzNzE2fDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-08-21T00:00:07.096493+00:00"
-    },
-    {
-      "id": "Jpl7hrUhSjY",
-      "url": "https://images.unsplash.com/photo-1783877439073-b8430b5cc222?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyfHxCbGFjayUyMFdvbWVuJTIwUm9ja2luZyUyMFNpc3RlcmxvY2tzJTIwaW4lMjBQdWJsaWN8ZW58MXwxfHx8MTc4NzI2NjgzM3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1783877439073-b8430b5cc222?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyfHxCbGFjayUyMFdvbWVuJTIwUm9ja2luZyUyMFNpc3RlcmxvY2tzJTIwaW4lMjBQdWJsaWN8ZW58MXwxfHx8MTc4NzI2NjgzM3ww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1783877439073-b8430b5cc222?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyfHxCbGFjayUyMFdvbWVuJTIwUm9ja2luZyUyMFNpc3RlcmxvY2tzJTIwaW4lMjBQdWJsaWN8ZW58MXwxfHx8MTc4NzI2NjgzM3ww&ixlib=rb-4.1.0&q=85",
-      "alt": "Cheerful woman with braided hair and sunglasses dancing outdoors",
-      "description": "fête de la musique",
-      "photographer": "Y.A",
-      "photographer_url": "https://unsplash.com/@_ya",
-      "photo_url": "https://unsplash.com/photos/cheerful-woman-with-braided-hair-and-sunglasses-dancing-outdoors-Jpl7hrUhSjY",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-08-20T23:00:03.989550+00:00"
     }
   ],
-  "updated_at": "2026-08-24T00:11:08.314731+00:00"
+  "updated_at": "2026-08-24T01:03:16.922865+00:00"
 }
