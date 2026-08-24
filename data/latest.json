@@ -1,6 +1,21 @@
 {
-  "summary": "Get ready to be inspired by this year's hottest hairstyles from Africa and its diaspora, showcasing vibrant creativity and Afrofuturism!",
+  "summary": "Get ready to slay with this week's spotlight on the boldest, most beautiful Black and African women's hairstyles taking the world by storm currently!",
   "images": [
+    {
+      "id": "cwvjZ4WYKFk",
+      "url": "https://images.unsplash.com/photo-1787532378701-14e9d905469f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOHx8U2VuZWdhbGVzZSUyMFR3aXN0cyUyMGZvciUyME5hdHVyYWwlMjBIYWlyfGVufDF8MXx8fDE3ODc1NzY0MTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1787532378701-14e9d905469f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOHx8U2VuZWdhbGVzZSUyMFR3aXN0cyUyMGZvciUyME5hdHVyYWwlMjBIYWlyfGVufDF8MXx8fDE3ODc1NzY0MTN8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1787532378701-14e9d905469f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOHx8U2VuZWdhbGVzZSUyMFR3aXN0cyUyMGZvciUyME5hdHVyYWwlMjBIYWlyfGVufDF8MXx8fDE3ODc1NzY0MTN8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman with dark braided hair wearing a light blue lace top outdoors",
+      "description": "",
+      "photographer": "Gylain Omer",
+      "photographer_url": "https://unsplash.com/@gullin_omer",
+      "photo_url": "https://unsplash.com/photos/woman-with-braided-hair-in-lace-cwvjZ4WYKFk",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-08-24T13:00:07.540071+00:00"
+    },
     {
       "id": "ooa3h6GuXLk",
       "url": "https://images.unsplash.com/photo-1783512785567-8c0d9e8429b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8V2VhdmVzJTIwYW5kJTIwRXh0ZW5zaW9ucyUyMGZvciUyMEJsYWNrJTIwR29kZGVzc2VzfGVufDF8MXx8fDE3ODc1NzI4ODh8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-08-21T07:01:03.822230+00:00"
-    },
-    {
-      "id": "GGpBS5NNjQY",
-      "url": "https://images.unsplash.com/photo-1784979195971-1b43d0c0ad26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8UHJlc3MlMjBhbmQlMjBDdXJsJTIwb24lMjBEYXJrJTIwU2tpbnxlbnwxfDF8fHwxNzg3Mjk1NjkyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1784979195971-1b43d0c0ad26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8UHJlc3MlMjBhbmQlMjBDdXJsJTIwb24lMjBEYXJrJTIwU2tpbnxlbnwxfDF8fHwxNzg3Mjk1NjkyfDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1784979195971-1b43d0c0ad26?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8UHJlc3MlMjBhbmQlMjBDdXJsJTIwb24lMjBEYXJrJTIwU2tpbnxlbnwxfDF8fHwxNzg3Mjk1NjkyfDA&ixlib=rb-4.1.0&q=85",
-      "alt": "A young black woman with short hair and gold earrings",
-      "description": "",
-      "photographer": "mcpeter",
-      "photographer_url": "https://unsplash.com/@thisismcpeter",
-      "photo_url": "https://unsplash.com/photos/a-young-black-woman-with-short-hair-and-gold-earrings-GGpBS5NNjQY",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-08-21T07:01:03.822230+00:00"
     }
   ],
-  "updated_at": "2026-08-24T12:02:05.555069+00:00"
+  "updated_at": "2026-08-24T13:01:16.381062+00:00"
 }
