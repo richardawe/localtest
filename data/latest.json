@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with today's hottest Black and African women's hair trends, featuring bold styles, vibrant colors, and unapologetic self-expression!",
   "images": [
+    {
+      "id": "04AZNw6rCUI",
+      "url": "https://images.unsplash.com/photo-1729593031090-da86b0f90454?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8TG9jcyUyMGRyZWFkbG9ja3MlMjBvbiUyMGJsYWNrJTIwd29tYW4lMjdzJTIwaGVhZHNob3QlMjBwaG90b3xlbnwxfDF8fHwxNzg3NTkwODMxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1729593031090-da86b0f90454?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8TG9jcyUyMGRyZWFkbG9ja3MlMjBvbiUyMGJsYWNrJTIwd29tYW4lMjdzJTIwaGVhZHNob3QlMjBwaG90b3xlbnwxfDF8fHwxNzg3NTkwODMxfDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1729593031090-da86b0f90454?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8TG9jcyUyMGRyZWFkbG9ja3MlMjBvbiUyMGJsYWNrJTIwd29tYW4lMjdzJTIwaGVhZHNob3QlMjBwaG90b3xlbnwxfDF8fHwxNzg3NTkwODMxfDA&ixlib=rb-4.1.0&q=85",
+      "alt": "A black and white photo of a woman with dreadlocks",
+      "description": "umucyo",
+      "photographer": "SHIMO yann",
+      "photographer_url": "https://unsplash.com/@ishots_thing",
+      "photo_url": "https://unsplash.com/photos/a-black-and-white-photo-of-a-woman-with-dreadlocks-04AZNw6rCUI",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-08-24T17:00:07.631365+00:00"
+    },
     {
       "id": "cwvjZ4WYKFk",
       "url": "https://images.unsplash.com/photo-1787532378701-14e9d905469f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOHx8U2VuZWdhbGVzZSUyMFR3aXN0cyUyMGZvciUyME5hdHVyYWwlMjBIYWlyfGVufDF8MXx8fDE3ODc1NzY0MTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-08-21T17:00:07.860825+00:00"
-    },
-    {
-      "id": "aYVmbNIMXXc",
-      "url": "https://images.unsplash.com/photo-1784979196798-343ea0234ece?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzfHxQcmVzcyUyMGFuZCUyMEN1cmwlMjBvbiUyMERhcmslMjBTa2lufGVufDF8MXx8fDE3ODcyOTU2OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1784979196798-343ea0234ece?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzfHxQcmVzcyUyMGFuZCUyMEN1cmwlMjBvbiUyMERhcmslMjBTa2lufGVufDF8MXx8fDE3ODcyOTU2OTJ8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1784979196798-343ea0234ece?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzfHxQcmVzcyUyMGFuZCUyMEN1cmwlMjBvbiUyMERhcmslMjBTa2lufGVufDF8MXx8fDE3ODcyOTU2OTJ8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "Young black woman with short hair touching her face",
-      "description": "",
-      "photographer": "mcpeter",
-      "photographer_url": "https://unsplash.com/@thisismcpeter",
-      "photo_url": "https://unsplash.com/photos/young-black-woman-with-short-hair-touching-her-face-aYVmbNIMXXc",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-08-21T07:01:03.822230+00:00"
     }
   ],
-  "updated_at": "2026-08-24T16:01:23.953108+00:00"
+  "updated_at": "2026-08-24T17:01:14.280171+00:00"
 }
