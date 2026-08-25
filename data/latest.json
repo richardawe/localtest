@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay the day with our top picks on the most on-trend hairstyles for Black and African women that are currently making waves everywhere!",
   "images": [
+    {
+      "id": "E2PgFwj5tsw",
+      "url": "https://images.unsplash.com/photo-1765560213501-0dae106f5053?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8QWZyaWNhbiUyMFdvbWVuJTIwd2l0aCUyMExvY3MlMjBpbiUyMEJhY2t8ZW58MXwxfHx8MTc4NzY1MjAzMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1765560213501-0dae106f5053?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8QWZyaWNhbiUyMFdvbWVuJTIwd2l0aCUyMExvY3MlMjBpbiUyMEJhY2t8ZW58MXwxfHx8MTc4NzY1MjAzMXww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1765560213501-0dae106f5053?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8QWZyaWNhbiUyMFdvbWVuJTIwd2l0aCUyMExvY3MlMjBpbiUyMEJhY2t8ZW58MXwxfHx8MTc4NzY1MjAzMXww&ixlib=rb-4.1.0&q=85",
+      "alt": "Young woman with dreadlocks wearing a white top",
+      "description": "",
+      "photographer": "Michael Kyule",
+      "photographer_url": "https://unsplash.com/@madness_leahcim_",
+      "photo_url": "https://unsplash.com/photos/young-woman-with-dreadlocks-wearing-a-white-top-E2PgFwj5tsw",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-08-25T10:00:12.065282+00:00"
+    },
     {
       "id": "Az4GeQqVZVE",
       "url": "https://images.unsplash.com/photo-1785273925791-d65884993689?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8VGVlbmllJTIwd2VlbmllJTIwYWZyb3MlMjBmb3IlMjBzaG9ydCUyMGhhaXJ8ZW58MXwxfHx8MTc4NzYyMzI0Mnww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-08-21T20:00:05.051325+00:00"
-    },
-    {
-      "id": "qKXWwTRK8xk",
-      "url": "https://images.unsplash.com/photo-1764264829786-2aff8b128d9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8YmxhY2slMjB3b21lbiUyMHdlYXJpbmclMjBib3glMjBicmFpZGVkJTIwcG9ueXRhaWxzfGVufDF8MXx8fDE3ODczNDI1ODF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1764264829786-2aff8b128d9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8YmxhY2slMjB3b21lbiUyMHdlYXJpbmclMjBib3glMjBicmFpZGVkJTIwcG9ueXRhaWxzfGVufDF8MXx8fDE3ODczNDI1ODF8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1764264829786-2aff8b128d9f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8YmxhY2slMjB3b21lbiUyMHdlYXJpbmclMjBib3glMjBicmFpZGVkJTIwcG9ueXRhaWxzfGVufDF8MXx8fDE3ODczNDI1ODF8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "Woman with braids holding a tie in a parking garage",
-      "description": "",
-      "photographer": "K Studios",
-      "photographer_url": "https://unsplash.com/@kstudios",
-      "photo_url": "https://unsplash.com/photos/woman-with-braids-holding-a-tie-in-a-parking-garage-qKXWwTRK8xk",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-08-21T20:00:05.051325+00:00"
     }
   ],
-  "updated_at": "2026-08-25T09:01:13.144659+00:00"
+  "updated_at": "2026-08-25T10:02:58.432615+00:00"
 }
