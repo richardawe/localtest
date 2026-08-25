@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with the boldest, most majestic hairstyles of the season from Africa and its diaspora - we're diving into today's trending looks!",
   "images": [
+    {
+      "id": "_ErY3rAoWoc",
+      "url": "https://images.unsplash.com/photo-1725390478078-6e1e7557ef26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8QmVhdXRpZnVsJTIwZGFyayUyMHNraW4lMjB3ZWF2ZXMlMjBhbmQlMjBleHRlbnNpb25zJTIwcGhvdG9zfGVufDF8MXx8fDE3ODc2NzM2NTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1725390478078-6e1e7557ef26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8QmVhdXRpZnVsJTIwZGFyayUyMHNraW4lMjB3ZWF2ZXMlMjBhbmQlMjBleHRlbnNpb25zJTIwcGhvdG9zfGVufDF8MXx8fDE3ODc2NzM2NTV8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1725390478078-6e1e7557ef26?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8QmVhdXRpZnVsJTIwZGFyayUyMHNraW4lMjB3ZWF2ZXMlMjBhbmQlMjBleHRlbnNpb25zJTIwcGhvdG9zfGVufDF8MXx8fDE3ODc2NzM2NTV8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman with an afro is talking on a cell phone",
+      "description": "",
+      "photographer": "Abenezer Shewaga",
+      "photographer_url": "https://unsplash.com/@abenezer_shewaga",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-an-afro-is-talking-on-a-cell-phone-_ErY3rAoWoc",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-08-25T16:00:09.968559+00:00"
+    },
     {
       "id": "E2PgFwj5tsw",
       "url": "https://images.unsplash.com/photo-1765560213501-0dae106f5053?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8QWZyaWNhbiUyMFdvbWVuJTIwd2l0aCUyMExvY3MlMjBpbiUyMEJhY2t8ZW58MXwxfHx8MTc4NzY1MjAzMXww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-08-22T07:00:07.692320+00:00"
-    },
-    {
-      "id": "B1_nSH54zBA",
-      "url": "https://images.unsplash.com/photo-1691373620591-8fbb12d1625a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8YmxhY2slMjB3b21lbiUyMHdlYXJpbmclMjBib3glMjBicmFpZGVkJTIwcG9ueXRhaWxzfGVufDF8MXx8fDE3ODczNDI1ODF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1691373620591-8fbb12d1625a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8YmxhY2slMjB3b21lbiUyMHdlYXJpbmclMjBib3glMjBicmFpZGVkJTIwcG9ueXRhaWxzfGVufDF8MXx8fDE3ODczNDI1ODF8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1691373620591-8fbb12d1625a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8YmxhY2slMjB3b21lbiUyMHdlYXJpbmclMjBib3glMjBicmFpZGVkJTIwcG9ueXRhaWxzfGVufDF8MXx8fDE3ODczNDI1ODF8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "a woman in a black top with a braid in her hair",
-      "description": "",
-      "photographer": "Noah Ngubane",
-      "photographer_url": "https://unsplash.com/@noahngubane",
-      "photo_url": "https://unsplash.com/photos/a-woman-in-a-black-top-with-a-braid-in-her-hair-B1_nSH54zBA",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-08-21T20:00:05.051325+00:00"
     }
   ],
-  "updated_at": "2026-08-25T15:03:34.430210+00:00"
+  "updated_at": "2026-08-25T16:03:48.275200+00:00"
 }
