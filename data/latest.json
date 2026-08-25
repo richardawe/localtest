@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with our top picks for this season's hottest Black and African women's hairstyles, from box braids to Afro-luxury curls!",
   "images": [
+    {
+      "id": "Az4GeQqVZVE",
+      "url": "https://images.unsplash.com/photo-1785273925791-d65884993689?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8VGVlbmllJTIwd2VlbmllJTIwYWZyb3MlMjBmb3IlMjBzaG9ydCUyMGhhaXJ8ZW58MXwxfHx8MTc4NzYyMzI0Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1785273925791-d65884993689?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8VGVlbmllJTIwd2VlbmllJTIwYWZyb3MlMjBmb3IlMjBzaG9ydCUyMGhhaXJ8ZW58MXwxfHx8MTc4NzYyMzI0Mnww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1785273925791-d65884993689?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8VGVlbmllJTIwd2VlbmllJTIwYWZyb3MlMjBmb3IlMjBzaG9ydCUyMGhhaXJ8ZW58MXwxfHx8MTc4NzYyMzI0Mnww&ixlib=rb-4.1.0&q=85",
+      "alt": "Young black woman with short hair and gold earrings",
+      "description": "",
+      "photographer": "mcpeter",
+      "photographer_url": "https://unsplash.com/@thisismcpeter",
+      "photo_url": "https://unsplash.com/photos/young-black-woman-with-short-hair-and-gold-earrings-Az4GeQqVZVE",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-08-25T02:00:04.112793+00:00"
+    },
     {
       "id": "04AZNw6rCUI",
       "url": "https://images.unsplash.com/photo-1729593031090-da86b0f90454?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8TG9jcyUyMGRyZWFkbG9ja3MlMjBvbiUyMGJsYWNrJTIwd29tYW4lMjdzJTIwaGVhZHNob3QlMjBwaG90b3xlbnwxfDF8fHwxNzg3NTkwODMxfDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-08-21T20:00:05.051325+00:00"
-    },
-    {
-      "id": "nRVMVZvy6mo",
-      "url": "https://images.unsplash.com/photo-1552413538-e4b15b0fd907?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMHx8Qm94JTIwYnJhaWRzJTIwb24lMjBuYXR1cmFsJTIwYmxhY2slMjBoYWlyfGVufDF8MXx8fDE3ODczMzE2Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1552413538-e4b15b0fd907?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMHx8Qm94JTIwYnJhaWRzJTIwb24lMjBuYXR1cmFsJTIwYmxhY2slMjBoYWlyfGVufDF8MXx8fDE3ODczMzE2Mjd8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1552413538-e4b15b0fd907?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMHx8Qm94JTIwYnJhaWRzJTIwb24lMjBuYXR1cmFsJTIwYmxhY2slMjBoYWlyfGVufDF8MXx8fDE3ODczMzE2Mjd8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "woman wearing black and white floral v-neck peplum dress",
-      "description": "Brown skin girl on the other side of the room\r\nBrown skin girl staring with her brown eyes\r\nOh, baby, don’t you know you’re a cutie pie\r\nPrincess, little honey with the polka dot dress on\r\nRuby-lipped lady whose name I don’t know\r\nLet me tell you, darling\r\n\r\n-Leon Bridges",
-      "photographer": "Leighann Blackwood",
-      "photographer_url": "https://unsplash.com/@ohleighann",
-      "photo_url": "https://unsplash.com/photos/woman-wearing-black-and-white-floral-v-neck-peplum-dress-nRVMVZvy6mo",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-08-21T17:00:07.860825+00:00"
     }
   ],
-  "updated_at": "2026-08-25T01:01:34.346770+00:00"
+  "updated_at": "2026-08-25T02:01:33.698067+00:00"
 }
