@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with today's featured Black and African women's hair trends, serving up vibrant styles that are fresh off the runway!",
   "images": [
+    {
+      "id": "X02UKgCgL-s",
+      "url": "https://images.unsplash.com/photo-1765828592941-3b76fc06360a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8QmxhY2slMjB3b21lbiUyMHdlYXJpbmclMjB3ZWF2ZSUyMGV4dGVuc2lvbnMlMjBvdXRzaWRlfGVufDF8MXx8fDE3ODc3Mzg0NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1765828592941-3b76fc06360a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8QmxhY2slMjB3b21lbiUyMHdlYXJpbmclMjB3ZWF2ZSUyMGV4dGVuc2lvbnMlMjBvdXRzaWRlfGVufDF8MXx8fDE3ODc3Mzg0NDJ8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1765828592941-3b76fc06360a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8QmxhY2slMjB3b21lbiUyMHdlYXJpbmclMjB3ZWF2ZSUyMGV4dGVuc2lvbnMlMjBvdXRzaWRlfGVufDF8MXx8fDE3ODc3Mzg0NDJ8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "A young black woman with dark, wavy hair",
+      "description": "",
+      "photographer": "Michael Kyule",
+      "photographer_url": "https://unsplash.com/@madness_leahcim_",
+      "photo_url": "https://unsplash.com/photos/a-young-black-woman-with-dark-wavy-hair-X02UKgCgL-s",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-08-26T10:00:07.787106+00:00"
+    },
     {
       "id": "knCx8n09lOk",
       "url": "https://images.unsplash.com/photo-1763256433460-e994fe2c28da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyfHxMb2NzJTIwYW5kJTIwZHJlYWRsb2NrcyUyMGluJTIwQmxhY2slMjBjb21tdW5pdHl8ZW58MXwxfHx8MTc4NzcxMzMzNXww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-08-22T08:00:07.564897+00:00"
-    },
-    {
-      "id": "H1XpKdyb_Hs",
-      "url": "https://images.unsplash.com/photo-1761420570875-b8ca70228e64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw4fHxDcm9jaGV0JTIwYnJhaWQlMjBoYWlyc3R5bGVzJTIwb24lMjBkYXJrJTIwc2tpbnxlbnwxfDF8fHwxNzg3MzgyMDA4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1761420570875-b8ca70228e64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw4fHxDcm9jaGV0JTIwYnJhaWQlMjBoYWlyc3R5bGVzJTIwb24lMjBkYXJrJTIwc2tpbnxlbnwxfDF8fHwxNzg3MzgyMDA4fDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1761420570875-b8ca70228e64?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw4fHxDcm9jaGV0JTIwYnJhaWQlMjBoYWlyc3R5bGVzJTIwb24lMjBkYXJrJTIwc2tpbnxlbnwxfDF8fHwxNzg3MzgyMDA4fDA&ixlib=rb-4.1.0&q=85",
-      "alt": "Woman wearing sunglasses and headwrap, bubbles floating",
-      "description": "",
-      "photographer": "Lord Bishop",
-      "photographer_url": "https://unsplash.com/@ourlordbishop",
-      "photo_url": "https://unsplash.com/photos/woman-wearing-sunglasses-and-headwrap-bubbles-floating-H1XpKdyb_Hs",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-08-22T07:00:07.692320+00:00"
     }
   ],
-  "updated_at": "2026-08-26T09:01:13.460833+00:00"
+  "updated_at": "2026-08-26T10:01:02.828821+00:00"
 }
