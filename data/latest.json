@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to be blown away by this season's hottest hairstyles, showcasing vibrant braids, sleek afros, and bold locs that are ruling the beauty scene!",
   "images": [
+    {
+      "id": "P4MAlPz51Tw",
+      "url": "https://images.unsplash.com/photo-1775443601406-4a3f6b2095a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8TmF0dXJhbCUyMEFmcm8lMjBXb21lbiUyMGluJTIwQmVhdXRpZnVsJTIwU2V0dGluZ3N8ZW58MXwxfHx8MTc4Nzc0NTgzMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1775443601406-4a3f6b2095a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8TmF0dXJhbCUyMEFmcm8lMjBXb21lbiUyMGluJTIwQmVhdXRpZnVsJTIwU2V0dGluZ3N8ZW58MXwxfHx8MTc4Nzc0NTgzMHww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1775443601406-4a3f6b2095a7?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8TmF0dXJhbCUyMEFmcm8lMjBXb21lbiUyMGluJTIwQmVhdXRpZnVsJTIwU2V0dGluZ3N8ZW58MXwxfHx8MTc4Nzc0NTgzMHww&ixlib=rb-4.1.0&q=85",
+      "alt": "Young woman in red shirt with braided hair",
+      "description": "",
+      "photographer": "Michael Kyule",
+      "photographer_url": "https://unsplash.com/@madness_leahcim_",
+      "photo_url": "https://unsplash.com/photos/young-woman-in-red-shirt-with-braided-hair-P4MAlPz51Tw",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-08-26T12:03:49.463190+00:00"
+    },
     {
       "id": "X02UKgCgL-s",
       "url": "https://images.unsplash.com/photo-1765828592941-3b76fc06360a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8QmxhY2slMjB3b21lbiUyMHdlYXJpbmclMjB3ZWF2ZSUyMGV4dGVuc2lvbnMlMjBvdXRzaWRlfGVufDF8MXx8fDE3ODc3Mzg0NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-08-22T11:00:06.308916+00:00"
-    },
-    {
-      "id": "abc9uwOG3aw",
-      "url": "https://images.unsplash.com/photo-1783445740705-aa2c445c0700?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw0fHxUV0ElMjBUZWVuaWUlMjBXZWVuaWUlMjBBZnJvJTIwUGljdHVyZXMlMjBXYW50ZWR8ZW58MXwxfHx8MTc4NzM4NTY3Nnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1783445740705-aa2c445c0700?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw0fHxUV0ElMjBUZWVuaWUlMjBXZWVuaWUlMjBBZnJvJTIwUGljdHVyZXMlMjBXYW50ZWR8ZW58MXwxfHx8MTc4NzM4NTY3Nnww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1783445740705-aa2c445c0700?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw0fHxUV0ElMjBUZWVuaWUlMjBXZWVuaWUlMjBBZnJvJTIwUGljdHVyZXMlMjBXYW50ZWR8ZW58MXwxfHx8MTc4NzM4NTY3Nnww&ixlib=rb-4.1.0&q=85",
-      "alt": "Dark-skinned woman with afro posing in denim shirt and underwear",
-      "description": "",
-      "photographer": "Cleopas Monbest",
-      "photographer_url": "https://unsplash.com/@monbestmedia",
-      "photo_url": "https://unsplash.com/photos/dark-skinned-woman-with-afro-posing-in-denim-shirt-and-underwear-abc9uwOG3aw",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-08-22T08:00:07.564897+00:00"
     }
   ],
-  "updated_at": "2026-08-26T11:02:32.737880+00:00"
+  "updated_at": "2026-08-26T12:22:18.960770+00:00"
 }
