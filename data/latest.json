@@ -1,6 +1,36 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with this season's hottest looks, as we showcase the freshest and most fabulous Black and African women's hair trends of the moment!",
   "images": [
+    {
+      "id": "knCx8n09lOk",
+      "url": "https://images.unsplash.com/photo-1763256433460-e994fe2c28da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyfHxMb2NzJTIwYW5kJTIwZHJlYWRsb2NrcyUyMGluJTIwQmxhY2slMjBjb21tdW5pdHl8ZW58MXwxfHx8MTc4NzcxMzMzNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1763256433460-e994fe2c28da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyfHxMb2NzJTIwYW5kJTIwZHJlYWRsb2NrcyUyMGluJTIwQmxhY2slMjBjb21tdW5pdHl8ZW58MXwxfHx8MTc4NzcxMzMzNXww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1763256433460-e994fe2c28da?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyfHxMb2NzJTIwYW5kJTIwZHJlYWRsb2NrcyUyMGluJTIwQmxhY2slMjBjb21tdW5pdHl8ZW58MXwxfHx8MTc4NzcxMzMzNXww&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman with braided hair stands outdoors",
+      "description": "",
+      "photographer": "Ufoma Ojo",
+      "photographer_url": "https://unsplash.com/@ladyufoma001",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-braided-hair-stands-outdoors-knCx8n09lOk",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-08-26T03:01:36.840249+00:00"
+    },
+    {
+      "id": "l5KJ1Kk2774",
+      "url": "https://images.unsplash.com/photo-1763256433401-ce6df9a804dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzfHxMb2NzJTIwYW5kJTIwZHJlYWRsb2NrcyUyMGluJTIwQmxhY2slMjBjb21tdW5pdHl8ZW58MXwxfHx8MTc4NzcxMzMzNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1763256433401-ce6df9a804dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzfHxMb2NzJTIwYW5kJTIwZHJlYWRsb2NrcyUyMGluJTIwQmxhY2slMjBjb21tdW5pdHl8ZW58MXwxfHx8MTc4NzcxMzMzNXww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1763256433401-ce6df9a804dd?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzfHxMb2NzJTIwYW5kJTIwZHJlYWRsb2NrcyUyMGluJTIwQmxhY2slMjBjb21tdW5pdHl8ZW58MXwxfHx8MTc4NzcxMzMzNXww&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman with braided hair stands outside a shop",
+      "description": "",
+      "photographer": "Ufoma Ojo",
+      "photographer_url": "https://unsplash.com/@ladyufoma001",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-braided-hair-stands-outside-a-shop-l5KJ1Kk2774",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-08-26T03:01:36.840249+00:00"
+    },
     {
       "id": "_ErY3rAoWoc",
       "url": "https://images.unsplash.com/photo-1725390478078-6e1e7557ef26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8QmVhdXRpZnVsJTIwZGFyayUyMHNraW4lMjB3ZWF2ZXMlMjBhbmQlMjBleHRlbnNpb25zJTIwcGhvdG9zfGVufDF8MXx8fDE3ODc2NzM2NTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -270,37 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-08-22T07:00:07.692320+00:00"
-    },
-    {
-      "id": "0IDO57v22hQ",
-      "url": "https://images.unsplash.com/photo-1784979195967-bd567513dfde?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8Q3JvY2hldCUyMGJyYWlkJTIwaGFpcnN0eWxlcyUyMG9uJTIwZGFyayUyMHNraW58ZW58MXwxfHx8MTc4NzM4MjAwOHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1784979195967-bd567513dfde?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8Q3JvY2hldCUyMGJyYWlkJTIwaGFpcnN0eWxlcyUyMG9uJTIwZGFyayUyMHNraW58ZW58MXwxfHx8MTc4NzM4MjAwOHww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1784979195967-bd567513dfde?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8Q3JvY2hldCUyMGJyYWlkJTIwaGFpcnN0eWxlcyUyMG9uJTIwZGFyayUyMHNraW58ZW58MXwxfHx8MTc4NzM4MjAwOHww&ixlib=rb-4.1.0&q=85",
-      "alt": "A young black woman with short hair and gold earrings",
-      "description": "",
-      "photographer": "mcpeter",
-      "photographer_url": "https://unsplash.com/@thisismcpeter",
-      "photo_url": "https://unsplash.com/photos/a-young-black-woman-with-short-hair-and-gold-earrings-0IDO57v22hQ",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-08-22T07:00:07.692320+00:00"
-    },
-    {
-      "id": "lPkDjZcrQK4",
-      "url": "https://images.unsplash.com/photo-1784979196590-d6237445023f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8Q3JvY2hldCUyMGJyYWlkJTIwaGFpcnN0eWxlcyUyMG9uJTIwZGFyayUyMHNraW58ZW58MXwxfHx8MTc4NzM4MjAwOHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1784979196590-d6237445023f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8Q3JvY2hldCUyMGJyYWlkJTIwaGFpcnN0eWxlcyUyMG9uJTIwZGFyayUyMHNraW58ZW58MXwxfHx8MTc4NzM4MjAwOHww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1784979196590-d6237445023f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8Q3JvY2hldCUyMGJyYWlkJTIwaGFpcnN0eWxlcyUyMG9uJTIwZGFyayUyMHNraW58ZW58MXwxfHx8MTc4NzM4MjAwOHww&ixlib=rb-4.1.0&q=85",
-      "alt": "A young black woman with short hair and gold earrings",
-      "description": "",
-      "photographer": "mcpeter",
-      "photographer_url": "https://unsplash.com/@thisismcpeter",
-      "photo_url": "https://unsplash.com/photos/a-young-black-woman-with-short-hair-and-gold-earrings-lPkDjZcrQK4",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-08-22T07:00:07.692320+00:00"
     }
   ],
-  "updated_at": "2026-08-26T02:03:29.062525+00:00"
+  "updated_at": "2026-08-26T03:17:58.383849+00:00"
 }
