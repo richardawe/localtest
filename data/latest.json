@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with today's top Black and African women's hair trends, from braided masterpieces to vibrant natural styles!",
   "images": [
+    {
+      "id": "hS1CuhDi2ks",
+      "url": "https://images.unsplash.com/photo-1701530249047-f04afe7b0733?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8V29tZW4lMjByb2NraW5nJTIwY29ybnJvd3MlMjBpbiUyMHB1YmxpYyUyMHNwYWNlc3xlbnwxfDF8fHwxNzg3ODg2MDU1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1701530249047-f04afe7b0733?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8V29tZW4lMjByb2NraW5nJTIwY29ybnJvd3MlMjBpbiUyMHB1YmxpYyUyMHNwYWNlc3xlbnwxfDF8fHwxNzg3ODg2MDU1fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1701530249047-f04afe7b0733?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8V29tZW4lMjByb2NraW5nJTIwY29ybnJvd3MlMjBpbiUyMHB1YmxpYyUyMHNwYWNlc3xlbnwxfDF8fHwxNzg3ODg2MDU1fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "a young woman with braids wearing headphones",
+      "description": "",
+      "photographer": "Tima Ilyasov",
+      "photographer_url": "https://unsplash.com/@red_devil",
+      "photo_url": "https://unsplash.com/photos/a-young-woman-with-braids-wearing-headphones-hS1CuhDi2ks",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-08-28T03:00:05.091703+00:00"
+    },
     {
       "id": "QuHCg4SRhbY",
       "url": "https://images.unsplash.com/photo-1667514045983-ed7526623df8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8UmVsYXhlZCUyMHBlcm1lZCUyMGhhaXIlMjBvbiUyMG1hdHVyZSUyMHdvbWFuJTIwc21pbGluZ3xlbnwxfDF8fHwxNzg3Nzg1MzM5fDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-08-22T15:00:04.748242+00:00"
-    },
-    {
-      "id": "hG8XHTmj1mY",
-      "url": "https://images.unsplash.com/photo-1784979196900-55e59e47b588?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8TG9jcyUyMGRyZWFkbG9ja3MlMjBvbiUyMGJlYXV0aWZ1bCUyMGRhcmslMjBza2lufGVufDF8MXx8fDE3ODc0MDczNzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1784979196900-55e59e47b588?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8TG9jcyUyMGRyZWFkbG9ja3MlMjBvbiUyMGJlYXV0aWZ1bCUyMGRhcmslMjBza2lufGVufDF8MXx8fDE3ODc0MDczNzh8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1784979196900-55e59e47b588?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8TG9jcyUyMGRyZWFkbG9ja3MlMjBvbiUyMGJlYXV0aWZ1bCUyMGRhcmslMjBza2lufGVufDF8MXx8fDE3ODc0MDczNzh8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "A young black woman with dark hair and gold earrings",
-      "description": "",
-      "photographer": "mcpeter",
-      "photographer_url": "https://unsplash.com/@thisismcpeter",
-      "photo_url": "https://unsplash.com/photos/a-young-black-woman-with-dark-hair-and-gold-earrings-hG8XHTmj1mY",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-08-22T14:00:11.316990+00:00"
     }
   ],
-  "updated_at": "2026-08-28T02:01:28.294494+00:00"
+  "updated_at": "2026-08-28T03:01:26.728663+00:00"
 }
