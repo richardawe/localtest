@@ -1,6 +1,21 @@
 {
-  "summary": "Get ready to vibe with today's top Black and African women's hair trends, where bold styles meet effortless elegance!",
+  "summary": "Get ready to slay with the most iconic hairstyles making waves in the Black and African diaspora, from Afro-puff perfection to vibrant dreadlocks!",
   "images": [
+    {
+      "id": "E1hEJ87X7X4",
+      "url": "https://images.unsplash.com/photo-1623713971940-4f085c0c65ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxXZWF2ZSUyMEV4dGVuc2lvbnMlMjBmb3IlMjBMb25nJTIwQmxhY2slMjBIYWlyfGVufDF8MXx8fDE3ODc5MjIwOTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1623713971940-4f085c0c65ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxXZWF2ZSUyMEV4dGVuc2lvbnMlMjBmb3IlMjBMb25nJTIwQmxhY2slMjBIYWlyfGVufDF8MXx8fDE3ODc5MjIwOTh8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1623713971940-4f085c0c65ed?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxXZWF2ZSUyMEV4dGVuc2lvbnMlMjBmb3IlMjBMb25nJTIwQmxhY2slMjBIYWlyfGVufDF8MXx8fDE3ODc5MjIwOTh8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "woman in white tube top smiling",
+      "description": "Fashion portrait of a gorgeous ebony model in front of a mustard yellow backdrop.",
+      "photographer": "Houcine Ncib",
+      "photographer_url": "https://unsplash.com/@houcinencibphotography",
+      "photo_url": "https://unsplash.com/photos/woman-in-white-tube-top-smiling-E1hEJ87X7X4",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-08-28T13:00:11.462336+00:00"
+    },
     {
       "id": "Dh_WUqJNTdg",
       "url": "https://images.unsplash.com/photo-1784064812525-801252bfa898?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNnx8YmxhY2slMjB3b21hbiUyMHdpdGglMjBib3glMjBicmFpZHMlMjBvbiUyMHNob3VsZGVyc3xlbnwxfDF8fHwxNzg3OTE4NDE3fDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-08-24T01:00:11.380851+00:00"
-    },
-    {
-      "id": "jspby1gCJW8",
-      "url": "https://images.unsplash.com/photo-1768089294417-ef1719a369a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxSZWxheGVkJTIwcGVybWVkJTIwaGFpciUyMGluJTIwdmlicmFudCUyMGNvbG9yc3xlbnwxfDF8fHwxNzg3NDgzNzE2fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1768089294417-ef1719a369a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxSZWxheGVkJTIwcGVybWVkJTIwaGFpciUyMGluJTIwdmlicmFudCUyMGNvbG9yc3xlbnwxfDF8fHwxNzg3NDgzNzE2fDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1768089294417-ef1719a369a4?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxSZWxheGVkJTIwcGVybWVkJTIwaGFpciUyMGluJTIwdmlicmFudCUyMGNvbG9yc3xlbnwxfDF8fHwxNzg3NDgzNzE2fDA&ixlib=rb-4.1.0&q=85",
-      "alt": "Woman with dark curly hair and blue feathers",
-      "description": "",
-      "photographer": "Marina Nazina",
-      "photographer_url": "https://unsplash.com/@nazinamari",
-      "photo_url": "https://unsplash.com/photos/woman-with-dark-curly-hair-and-blue-feathers-jspby1gCJW8",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-08-23T11:00:05.936569+00:00"
     }
   ],
-  "updated_at": "2026-08-28T12:03:55.385610+00:00"
+  "updated_at": "2026-08-28T13:04:25.105786+00:00"
 }
