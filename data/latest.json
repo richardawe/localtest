@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with today's latest must-try styles, showcasing the most gorgeous and trendy looks in Black and African women's hair!",
   "images": [
+    {
+      "id": "Dl6PaS8VIWY",
+      "url": "https://images.unsplash.com/photo-1737390757671-47304bcbe7db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8UGhvdG9ncmFwaHklMjBvZiUyMGFmcm9zJTIwaW4lMjB0aGVpciUyMGdsb3J5fGVufDF8MXx8fDE3ODgwMDg0OTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1737390757671-47304bcbe7db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8UGhvdG9ncmFwaHklMjBvZiUyMGFmcm9zJTIwaW4lMjB0aGVpciUyMGdsb3J5fGVufDF8MXx8fDE3ODgwMDg0OTV8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1737390757671-47304bcbe7db?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8UGhvdG9ncmFwaHklMjBvZiUyMGFmcm9zJTIwaW4lMjB0aGVpciUyMGdsb3J5fGVufDF8MXx8fDE3ODgwMDg0OTV8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman with dreadlocks walking in front of a crowd of people",
+      "description": "",
+      "photographer": "Matias Eduardo",
+      "photographer_url": "https://unsplash.com/@matiaseduardo",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-dreadlocks-walking-in-front-of-a-crowd-of-people-Dl6PaS8VIWY",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-08-29T13:00:47.671765+00:00"
+    },
     {
       "id": "wJgzDvp9YD0",
       "url": "https://images.unsplash.com/photo-1787779335320-41220a14ed60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8V29tZW4lMjBvZiUyMENvbG9yJTIwd2l0aCUyMEZ1bGFuaSUyMEJyYWlkfGVufDF8MXx8fDE3ODc5Nzk4MTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-08-24T13:00:07.540071+00:00"
-    },
-    {
-      "id": "ooa3h6GuXLk",
-      "url": "https://images.unsplash.com/photo-1783512785567-8c0d9e8429b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8V2VhdmVzJTIwYW5kJTIwRXh0ZW5zaW9ucyUyMGZvciUyMEJsYWNrJTIwR29kZGVzc2VzfGVufDF8MXx8fDE3ODc1NzI4ODh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1783512785567-8c0d9e8429b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8V2VhdmVzJTIwYW5kJTIwRXh0ZW5zaW9ucyUyMGZvciUyMEJsYWNrJTIwR29kZGVzc2VzfGVufDF8MXx8fDE3ODc1NzI4ODh8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1783512785567-8c0d9e8429b8?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8V2VhdmVzJTIwYW5kJTIwRXh0ZW5zaW9ucyUyMGZvciUyMEJsYWNrJTIwR29kZGVzc2VzfGVufDF8MXx8fDE3ODc1NzI4ODh8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "Two women with long braids posing in light dresses",
-      "description": "",
-      "photographer": "Fast Incorporated",
-      "photographer_url": "https://unsplash.com/@francoop",
-      "photo_url": "https://unsplash.com/photos/two-women-with-long-braids-posing-in-light-dresses-ooa3h6GuXLk",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-08-24T12:00:08.531519+00:00"
     }
   ],
-  "updated_at": "2026-08-29T12:01:58.039512+00:00"
+  "updated_at": "2026-08-29T13:07:08.903323+00:00"
 }
