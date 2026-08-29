@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with this month's featured Black and African hair trends, showcasing vibrant styles that are making waves currently everywhere!",
   "images": [
+    {
+      "id": "wJgzDvp9YD0",
+      "url": "https://images.unsplash.com/photo-1787779335320-41220a14ed60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8V29tZW4lMjBvZiUyMENvbG9yJTIwd2l0aCUyMEZ1bGFuaSUyMEJyYWlkfGVufDF8MXx8fDE3ODc5Nzk4MTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1787779335320-41220a14ed60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8V29tZW4lMjBvZiUyMENvbG9yJTIwd2l0aCUyMEZ1bGFuaSUyMEJyYWlkfGVufDF8MXx8fDE3ODc5Nzk4MTZ8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1787779335320-41220a14ed60?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8V29tZW4lMjBvZiUyMENvbG9yJTIwd2l0aCUyMEZ1bGFuaSUyMEJyYWlkfGVufDF8MXx8fDE3ODc5Nzk4MTZ8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman in a blue headwrap and jacket with long shell earrings in Lagos",
+      "description": "'The Street Is My Runway' a fashion project by Ben Iwara https://youtu.be/GtIaSyFZIGc",
+      "photographer": "Ben Iwara",
+      "photographer_url": "https://unsplash.com/@1hundredimages",
+      "photo_url": "https://unsplash.com/photos/woman-in-blue-headwrap-in-lagos-wJgzDvp9YD0",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-08-29T05:00:13.372736+00:00"
+    },
     {
       "id": "0KrTBzqMjWI",
       "url": "https://images.unsplash.com/photo-1785436859371-62c98d4166f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8U2lzdGVybG9ja3MlMjBIYWlyc3R5bGUlMjBDbG9zZSUyMFVwJTIwQWZyaWNhbiUyMFdvbWFuJTIwQmVhdXR5fGVufDF8MXx8fDE3ODc5NDczNjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-08-24T12:00:08.531519+00:00"
-    },
-    {
-      "id": "cM7iaurncoQ",
-      "url": "https://images.unsplash.com/photo-1774773135353-1836e37feaae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOHx8RHJlYWRsb2NrcyUyMG9uJTIwQmxhY2slMjB3b21lbiUyMHBob3Rvc2hvb3RzJTIwb3V0ZG9vcnN8ZW58MXwxfHx8MTc4NzU2OTI2MXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1774773135353-1836e37feaae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOHx8RHJlYWRsb2NrcyUyMG9uJTIwQmxhY2slMjB3b21lbiUyMHBob3Rvc2hvb3RzJTIwb3V0ZG9vcnN8ZW58MXwxfHx8MTc4NzU2OTI2MXww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1774773135353-1836e37feaae?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOHx8RHJlYWRsb2NrcyUyMG9uJTIwQmxhY2slMjB3b21lbiUyMHBob3Rvc2hvb3RzJTIwb3V0ZG9vcnN8ZW58MXwxfHx8MTc4NzU2OTI2MXww&ixlib=rb-4.1.0&q=85",
-      "alt": "Woman with braids posing by an old van",
-      "description": "",
-      "photographer": "Michael Kyule",
-      "photographer_url": "https://unsplash.com/@madness_leahcim_",
-      "photo_url": "https://unsplash.com/photos/woman-with-braids-posing-by-an-old-van-cM7iaurncoQ",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-08-24T11:00:07.857164+00:00"
     }
   ],
-  "updated_at": "2026-08-29T04:16:11.997708+00:00"
+  "updated_at": "2026-08-29T05:06:00.614366+00:00"
 }
