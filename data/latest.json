@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with today's hottest looks as we dive into the most on-trend hairstyles of the season for Black and African women!",
   "images": [
+    {
+      "id": "_LTsZ8qjEhg",
+      "url": "https://images.unsplash.com/photo-1633623268256-9284b70a00f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw1fHxBZnJpY2FuJTIwd29tYW4lMjB3ZWFyaW5nJTIwcHJlc3MlMjBhbmQlMjBjdXJsfGVufDF8MXx8fDE3ODgzMDAwMTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1633623268256-9284b70a00f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw1fHxBZnJpY2FuJTIwd29tYW4lMjB3ZWFyaW5nJTIwcHJlc3MlMjBhbmQlMjBjdXJsfGVufDF8MXx8fDE3ODgzMDAwMTB8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1633623268256-9284b70a00f6?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw1fHxBZnJpY2FuJTIwd29tYW4lMjB3ZWFyaW5nJTIwcHJlc3MlMjBhbmQlMjBjdXJsfGVufDF8MXx8fDE3ODgzMDAwMTB8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "a woman with dreadlocks holding a megaphone",
+      "description": "",
+      "photographer": "Graham Klingler",
+      "photographer_url": "https://unsplash.com/@grahamklingler",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-dreadlocks-holding-a-megaphone-_LTsZ8qjEhg",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-09-01T22:00:05.369640+00:00"
+    },
     {
       "id": "YVzwphYAnJ0",
       "url": "https://images.unsplash.com/photo-1707041934595-26a8ccafa20a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxHb2RkZXNzJTIwQnJhaWRzJTIwd2l0aCUyMEhlbm5hJTIwRGVzaWduc3xlbnwxfDF8fHwxNzg4Mjg5MjI5fDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-08-26T10:00:07.787106+00:00"
-    },
-    {
-      "id": "knCx8n09lOk",
-      "url": "https://images.unsplash.com/photo-1763256433460-e994fe2c28da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyfHxMb2NzJTIwYW5kJTIwZHJlYWRsb2NrcyUyMGluJTIwQmxhY2slMjBjb21tdW5pdHl8ZW58MXwxfHx8MTc4NzcxMzMzNXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1763256433460-e994fe2c28da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyfHxMb2NzJTIwYW5kJTIwZHJlYWRsb2NrcyUyMGluJTIwQmxhY2slMjBjb21tdW5pdHl8ZW58MXwxfHx8MTc4NzcxMzMzNXww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1763256433460-e994fe2c28da?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyfHxMb2NzJTIwYW5kJTIwZHJlYWRsb2NrcyUyMGluJTIwQmxhY2slMjBjb21tdW5pdHl8ZW58MXwxfHx8MTc4NzcxMzMzNXww&ixlib=rb-4.1.0&q=85",
-      "alt": "A woman with braided hair stands outdoors",
-      "description": "",
-      "photographer": "Ufoma Ojo",
-      "photographer_url": "https://unsplash.com/@ladyufoma001",
-      "photo_url": "https://unsplash.com/photos/a-woman-with-braided-hair-stands-outdoors-knCx8n09lOk",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-08-26T03:01:36.840249+00:00"
     }
   ],
-  "updated_at": "2026-09-01T21:00:59.090276+00:00"
+  "updated_at": "2026-09-01T22:00:53.047354+00:00"
 }
