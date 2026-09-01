@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with this week's roundup of the hottest, most innovative Black and African hairstyles that are dominating the beauty scene!",
   "images": [
+    {
+      "id": "YVzwphYAnJ0",
+      "url": "https://images.unsplash.com/photo-1707041934595-26a8ccafa20a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxHb2RkZXNzJTIwQnJhaWRzJTIwd2l0aCUyMEhlbm5hJTIwRGVzaWduc3xlbnwxfDF8fHwxNzg4Mjg5MjI5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1707041934595-26a8ccafa20a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxHb2RkZXNzJTIwQnJhaWRzJTIwd2l0aCUyMEhlbm5hJTIwRGVzaWduc3xlbnwxfDF8fHwxNzg4Mjg5MjI5fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1707041934595-26a8ccafa20a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxHb2RkZXNzJTIwQnJhaWRzJTIwd2l0aCUyMEhlbm5hJTIwRGVzaWduc3xlbnwxfDF8fHwxNzg4Mjg5MjI5fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "a woman in a red shirt with a braid on her head",
+      "description": "📸",
+      "photographer": "Beheshteh Ghodrati",
+      "photographer_url": "https://unsplash.com/@beheshtehghodrati",
+      "photo_url": "https://unsplash.com/photos/a-woman-in-a-red-shirt-with-a-braid-on-her-head-YVzwphYAnJ0",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-09-01T19:00:05.357510+00:00"
+    },
     {
       "id": "pvJbLrK1maU",
       "url": "https://images.unsplash.com/photo-1785908277450-a660d762bfd4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8QmxhY2slMjB3b21lbiUyMGJveCUyMGJyYWlkcyUyMG9uJTIwc2hvdWxkZXJzfGVufDF8MXx8fDE3ODgyNjA1MzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-08-26T03:01:36.840249+00:00"
-    },
-    {
-      "id": "l5KJ1Kk2774",
-      "url": "https://images.unsplash.com/photo-1763256433401-ce6df9a804dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzfHxMb2NzJTIwYW5kJTIwZHJlYWRsb2NrcyUyMGluJTIwQmxhY2slMjBjb21tdW5pdHl8ZW58MXwxfHx8MTc4NzcxMzMzNXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1763256433401-ce6df9a804dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzfHxMb2NzJTIwYW5kJTIwZHJlYWRsb2NrcyUyMGluJTIwQmxhY2slMjBjb21tdW5pdHl8ZW58MXwxfHx8MTc4NzcxMzMzNXww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1763256433401-ce6df9a804dd?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzfHxMb2NzJTIwYW5kJTIwZHJlYWRsb2NrcyUyMGluJTIwQmxhY2slMjBjb21tdW5pdHl8ZW58MXwxfHx8MTc4NzcxMzMzNXww&ixlib=rb-4.1.0&q=85",
-      "alt": "A woman with braided hair stands outside a shop",
-      "description": "",
-      "photographer": "Ufoma Ojo",
-      "photographer_url": "https://unsplash.com/@ladyufoma001",
-      "photo_url": "https://unsplash.com/photos/a-woman-with-braided-hair-stands-outside-a-shop-l5KJ1Kk2774",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-08-26T03:01:36.840249+00:00"
     }
   ],
-  "updated_at": "2026-09-01T18:02:33.529149+00:00"
+  "updated_at": "2026-09-01T19:01:02.535168+00:00"
 }
