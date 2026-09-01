@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with this month's sizzling spotlight on the hottest, most coveted Black and African women's hair trends currently taking over the globe!",
   "images": [
+    {
+      "id": "td508FrMvkw",
+      "url": "https://images.unsplash.com/photo-1783512785564-0d728a1d63b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw5fHxXZWF2ZXMlMjBFeHRlbnNpb25zJTIwZm9yJTIwQmxhY2slMjBXb21lbiUyMFBob3Rvc2hvb3R8ZW58MXwxfHx8MTc4ODI0MjQ1OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1783512785564-0d728a1d63b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw5fHxXZWF2ZXMlMjBFeHRlbnNpb25zJTIwZm9yJTIwQmxhY2slMjBXb21lbiUyMFBob3Rvc2hvb3R8ZW58MXwxfHx8MTc4ODI0MjQ1OHww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1783512785564-0d728a1d63b5?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw5fHxXZWF2ZXMlMjBFeHRlbnNpb25zJTIwZm9yJTIwQmxhY2slMjBXb21lbiUyMFBob3Rvc2hvb3R8ZW58MXwxfHx8MTc4ODI0MjQ1OHww&ixlib=rb-4.1.0&q=85",
+      "alt": "Two women with long braids posing in white dresses",
+      "description": "",
+      "photographer": "Fast Incorporated",
+      "photographer_url": "https://unsplash.com/@francoop",
+      "photo_url": "https://unsplash.com/photos/two-women-with-long-braids-posing-in-white-dresses-td508FrMvkw",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-09-01T06:00:10.942304+00:00"
+    },
     {
       "id": "1W6KLPxElP8",
       "url": "https://images.unsplash.com/photo-1758155813666-e905d940a822?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOHx8QmxhY2slMjB3b21hbiUyMHdpdGglMjBjb3Jucm93cyUyMG9uJTIwYmVhY2h8ZW58MXwxfHx8MTc4ODE4ODY5N3ww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-08-25T16:00:09.968559+00:00"
-    },
-    {
-      "id": "E2PgFwj5tsw",
-      "url": "https://images.unsplash.com/photo-1765560213501-0dae106f5053?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8QWZyaWNhbiUyMFdvbWVuJTIwd2l0aCUyMExvY3MlMjBpbiUyMEJhY2t8ZW58MXwxfHx8MTc4NzY1MjAzMXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1765560213501-0dae106f5053?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8QWZyaWNhbiUyMFdvbWVuJTIwd2l0aCUyMExvY3MlMjBpbiUyMEJhY2t8ZW58MXwxfHx8MTc4NzY1MjAzMXww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1765560213501-0dae106f5053?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8QWZyaWNhbiUyMFdvbWVuJTIwd2l0aCUyMExvY3MlMjBpbiUyMEJhY2t8ZW58MXwxfHx8MTc4NzY1MjAzMXww&ixlib=rb-4.1.0&q=85",
-      "alt": "Young woman with dreadlocks wearing a white top",
-      "description": "",
-      "photographer": "Michael Kyule",
-      "photographer_url": "https://unsplash.com/@madness_leahcim_",
-      "photo_url": "https://unsplash.com/photos/young-woman-with-dreadlocks-wearing-a-white-top-E2PgFwj5tsw",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-08-25T10:00:12.065282+00:00"
     }
   ],
-  "updated_at": "2026-09-01T05:05:59.964233+00:00"
+  "updated_at": "2026-09-01T06:03:55.002198+00:00"
 }
