@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with our latest feature showcasing the most dynamic, daring, and divine hairstyles trending among Black and African women right now!",
   "images": [
+    {
+      "id": "HYcCrN8sWSM",
+      "url": "https://images.unsplash.com/photo-1623369684546-5476e86d533d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8QWZyaWNhbiUyMHdvbWVuJTIwcHJvdGVjdGl2ZSUyMHN0eWxlcyUyMG9uJTIwdGhlJTIwYmVhY2h8ZW58MXwxfHx8MTc4ODMzOTY2NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1623369684546-5476e86d533d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8QWZyaWNhbiUyMHdvbWVuJTIwcHJvdGVjdGl2ZSUyMHN0eWxlcyUyMG9uJTIwdGhlJTIwYmVhY2h8ZW58MXwxfHx8MTc4ODMzOTY2NHww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1623369684546-5476e86d533d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8QWZyaWNhbiUyMHdvbWVuJTIwcHJvdGVjdGl2ZSUyMHN0eWxlcyUyMG9uJTIwdGhlJTIwYmVhY2h8ZW58MXwxfHx8MTc4ODMzOTY2NHww&ixlib=rb-4.1.0&q=85",
+      "alt": "a woman in a dress on the beach",
+      "description": "Summer fashion portrait  of an African ebony model.",
+      "photographer": "Houcine Ncib",
+      "photographer_url": "https://unsplash.com/@houcinencibphotography",
+      "photo_url": "https://unsplash.com/photos/a-woman-in-a-dress-on-the-beach-HYcCrN8sWSM",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-09-02T09:00:57.494303+00:00"
+    },
     {
       "id": "_LTsZ8qjEhg",
       "url": "https://images.unsplash.com/photo-1633623268256-9284b70a00f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw1fHxBZnJpY2FuJTIwd29tYW4lMjB3ZWFyaW5nJTIwcHJlc3MlMjBhbmQlMjBjdXJsfGVufDF8MXx8fDE3ODgzMDAwMTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-08-26T12:03:49.463190+00:00"
-    },
-    {
-      "id": "X02UKgCgL-s",
-      "url": "https://images.unsplash.com/photo-1765828592941-3b76fc06360a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8QmxhY2slMjB3b21lbiUyMHdlYXJpbmclMjB3ZWF2ZSUyMGV4dGVuc2lvbnMlMjBvdXRzaWRlfGVufDF8MXx8fDE3ODc3Mzg0NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1765828592941-3b76fc06360a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8QmxhY2slMjB3b21lbiUyMHdlYXJpbmclMjB3ZWF2ZSUyMGV4dGVuc2lvbnMlMjBvdXRzaWRlfGVufDF8MXx8fDE3ODc3Mzg0NDJ8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1765828592941-3b76fc06360a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8QmxhY2slMjB3b21lbiUyMHdlYXJpbmclMjB3ZWF2ZSUyMGV4dGVuc2lvbnMlMjBvdXRzaWRlfGVufDF8MXx8fDE3ODc3Mzg0NDJ8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "A young black woman with dark, wavy hair",
-      "description": "",
-      "photographer": "Michael Kyule",
-      "photographer_url": "https://unsplash.com/@madness_leahcim_",
-      "photo_url": "https://unsplash.com/photos/a-young-black-woman-with-dark-wavy-hair-X02UKgCgL-s",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-08-26T10:00:07.787106+00:00"
     }
   ],
-  "updated_at": "2026-09-02T08:03:52.906377+00:00"
+  "updated_at": "2026-09-02T09:17:20.466732+00:00"
 }
