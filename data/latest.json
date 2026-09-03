@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with the latest hair revolution, as today we're dishing out the hottest trends straight from Africa and beyond!",
   "images": [
+    {
+      "id": "Xx9NAFWomNE",
+      "url": "https://images.unsplash.com/photo-1765146488120-d48760858b5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8Qm94JTIwYnJhaWRzJTIwYWRvcm5lZCUyMHdpdGglMjBjb2xvcmZ1bCUyMGFjY2Vzc29yaWVzfGVufDF8MXx8fDE3ODg0NzY0MzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1765146488120-d48760858b5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8Qm94JTIwYnJhaWRzJTIwYWRvcm5lZCUyMHdpdGglMjBjb2xvcmZ1bCUyMGFjY2Vzc29yaWVzfGVufDF8MXx8fDE3ODg0NzY0MzF8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1765146488120-d48760858b5c?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8Qm94JTIwYnJhaWRzJTIwYWRvcm5lZCUyMHdpdGglMjBjb2xvcmZ1bCUyMGFjY2Vzc29yaWVzfGVufDF8MXx8fDE3ODg0NzY0MzF8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman with braided hair wearing sunglasses and a jersey",
+      "description": "",
+      "photographer": "Ben Iwara",
+      "photographer_url": "https://unsplash.com/@1hundredimages",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-braided-hair-wearing-sunglasses-and-a-jersey-Xx9NAFWomNE",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-09-03T23:00:05.479590+00:00"
+    },
     {
       "id": "nuYTYj5_9Jc",
       "url": "https://images.unsplash.com/photo-1546984123-f7d56ae181c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8UmVsYXhlZCUyMGN1cmx5JTIwaGFpciUyMGJsYWNrJTIwYmVhdXR5JTIwbW9kZWx8ZW58MXwxfHx8MTc4ODM4NjQxM3ww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-08-28T20:02:12.553129+00:00"
-    },
-    {
-      "id": "bzqjws3MZAc",
-      "url": "https://images.unsplash.com/photo-1605597208804-c8cd570ff4cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw5fHxCb3glMjBCcmFpZHMlMjB3aXRoJTIwQmVhZHMlMjBvbiUyMFlvdW5nJTIwQmxhY2t8ZW58MXwxfHx8MTc4Nzk0NzQ3Mnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1605597208804-c8cd570ff4cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw5fHxCb3glMjBCcmFpZHMlMjB3aXRoJTIwQmVhZHMlMjBvbiUyMFlvdW5nJTIwQmxhY2t8ZW58MXwxfHx8MTc4Nzk0NzQ3Mnww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1605597208804-c8cd570ff4cb?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw5fHxCb3glMjBCcmFpZHMlMjB3aXRoJTIwQmVhZHMlMjBvbiUyMFlvdW5nJTIwQmxhY2t8ZW58MXwxfHx8MTc4Nzk0NzQ3Mnww&ixlib=rb-4.1.0&q=85",
-      "alt": "woman in red shirt smiling",
-      "description": "Smartly Dressed African Lady",
-      "photographer": "Perry martins",
-      "photographer_url": "https://unsplash.com/@perrymartins",
-      "photo_url": "https://unsplash.com/photos/woman-in-red-shirt-smiling-bzqjws3MZAc",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-08-28T20:02:12.553129+00:00"
     }
   ],
-  "updated_at": "2026-09-03T22:01:19.808493+00:00"
+  "updated_at": "2026-09-03T23:01:38.039149+00:00"
 }
