@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to be inspired by the most fabulous, fresh, and fiery hairstyles taking over social media - it's time to meet this season's top Black and African hair trends!",
   "images": [
+    {
+      "id": "EAEQZnIhnBY",
+      "url": "https://images.unsplash.com/photo-1737599694845-57f9cd640cf6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8QWZybyUyMGhhaXJzdHlsZXMlMjBvZiUyMEJsYWNrJTIwd29tZW4lMjBpbiUyMG5hdHVyZXxlbnwxfDF8fHwxNzg4NTU5MjA3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1737599694845-57f9cd640cf6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8QWZybyUyMGhhaXJzdHlsZXMlMjBvZiUyMEJsYWNrJTIwd29tZW4lMjBpbiUyMG5hdHVyZXxlbnwxfDF8fHwxNzg4NTU5MjA3fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1737599694845-57f9cd640cf6?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8QWZybyUyMGhhaXJzdHlsZXMlMjBvZiUyMEJsYWNrJTIwd29tZW4lMjBpbiUyMG5hdHVyZXxlbnwxfDF8fHwxNzg4NTU5MjA3fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman with an afro standing in front of a tree",
+      "description": "",
+      "photographer": "Malama Mushitu",
+      "photographer_url": "https://unsplash.com/@ragnampiza",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-an-afro-standing-in-front-of-a-tree-EAEQZnIhnBY",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-09-04T22:00:05.717056+00:00"
+    },
     {
       "id": "BOsVx-buUvs",
       "url": "https://images.unsplash.com/photo-1698171975934-f3008f6038eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8TmF0dXJhbCUyMEFmcm8lMjBQdWZmcyUyMEJlYXV0aWZ1bCUyMEJsYWNrJTIwV29tYW58ZW58MXwxfHx8MTc4ODU0ODUyN3ww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-08-30T02:00:06.859765+00:00"
-    },
-    {
-      "id": "Fzrq-riaOF8",
-      "url": "https://images.unsplash.com/photo-1726741697069-5fde865d3490?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8QmxhY2slMjB3b21hbiUyMGJveCUyMGJyYWlkcyUyMG5hdHVyYWwlMjBoYWlyfGVufDF8MXx8fDE3ODgwNTUyMDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1726741697069-5fde865d3490?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8QmxhY2slMjB3b21hbiUyMGJveCUyMGJyYWlkcyUyMG5hdHVyYWwlMjBoYWlyfGVufDF8MXx8fDE3ODgwNTUyMDd8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1726741697069-5fde865d3490?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8QmxhY2slMjB3b21hbiUyMGJveCUyMGJyYWlkcyUyMG5hdHVyYWwlMjBoYWlyfGVufDF8MXx8fDE3ODgwNTUyMDd8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "A woman with braids standing in front of a palm tree",
-      "description": "",
-      "photographer": "Sanju Pandita",
-      "photographer_url": "https://unsplash.com/@spxclicks",
-      "photo_url": "https://unsplash.com/photos/a-woman-with-braids-standing-in-front-of-a-palm-tree-Fzrq-riaOF8",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-08-30T02:00:06.859765+00:00"
     }
   ],
-  "updated_at": "2026-09-04T21:00:52.848183+00:00"
+  "updated_at": "2026-09-04T22:01:43.341908+00:00"
 }
