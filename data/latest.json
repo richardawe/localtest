@@ -1,6 +1,21 @@
 {
-  "summary": "Get ready to be inspired as we dive into the most on-trend hairstyles of the season, straight from the queens of Afro-beauty!",
+  "summary": "Get ready to slay with today's trending hairstyles that showcase vibrant, bold, and innovative styles of Black and African women's locks!",
   "images": [
+    {
+      "id": "BOsVx-buUvs",
+      "url": "https://images.unsplash.com/photo-1698171975934-f3008f6038eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8TmF0dXJhbCUyMEFmcm8lMjBQdWZmcyUyMEJlYXV0aWZ1bCUyMEJsYWNrJTIwV29tYW58ZW58MXwxfHx8MTc4ODU0ODUyN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1698171975934-f3008f6038eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8TmF0dXJhbCUyMEFmcm8lMjBQdWZmcyUyMEJlYXV0aWZ1bCUyMEJsYWNrJTIwV29tYW58ZW58MXwxfHx8MTc4ODU0ODUyN3ww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1698171975934-f3008f6038eb?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8TmF0dXJhbCUyMEFmcm8lMjBQdWZmcyUyMEJlYXV0aWZ1bCUyMEJsYWNrJTIwV29tYW58ZW58MXwxfHx8MTc4ODU0ODUyN3ww&ixlib=rb-4.1.0&q=85",
+      "alt": "Woman poses elegantly in blue light",
+      "description": "beautiful black woman",
+      "photographer": "Nupo Deyon Daniel",
+      "photographer_url": "https://unsplash.com/@thewallpaperguy_",
+      "photo_url": "https://unsplash.com/photos/woman-poses-elegantly-in-blue-light-BOsVx-buUvs",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-09-04T19:00:05.517744+00:00"
+    },
     {
       "id": "Rkp2YIGZ4FE",
       "url": "https://images.unsplash.com/photo-1787293420024-ef3d702a834b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8VGVlbmllJTIwd2VlbmllJTIwYWZybyUyMGJsYWNrJTIwZ2lybCUyMHN0eWxlfGVufDF8MXx8fDE3ODg1NDQ4MTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-08-30T02:00:06.859765+00:00"
-    },
-    {
-      "id": "Dl6PaS8VIWY",
-      "url": "https://images.unsplash.com/photo-1737390757671-47304bcbe7db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8UGhvdG9ncmFwaHklMjBvZiUyMGFmcm9zJTIwaW4lMjB0aGVpciUyMGdsb3J5fGVufDF8MXx8fDE3ODgwMDg0OTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1737390757671-47304bcbe7db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8UGhvdG9ncmFwaHklMjBvZiUyMGFmcm9zJTIwaW4lMjB0aGVpciUyMGdsb3J5fGVufDF8MXx8fDE3ODgwMDg0OTV8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1737390757671-47304bcbe7db?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8UGhvdG9ncmFwaHklMjBvZiUyMGFmcm9zJTIwaW4lMjB0aGVpciUyMGdsb3J5fGVufDF8MXx8fDE3ODgwMDg0OTV8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "A woman with dreadlocks walking in front of a crowd of people",
-      "description": "",
-      "photographer": "Matias Eduardo",
-      "photographer_url": "https://unsplash.com/@matiaseduardo",
-      "photo_url": "https://unsplash.com/photos/a-woman-with-dreadlocks-walking-in-front-of-a-crowd-of-people-Dl6PaS8VIWY",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-08-29T13:00:47.671765+00:00"
     }
   ],
-  "updated_at": "2026-09-04T18:00:54.959763+00:00"
+  "updated_at": "2026-09-04T19:05:06.263327+00:00"
 }
