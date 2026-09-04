@@ -1,6 +1,21 @@
 {
-  "summary": "Get ready to slay with today's top trending hairstyles on beautiful Black and African women that are making waves globally right now!",
+  "summary": "Get ready to be inspired as we dive into the most on-trend hairstyles of the season, straight from the queens of Afro-beauty!",
   "images": [
+    {
+      "id": "Rkp2YIGZ4FE",
+      "url": "https://images.unsplash.com/photo-1787293420024-ef3d702a834b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8VGVlbmllJTIwd2VlbmllJTIwYWZybyUyMGJsYWNrJTIwZ2lybCUyMHN0eWxlfGVufDF8MXx8fDE3ODg1NDQ4MTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1787293420024-ef3d702a834b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8VGVlbmllJTIwd2VlbmllJTIwYWZybyUyMGJsYWNrJTIwZ2lybCUyMHN0eWxlfGVufDF8MXx8fDE3ODg1NDQ4MTZ8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1787293420024-ef3d702a834b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8VGVlbmllJTIwd2VlbmllJTIwYWZybyUyMGJsYWNrJTIwZ2lybCUyMHN0eWxlfGVufDF8MXx8fDE3ODg1NDQ4MTZ8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "A person with an afro hairstyle wearing a pinstripe blazer on a wooden pier",
+      "description": "",
+      "photographer": "sammy swae",
+      "photographer_url": "https://unsplash.com/@sammyswae",
+      "photo_url": "https://unsplash.com/photos/person-with-afro-in-pinstripe-blazer-Rkp2YIGZ4FE",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-09-04T18:00:05.469753+00:00"
+    },
     {
       "id": "b8mV5EjQWIU",
       "url": "https://images.unsplash.com/photo-1663390536514-09cbb59c8725?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw3fHxXb21lbiUyMHdpdGglMjBkcmVhZGxvY2tzJTIwYW5kJTIwQWZyaWNhbiUyMHByaW50c3xlbnwxfDF8fHwxNzg4NTQxMjIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-08-29T13:00:47.671765+00:00"
-    },
-    {
-      "id": "wJgzDvp9YD0",
-      "url": "https://images.unsplash.com/photo-1787779335320-41220a14ed60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8V29tZW4lMjBvZiUyMENvbG9yJTIwd2l0aCUyMEZ1bGFuaSUyMEJyYWlkfGVufDF8MXx8fDE3ODc5Nzk4MTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1787779335320-41220a14ed60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8V29tZW4lMjBvZiUyMENvbG9yJTIwd2l0aCUyMEZ1bGFuaSUyMEJyYWlkfGVufDF8MXx8fDE3ODc5Nzk4MTZ8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1787779335320-41220a14ed60?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8V29tZW4lMjBvZiUyMENvbG9yJTIwd2l0aCUyMEZ1bGFuaSUyMEJyYWlkfGVufDF8MXx8fDE3ODc5Nzk4MTZ8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "A woman in a blue headwrap and jacket with long shell earrings in Lagos",
-      "description": "'The Street Is My Runway' a fashion project by Ben Iwara https://youtu.be/GtIaSyFZIGc",
-      "photographer": "Ben Iwara",
-      "photographer_url": "https://unsplash.com/@1hundredimages",
-      "photo_url": "https://unsplash.com/photos/woman-in-blue-headwrap-in-lagos-wJgzDvp9YD0",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-08-29T05:00:13.372736+00:00"
     }
   ],
-  "updated_at": "2026-09-04T17:01:03.895281+00:00"
+  "updated_at": "2026-09-04T18:00:54.959763+00:00"
 }
