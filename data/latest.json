@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with today's top trending hairstyles on beautiful Black and African women that are making waves globally right now!",
   "images": [
+    {
+      "id": "b8mV5EjQWIU",
+      "url": "https://images.unsplash.com/photo-1663390536514-09cbb59c8725?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw3fHxXb21lbiUyMHdpdGglMjBkcmVhZGxvY2tzJTIwYW5kJTIwQWZyaWNhbiUyMHByaW50c3xlbnwxfDF8fHwxNzg4NTQxMjIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1663390536514-09cbb59c8725?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw3fHxXb21lbiUyMHdpdGglMjBkcmVhZGxvY2tzJTIwYW5kJTIwQWZyaWNhbiUyMHByaW50c3xlbnwxfDF8fHwxNzg4NTQxMjIzfDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1663390536514-09cbb59c8725?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw3fHxXb21lbiUyMHdpdGglMjBkcmVhZGxvY2tzJTIwYW5kJTIwQWZyaWNhbiUyMHByaW50c3xlbnwxfDF8fHwxNzg4NTQxMjIzfDA&ixlib=rb-4.1.0&q=85",
+      "alt": "a person with a long braid and a long braided hair walking down a sidewalk",
+      "description": "",
+      "photographer": "Kevin Grieve",
+      "photographer_url": "https://unsplash.com/@grievek1610begur",
+      "photo_url": "https://unsplash.com/photos/a-person-with-a-long-braid-and-a-long-braided-hair-walking-down-a-sidewalk-b8mV5EjQWIU",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-09-04T17:00:05.447694+00:00"
+    },
     {
       "id": "Xx9NAFWomNE",
       "url": "https://images.unsplash.com/photo-1765146488120-d48760858b5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8Qm94JTIwYnJhaWRzJTIwYWRvcm5lZCUyMHdpdGglMjBjb2xvcmZ1bCUyMGFjY2Vzc29yaWVzfGVufDF8MXx8fDE3ODg0NzY0MzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-08-29T05:00:13.372736+00:00"
-    },
-    {
-      "id": "0KrTBzqMjWI",
-      "url": "https://images.unsplash.com/photo-1785436859371-62c98d4166f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8U2lzdGVybG9ja3MlMjBIYWlyc3R5bGUlMjBDbG9zZSUyMFVwJTIwQWZyaWNhbiUyMFdvbWFuJTIwQmVhdXR5fGVufDF8MXx8fDE3ODc5NDczNjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1785436859371-62c98d4166f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8U2lzdGVybG9ja3MlMjBIYWlyc3R5bGUlMjBDbG9zZSUyMFVwJTIwQWZyaWNhbiUyMFdvbWFuJTIwQmVhdXR5fGVufDF8MXx8fDE3ODc5NDczNjZ8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1785436859371-62c98d4166f8?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8U2lzdGVybG9ja3MlMjBIYWlyc3R5bGUlMjBDbG9zZSUyMFVwJTIwQWZyaWNhbiUyMFdvbWFuJTIwQmVhdXR5fGVufDF8MXx8fDE3ODc5NDczNjZ8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "Young black woman with braided hair and a patterned top",
-      "description": "",
-      "photographer": "Kyle Kioko",
-      "photographer_url": "https://unsplash.com/@kylekioko",
-      "photo_url": "https://unsplash.com/photos/young-black-woman-with-braided-hair-and-a-patterned-top-0KrTBzqMjWI",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-08-28T20:02:12.553129+00:00"
     }
   ],
-  "updated_at": "2026-09-04T16:00:55.781589+00:00"
+  "updated_at": "2026-09-04T17:01:03.895281+00:00"
 }
