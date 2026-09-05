@@ -1,6 +1,21 @@
 {
-  "summary": "Get ready to slay with today's hottest hairstyles, featuring the boldest braids, vibrant styles, and radiant looks from Black and African beauty!",
+  "summary": "Get ready to groove with this week's fabulous feature: the latest and greatest in Black and African women's hair trends that are taking the world by storm currently!",
   "images": [
+    {
+      "id": "HGkkkiHqa64",
+      "url": "https://images.unsplash.com/photo-1788517639369-982eabaf4440?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8U2lzdGVybG9ja3MlMjBvbiUyMHlvdW5nJTIwQmxhY2slMjBnaXJsJTI3cyUyMGhlYWR8ZW58MXwxfHx8MTc4ODY0OTIyOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1788517639369-982eabaf4440?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8U2lzdGVybG9ja3MlMjBvbiUyMHlvdW5nJTIwQmxhY2slMjBnaXJsJTI3cyUyMGhlYWR8ZW58MXwxfHx8MTc4ODY0OTIyOHww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1788517639369-982eabaf4440?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8U2lzdGVybG9ja3MlMjBvbiUyMHlvdW5nJTIwQmxhY2slMjBnaXJsJTI3cyUyMGhlYWR8ZW58MXwxfHx8MTc4ODY0OTIyOHww&ixlib=rb-4.1.0&q=85",
+      "alt": "A person with long dark dreadlocks and patterned beads wearing a white knit cap",
+      "description": "",
+      "photographer": "Dwayne joe",
+      "photographer_url": "https://unsplash.com/@spliff_dj_joe",
+      "photo_url": "https://unsplash.com/photos/person-with-dreadlocks-and-knit-cap-HGkkkiHqa64",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-09-05T23:00:05.370394+00:00"
+    },
     {
       "id": "me3AEvVKR5Y",
       "url": "https://images.unsplash.com/photo-1744233277836-6f4c541d78a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8Q2xvc2UlMjB1cCUyMG9mJTIwZHJlYWRsb2NrcyUyMGxvY3MlMjB0ZXh0dXJlfGVufDF8MXx8fDE3ODg2NDU2MzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-09-02T11:00:11.821824+00:00"
-    },
-    {
-      "id": "HYcCrN8sWSM",
-      "url": "https://images.unsplash.com/photo-1623369684546-5476e86d533d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8QWZyaWNhbiUyMHdvbWVuJTIwcHJvdGVjdGl2ZSUyMHN0eWxlcyUyMG9uJTIwdGhlJTIwYmVhY2h8ZW58MXwxfHx8MTc4ODMzOTY2NHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1623369684546-5476e86d533d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8QWZyaWNhbiUyMHdvbWVuJTIwcHJvdGVjdGl2ZSUyMHN0eWxlcyUyMG9uJTIwdGhlJTIwYmVhY2h8ZW58MXwxfHx8MTc4ODMzOTY2NHww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1623369684546-5476e86d533d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8QWZyaWNhbiUyMHdvbWVuJTIwcHJvdGVjdGl2ZSUyMHN0eWxlcyUyMG9uJTIwdGhlJTIwYmVhY2h8ZW58MXwxfHx8MTc4ODMzOTY2NHww&ixlib=rb-4.1.0&q=85",
-      "alt": "a woman in a dress on the beach",
-      "description": "Summer fashion portrait  of an African ebony model.",
-      "photographer": "Houcine Ncib",
-      "photographer_url": "https://unsplash.com/@houcinencibphotography",
-      "photo_url": "https://unsplash.com/photos/a-woman-in-a-dress-on-the-beach-HYcCrN8sWSM",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-09-02T09:00:57.494303+00:00"
     }
   ],
-  "updated_at": "2026-09-05T22:01:00.274034+00:00"
+  "updated_at": "2026-09-05T23:01:01.030571+00:00"
 }
