@@ -1,6 +1,36 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with today's hottest hairstyles, featuring the boldest braids, vibrant styles, and radiant looks from Black and African beauty!",
   "images": [
+    {
+      "id": "me3AEvVKR5Y",
+      "url": "https://images.unsplash.com/photo-1744233277836-6f4c541d78a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8Q2xvc2UlMjB1cCUyMG9mJTIwZHJlYWRsb2NrcyUyMGxvY3MlMjB0ZXh0dXJlfGVufDF8MXx8fDE3ODg2NDU2MzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1744233277836-6f4c541d78a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8Q2xvc2UlMjB1cCUyMG9mJTIwZHJlYWRsb2NrcyUyMGxvY3MlMjB0ZXh0dXJlfGVufDF8MXx8fDE3ODg2NDU2MzF8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1744233277836-6f4c541d78a0?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8Q2xvc2UlMjB1cCUyMG9mJTIwZHJlYWRsb2NrcyUyMGxvY3MlMjB0ZXh0dXJlfGVufDF8MXx8fDE3ODg2NDU2MzF8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "A brown sweater button is visible up close",
+      "description": "A closeup of dreadlocks.",
+      "photographer": "Malama Mushitu",
+      "photographer_url": "https://unsplash.com/@malamamushitu",
+      "photo_url": "https://unsplash.com/photos/a-brown-sweater-button-is-visible-up-close-me3AEvVKR5Y",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-09-05T22:00:05.531294+00:00"
+    },
+    {
+      "id": "bXcochfyTAg",
+      "url": "https://images.unsplash.com/photo-1784160053771-4e16aeeceaba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8V29tYW4lMjB3ZWFyaW5nJTIwd2VhdmUlMjBleHRlbnNpb25zJTIwQWZyaWNhbiUyMHByaWRlfGVufDF8MXx8fDE3ODg2NDU2NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1784160053771-4e16aeeceaba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8V29tYW4lMjB3ZWFyaW5nJTIwd2VhdmUlMjBleHRlbnNpb25zJTIwQWZyaWNhbiUyMHByaWRlfGVufDF8MXx8fDE3ODg2NDU2NDJ8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1784160053771-4e16aeeceaba?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8V29tYW4lMjB3ZWFyaW5nJTIwd2VhdmUlMjBleHRlbnNpb25zJTIwQWZyaWNhbiUyMHByaWRlfGVufDF8MXx8fDE3ODg2NDU2NDJ8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "A smiling woman wearing a colorful patterned top",
+      "description": "Melanie african lady portrait",
+      "photographer": "McFollis",
+      "photographer_url": "https://unsplash.com/@thisismcfollis",
+      "photo_url": "https://unsplash.com/photos/a-smiling-woman-wearing-a-colorful-patterned-top-bXcochfyTAg",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-09-05T22:00:05.531294+00:00"
+    },
     {
       "id": "o4hHkGwPkCc",
       "url": "https://images.unsplash.com/photo-1774380255878-6162cbd144ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw1fHxHb2RkZXNzJTIwQnJhaWRzJTIwaW4lMjBUcmFkaXRpb25hbCUyMEFmcmljYW4lMjBTZXR0aW5nfGVufDF8MXx8fDE3ODg2MDYwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -270,37 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-09-02T09:00:57.494303+00:00"
-    },
-    {
-      "id": "_LTsZ8qjEhg",
-      "url": "https://images.unsplash.com/photo-1633623268256-9284b70a00f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw1fHxBZnJpY2FuJTIwd29tYW4lMjB3ZWFyaW5nJTIwcHJlc3MlMjBhbmQlMjBjdXJsfGVufDF8MXx8fDE3ODgzMDAwMTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1633623268256-9284b70a00f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw1fHxBZnJpY2FuJTIwd29tYW4lMjB3ZWFyaW5nJTIwcHJlc3MlMjBhbmQlMjBjdXJsfGVufDF8MXx8fDE3ODgzMDAwMTB8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1633623268256-9284b70a00f6?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw1fHxBZnJpY2FuJTIwd29tYW4lMjB3ZWFyaW5nJTIwcHJlc3MlMjBhbmQlMjBjdXJsfGVufDF8MXx8fDE3ODgzMDAwMTB8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "a woman with dreadlocks holding a megaphone",
-      "description": "",
-      "photographer": "Graham Klingler",
-      "photographer_url": "https://unsplash.com/@grahamklingler",
-      "photo_url": "https://unsplash.com/photos/a-woman-with-dreadlocks-holding-a-megaphone-_LTsZ8qjEhg",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-09-01T22:00:05.369640+00:00"
-    },
-    {
-      "id": "YVzwphYAnJ0",
-      "url": "https://images.unsplash.com/photo-1707041934595-26a8ccafa20a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxHb2RkZXNzJTIwQnJhaWRzJTIwd2l0aCUyMEhlbm5hJTIwRGVzaWduc3xlbnwxfDF8fHwxNzg4Mjg5MjI5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1707041934595-26a8ccafa20a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxHb2RkZXNzJTIwQnJhaWRzJTIwd2l0aCUyMEhlbm5hJTIwRGVzaWduc3xlbnwxfDF8fHwxNzg4Mjg5MjI5fDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1707041934595-26a8ccafa20a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxHb2RkZXNzJTIwQnJhaWRzJTIwd2l0aCUyMEhlbm5hJTIwRGVzaWduc3xlbnwxfDF8fHwxNzg4Mjg5MjI5fDA&ixlib=rb-4.1.0&q=85",
-      "alt": "a woman in a red shirt with a braid on her head",
-      "description": "📸",
-      "photographer": "Beheshteh Ghodrati",
-      "photographer_url": "https://unsplash.com/@beheshtehghodrati",
-      "photo_url": "https://unsplash.com/photos/a-woman-in-a-red-shirt-with-a-braid-on-her-head-YVzwphYAnJ0",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-09-01T19:00:05.357510+00:00"
     }
   ],
-  "updated_at": "2026-09-05T21:00:57.090593+00:00"
+  "updated_at": "2026-09-05T22:01:00.274034+00:00"
 }
