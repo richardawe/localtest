@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready for a vibrant showcase of the latest styles, twists, and trends taking over the world of Black and African women's hair!",
   "images": [
+    {
+      "id": "8SFV7BxTVdQ",
+      "url": "https://images.unsplash.com/photo-1635230420106-1f2b7d97c1e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8QmxhY2slMjBXb21lbiUyMHdpdGglMjBEcmVhZGxvY2tzJTIwaW4lMjBOYXR1cmV8ZW58MXwxfHx8MTc4ODcwNjg4Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1635230420106-1f2b7d97c1e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8QmxhY2slMjBXb21lbiUyMHdpdGglMjBEcmVhZGxvY2tzJTIwaW4lMjBOYXR1cmV8ZW58MXwxfHx8MTc4ODcwNjg4Mnww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1635230420106-1f2b7d97c1e3?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8QmxhY2slMjBXb21lbiUyMHdpdGglMjBEcmVhZGxvY2tzJTIwaW4lMjBOYXR1cmV8ZW58MXwxfHx8MTc4ODcwNjg4Mnww&ixlib=rb-4.1.0&q=85",
+      "alt": "a woman with dreadlocks standing in a forest",
+      "description": "",
+      "photographer": "vatra voda",
+      "photographer_url": "https://unsplash.com/@vatravoda",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-dreadlocks-standing-in-a-forest-8SFV7BxTVdQ",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-09-06T15:00:10.101823+00:00"
+    },
     {
       "id": "-0iC4fn_tlY",
       "url": "https://images.unsplash.com/photo-1763013373588-03bc56e6afdb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8UHJlc3MlMjBhbmQlMjBDdXJsJTIwQmxhY2slMjBXb21hbiUyMFBob3RvZ3JhcGhzfGVufDF8MXx8fDE3ODg2OTk2NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-09-03T23:00:05.479590+00:00"
-    },
-    {
-      "id": "nuYTYj5_9Jc",
-      "url": "https://images.unsplash.com/photo-1546984123-f7d56ae181c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8UmVsYXhlZCUyMGN1cmx5JTIwaGFpciUyMGJsYWNrJTIwYmVhdXR5JTIwbW9kZWx8ZW58MXwxfHx8MTc4ODM4NjQxM3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1546984123-f7d56ae181c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8UmVsYXhlZCUyMGN1cmx5JTIwaGFpciUyMGJsYWNrJTIwYmVhdXR5JTIwbW9kZWx8ZW58MXwxfHx8MTc4ODM4NjQxM3ww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1546984123-f7d56ae181c8?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8UmVsYXhlZCUyMGN1cmx5JTIwaGFpciUyMGJsYWNrJTIwYmVhdXR5JTIwbW9kZWx8ZW58MXwxfHx8MTc4ODM4NjQxM3ww&ixlib=rb-4.1.0&q=85",
-      "alt": "woman standing near tree",
-      "description": "A beautiful breathtaking portrait of a black model.",
-      "photographer": "Houcine Ncib",
-      "photographer_url": "https://unsplash.com/@houcinencibphotography",
-      "photo_url": "https://unsplash.com/photos/woman-standing-near-tree-nuYTYj5_9Jc",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-09-02T22:00:05.439941+00:00"
     }
   ],
-  "updated_at": "2026-09-06T14:01:53.039201+00:00"
+  "updated_at": "2026-09-06T15:02:47.010296+00:00"
 }
