@@ -1,6 +1,21 @@
 {
-  "summary": "Get ready to groove with this week's fabulous feature: the latest and greatest in Black and African women's hair trends that are taking the world by storm currently!",
+  "summary": "Get ready to slay with today's top picks, featuring bold styles that showcase the beauty and creativity of contemporary Black and African women's hairstyles!",
   "images": [
+    {
+      "id": "2c6Sd8W26Jo",
+      "url": "https://images.unsplash.com/photo-1677195063183-3d603c24394a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8VGVlbmllJTIwV2VlbmllJTIwQWZyb3MlMjBmb3IlMjBHaXJsc3xlbnwxfDF8fHwxNzg4NjUyODI0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1677195063183-3d603c24394a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8VGVlbmllJTIwV2VlbmllJTIwQWZyb3MlMjBmb3IlMjBHaXJsc3xlbnwxfDF8fHwxNzg4NjUyODI0fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1677195063183-3d603c24394a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8VGVlbmllJTIwV2VlbmllJTIwQWZyb3MlMjBmb3IlMjBHaXJsc3xlbnwxfDF8fHwxNzg4NjUyODI0fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "a woman wearing a blue and white plaid skirt",
+      "description": "happy black nurse after working hours",
+      "photographer": "DELIGHT ODINWA",
+      "photographer_url": "https://unsplash.com/@dedon4296",
+      "photo_url": "https://unsplash.com/photos/a-woman-wearing-a-blue-and-white-plaid-skirt-2c6Sd8W26Jo",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-09-06T00:00:05.578584+00:00"
+    },
     {
       "id": "HGkkkiHqa64",
       "url": "https://images.unsplash.com/photo-1788517639369-982eabaf4440?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8U2lzdGVybG9ja3MlMjBvbiUyMHlvdW5nJTIwQmxhY2slMjBnaXJsJTI3cyUyMGhlYWR8ZW58MXwxfHx8MTc4ODY0OTIyOHww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-09-02T11:00:11.821824+00:00"
-    },
-    {
-      "id": "f8VtTSMN3B0",
-      "url": "https://images.unsplash.com/photo-1704283419710-1f16a4b16e65?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNHx8VGVlbmllJTIwd2VlbmllJTIwYWZyb3MlMjBvbiUyMGJsYWNrJTIwdGVlbmFnZSUyMGdpcmxzfGVufDF8MXx8fDE3ODgzNDY5MDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1704283419710-1f16a4b16e65?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNHx8VGVlbmllJTIwd2VlbmllJTIwYWZyb3MlMjBvbiUyMGJsYWNrJTIwdGVlbmFnZSUyMGdpcmxzfGVufDF8MXx8fDE3ODgzNDY5MDB8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1704283419710-1f16a4b16e65?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNHx8VGVlbmllJTIwd2VlbmllJTIwYWZyb3MlMjBvbiUyMGJsYWNrJTIwdGVlbmFnZSUyMGdpcmxzfGVufDF8MXx8fDE3ODgzNDY5MDB8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "a woman with an afro standing in front of a black background",
-      "description": "",
-      "photographer": "Michael Gordon",
-      "photographer_url": "https://unsplash.com/@lunarimaginations",
-      "photo_url": "https://unsplash.com/photos/a-woman-with-an-afro-standing-in-front-of-a-black-background-f8VtTSMN3B0",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-09-02T11:00:11.821824+00:00"
     }
   ],
-  "updated_at": "2026-09-05T23:01:01.030571+00:00"
+  "updated_at": "2026-09-06T00:02:14.234368+00:00"
 }

@@ -1,6 +1,86 @@
 {
   "posts": [
     {
+      "id": 57,
+      "title": "Celebrating the Beauty and Resilience of Black Hair Culture",
+      "body": "As we navigate the complexities of identity and representation in today's media landscape, it's essential to acknowledge the rich cultural heritage of Black hair. From ancient traditions to modern-day trends, Black hair has always been a symbol of strength, resilience, and community.\n\nAccording to Essence, the natural hair movement has had a profound impact on the way we perceive beauty standards (2026-02-24). However, with the recent shift towards embracing salon brands like Redken and Amika (Allure, 2026-08-24), it's clear that there are still many nuances to explore. While some may see this as a departure from the natural hair movement, others argue that it's an opportunity for inclusivity and diversity within the beauty industry.\n\nThe resurgence of interest in traditional African hairstyles like cornrows is also worth noting (coveteur.com, 2026-01-05). Not only do these styles hold deep cultural significance, but they're also a testament to the ingenuity and creativity of Black hairstylists. Tricoci University of Beauty Culture's feature on African hair braiding highlights the artistry and expertise that goes into crafting these intricate designs (FOX6 News Milwaukee, 2026-02-11).\n\nDespite the many positive developments, there are still challenges to be addressed. As Dr. Allison Wiltz so eloquently puts it in her article for AfroSapiophile (2026-04-13), \"confronting cruel and unusual comments on Black hair\" requires a combination of self-love, education, and activism.\n\nFinally, as we celebrate the diversity and richness of Black hair culture, let's not forget that our tresses are an integral part of who we are – strong, beautiful, and unapologetically ourselves.",
+      "sources": [
+        {
+          "title": "Mielle Organics Is Wrong: Why Natural Hair Is Scientifically Stronger",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TVXRKbUlUUzVRWGhiazdYSnlJQnNEUWNjTDNkTTU3WGZROXBxTDVuRFBJUjI2NnFVUU1TWmwydTM5N3lFSldPbldLdDF3VEc2SHc?oc=5",
+          "source": "Emerald Book",
+          "published": "2026-09-01"
+        },
+        {
+          "title": "Why Natural Hair Influencers Are Suddenly Embracing Redken, Amika, and Other Salon Brands",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUGRmUzFEMjhtWWJQeUtrTVNTUFh2RjBiQkIyNWtOZm55bHBUay1IM3JBVUVJeWNaM0NNRGJ0LXJldHVsT3J1ZVc2WGJRd3pHWF9iUGdWOHdXdy1YSkU2X3VIUko1aGF5SjlaY3IyeW5iWUZSNFJjUWc2RG8tcVNTWTA0Q2dZdw?oc=5",
+          "source": "Allure",
+          "published": "2026-08-24"
+        },
+        {
+          "title": "How to Confront Cruel, Unusual Comments on Black Hair | by Dr. Allison Wiltz | AfroSapiophile",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVXZrbXBSbktXOXVjckQ2YWxuZk85OVRXbktxTW1vb2k3XzloQWh5UFA3X3ZENTFET3E4bnlERmpHNVd6eUowenRRWUZNc0s2aWJnekV3dnUyRVA4TFhiUUlKUWdjeVJzMnljeEk5RTYxWWVCbG84OUZyVjByZm84YkppSllMT00zQlljdVoyWFlEUl9saUxONUZ5WTZaeEZI?oc=5",
+          "source": "Medium",
+          "published": "2026-04-13"
+        },
+        {
+          "title": "Why Are Black Women Returning To Relaxers? The Experts Are Sounding Off",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUS02b0Q0bnNJbWo0c0ctYlVGMGludEljaDFZQjZaZ0M4LUV1cEhsWVpoUEJhME9IV1FqVDdlT1pxVjd1TVZmT3I4bGZFYzRMQlpOVzJXdmN0OWsxbFM2U3pKSHJVLTdlNnhGUFpXLXlCUmF4YWo5cW5rOTAwOThUd2F1VQ?oc=5",
+          "source": "hellobeautiful.com",
+          "published": "2026-08-17"
+        },
+        {
+          "title": "How Black Women Are Rewriting The Corporate Natural Hair Narrative",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcTFyMGhqLU9fU3dTc21wbFZLNWpLbE5keC1SOVNhWTE0dWJqSGpWZGRITVgwNnF1dUk2RlNudVVmQ0ozZmVLeTFXV0dVMHJGSTNmc1UxTllPRmN2dVhMbzV3YzFkenlxeFVRaGxyeW5Ua054Mm9maVp1bHNoYk91Y1RmRVkxM1E?oc=5",
+          "source": "essence.com",
+          "published": "2026-02-24"
+        },
+        {
+          "title": "The Rich, Deeply Personal History Of The Cornrow",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvbXhvTTNoMGJ3RmFhbTQ5cE5GU1VldXdNWnkzYWcwLV9aLWFWQVJaUFE3RzVfbTU3dUNHSkF4c2RmNVlJY2wtZjRFT2NwUmotOU1zeVVQV2dzQ28?oc=5",
+          "source": "coveteur.com",
+          "published": "2026-01-05"
+        },
+        {
+          "title": "The art of African hair braiding with Tricoci University of Beauty Culture",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TRHRWYzNGYWViWGJzLV9jc1pySU0zTmcxcS00anRVTkhqbUZlZ0VXZ0ZqVjM0UnlRbWxHRW5sNHY4ZWRBTkMyS0FTUVdrUE1PWEN0RDdhZUFpYjlHZG9J0gFkQVVfeXFMT25kR3lXRjJGMnBjaVdxZTQ2em1WZFdyZ2pMM0NlMTIzeW9JZEpvVnB1T2JMOHBjdVJjc0tldlBYeVBUUUxyWEZJbG1JR1NJWG1valdlY3NEOFA2UzZ6TDRLLXVHag?oc=5",
+          "source": "FOX6 News Milwaukee",
+          "published": "2026-02-11"
+        },
+        {
+          "title": "Milwaukee woman explains how braids connect African American culture from past to present",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ1AyeFhfRDg3ZUxEMmFXR3psYjAzVGw1bUJnUHpETEFYNEs4eDZQNHRvazdMaTJ5RWRZY3UyWW9yd2xEdERWbG8zc2tfeC1BbjNOdHNxZVZhSTRzRi1xb3ZncmdmcWU3SHVyT3hoeEp0aFM0bi1sRWFuSDJqdVpkZFBVejA1bHV4ZFg2WG9MV2FNak1uV2FlN1ZrVzdzb0ZUSVNEaHFoeExXR3RsZF9ZQjdRNEoyUQ?oc=5",
+          "source": "TMJ4 News",
+          "published": "2026-02-24"
+        },
+        {
+          "title": "REVIEW: Jaja’s African Hair Braiding",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaFB6TFdaYmpvM1E2cXhmZWowY3d1UUNJWEZ6TTJxcnpOUWRkalIzNk1pcUZEelpSekx4YmlfSFVlTVVMMVpiYTBiUGpCZElBTUkyeHBLQkhERU15UkxobThVT1NjUkVaMXlwUUhWd0p5YjM5V244S3MwWkd6OTRrV2tCekthM0Ja0gGIAUFVX3lxTFBoUHpMV1piam8zUTZxeGZlajBjd3VRQ0lYRnpNMnFyek5RZGRqUjM2TWlxRkR6WlJ6THhiaV9IVWVNVUwxWmJhMGJQakJkSUFNSTJ4cEtCSERFTXlSTGhtOFVPU2NSRVoxeXBRSFZ3SnliMzlXbjhLczBaR3o5NGtXa0J6S2EzQlo?oc=5",
+          "source": "A Young(ish) Perspective",
+          "published": "2026-03-29"
+        },
+        {
+          "title": "Review Round Up: Jaja’s African Hair Braiding, Lyric Hammersmith",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMXBDX1NBUDVhaFlmeUFsQkVTcS15LTd0UHBKYzZHdUdrTUdMUmpYZEgyRDJHNnc5a3QwQmpGMENVd1dUT0FIZHB5NElRV3RkakVmRFZ3X3lGaUd4bDZLcWp5ZlZxT0FETmF0bVFrN19WSm4xWGQ5QjBfdjhxNHZUS1Mxb2xKNUhGNVc2bjFycUc4X1pqc1hza05UekN3RlIyN0ZKUXlRektvWVnSAbABQVVfeXFMT1ZQRk5HdmJyQnpsUFNOcDVwXy10TTIwaDJvX19vRWR2WUdSU2hMZlJTbGFGMEJLMDFpUGtIT1JwV1BxbTBGNXpFR09kUDQxQ3hnT1pfYU51MGtEVnBpd1ZKWTNQRFNpV2hJYTlSdmdTMGdBMkYybkJiMjM5MjNsRFA3X3FTUFp3U2RjSWwzbk5zc056U3VEOGpoU1ZmcUlYQkhJVnlDLXhVOXdmc2VNaHM?oc=5",
+          "source": "Love London Love Culture",
+          "published": "2026-04-04"
+        },
+        {
+          "title": "Are We on the Cusp of Another Natural Hair Movement?",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4yc2pQOU0tLW0xVUJXZm95dGxJT0NEWjhHRlNuY2RBYjQ4SzdjT09mTWwzTkl3V0pwZHhHRlQ2V3FmWVlxeVh0N0JTOHBvY1RxaG1veTN4UzA0ajZ1OFY4Nm1WTDl0UQ?oc=5",
+          "source": "Allure",
+          "published": "2026-05-18"
+        },
+        {
+          "title": "Trend Shows Black Women Receiving More Attention Wearing Wigs vs Braids | Opinion",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYmYwbk56SnRzSVpxZC0xd3htSU5sdE5HUGhOZXQ5amRfZjBoblZtT1FuNnc4WldVcG5VcWdCMzlhUEhHcXVZNkJxUlZnRnNNMG9PcXpMajFkbWhHQ0pkeXh5bWlqWUhKblJhRTdhZ3hocXJvRU44Q1BuVzlEUWUyVTc3ZzNEVjM1OVZMMg?oc=5",
+          "source": "The Tiger's Roar",
+          "published": "2026-08-10"
+        }
+      ],
+      "published_at": "2026-09-06T00:02:13.629421+00:00"
+    },
+    {
       "id": 56,
       "title": "The Beauty and Resilience of Black Hair Culture",
       "body": "In the rich tapestry of Black hair culture, there exists a deep history, beauty, and resilience that transcends time. From the intricate braids of our ancestors to the modern-day natural hair movements, Black hair has been a symbol of identity, creativity, and self-expression.\n\nThe Cornrow, for instance, is an ancient hairstyle with roots in Africa that has been passed down through generations. According to coveteur.com, its deeply personal history is a testament to the power of cultural heritage. In Milwaukee, Tricoci University of Beauty Culture highlighted the art of African hair braiding in a recent segment on FOX6 News. This beautiful fusion of technique and tradition is not only aesthetically stunning but also a celebration of Black excellence.\n\nMeanwhile, on the stage and screen, gravity-defying styles are inspiring African women to reclaim their natural beauty. CNN reported on these incredible hairstyles that defy gravity and convention, showcasing the creativity and ingenuity of our community. The trend of embracing natural hair is not new, but it's heartening to see more Black women saying goodbye to relaxers and hello to their authentic selves.\n\nHowever, despite these strides in self-love and acceptance, there remains a disturbing undercurrent: hair discrimination. Recent legislation like the CROWN Act aims to protect individuals from discriminatory practices based on hairstyles associated with race. Economic Policy Institute notes that thirty states have passed some version of this bill, but much work still needs to be done.\n\nIn our society, where beauty standards are constantly shifting, it's essential we acknowledge and celebrate the unique beauty of Black hair culture. As we reflect on these stories, let us remember that our hair is not just a hairstyle – it's a symbol of our identity, strength, and resilience.",
@@ -2277,87 +2357,7 @@
         }
       ],
       "published_at": "2026-07-07T00:13:19.022226+00:00"
-    },
-    {
-      "id": 27,
-      "title": "Celebrating Resilience and Beauty in Black Hair Culture",
-      "body": "As we navigate the complexities of our society, it's clear that Black hair remains a powerful symbol of identity, resistance, and self-expression. From cultural celebrations to historical milestones, today's news headlines remind us that Black hair is not just a physical attribute, but a testament to the rich heritage and diversity of the African diaspora.\n\nThe New Jersey Black Women's Collective recently celebrated National CROWN Day (Creating Respectful Opportunities for Women Network) with events and workshops promoting self-love and empowerment through natural hair. This initiative joins a long list of organizations and individuals working to create spaces where Black women can celebrate their hair without judgment or shame. According to Insider NJ, the event was a resounding success, showcasing the power of community in uplifting and affirming Black beauty standards.\n\nMeanwhile, Allure highlights the stories of four Black women over 50 who have found liberation in embracing their natural hair during menopause. Their experiences serve as a powerful reminder that age is no barrier to self-expression and that our hair remains an integral part of our identity throughout our lives. This narrative shift away from societal pressure to conform to Eurocentric beauty standards reflects the growing recognition of the importance of inclusive representation.\n\nThe AfroSapiophile article \"How to Confront Cruel, Unusual Comments on Black Hair\" offers a nuanced exploration of the hurtful comments and microaggressions that Black people often face when discussing their hair. Dr. Allison Wiltz's thoughtful analysis encourages readers to engage in difficult conversations and challenge the status quo. By confronting these issues head-on, we can work towards creating a more inclusive and accepting environment for all.\n\nAs we celebrate the diversity of African hair textures, styles, and traditions, it's essential to recognize the intersectionalities at play. For example, CNN highlights the inspiring stories of African women who are embracing their natural hair in creative ways, from intricate braids to bold afros. This article serves as a testament to the resilience and adaptability of Black people in the face of systemic oppression.\n\nIn conclusion, Black hair is not just a physical attribute; it's a powerful symbol of our cultural heritage, identity, and resistance. As we continue to celebrate and affirm our natural beauty, let us honor the strength and resilience that has carried us through generations.",
-      "sources": [
-        {
-          "title": "The New Jersey Black Women’s Collective Celebrates National CROWN Day",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX1lIQTNVUkxaeWZlajdJQTJ2TlBYNE5wQl9yaEpnU3pFZzhPMjRyNVd3RzJvOFBnX2F3Z3lyRjhzWW5CQzkyNE1ybEF3TTZEVFVleDFNVS1MRXFaSnNtdFFwc29WY1VFLXFybkpYb1lmLWZOYTJEbzhsV2lIT3htV2ZicXcwS2RWc1NuRUJfa2xUd1dZNi02dEhTeTVXVDJQY0dVRkNVUERReWQtSkE?oc=5",
-          "source": "Insider NJ",
-          "published": "2026-07-04"
-        },
-        {
-          "title": "8 OG Hair Products The Natural Hair Community Is Going Back To",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1BWFlVTGdtSWNLOXdrbVo0QTU3ZldWREQ5SVdvR2txZlQxa1BLcGtqMG1hN2UxSkpUcV9YbzJSUjBUbHJZVkVPQjdyanU3YTZYVGkyV0xUM1U0ek9XQzAwTDNadGxoOHU0TGxycldOdEhXaVk?oc=5",
-          "source": "hellobeautiful.com",
-          "published": "2026-07-01"
-        },
-        {
-          "title": "4 Black Women Over 50 on Going Natural During Menopause",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE43MDJySWJEejZ2RnlUQy1hekxFSGNSLVJDczZ2SjBLZm40VlRZMThpcTgxd01WS1ItYUVMbkFoaE1Zb0cyNzhIYlRsZkppeldoUjJUdHZMXzdyNWlHb1hia0pCSWxueXlSMHVoZklXUTVQMVk2?oc=5",
-          "source": "Allure",
-          "published": "2026-05-29"
-        },
-        {
-          "title": "How to Confront Cruel, Unusual Comments on Black Hair | by Dr. Allison Wiltz | AfroSapiophile",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVXZrbXBSbktXOXVjckQ2YWxuZk85OVRXbktxTW1vb2k3XzloQWh5UFA3X3ZENTFET3E4bnlERmpHNVd6eUowenRRWUZNc0s2aWJnekV3dnUyRVA4TFhiUUlKUWdjeVJzMnljeEk5RTYxWWVCbG84OUZyVjByZm84YkppSllMT00zQlljdVoyWFlEUl9saUxONUZ5WTZaeEZI?oc=5",
-          "source": "Medium",
-          "published": "2026-04-13"
-        },
-        {
-          "title": "These gravity-defying styles are inspiring African women to embrace their natural hair",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcDBpX1hJSHZlX2xTNzZabVBCUEsySUpwVHNWYXVuT2tITHh6X2xHcXJVcmdRZ3hSVWd5WkFIR3NaRGFoYmJkTGZkOVN2VzhnRm5Xb2JLN0Item02M2l2TFhzakFQcDJWajJVdHpOWnFXbGxPSm1sa0VYdG1qbVZXS0hkRUxJVWZudVlzOEJ5S2V5ZDhfUTNZME9OeTJmUHM2S3c?oc=5",
-          "source": "CNN",
-          "published": "2026-04-29"
-        },
-        {
-          "title": "Braids: How do they represent us?",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PR2R5RWdQTEJLdjNwNnpVMEJnMnIzNzhXRFpnbUZMLU1KVHRWYmxQMjQ0a0N2V3VDb3lwT2RXc2pRTnZVSU5meEtLZThCd3lKbUpJTE91emZQYjBhaWpQRDZtZHRzZVNoNFBnSNIBbEFVX3lxTE1PR2R5RWdQTEJLdjNwNnpVMEJnMnIzNzhXRFpnbUZMLU1KVHRWYmxQMjQ0a0N2V3VDb3lwT2RXc2pRTnZVSU5meEtLZThCd3lKbUpJTE91emZQYjBhaWpQRDZtZHRzZVNoNFBnSA?oc=5",
-          "source": "The Oxford Blue",
-          "published": "2026-06-10"
-        },
-        {
-          "title": "NATIONAL BRAIDERS DAY - August 8, 2026",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUN291T0lybWo0eGRqWUgxZmFUYTNhVFN0QXpaNTdSRjlGczF1MmdaZGs2WHo5RnN2Y1I5Q0s4SHhfTEhfWEsyUDRUNERXckpuUzEyVU1McEZ1TlJ2?oc=5",
-          "source": "National Today",
-          "published": "2026-06-11"
-        },
-        {
-          "title": "The art of African hair braiding with Tricoci University of Beauty Culture",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TRHRWYzNGYWViWGJzLV9jc1pySU0zTmcxcS00anRVTkhqbUZlZ0VXZ0ZqVjM0UnlRbWxHRW5sNHY4ZWRBTkMyS0FTUVdrUE1PWEN0RDdhZUFpYjlHZG9J0gFkQVVfeXFMT25kR3lXRjJGMnBjaVdxZTQ2em1WZFdyZ2pMM0NlMTIzeW9JZEpvVnB1T2JMOHBjdVJjc0tldlBYeVBUUUxyWEZJbG1JR1NJWG1valdlY3NEOFA2UzZ6TDRLLXVHag?oc=5",
-          "source": "FOX6 News Milwaukee",
-          "published": "2026-02-11"
-        },
-        {
-          "title": "REVIEW: Jaja’s African Hair Braiding",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaFB6TFdaYmpvM1E2cXhmZWowY3d1UUNJWEZ6TTJxcnpOUWRkalIzNk1pcUZEelpSekx4YmlfSFVlTVVMMVpiYTBiUGpCZElBTUkyeHBLQkhERU15UkxobThVT1NjUkVaMXlwUUhWd0p5YjM5V244S3MwWkd6OTRrV2tCekthM0Ja0gGIAUFVX3lxTFBoUHpMV1piam8zUTZxeGZlajBjd3VRQ0lYRnpNMnFyek5RZGRqUjM2TWlxRkR6WlJ6THhiaV9IVWVNVUwxWmJhMGJQakJkSUFNSTJ4cEtCSERFTXlSTGhtOFVPU2NSRVoxeXBRSFZ3SnliMzlXbjhLczBaR3o5NGtXa0J6S2EzQlo?oc=5",
-          "source": "A Young(ish) Perspective",
-          "published": "2026-03-29"
-        },
-        {
-          "title": "Milwaukee woman explains how braids connect African American culture from past to present",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ1AyeFhfRDg3ZUxEMmFXR3psYjAzVGw1bUJnUHpETEFYNEs4eDZQNHRvazdMaTJ5RWRZY3UyWW9yd2xEdERWbG8zc2tfeC1BbjNOdHNxZVZhSTRzRi1xb3ZncmdmcWU3SHVyT3hoeEp0aFM0bi1sRWFuSDJqdVpkZFBVejA1bHV4ZFg2WG9MV2FNak1uV2FlN1ZrVzdzb0ZUSVNEaHFoeExXR3RsZF9ZQjdRNEoyUQ?oc=5",
-          "source": "TMJ4 News",
-          "published": "2026-02-24"
-        },
-        {
-          "title": "Are We on the Cusp of Another Natural Hair Movement?",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4yc2pQOU0tLW0xVUJXZm95dGxJT0NEWjhHRlNuY2RBYjQ4SzdjT09mTWwzTkl3V0pwZHhHRlQ2V3FmWVlxeVh0N0JTOHBvY1RxaG1veTN4UzA0ajZ1OFY4Nm1WTDl0UQ?oc=5",
-          "source": "Allure",
-          "published": "2026-05-18"
-        },
-        {
-          "title": "7 defining moments when Black hair became the conversation",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYS1wVEVLajV3Uld0cnJ0S0NiNTRjTVZqSnlGeWNwMDd3N3JzWWdxRUFIemh0UW1CbndlWlBNWkFUV3EyaV9SdTQ3UTJQdnR3R0RwMEg1UVhMMHRiZ1QwaGktMWNTRHRlLW5MMmt2TG9Dc3ZEbHRoOWMxTWRCLVZELXdGMXEzR253Qlc5M2NmY0kxN1BR?oc=5",
-          "source": "TheGrio",
-          "published": "2026-06-30"
-        }
-      ],
-      "published_at": "2026-07-06T00:03:51.119783+00:00"
     }
   ],
-  "updated_at": "2026-09-05T23:01:01.101540+00:00"
+  "updated_at": "2026-09-06T00:02:14.305780+00:00"
 }
