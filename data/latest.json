@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with the hottest hairstyles dominating the scene right now, straight from the vibrant worlds of Black and African beauty!",
   "images": [
+    {
+      "id": "-0iC4fn_tlY",
+      "url": "https://images.unsplash.com/photo-1763013373588-03bc56e6afdb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8UHJlc3MlMjBhbmQlMjBDdXJsJTIwQmxhY2slMjBXb21hbiUyMFBob3RvZ3JhcGhzfGVufDF8MXx8fDE3ODg2OTk2NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1763013373588-03bc56e6afdb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8UHJlc3MlMjBhbmQlMjBDdXJsJTIwQmxhY2slMjBXb21hbiUyMFBob3RvZ3JhcGhzfGVufDF8MXx8fDE3ODg2OTk2NTZ8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1763013373588-03bc56e6afdb?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8UHJlc3MlMjBhbmQlMjBDdXJsJTIwQmxhY2slMjBXb21hbiUyMFBob3RvZ3JhcGhzfGVufDF8MXx8fDE3ODg2OTk2NTZ8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "Woman with dreadlocks shaking her head",
+      "description": "",
+      "photographer": "Brooke Balentine",
+      "photographer_url": "https://unsplash.com/@brookebalentine",
+      "photo_url": "https://unsplash.com/photos/woman-with-dreadlocks-shaking-her-head--0iC4fn_tlY",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-09-06T13:00:08.516469+00:00"
+    },
     {
       "id": "SXfeDuPhuFo",
       "url": "https://images.unsplash.com/photo-1788579451600-161427b91efc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw0fHwxOTcwcyUyMEJsYWNrJTIwUG93ZXIlMjBuYXR1cmFsJTIwYWZybyUyMHdvbWVuJTIwaGFpcnxlbnwxfDF8fHwxNzg4NjQyMDQyfDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-09-02T22:00:05.439941+00:00"
-    },
-    {
-      "id": "XktgrsEHLJk",
-      "url": "https://images.unsplash.com/photo-1623753061688-809e97e45da5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8UmVsYXhlZCUyMGN1cmx5JTIwaGFpciUyMGJsYWNrJTIwYmVhdXR5JTIwbW9kZWx8ZW58MXwxfHx8MTc4ODM4NjQxM3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1623753061688-809e97e45da5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8UmVsYXhlZCUyMGN1cmx5JTIwaGFpciUyMGJsYWNrJTIwYmVhdXR5JTIwbW9kZWx8ZW58MXwxfHx8MTc4ODM4NjQxM3ww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1623753061688-809e97e45da5?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8UmVsYXhlZCUyMGN1cmx5JTIwaGFpciUyMGJsYWNrJTIwYmVhdXR5JTIwbW9kZWx8ZW58MXwxfHx8MTc4ODM4NjQxM3ww&ixlib=rb-4.1.0&q=85",
-      "alt": "woman in white tube dress",
-      "description": "Fashion portrait of a gorgeous ebony model in front of a mustard yellow backdrop.",
-      "photographer": "Houcine Ncib",
-      "photographer_url": "https://unsplash.com/@houcinencibphotography",
-      "photo_url": "https://unsplash.com/photos/woman-in-white-tube-dress-XktgrsEHLJk",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-09-02T22:00:05.439941+00:00"
     }
   ],
-  "updated_at": "2026-09-06T12:01:15.228912+00:00"
+  "updated_at": "2026-09-06T13:01:54.538683+00:00"
 }
