@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with this season's hottest hairstyles as we dive into the latest must-try trends for Black and African women!",
   "images": [
+    {
+      "id": "6IbMteg7Rh8",
+      "url": "https://images.unsplash.com/photo-1776790376541-233f911d90b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8U2VuZWdhbGVzZSUyMHR3aXN0cyUyMGluJTIwdmlicmFudCUyMEFmcmljYW4lMjBwcmludHN8ZW58MXwxfHx8MTc4ODc2NDQ4OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1776790376541-233f911d90b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8U2VuZWdhbGVzZSUyMHR3aXN0cyUyMGluJTIwdmlicmFudCUyMEFmcmljYW4lMjBwcmludHN8ZW58MXwxfHx8MTc4ODc2NDQ4OHww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1776790376541-233f911d90b4?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8U2VuZWdhbGVzZSUyMHR3aXN0cyUyMGluJTIwdmlicmFudCUyMEFmcmljYW4lMjBwcmludHN8ZW58MXwxfHx8MTc4ODc2NDQ4OHww&ixlib=rb-4.1.0&q=85",
+      "alt": "A young black woman with hoop earrings and colorful dress",
+      "description": "",
+      "photographer": "JR Clavant",
+      "photographer_url": "https://unsplash.com/@iamclavant",
+      "photo_url": "https://unsplash.com/photos/a-young-black-woman-with-hoop-earrings-and-colorful-dress-6IbMteg7Rh8",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-09-07T07:00:11.489118+00:00"
+    },
     {
       "id": "FLmxyny2HMw",
       "url": "https://images.unsplash.com/photo-1697551468537-8882f0c03a90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8VGVlbmllJTIwV2VlbmllJTIwQWZyb3MlMjBCbGFjayUyMEdpcmxzJTIwUG9ydHJhaXRzfGVufDF8MXx8fDE3ODg3NTAxMjl8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-09-05T22:00:05.531294+00:00"
-    },
-    {
-      "id": "bXcochfyTAg",
-      "url": "https://images.unsplash.com/photo-1784160053771-4e16aeeceaba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8V29tYW4lMjB3ZWFyaW5nJTIwd2VhdmUlMjBleHRlbnNpb25zJTIwQWZyaWNhbiUyMHByaWRlfGVufDF8MXx8fDE3ODg2NDU2NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1784160053771-4e16aeeceaba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8V29tYW4lMjB3ZWFyaW5nJTIwd2VhdmUlMjBleHRlbnNpb25zJTIwQWZyaWNhbiUyMHByaWRlfGVufDF8MXx8fDE3ODg2NDU2NDJ8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1784160053771-4e16aeeceaba?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8V29tYW4lMjB3ZWFyaW5nJTIwd2VhdmUlMjBleHRlbnNpb25zJTIwQWZyaWNhbiUyMHByaWRlfGVufDF8MXx8fDE3ODg2NDU2NDJ8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "A smiling woman wearing a colorful patterned top",
-      "description": "Melanie african lady portrait",
-      "photographer": "McFollis",
-      "photographer_url": "https://unsplash.com/@thisismcfollis",
-      "photo_url": "https://unsplash.com/photos/a-smiling-woman-wearing-a-colorful-patterned-top-bXcochfyTAg",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-09-05T22:00:05.531294+00:00"
     }
   ],
-  "updated_at": "2026-09-07T06:03:44.411030+00:00"
+  "updated_at": "2026-09-07T07:03:46.065358+00:00"
 }
