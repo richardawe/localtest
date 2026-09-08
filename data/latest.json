@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with today's most sought-after hairstyles, featuring bold braids, afro-puffs, and vibrant twists that are taking over the streets!",
   "images": [
+    {
+      "id": "SMzEeXjqj6A",
+      "url": "https://images.unsplash.com/photo-1784460469850-80838868f4d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8UmVsYXhlZCUyMGhhaXIlMjBvbiUyMEJsYWNrJTIwd29tYW4lMjBzbWlsaW5nfGVufDF8MXx8fDE3ODg5MDUxOTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1784460469850-80838868f4d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8UmVsYXhlZCUyMGhhaXIlMjBvbiUyMEJsYWNrJTIwd29tYW4lMjBzbWlsaW5nfGVufDF8MXx8fDE3ODg5MDUxOTF8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1784460469850-80838868f4d2?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8UmVsYXhlZCUyMGhhaXIlMjBvbiUyMEJsYWNrJTIwd29tYW4lMjBzbWlsaW5nfGVufDF8MXx8fDE3ODg5MDUxOTF8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "Smiling black woman with curly hair in an off-shoulder sweater",
+      "description": "",
+      "photographer": "Godspower Abdulahi",
+      "photographer_url": "https://unsplash.com/@geepee_lens",
+      "photo_url": "https://unsplash.com/photos/smiling-black-woman-with-curly-hair-in-an-off-shoulder-sweater-SMzEeXjqj6A",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-09-08T22:00:11.400450+00:00"
+    },
     {
       "id": "Ih6MZj21vPY",
       "url": "https://images.unsplash.com/photo-1712718893268-b80b569b0501?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxM3x8VGVlbmllJTIwV2VlbmllJTIwQWZyb3MlMjBDbG9zZSUyMFVwfGVufDF8MXx8fDE3ODg4OTc2MjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-09-06T00:00:05.578584+00:00"
-    },
-    {
-      "id": "HGkkkiHqa64",
-      "url": "https://images.unsplash.com/photo-1788517639369-982eabaf4440?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8U2lzdGVybG9ja3MlMjBvbiUyMHlvdW5nJTIwQmxhY2slMjBnaXJsJTI3cyUyMGhlYWR8ZW58MXwxfHx8MTc4ODY0OTIyOHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1788517639369-982eabaf4440?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8U2lzdGVybG9ja3MlMjBvbiUyMHlvdW5nJTIwQmxhY2slMjBnaXJsJTI3cyUyMGhlYWR8ZW58MXwxfHx8MTc4ODY0OTIyOHww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1788517639369-982eabaf4440?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8U2lzdGVybG9ja3MlMjBvbiUyMHlvdW5nJTIwQmxhY2slMjBnaXJsJTI3cyUyMGhlYWR8ZW58MXwxfHx8MTc4ODY0OTIyOHww&ixlib=rb-4.1.0&q=85",
-      "alt": "A person with long dark dreadlocks and patterned beads wearing a white knit cap",
-      "description": "",
-      "photographer": "Dwayne joe",
-      "photographer_url": "https://unsplash.com/@spliff_dj_joe",
-      "photo_url": "https://unsplash.com/photos/person-with-dreadlocks-and-knit-cap-HGkkkiHqa64",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-09-05T23:00:05.370394+00:00"
     }
   ],
-  "updated_at": "2026-09-08T21:01:17.092586+00:00"
+  "updated_at": "2026-09-08T22:15:03.488777+00:00"
 }
