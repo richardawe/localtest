@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+  "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.ngrblog.agent</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/opt/homebrew/bin/python3.11</string>
+        <string>/Users/olawaleawe/localtest/backend/main_ngr.py</string>
+    </array>
+
+    <!-- Fires 3x/day — 08:00, 14:00, 20:00 local time — separate from the
+         hourly hair-trends job so the two never compete for Ollama at the
+         same moment. Each run picks one of six categories (see
+         main_ngr.py's 8-hour bucket rotation), so every category gets
+         refreshed roughly once a day. If the Mac was asleep when a fire
+         time passed, launchd runs the job once on wake — it does not
+         replay missed runs. -->
+    <key>StartCalendarInterval</key>
+    <array>
+        <dict>
+            <key>Hour</key>
+            <integer>8</integer>
+            <key>Minute</key>
+            <integer>0</integer>
+        </dict>
+        <dict>
+            <key>Hour</key>
+            <integer>14</integer>
+            <key>Minute</key>
+            <integer>0</integer>
+        </dict>
+        <dict>
+            <key>Hour</key>
+            <integer>20</integer>
+            <key>Minute</key>
+            <integer>0</integer>
+        </dict>
+    </array>
+
+    <key>StandardOutPath</key>
+    <string>/Users/olawaleawe/localtest/backend/logs/ngr-stdout.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/olawaleawe/localtest/backend/logs/ngr-stderr.log</string>
+
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>PATH</key>
+        <string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin</string>
+        <key>HOME</key>
+        <string>/Users/olawaleawe</string>
+    </dict>
+
+    <key>RunAtLoad</key>
+    <false/>
+
+    <!-- Restart the job if it crashes, after a 60-second delay -->
+    <key>ThrottleInterval</key>
+    <integer>60</integer>
+</dict>
+</plist>

@@ -122,6 +122,44 @@ localtest/
 
 ---
 
+## Nigeria content desk (ngr.ltd blog)
+
+A second, independent pipeline — same Mac, same Ollama model, its own SQLite
+database and launchd schedule — that writes drafts for
+[ngr.ltd/blog](https://ngr.ltd/blog) and pushes them into its admin review
+queue. Nothing it produces goes live on its own: every push lands as a draft
+at `ngr.ltd/admin/blog-posts` and needs a human approval before it's public.
+
+| Layer | Technology |
+|-------|-----------|
+| Research | Google News RSS, one Nigeria-focused category per run (news, culture, notable people, tech, entertainment, lifestyle) |
+| Writing | Ollama `llama3.1:8b` — original commentary citing sources, never reproducing them |
+| Images | Unsplash API, one cover image per post, download-tracked per Unsplash's API guidelines |
+| Delivery | `POST https://ngr.ltd/api/internal/blog-posts`, bearer-token authenticated |
+| Scheduling | macOS launchd — 08:00, 14:00, 20:00 daily |
+
+### Setup
+
+1. Add to `.env`:
+   ```
+   NGR_API_BASE=https://ngr.ltd
+   CONTENT_PIPELINE_TOKEN=<same value as ngr.ltd's own .env — generate with `php artisan tinker` -> `Str::random(64)` on that side>
+   ```
+2. Run once manually to confirm it reaches ngr.ltd:
+   ```bash
+   /opt/homebrew/bin/python3.11 backend/main_ngr.py
+   ```
+3. Install the schedule:
+   ```bash
+   cp com.ngrblog.agent.plist ~/Library/LaunchAgents/
+   launchctl load ~/Library/LaunchAgents/com.ngrblog.agent.plist
+   ```
+
+Logs land in `backend/logs/ngr-YYYY-MM-DD.log`. Review and publish drafts at
+`https://ngr.ltd/admin/blog-posts`.
+
+---
+
 ## Monitoring
 
 Logs are written to `backend/logs/` (one file per day).

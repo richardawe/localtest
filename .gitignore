@@ -3,6 +3,7 @@
 
 # Runtime artifacts
 backend/hair_trends.db
+backend/ngr_blog.db
 backend/logs/
 data/
 
