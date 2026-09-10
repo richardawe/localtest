@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to groove with today's hottest Black and African hairstyles, featuring vibrant braids, sleek afros, and edgy twists that slay!",
   "images": [
+    {
+      "id": "uoDYdovyy00",
+      "url": "https://images.unsplash.com/photo-1730140323316-97f3aceb68f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8Q29ybnJvd3MlMjBhbmQlMjBkcmVhZGxvY2tzJTIwb24lMjBBZnJpY2FuJTIwYmVhdXR5JTIwbW9kZWx8ZW58MXwxfHx8MTc4OTAyMzcwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1730140323316-97f3aceb68f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8Q29ybnJvd3MlMjBhbmQlMjBkcmVhZGxvY2tzJTIwb24lMjBBZnJpY2FuJTIwYmVhdXR5JTIwbW9kZWx8ZW58MXwxfHx8MTc4OTAyMzcwMHww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1730140323316-97f3aceb68f3?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8Q29ybnJvd3MlMjBhbmQlMjBkcmVhZGxvY2tzJTIwb24lMjBBZnJpY2FuJTIwYmVhdXR5JTIwbW9kZWx8ZW58MXwxfHx8MTc4OTAyMzcwMHww&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman in a bikini standing on the beach",
+      "description": "Black woman in bikini",
+      "photographer": "Lisa Marie Theck",
+      "photographer_url": "https://unsplash.com/@lisa_marie_theck",
+      "photo_url": "https://unsplash.com/photos/a-woman-in-a-bikini-standing-on-the-beach-uoDYdovyy00",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-09-10T07:00:07.135203+00:00"
+    },
     {
       "id": "zzQeT_IygQQ",
       "url": "https://images.unsplash.com/photo-1683849119970-512d8d772e45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxCb3glMjBCcmFpZHMlMjBmb3IlMjBMb25nJTIwSGFpciUyME1vZGVsfGVufDF8MXx8fDE3ODg5NjYwMTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "1970s",
       "category": "historical",
       "fetched_at": "2026-09-06T04:00:06.976562+00:00"
-    },
-    {
-      "id": "_wNuEtH4ZpM",
-      "url": "https://images.unsplash.com/photo-1788579869382-6e913dfbb334?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHwxOTcwcyUyMEJsYWNrJTIwUG93ZXIlMjBuYXR1cmFsJTIwYWZybyUyMHdvbWVuJTIwaGFpcnxlbnwxfDF8fHwxNzg4NjQyMDQyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1788579869382-6e913dfbb334?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHwxOTcwcyUyMEJsYWNrJTIwUG93ZXIlMjBuYXR1cmFsJTIwYWZybyUyMHdvbWVuJTIwaGFpcnxlbnwxfDF8fHwxNzg4NjQyMDQyfDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1788579869382-6e913dfbb334?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHwxOTcwcyUyMEJsYWNrJTIwUG93ZXIlMjBuYXR1cmFsJTIwYWZybyUyMHdvbWVuJTIwaGFpcnxlbnwxfDF8fHwxNzg4NjQyMDQyfDA&ixlib=rb-4.1.0&q=85",
-      "alt": "A woman with voluminous curly hair wearing a black lace top and denim jeans",
-      "description": "",
-      "photographer": "Luiz Rogério Nunes",
-      "photographer_url": "https://unsplash.com/@luizr_ph",
-      "photo_url": "https://unsplash.com/photos/woman-in-lace-top-and-jeans-_wNuEtH4ZpM",
-      "tags": "",
-      "era": "1970s",
-      "category": "historical",
-      "fetched_at": "2026-09-06T04:00:06.976562+00:00"
     }
   ],
-  "updated_at": "2026-09-10T06:01:11.661682+00:00"
+  "updated_at": "2026-09-10T07:04:24.578039+00:00"
 }
