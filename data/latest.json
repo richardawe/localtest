@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to be inspired as we dive into the hottest, most stylish Black and African women's hair trends that are taking over the world right now!",
   "images": [
+    {
+      "id": "SL8UPMD3j1M",
+      "url": "https://images.unsplash.com/photo-1780396691142-f9394e77fe4a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8V29tZW4lMjB3aXRoJTIwY29ybnJvd3MlMjBpbiUyMG5hdHVyYWwlMjBzZXR0aW5nfGVufDF8MXx8fDE3ODkwMzg5NzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1780396691142-f9394e77fe4a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8V29tZW4lMjB3aXRoJTIwY29ybnJvd3MlMjBpbiUyMG5hdHVyYWwlMjBzZXR0aW5nfGVufDF8MXx8fDE3ODkwMzg5NzF8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1780396691142-f9394e77fe4a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8V29tZW4lMjB3aXRoJTIwY29ybnJvd3MlMjBpbiUyMG5hdHVyYWwlMjBzZXR0aW5nfGVufDF8MXx8fDE3ODkwMzg5NzF8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "Smiling young woman with braided hair and glasses outdoors",
+      "description": "",
+      "photographer": "Grace Anne Bobadilla",
+      "photographer_url": "https://unsplash.com/@graceannefully",
+      "photo_url": "https://unsplash.com/photos/smiling-young-woman-with-braided-hair-and-glasses-outdoors-SL8UPMD3j1M",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-09-10T11:15:28.345545+00:00"
+    },
     {
       "id": "CsqlIP0dYJA",
       "url": "https://images.unsplash.com/photo-1788974047783-ee78bbb3f9a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNnx8QmxhY2slMjB3b21lbiUyMHByZXNzJTIwYW5kJTIwY3VybCUyMGhhaXJzdHlsZXN8ZW58MXwxfHx8MTc4OTAyNzIxMHww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-09-06T15:00:10.101823+00:00"
-    },
-    {
-      "id": "-0iC4fn_tlY",
-      "url": "https://images.unsplash.com/photo-1763013373588-03bc56e6afdb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8UHJlc3MlMjBhbmQlMjBDdXJsJTIwQmxhY2slMjBXb21hbiUyMFBob3RvZ3JhcGhzfGVufDF8MXx8fDE3ODg2OTk2NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1763013373588-03bc56e6afdb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8UHJlc3MlMjBhbmQlMjBDdXJsJTIwQmxhY2slMjBXb21hbiUyMFBob3RvZ3JhcGhzfGVufDF8MXx8fDE3ODg2OTk2NTZ8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1763013373588-03bc56e6afdb?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8UHJlc3MlMjBhbmQlMjBDdXJsJTIwQmxhY2slMjBXb21hbiUyMFBob3RvZ3JhcGhzfGVufDF8MXx8fDE3ODg2OTk2NTZ8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "Woman with dreadlocks shaking her head",
-      "description": "",
-      "photographer": "Brooke Balentine",
-      "photographer_url": "https://unsplash.com/@brookebalentine",
-      "photo_url": "https://unsplash.com/photos/woman-with-dreadlocks-shaking-her-head--0iC4fn_tlY",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-09-06T13:00:08.516469+00:00"
     }
   ],
-  "updated_at": "2026-09-10T10:03:32.932342+00:00"
+  "updated_at": "2026-09-10T11:19:22.995318+00:00"
 }
