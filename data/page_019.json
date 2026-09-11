@@ -165,6 +165,36 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-09-10T11:15:28.345545+00:00"
+    },
+    {
+      "id": "J8iDhPjE06U",
+      "url": "https://images.unsplash.com/photo-1786529744346-9df01c15e5a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8QWZyaWNhbiUyMFdvbWFuJTIwaW4lMjBTaXN0ZXJsb2NrcyUyMGFuZCUyMEhlYWR3cmFwJTIwUGhvdG98ZW58MXwxfHx8MTc4OTA4ODUyNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1786529744346-9df01c15e5a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8QWZyaWNhbiUyMFdvbWFuJTIwaW4lMjBTaXN0ZXJsb2NrcyUyMGFuZCUyMEhlYWR3cmFwJTIwUGhvdG98ZW58MXwxfHx8MTc4OTA4ODUyNHww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1786529744346-9df01c15e5a4?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8QWZyaWNhbiUyMFdvbWFuJTIwaW4lMjBTaXN0ZXJsb2NrcyUyMGFuZCUyMEhlYWR3cmFwJTIwUGhvdG98ZW58MXwxfHx8MTc4OTA4ODUyNHww&ixlib=rb-4.1.0&q=85",
+      "alt": "An older woman wearing a patterned headwrap and a textured garment in profile",
+      "description": "Wedding guest at a Ugandan wedding.",
+      "photographer": "Lisa Marie Theck",
+      "photographer_url": "https://unsplash.com/@lisa_marie_theck",
+      "photo_url": "https://unsplash.com/photos/older-woman-in-patterned-headwrap-J8iDhPjE06U",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-09-11T01:00:09.865692+00:00"
+    },
+    {
+      "id": "31T-mF3z2jc",
+      "url": "https://images.unsplash.com/photo-1786529745850-935e6f2e6692?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8QWZyaWNhbiUyMFdvbWFuJTIwaW4lMjBTaXN0ZXJsb2NrcyUyMGFuZCUyMEhlYWR3cmFwJTIwUGhvdG98ZW58MXwxfHx8MTc4OTA4ODUyNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1786529745850-935e6f2e6692?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8QWZyaWNhbiUyMFdvbWFuJTIwaW4lMjBTaXN0ZXJsb2NrcyUyMGFuZCUyMEhlYWR3cmFwJTIwUGhvdG98ZW58MXwxfHx8MTc4OTA4ODUyNHww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1786529745850-935e6f2e6692?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8QWZyaWNhbiUyMFdvbWFuJTIwaW4lMjBTaXN0ZXJsb2NrcyUyMGFuZCUyMEhlYWR3cmFwJTIwUGhvdG98ZW58MXwxfHx8MTc4OTA4ODUyNHww&ixlib=rb-4.1.0&q=85",
+      "alt": "An elderly woman in profile wearing a patterned headwrap and embroidered top",
+      "description": "Wedding guest at a Ugandan wedding. Old African woman.",
+      "photographer": "Lisa Marie Theck",
+      "photographer_url": "https://unsplash.com/@lisa_marie_theck",
+      "photo_url": "https://unsplash.com/photos/elderly-woman-in-patterned-headwrap-31T-mF3z2jc",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-09-11T01:00:09.865692+00:00"
     }
   ]
 }
