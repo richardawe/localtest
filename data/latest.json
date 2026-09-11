@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with this season's hottest hairstyles, featuring vibrant braids, bold locs, and luscious curls, inspired by Black excellence everywhere!",
   "images": [
+    {
+      "id": "F5SWlG1Dgqc",
+      "url": "https://images.unsplash.com/photo-1788497170789-f48408707b28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8R29kZGVzcyUyMGJyYWlkcyUyMHdpdGglMjBmbG93ZXJzJTIwaW4lMjBoYWlyfGVufDF8MXx8fDE3ODkxNjc2Njh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1788497170789-f48408707b28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8R29kZGVzcyUyMGJyYWlkcyUyMHdpdGglMjBmbG93ZXJzJTIwaW4lMjBoYWlyfGVufDF8MXx8fDE3ODkxNjc2Njh8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1788497170789-f48408707b28?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8R29kZGVzcyUyMGJyYWlkcyUyMHdpdGglMjBmbG93ZXJzJTIwaW4lMjBoYWlyfGVufDF8MXx8fDE3ODkxNjc2Njh8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "A person with a braided hairstyle and a hibiscus flower against a black background",
+      "description": "",
+      "photographer": "Alina Chernovolova",
+      "photographer_url": "https://unsplash.com/@alinachernovol",
+      "photo_url": "https://unsplash.com/photos/person-with-braided-hair-and-hibiscus-F5SWlG1Dgqc",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-09-11T23:00:37.516123+00:00"
+    },
     {
       "id": "J8iDhPjE06U",
       "url": "https://images.unsplash.com/photo-1786529744346-9df01c15e5a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8QWZyaWNhbiUyMFdvbWFuJTIwaW4lMjBTaXN0ZXJsb2NrcyUyMGFuZCUyMEhlYWR3cmFwJTIwUGhvdG98ZW58MXwxfHx8MTc4OTA4ODUyNHww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-09-07T02:00:05.545390+00:00"
-    },
-    {
-      "id": "TlKAor4Oi14",
-      "url": "https://images.unsplash.com/photo-1654516109802-0bb5c7db0e8e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOHx8R29kZGVzcyUyMEJyYWlkcyUyMHdpdGglMjBHb2xkJTIwQWNjZXNzb3JpZXN8ZW58MXwxfHx8MTc4ODc0NjQ4M3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1654516109802-0bb5c7db0e8e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOHx8R29kZGVzcyUyMEJyYWlkcyUyMHdpdGglMjBHb2xkJTIwQWNjZXNzb3JpZXN8ZW58MXwxfHx8MTc4ODc0NjQ4M3ww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1654516109802-0bb5c7db0e8e?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOHx8R29kZGVzcyUyMEJyYWlkcyUyMHdpdGglMjBHb2xkJTIwQWNjZXNzb3JpZXN8ZW58MXwxfHx8MTc4ODc0NjQ4M3ww&ixlib=rb-4.1.0&q=85",
-      "alt": "a woman with long braids sitting on a bench",
-      "description": "Butterfly 🦋 ",
-      "photographer": "maryam zmn",
-      "photographer_url": "https://unsplash.com/@marya__zaman",
-      "photo_url": "https://unsplash.com/photos/a-woman-with-long-braids-sitting-on-a-bench-TlKAor4Oi14",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-09-07T02:00:05.545390+00:00"
     }
   ],
-  "updated_at": "2026-09-11T22:01:37.807670+00:00"
+  "updated_at": "2026-09-11T23:02:00.461614+00:00"
 }
