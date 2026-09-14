@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with this year's top Black and African women's hair trends, showcasing vibrant styles and fresh cuts that pop!",
   "images": [
+    {
+      "id": "-eXbTwI0VU0",
+      "url": "https://images.unsplash.com/photo-1709809081557-78f803ce93a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzfHxBZnJpY2FuJTIwV29tZW4lMjdzJTIwQWZyb3MlMjBpbiUyMEZ1bGwlMjBHbG9yeXxlbnwxfDF8fHwxNzg5NDE2MDQ2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1709809081557-78f803ce93a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzfHxBZnJpY2FuJTIwV29tZW4lMjdzJTIwQWZyb3MlMjBpbiUyMEZ1bGwlMjBHbG9yeXxlbnwxfDF8fHwxNzg5NDE2MDQ2fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1709809081557-78f803ce93a0?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzfHxBZnJpY2FuJTIwV29tZW4lMjdzJTIwQWZyb3MlMjBpbiUyMEZ1bGwlMjBHbG9yeXxlbnwxfDF8fHwxNzg5NDE2MDQ2fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "a woman in a colorful dress sitting on a bench",
+      "description": "beautiful African women wearing African traditional colorful clothes",
+      "photographer": "LOLA AZIZADA",
+      "photographer_url": "https://unsplash.com/@kalpa_mahagamage",
+      "photo_url": "https://unsplash.com/photos/a-woman-in-a-colorful-dress-sitting-on-a-bench--eXbTwI0VU0",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-09-14T20:00:07.311043+00:00"
+    },
     {
       "id": "bq1okTuNhSE",
       "url": "https://images.unsplash.com/photo-1765560217033-ab1fa292a94a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw4fHxCbGFjayUyMHdvbWFuJTIwd2l0aCUyMGxvY3MlMjBpbiUyMG5hdHVyYWwlMjBsaWdodHxlbnwxfDF8fHwxNzg5Mzg3MjA3fDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-09-08T22:00:11.400450+00:00"
-    },
-    {
-      "id": "Ih6MZj21vPY",
-      "url": "https://images.unsplash.com/photo-1712718893268-b80b569b0501?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxM3x8VGVlbmllJTIwV2VlbmllJTIwQWZyb3MlMjBDbG9zZSUyMFVwfGVufDF8MXx8fDE3ODg4OTc2MjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1712718893268-b80b569b0501?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxM3x8VGVlbmllJTIwV2VlbmllJTIwQWZyb3MlMjBDbG9zZSUyMFVwfGVufDF8MXx8fDE3ODg4OTc2MjF8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1712718893268-b80b569b0501?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxM3x8VGVlbmllJTIwV2VlbmllJTIwQWZyb3MlMjBDbG9zZSUyMFVwfGVufDF8MXx8fDE3ODg4OTc2MjF8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "a woman with dreadlocks standing in front of a wall",
-      "description": "",
-      "photographer": "Bjorn Pierre",
-      "photographer_url": "https://unsplash.com/@bjornpierre",
-      "photo_url": "https://unsplash.com/photos/a-woman-with-dreadlocks-standing-in-front-of-a-wall-Ih6MZj21vPY",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-09-08T20:00:06.455910+00:00"
     }
   ],
-  "updated_at": "2026-09-14T19:05:29.436324+00:00"
+  "updated_at": "2026-09-14T20:01:40.414441+00:00"
 }
