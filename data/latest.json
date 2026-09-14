@@ -1,6 +1,36 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with the latest Black and African beauty trends, showcasing bold styles that are taking the world by storm!",
   "images": [
+    {
+      "id": "bq1okTuNhSE",
+      "url": "https://images.unsplash.com/photo-1765560217033-ab1fa292a94a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw4fHxCbGFjayUyMHdvbWFuJTIwd2l0aCUyMGxvY3MlMjBpbiUyMG5hdHVyYWwlMjBsaWdodHxlbnwxfDF8fHwxNzg5Mzg3MjA3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1765560217033-ab1fa292a94a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw4fHxCbGFjayUyMHdvbWFuJTIwd2l0aCUyMGxvY3MlMjBpbiUyMG5hdHVyYWwlMjBsaWdodHxlbnwxfDF8fHwxNzg5Mzg3MjA3fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1765560217033-ab1fa292a94a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw4fHxCbGFjayUyMHdvbWFuJTIwd2l0aCUyMGxvY3MlMjBpbiUyMG5hdHVyYWwlMjBsaWdodHxlbnwxfDF8fHwxNzg5Mzg3MjA3fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "Young woman with dreadlocks wearing a white crop top",
+      "description": "",
+      "photographer": "Michael Kyule",
+      "photographer_url": "https://unsplash.com/@madness_leahcim_",
+      "photo_url": "https://unsplash.com/photos/young-woman-with-dreadlocks-wearing-a-white-crop-top-bq1okTuNhSE",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-09-14T12:00:06.618308+00:00"
+    },
+    {
+      "id": "08E_4V_uHtQ",
+      "url": "https://images.unsplash.com/photo-1752486268325-c562c3fb5467?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8U2lzdGVybG9ja3MlMjBvbiUyMG1hdHVyZSUyMEJsYWNrJTIwd29tYW4lMjdzJTIwaGVhZHNob3R8ZW58MXwxfHx8MTc4OTM4NzIyNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1752486268325-c562c3fb5467?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8U2lzdGVybG9ja3MlMjBvbiUyMG1hdHVyZSUyMEJsYWNrJTIwd29tYW4lMjdzJTIwaGVhZHNob3R8ZW58MXwxfHx8MTc4OTM4NzIyNnww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1752486268325-c562c3fb5467?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8U2lzdGVybG9ja3MlMjBvbiUyMG1hdHVyZSUyMEJsYWNrJTIwd29tYW4lMjdzJTIwaGVhZHNob3R8ZW58MXwxfHx8MTc4OTM4NzIyNnww&ixlib=rb-4.1.0&q=85",
+      "alt": "A smiling woman with curly hair wears glasses",
+      "description": "Woman in a denim jacket with full natural curls wearing large black round eyeglasses. A chic blend of comfort and confidence.",
+      "photographer": "ZEELOOL Glasses",
+      "photographer_url": "https://unsplash.com/@zeelool_official",
+      "photo_url": "https://unsplash.com/photos/a-smiling-woman-with-curly-hair-wears-glasses-08E_4V_uHtQ",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-09-14T12:00:06.618308+00:00"
+    },
     {
       "id": "RCf8mbyNxb4",
       "url": "https://images.unsplash.com/photo-1786529745852-d7d529b55676?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8R29kZGVzcyUyMEJyYWlkcyUyMFdlZGRpbmclMjBEYXklMjBJbnNwaXJhdGlvbiUyMFBob3Rvc3xlbnwxfDF8fHwxNzg5MzY5Mzk2fDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -270,37 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-09-08T20:00:06.455910+00:00"
-    },
-    {
-      "id": "6IbMteg7Rh8",
-      "url": "https://images.unsplash.com/photo-1776790376541-233f911d90b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8U2VuZWdhbGVzZSUyMHR3aXN0cyUyMGluJTIwdmlicmFudCUyMEFmcmljYW4lMjBwcmludHN8ZW58MXwxfHx8MTc4ODc2NDQ4OHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1776790376541-233f911d90b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8U2VuZWdhbGVzZSUyMHR3aXN0cyUyMGluJTIwdmlicmFudCUyMEFmcmljYW4lMjBwcmludHN8ZW58MXwxfHx8MTc4ODc2NDQ4OHww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1776790376541-233f911d90b4?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8U2VuZWdhbGVzZSUyMHR3aXN0cyUyMGluJTIwdmlicmFudCUyMEFmcmljYW4lMjBwcmludHN8ZW58MXwxfHx8MTc4ODc2NDQ4OHww&ixlib=rb-4.1.0&q=85",
-      "alt": "A young black woman with hoop earrings and colorful dress",
-      "description": "",
-      "photographer": "JR Clavant",
-      "photographer_url": "https://unsplash.com/@iamclavant",
-      "photo_url": "https://unsplash.com/photos/a-young-black-woman-with-hoop-earrings-and-colorful-dress-6IbMteg7Rh8",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-09-07T07:00:11.489118+00:00"
-    },
-    {
-      "id": "FLmxyny2HMw",
-      "url": "https://images.unsplash.com/photo-1697551468537-8882f0c03a90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8VGVlbmllJTIwV2VlbmllJTIwQWZyb3MlMjBCbGFjayUyMEdpcmxzJTIwUG9ydHJhaXRzfGVufDF8MXx8fDE3ODg3NTAxMjl8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1697551468537-8882f0c03a90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8VGVlbmllJTIwV2VlbmllJTIwQWZyb3MlMjBCbGFjayUyMEdpcmxzJTIwUG9ydHJhaXRzfGVufDF8MXx8fDE3ODg3NTAxMjl8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1697551468537-8882f0c03a90?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8VGVlbmllJTIwV2VlbmllJTIwQWZyb3MlMjBCbGFjayUyMEdpcmxzJTIwUG9ydHJhaXRzfGVufDF8MXx8fDE3ODg3NTAxMjl8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "a black woman with freckles on her face",
-      "description": "",
-      "photographer": "Nick Owuor (astro.nic.portraits)",
-      "photographer_url": "https://unsplash.com/@astro_nic25",
-      "photo_url": "https://unsplash.com/photos/a-black-woman-with-freckles-on-her-face-FLmxyny2HMw",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-09-07T03:00:11.999864+00:00"
     }
   ],
-  "updated_at": "2026-09-14T11:01:17.993495+00:00"
+  "updated_at": "2026-09-14T12:01:32.756279+00:00"
 }
