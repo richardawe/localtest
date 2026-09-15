@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with this week's spotlight on the most Instagrammable, game-changing hairstyles from Black and African women that are totally trending right now!",
   "images": [
+    {
+      "id": "KljLa3A-vIc",
+      "url": "https://images.unsplash.com/photo-1785273925191-c118719b42d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8V29tZW4lMjB3aXRoJTIwd2VhdmVzJTIwZXh0ZW5zaW9ucyUyMGluJTIwc3R1ZGlvc3xlbnwxfDF8fHwxNzg5NDc3MjkwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1785273925191-c118719b42d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8V29tZW4lMjB3aXRoJTIwd2VhdmVzJTIwZXh0ZW5zaW9ucyUyMGluJTIwc3R1ZGlvc3xlbnwxfDF8fHwxNzg5NDc3MjkwfDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1785273925191-c118719b42d5?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8V29tZW4lMjB3aXRoJTIwd2VhdmVzJTIwZXh0ZW5zaW9ucyUyMGluJTIwc3R1ZGlvc3xlbnwxfDF8fHwxNzg5NDc3MjkwfDA&ixlib=rb-4.1.0&q=85",
+      "alt": "Young black woman with short hair and gold earrings",
+      "description": "",
+      "photographer": "McFollis",
+      "photographer_url": "https://unsplash.com/@thisismcfollis",
+      "photo_url": "https://unsplash.com/photos/young-black-woman-with-short-hair-and-gold-earrings-KljLa3A-vIc",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-09-15T13:00:21.717850+00:00"
+    },
     {
       "id": "n-dI7lD_CG4",
       "url": "https://images.unsplash.com/photo-1771605758634-e2803486d896?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8Q2xvc2UlMjB1cCUyMG9mJTIwZHJlYWRsb2NrcyUyMGluJTIwQWZybyUyMHRleHR1cmV8ZW58MXwxfHx8MTc4OTQ0NDkwN3ww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-09-09T11:00:07.255142+00:00"
-    },
-    {
-      "id": "6q6FDdDT5Po",
-      "url": "https://images.unsplash.com/photo-1748415713992-2e6462edf7cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNHx8TmF0dXJhbCUyMGFmcm8lMjB0ZXh0dXJlJTIwYW5kJTIwZGVmaW5pdGlvbiUyMHBob3Rvc2hvb3R8cHR8MXwxfHx8MTc4ODk1MTY1NHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1748415713992-2e6462edf7cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNHx8TmF0dXJhbCUyMGFmcm8lMjB0ZXh0dXJlJTIwYW5kJTIwZGVmaW5pdGlvbiUyMHBob3Rvc2hvb3R8cHR8MXwxfHx8MTc4ODk1MTY1NHww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1748415713992-2e6462edf7cf?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNHx8TmF0dXJhbCUyMGFmcm8lMjB0ZXh0dXJlJTIwYW5kJTIwZGVmaW5pdGlvbiUyMHBob3Rvc2hvb3R8cHR8MXwxfHx8MTc4ODk1MTY1NHww&ixlib=rb-4.1.0&q=85",
-      "alt": "Uma mulher posa com cabelos cacheados",
-      "description": "",
-      "photographer": "Gabriel Ogulu",
-      "photographer_url": "https://unsplash.com/pt-br/@ogulu_18",
-      "photo_url": "https://unsplash.com/pt-br/fotografias/uma-mulher-posa-com-cabelos-cacheados-6q6FDdDT5Po",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-09-09T11:00:07.255142+00:00"
     }
   ],
-  "updated_at": "2026-09-15T12:11:39.533848+00:00"
+  "updated_at": "2026-09-15T13:09:00.467171+00:00"
 }
