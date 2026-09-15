@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to be inspired as we dive into the latest buzz-worthy Black and African women's hair trends that are making waves right now!",
   "images": [
+    {
+      "id": "n-dI7lD_CG4",
+      "url": "https://images.unsplash.com/photo-1771605758634-e2803486d896?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8Q2xvc2UlMjB1cCUyMG9mJTIwZHJlYWRsb2NrcyUyMGluJTIwQWZybyUyMHRleHR1cmV8ZW58MXwxfHx8MTc4OTQ0NDkwN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1771605758634-e2803486d896?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8Q2xvc2UlMjB1cCUyMG9mJTIwZHJlYWRsb2NrcyUyMGluJTIwQWZybyUyMHRleHR1cmV8ZW58MXwxfHx8MTc4OTQ0NDkwN3ww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1771605758634-e2803486d896?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8Q2xvc2UlMjB1cCUyMG9mJTIwZHJlYWRsb2NrcyUyMGluJTIwQWZybyUyMHRleHR1cmV8ZW58MXwxfHx8MTc4OTQ0NDkwN3ww&ixlib=rb-4.1.0&q=85",
+      "alt": "Person in a scary mask with black curly hair",
+      "description": "",
+      "photographer": "Sara Gomes",
+      "photographer_url": "https://unsplash.com/@criativoss",
+      "photo_url": "https://unsplash.com/photos/person-in-a-scary-mask-with-black-curly-hair-n-dI7lD_CG4",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-09-15T04:00:12.300063+00:00"
+    },
     {
       "id": "7Uwr41KV2cQ",
       "url": "https://images.unsplash.com/photo-1589250114786-6be2d01ab76d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxM3x8VFdBJTIwdGVlbmllJTIwd2VlbmllJTIwYWZyb3MlMjBibGFjayUyMGdpcmxzfGVufDF8MXx8fDE3ODk0Mzc3MDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-09-09T11:00:07.255142+00:00"
-    },
-    {
-      "id": "4Bj89jzXhDU",
-      "url": "https://images.unsplash.com/photo-1590247051319-1288f7d18c7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8TmF0dXJhbCUyMGFmcm8lMjB0ZXh0dXJlJTIwYW5kJTIwZGVmaW5pdGlvbiUyMHBob3Rvc2hvb3R8cHR8MXwxfHx8MTc4ODk1MTY1NHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1590247051319-1288f7d18c7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8TmF0dXJhbCUyMGFmcm8lMjB0ZXh0dXJlJTIwYW5kJTIwZGVmaW5pdGlvbiUyMHBob3Rvc2hvb3R8cHR8MXwxfHx8MTc4ODk1MTY1NHww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1590247051319-1288f7d18c7a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8TmF0dXJhbCUyMGFmcm8lMjB0ZXh0dXJlJTIwYW5kJTIwZGVmaW5pdGlvbiUyMHBob3Rvc2hvb3R8cHR8MXwxfHx8MTc4ODk1MTY1NHww&ixlib=rb-4.1.0&q=85",
-      "alt": "foto em escala de cinza da mulher com cabelo encaracolado",
-      "description": "Girl ",
-      "photographer": "Ismail Hadine",
-      "photographer_url": "https://unsplash.com/pt-br/@prince_1sma",
-      "photo_url": "https://unsplash.com/pt-br/fotografias/foto-em-escala-de-cinza-da-mulher-com-cabelo-encaracolado-4Bj89jzXhDU",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-09-09T11:00:07.255142+00:00"
     }
   ],
-  "updated_at": "2026-09-15T03:03:00.224044+00:00"
+  "updated_at": "2026-09-15T04:03:46.147718+00:00"
 }
