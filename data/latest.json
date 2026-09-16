@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with the hottest hair trends of the season, featuring stunning styles straight from the runways of Africa and beyond!",
   "images": [
+    {
+      "id": "PBIZdslQASU",
+      "url": "https://images.unsplash.com/photo-1719684186520-d0e9707ed531?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8RGFyayUyMHNraW4lMjBjb3Jucm93cyUyMGFuZCUyMGFmcm9zfGVufDF8MXx8fDE3ODk1NDIxNTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1719684186520-d0e9707ed531?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8RGFyayUyMHNraW4lMjBjb3Jucm93cyUyMGFuZCUyMGFmcm9zfGVufDF8MXx8fDE3ODk1NDIxNTN8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1719684186520-d0e9707ed531?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8RGFyayUyMHNraW4lMjBjb3Jucm93cyUyMGFuZCUyMGFmcm9zfGVufDF8MXx8fDE3ODk1NDIxNTN8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "A little girl with a braid in her hair",
+      "description": "",
+      "photographer": "raghad alhussaini",
+      "photographer_url": "https://unsplash.com/@raghadru3",
+      "photo_url": "https://unsplash.com/photos/a-little-girl-with-a-braid-in-her-hair-PBIZdslQASU",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-09-16T07:00:09.186138+00:00"
+    },
     {
       "id": "4MWS7LO1uGA",
       "url": "https://images.unsplash.com/photo-1787293420063-62022fb1c852?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxOYXR1cmFsJTIwQWZybyUyMFRleHR1cmUlMjBvbiUyMENvbmZpZGVudCUyMFdvbWFufGVufDF8MXx8fDE3ODk0OTE4NjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-09-10T08:00:03.942721+00:00"
-    },
-    {
-      "id": "uoDYdovyy00",
-      "url": "https://images.unsplash.com/photo-1730140323316-97f3aceb68f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8Q29ybnJvd3MlMjBhbmQlMjBkcmVhZGxvY2tzJTIwb24lMjBBZnJpY2FuJTIwYmVhdXR5JTIwbW9kZWx8ZW58MXwxfHx8MTc4OTAyMzcwMHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1730140323316-97f3aceb68f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8Q29ybnJvd3MlMjBhbmQlMjBkcmVhZGxvY2tzJTIwb24lMjBBZnJpY2FuJTIwYmVhdXR5JTIwbW9kZWx8ZW58MXwxfHx8MTc4OTAyMzcwMHww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1730140323316-97f3aceb68f3?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8Q29ybnJvd3MlMjBhbmQlMjBkcmVhZGxvY2tzJTIwb24lMjBBZnJpY2FuJTIwYmVhdXR5JTIwbW9kZWx8ZW58MXwxfHx8MTc4OTAyMzcwMHww&ixlib=rb-4.1.0&q=85",
-      "alt": "A woman in a bikini standing on the beach",
-      "description": "Black woman in bikini",
-      "photographer": "Lisa Marie Theck",
-      "photographer_url": "https://unsplash.com/@lisa_marie_theck",
-      "photo_url": "https://unsplash.com/photos/a-woman-in-a-bikini-standing-on-the-beach-uoDYdovyy00",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-09-10T07:00:07.135203+00:00"
     }
   ],
-  "updated_at": "2026-09-16T06:05:04.746880+00:00"
+  "updated_at": "2026-09-16T07:04:35.737017+00:00"
 }
