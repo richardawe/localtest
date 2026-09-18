@@ -1,6 +1,36 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay the hair game as we dive into the latest, most stunning Black and African women's hair trends that are taking over the beauty scene!",
   "images": [
+    {
+      "id": "DmDPVSbh5M4",
+      "url": "https://images.unsplash.com/photo-1788500657746-0663965483f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8QWZyaWNhbiUyMHdvbWFuJTIwd2VhcmluZyUyMGRyZWFkbG9ja3MlMjBpbiUyMHN0dWRpb3xlbnwxfDF8fHwxNzg5NzQ3MjM2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1788500657746-0663965483f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8QWZyaWNhbiUyMHdvbWFuJTIwd2VhcmluZyUyMGRyZWFkbG9ja3MlMjBpbiUyMHN0dWRpb3xlbnwxfDF8fHwxNzg5NzQ3MjM2fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1788500657746-0663965483f7?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8QWZyaWNhbiUyMHdvbWFuJTIwd2VhcmluZyUyMGRyZWFkbG9ja3MlMjBpbiUyMHN0dWRpb3xlbnwxfDF8fHwxNzg5NzQ3MjM2fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman with long braided hair wearing a grey vest against a dark background",
+      "description": "",
+      "photographer": "Luiz Rogério Nunes",
+      "photographer_url": "https://unsplash.com/@luizr_ph",
+      "photo_url": "https://unsplash.com/photos/woman-in-grey-vest-DmDPVSbh5M4",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-09-18T16:00:09.340806+00:00"
+    },
+    {
+      "id": "lpxYlBMOOR0",
+      "url": "https://images.unsplash.com/photo-1785545334868-125a0161ea67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8QWZyaWNhbiUyMHdvbWFuJTIwd2VhcmluZyUyMGRyZWFkbG9ja3MlMjBpbiUyMHN0dWRpb3xlbnwxfDF8fHwxNzg5NzQ3MjM2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1785545334868-125a0161ea67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8QWZyaWNhbiUyMHdvbWFuJTIwd2VhcmluZyUyMGRyZWFkbG9ja3MlMjBpbiUyMHN0dWRpb3xlbnwxfDF8fHwxNzg5NzQ3MjM2fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1785545334868-125a0161ea67?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8QWZyaWNhbiUyMHdvbWFuJTIwd2VhcmluZyUyMGRyZWFkbG9ja3MlMjBpbiUyMHN0dWRpb3xlbnwxfDF8fHwxNzg5NzQ3MjM2fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "Smiling young woman with braided hair in a dark dress",
+      "description": "",
+      "photographer": "Gylain Omer",
+      "photographer_url": "https://unsplash.com/@gullin_omer",
+      "photo_url": "https://unsplash.com/photos/smiling-young-woman-with-braided-hair-in-a-dark-dress-lpxYlBMOOR0",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-09-18T16:00:09.340806+00:00"
+    },
     {
       "id": "SrzrF_MQ3TQ",
       "url": "https://images.unsplash.com/photo-1774773135081-452826049d74?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw3fHxCb3glMjBicmFpZHMlMjB3aXRoJTIwY29sb3JmdWwlMjB0aHJlYWQlMjB3cmFwc3xlbnwxfDF8fHwxNzg5NzA3NjE3fDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -270,37 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-09-11T01:00:09.865692+00:00"
-    },
-    {
-      "id": "31T-mF3z2jc",
-      "url": "https://images.unsplash.com/photo-1786529745850-935e6f2e6692?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8QWZyaWNhbiUyMFdvbWFuJTIwaW4lMjBTaXN0ZXJsb2NrcyUyMGFuZCUyMEhlYWR3cmFwJTIwUGhvdG98ZW58MXwxfHx8MTc4OTA4ODUyNHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1786529745850-935e6f2e6692?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8QWZyaWNhbiUyMFdvbWFuJTIwaW4lMjBTaXN0ZXJsb2NrcyUyMGFuZCUyMEhlYWR3cmFwJTIwUGhvdG98ZW58MXwxfHx8MTc4OTA4ODUyNHww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1786529745850-935e6f2e6692?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8QWZyaWNhbiUyMFdvbWFuJTIwaW4lMjBTaXN0ZXJsb2NrcyUyMGFuZCUyMEhlYWR3cmFwJTIwUGhvdG98ZW58MXwxfHx8MTc4OTA4ODUyNHww&ixlib=rb-4.1.0&q=85",
-      "alt": "An elderly woman in profile wearing a patterned headwrap and embroidered top",
-      "description": "Wedding guest at a Ugandan wedding. Old African woman.",
-      "photographer": "Lisa Marie Theck",
-      "photographer_url": "https://unsplash.com/@lisa_marie_theck",
-      "photo_url": "https://unsplash.com/photos/elderly-woman-in-patterned-headwrap-31T-mF3z2jc",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-09-11T01:00:09.865692+00:00"
-    },
-    {
-      "id": "SL8UPMD3j1M",
-      "url": "https://images.unsplash.com/photo-1780396691142-f9394e77fe4a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8V29tZW4lMjB3aXRoJTIwY29ybnJvd3MlMjBpbiUyMG5hdHVyYWwlMjBzZXR0aW5nfGVufDF8MXx8fDE3ODkwMzg5NzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1780396691142-f9394e77fe4a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8V29tZW4lMjB3aXRoJTIwY29ybnJvd3MlMjBpbiUyMG5hdHVyYWwlMjBzZXR0aW5nfGVufDF8MXx8fDE3ODkwMzg5NzF8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1780396691142-f9394e77fe4a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8V29tZW4lMjB3aXRoJTIwY29ybnJvd3MlMjBpbiUyMG5hdHVyYWwlMjBzZXR0aW5nfGVufDF8MXx8fDE3ODkwMzg5NzF8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "Smiling young woman with braided hair and glasses outdoors",
-      "description": "",
-      "photographer": "Grace Anne Bobadilla",
-      "photographer_url": "https://unsplash.com/@graceannefully",
-      "photo_url": "https://unsplash.com/photos/smiling-young-woman-with-braided-hair-and-glasses-outdoors-SL8UPMD3j1M",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-09-10T11:15:28.345545+00:00"
     }
   ],
-  "updated_at": "2026-09-18T15:01:21.918374+00:00"
+  "updated_at": "2026-09-18T16:01:19.979601+00:00"
 }
