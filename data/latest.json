@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to be inspired by this season's hottest looks, as we shine a spotlight on the most stunning Black and African women's hair trends of the moment!",
   "images": [
+    {
+      "id": "3pIewQthgpY",
+      "url": "https://images.unsplash.com/photo-1788579451624-9ae908ce3f22?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8V2VhdmVzJTIwRXh0ZW5zaW9ucyUyMEJsYWNrJTIwV29tZW4lMjBGYXNoaW9uJTIwUGhvdG9ncmFwaHl8ZW58MXwxfHx8MTc4OTc2MTYyN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1788579451624-9ae908ce3f22?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8V2VhdmVzJTIwRXh0ZW5zaW9ucyUyMEJsYWNrJTIwV29tZW4lMjBGYXNoaW9uJTIwUGhvdG9ncmFwaHl8ZW58MXwxfHx8MTc4OTc2MTYyN3ww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1788579451624-9ae908ce3f22?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8V2VhdmVzJTIwRXh0ZW5zaW9ucyUyMEJsYWNrJTIwV29tZW4lMjBGYXNoaW9uJTIwUGhvdG9ncmFwaHl8ZW58MXwxfHx8MTc4OTc2MTYyN3ww&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman with voluminous curly hair wearing a black lace top and jeans",
+      "description": "",
+      "photographer": "Luiz Rogério Nunes",
+      "photographer_url": "https://unsplash.com/@luizr_ph",
+      "photo_url": "https://unsplash.com/photos/woman-in-lace-top-and-jeans-3pIewQthgpY",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-09-18T20:00:12.825042+00:00"
+    },
     {
       "id": "DmDPVSbh5M4",
       "url": "https://images.unsplash.com/photo-1788500657746-0663965483f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8QWZyaWNhbiUyMHdvbWFuJTIwd2VhcmluZyUyMGRyZWFkbG9ja3MlMjBpbiUyMHN0dWRpb3xlbnwxfDF8fHwxNzg5NzQ3MjM2fDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-09-11T23:00:37.516123+00:00"
-    },
-    {
-      "id": "J8iDhPjE06U",
-      "url": "https://images.unsplash.com/photo-1786529744346-9df01c15e5a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8QWZyaWNhbiUyMFdvbWFuJTIwaW4lMjBTaXN0ZXJsb2NrcyUyMGFuZCUyMEhlYWR3cmFwJTIwUGhvdG98ZW58MXwxfHx8MTc4OTA4ODUyNHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1786529744346-9df01c15e5a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8QWZyaWNhbiUyMFdvbWFuJTIwaW4lMjBTaXN0ZXJsb2NrcyUyMGFuZCUyMEhlYWR3cmFwJTIwUGhvdG98ZW58MXwxfHx8MTc4OTA4ODUyNHww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1786529744346-9df01c15e5a4?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8QWZyaWNhbiUyMFdvbWFuJTIwaW4lMjBTaXN0ZXJsb2NrcyUyMGFuZCUyMEhlYWR3cmFwJTIwUGhvdG98ZW58MXwxfHx8MTc4OTA4ODUyNHww&ixlib=rb-4.1.0&q=85",
-      "alt": "An older woman wearing a patterned headwrap and a textured garment in profile",
-      "description": "Wedding guest at a Ugandan wedding.",
-      "photographer": "Lisa Marie Theck",
-      "photographer_url": "https://unsplash.com/@lisa_marie_theck",
-      "photo_url": "https://unsplash.com/photos/older-woman-in-patterned-headwrap-J8iDhPjE06U",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-09-11T01:00:09.865692+00:00"
     }
   ],
-  "updated_at": "2026-09-18T19:02:41.833542+00:00"
+  "updated_at": "2026-09-18T20:01:41.006294+00:00"
 }
