@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with this month's top picks, highlighting the most on-trend hairstyles of the season from Black and African cultures worldwide!",
   "images": [
+    {
+      "id": "wXA01jKyDYM",
+      "url": "https://images.unsplash.com/photo-1752343820427-8ba42af79b9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8RnVsYW5pJTIwYnJhaWRzJTIwYWRvcm4lMjB0cmFkaXRpb25hbCUyMEFmcmljYW4lMjB3ZWRkaW5nJTIwc2NlbmV8ZW58MXwxfHx8MTc4OTgyMjgzM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1752343820427-8ba42af79b9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8RnVsYW5pJTIwYnJhaWRzJTIwYWRvcm4lMjB0cmFkaXRpb25hbCUyMEFmcmljYW4lMjB3ZWRkaW5nJTIwc2NlbmV8ZW58MXwxfHx8MTc4OTgyMjgzM3ww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1752343820427-8ba42af79b9e?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8RnVsYW5pJTIwYnJhaWRzJTIwYWRvcm4lMjB0cmFkaXRpb25hbCUyMEFmcmljYW4lMjB3ZWRkaW5nJTIwc2NlbmV8ZW58MXwxfHx8MTc4OTgyMjgzM3ww&ixlib=rb-4.1.0&q=85",
+      "alt": "Smiling woman wearing traditional african attire",
+      "description": "",
+      "photographer": "proudlyswazi",
+      "photographer_url": "https://unsplash.com/@proudlyswazi",
+      "photo_url": "https://unsplash.com/photos/smiling-woman-wearing-traditional-african-attire-wXA01jKyDYM",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-09-19T13:00:07.475220+00:00"
+    },
     {
       "id": "VPICxQPc2cE",
       "url": "https://images.unsplash.com/photo-1789028152719-913cb94a750a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNHx8TmF0dXJhbCUyMGFmcm8lMjBwdWZmcyUyMHdpdGglMjBjb2xvcmZ1bCUyMHNjYXJ2ZXN8ZW58MXwxfHx8MTc4OTc4MzIzMnww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-09-13T06:00:10.235593+00:00"
-    },
-    {
-      "id": "zWofzQfci58",
-      "url": "https://images.unsplash.com/photo-1705343846742-4e04cd7198c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8R29kZGVzcyUyMEJyYWlkcyUyMEluJTIwQmVhdXRpZnVsJTIwQmxhY2slMjBIYWlyfGVufDF8MXx8fDE3ODkyNTA0NDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1705343846742-4e04cd7198c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8R29kZGVzcyUyMEJyYWlkcyUyMEluJTIwQmVhdXRpZnVsJTIwQmxhY2slMjBIYWlyfGVufDF8MXx8fDE3ODkyNTA0NDh8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1705343846742-4e04cd7198c6?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8R29kZGVzcyUyMEJyYWlkcyUyMEluJTIwQmVhdXRpZnVsJTIwQmxhY2slMjBIYWlyfGVufDF8MXx8fDE3ODkyNTA0NDh8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "a woman with dreadlocks standing on a porch",
-      "description": "",
-      "photographer": "Amir Abbaspoor",
-      "photographer_url": "https://unsplash.com/@amirabbaspoor",
-      "photo_url": "https://unsplash.com/photos/a-woman-with-dreadlocks-standing-on-a-porch-zWofzQfci58",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-09-12T22:00:08.355988+00:00"
     }
   ],
-  "updated_at": "2026-09-19T12:03:19.811166+00:00"
+  "updated_at": "2026-09-19T13:01:18.273144+00:00"
 }
