@@ -570,6 +570,21 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-09-19T16:00:06.684376+00:00"
+    },
+    {
+      "id": "EHjEIkmiZLM",
+      "url": "https://images.unsplash.com/photo-1789028152949-ae92d315c128?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8TmF0dXJhbCUyMEFmcm8lMjBIYWlyJTIwaW4lMjBDbG9zZSUyMFVwfGVufDF8MXx8fDE3ODk4ODQwMTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1789028152949-ae92d315c128?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8TmF0dXJhbCUyMEFmcm8lMjBIYWlyJTIwaW4lMjBDbG9zZSUyMFVwfGVufDF8MXx8fDE3ODk4ODQwMTh8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1789028152949-ae92d315c128?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8TmF0dXJhbCUyMEFmcm8lMjBIYWlyJTIwaW4lMjBDbG9zZSUyMFVwfGVufDF8MXx8fDE3ODk4ODQwMTh8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman with braided hair wearing a green jacket and floral rings",
+      "description": "",
+      "photographer": "Albert Luphahla",
+      "photographer_url": "https://unsplash.com/@kina_hitoshi",
+      "photo_url": "https://unsplash.com/photos/woman-with-braided-hair-and-rings-EHjEIkmiZLM",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-09-20T06:00:08.308239+00:00"
     }
   ]
 }
