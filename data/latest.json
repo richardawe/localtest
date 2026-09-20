@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with today's hottest Black and African women's hair trends, showcasing bold styles that are currently taking over the beauty scene globally!",
   "images": [
+    {
+      "id": "SLCN-rDkv00",
+      "url": "https://images.unsplash.com/photo-1761519092825-308101650410?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8V29tZW4lMjB3aXRoJTIwQ29ybnJvd3MlMjBhdCUyMHRoZSUyMEJlYWNofGVufDF8MXx8fDE3ODk5MzgwODl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1761519092825-308101650410?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8V29tZW4lMjB3aXRoJTIwQ29ybnJvd3MlMjBhdCUyMHRoZSUyMEJlYWNofGVufDF8MXx8fDE3ODk5MzgwODl8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1761519092825-308101650410?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8V29tZW4lMjB3aXRoJTIwQ29ybnJvd3MlMjBhdCUyMHRoZSUyMEJlYWNofGVufDF8MXx8fDE3ODk5MzgwODl8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman with braided hair on a sunny beach",
+      "description": "Teenage girl with a braid seen from behind, standing on seaside beach with a camel in the background. Desert coastal landscape, soft natural light, sense of freedom and solitude, travel and adventure mood.",
+      "photographer": "Tati Odintsova",
+      "photographer_url": "https://unsplash.com/@orangelatte",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-braided-hair-on-a-sunny-beach-SLCN-rDkv00",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-09-20T21:00:13.720859+00:00"
+    },
     {
       "id": "MJxBP2OsUis",
       "url": "https://images.unsplash.com/photo-1730141101018-2905a45329c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8QmxhY2slMjB3b21hbiUyMHdpdGglMjBib3glMjBicmFpZHMlMjBvbiUyMGhlYWR8ZW58MXwxfHx8MTc4OTg5NDgxM3ww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-09-14T12:00:06.618308+00:00"
-    },
-    {
-      "id": "08E_4V_uHtQ",
-      "url": "https://images.unsplash.com/photo-1752486268325-c562c3fb5467?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8U2lzdGVybG9ja3MlMjBvbiUyMG1hdHVyZSUyMEJsYWNrJTIwd29tYW4lMjdzJTIwaGVhZHNob3R8ZW58MXwxfHx8MTc4OTM4NzIyNnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1752486268325-c562c3fb5467?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8U2lzdGVybG9ja3MlMjBvbiUyMG1hdHVyZSUyMEJsYWNrJTIwd29tYW4lMjdzJTIwaGVhZHNob3R8ZW58MXwxfHx8MTc4OTM4NzIyNnww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1752486268325-c562c3fb5467?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8U2lzdGVybG9ja3MlMjBvbiUyMG1hdHVyZSUyMEJsYWNrJTIwd29tYW4lMjdzJTIwaGVhZHNob3R8ZW58MXwxfHx8MTc4OTM4NzIyNnww&ixlib=rb-4.1.0&q=85",
-      "alt": "A smiling woman with curly hair wears glasses",
-      "description": "Woman in a denim jacket with full natural curls wearing large black round eyeglasses. A chic blend of comfort and confidence.",
-      "photographer": "ZEELOOL Glasses",
-      "photographer_url": "https://unsplash.com/@zeelool_official",
-      "photo_url": "https://unsplash.com/photos/a-smiling-woman-with-curly-hair-wears-glasses-08E_4V_uHtQ",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-09-14T12:00:06.618308+00:00"
     }
   ],
-  "updated_at": "2026-09-20T20:03:15.058727+00:00"
+  "updated_at": "2026-09-20T21:03:11.422587+00:00"
 }
