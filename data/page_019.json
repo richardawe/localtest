@@ -735,6 +735,21 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-09-22T13:00:13.501366+00:00"
+    },
+    {
+      "id": "gATM1swK4UY",
+      "url": "https://images.unsplash.com/photo-1766107349875-51d1ad175cca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8QmVhdXRpZnVsJTIwQWZyaWNhbiUyMHdvbWVuJTIwd2l0aCUyMGFmcm9zJTIwb3V0c2lkZXxlbnwxfDF8fHwxNzkwMTgyODE3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1766107349875-51d1ad175cca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8QmVhdXRpZnVsJTIwQWZyaWNhbiUyMHdvbWVuJTIwd2l0aCUyMGFmcm9zJTIwb3V0c2lkZXxlbnwxfDF8fHwxNzkwMTgyODE3fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1766107349875-51d1ad175cca?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8QmVhdXRpZnVsJTIwQWZyaWNhbiUyMHdvbWVuJTIwd2l0aCUyMGFmcm9zJTIwb3V0c2lkZXxlbnwxfDF8fHwxNzkwMTgyODE3fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "Woman in traditional african attire with beaded necklace",
+      "description": "",
+      "photographer": "Stephen Tettey Atsu",
+      "photographer_url": "https://unsplash.com/@atsu_tettey",
+      "photo_url": "https://unsplash.com/photos/woman-in-traditional-african-attire-with-beaded-necklace-gATM1swK4UY",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-09-23T17:00:06.213112+00:00"
     }
   ]
 }
