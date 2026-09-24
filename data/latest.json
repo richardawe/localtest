@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with this month's top Black and African women's hair trends, showcasing vibrant styles that are currently ruling the beauty scene!",
   "images": [
+    {
+      "id": "eiKJjuJ8Vvs",
+      "url": "https://images.unsplash.com/photo-1771896672767-eb8ee00357a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8U2VuZWdhbGVzZSUyMFR3aXN0cyUyMERvbmUlMjBpbiUyMEJlYXV0aWZ1bCUyMEN1cmxzfGVufDF8MXx8fDE3OTAyNDA0NDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1771896672767-eb8ee00357a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8U2VuZWdhbGVzZSUyMFR3aXN0cyUyMERvbmUlMjBpbiUyMEJlYXV0aWZ1bCUyMEN1cmxzfGVufDF8MXx8fDE3OTAyNDA0NDR8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1771896672767-eb8ee00357a7?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8U2VuZWdhbGVzZSUyMFR3aXN0cyUyMERvbmUlMjBpbiUyMEJlYXV0aWZ1bCUyMEN1cmxzfGVufDF8MXx8fDE3OTAyNDA0NDR8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "A young black woman in a green dress outdoors",
+      "description": "",
+      "photographer": "Moon Bouy",
+      "photographer_url": "https://unsplash.com/@jackson345",
+      "photo_url": "https://unsplash.com/photos/a-young-black-woman-in-a-green-dress-outdoors-eiKJjuJ8Vvs",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-09-24T09:00:09.278699+00:00"
+    },
     {
       "id": "44Ydt_fTrko",
       "url": "https://images.unsplash.com/photo-1789066552187-b3e8c53c13c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8RHJlYWRsb2NrcyUyMG9uJTIwQmxhY2slMjBXb21lbiUyMGluJTIwTmF0dXJlJTIwU2V0dGluZ3N8ZW58MXwxfHx8MTc5MDIxNTIzOXww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-09-19T16:00:06.684376+00:00"
-    },
-    {
-      "id": "JznIMbpINDA",
-      "url": "https://images.unsplash.com/photo-1784979196659-c6f167c103dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8V2VhdmVzJTIwZXh0ZW5zaW9ucyUyMGZvciUyMHNob3J0JTIwYmxhY2slMjBoYWlyJTIwc3R5bGVzfGVufDF8MXx8fDE3ODk4MzM2MzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1784979196659-c6f167c103dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8V2VhdmVzJTIwZXh0ZW5zaW9ucyUyMGZvciUyMHNob3J0JTIwYmxhY2slMjBoYWlyJTIwc3R5bGVzfGVufDF8MXx8fDE3ODk4MzM2MzV8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1784979196659-c6f167c103dd?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8V2VhdmVzJTIwZXh0ZW5zaW9ucyUyMGZvciUyMHNob3J0JTIwYmxhY2slMjBoYWlyJTIwc3R5bGVzfGVufDF8MXx8fDE3ODk4MzM2MzV8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "Young black woman in profile wearing white crop top",
-      "description": "",
-      "photographer": "McFollis",
-      "photographer_url": "https://unsplash.com/@thisismcfollis",
-      "photo_url": "https://unsplash.com/photos/young-black-woman-in-profile-wearing-white-crop-top-JznIMbpINDA",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-09-19T16:00:06.684376+00:00"
     }
   ],
-  "updated_at": "2026-09-24T08:01:33.787491+00:00"
+  "updated_at": "2026-09-24T09:02:00.664592+00:00"
 }
