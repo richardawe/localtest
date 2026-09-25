@@ -1,6 +1,21 @@
 {
-  "summary": "Get ready to slay with the hottest hairstyles of the season, featuring the most iconic looks in Black and African women's hair trends!",
+  "summary": "Get ready to slay with the latest hair trends that are taking over, straight from the styles of inspiring Black and African women today!",
   "images": [
+    {
+      "id": "pofXsCn86vo",
+      "url": "https://images.unsplash.com/photo-1779370574337-c86fbed8b59a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw3fHxDbGFzc2ljJTIwY29ybnJvd3MlMjBvbiUyMEFmcmljYW4lMjBoZXJpdGFnZSUyMHdvbWFufGVufDF8MXx8fDE3OTAzNjY0NTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1779370574337-c86fbed8b59a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw3fHxDbGFzc2ljJTIwY29ybnJvd3MlMjBvbiUyMEFmcmljYW4lMjBoZXJpdGFnZSUyMHdvbWFufGVufDF8MXx8fDE3OTAzNjY0NTh8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1779370574337-c86fbed8b59a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw3fHxDbGFzc2ljJTIwY29ybnJvd3MlMjBvbiUyMEFmcmljYW4lMjBoZXJpdGFnZSUyMHdvbWFufGVufDF8MXx8fDE3OTAzNjY0NTh8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "Woman in pink headwrap and dark dress sits on swing",
+      "description": "",
+      "photographer": "Kyle Kioko",
+      "photographer_url": "https://unsplash.com/@kylekioko",
+      "photo_url": "https://unsplash.com/photos/woman-in-pink-headwrap-and-dark-dress-sits-on-swing-pofXsCn86vo",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-09-25T20:00:09.971512+00:00"
+    },
     {
       "id": "hXtQp-3dT_4",
       "url": "https://images.unsplash.com/photo-1706558429594-da3b5fc84371?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw0fHxDbG9zZS11cCUyMG9mJTIwRHJlYWRsb2NzJTIwb24lMjBhJTIwQmxhY2t8ZW58MXwxfHx8MTc5MDM2Mjg0NXww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-09-20T09:00:13.359829+00:00"
-    },
-    {
-      "id": "EHjEIkmiZLM",
-      "url": "https://images.unsplash.com/photo-1789028152949-ae92d315c128?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8TmF0dXJhbCUyMEFmcm8lMjBIYWlyJTIwaW4lMjBDbG9zZSUyMFVwfGVufDF8MXx8fDE3ODk4ODQwMTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1789028152949-ae92d315c128?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8TmF0dXJhbCUyMEFmcm8lMjBIYWlyJTIwaW4lMjBDbG9zZSUyMFVwfGVufDF8MXx8fDE3ODk4ODQwMTh8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1789028152949-ae92d315c128?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8TmF0dXJhbCUyMEFmcm8lMjBIYWlyJTIwaW4lMjBDbG9zZSUyMFVwfGVufDF8MXx8fDE3ODk4ODQwMTh8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "A woman with braided hair wearing a green jacket and floral rings",
-      "description": "",
-      "photographer": "Albert Luphahla",
-      "photographer_url": "https://unsplash.com/@kina_hitoshi",
-      "photo_url": "https://unsplash.com/photos/woman-with-braided-hair-and-rings-EHjEIkmiZLM",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-09-20T06:00:08.308239+00:00"
     }
   ],
-  "updated_at": "2026-09-25T19:01:43.084088+00:00"
+  "updated_at": "2026-09-25T20:17:58.447925+00:00"
 }
