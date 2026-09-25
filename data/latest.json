@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with the hottest hairstyles of the season, featuring the most iconic looks in Black and African women's hair trends!",
   "images": [
+    {
+      "id": "hXtQp-3dT_4",
+      "url": "https://images.unsplash.com/photo-1706558429594-da3b5fc84371?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw0fHxDbG9zZS11cCUyMG9mJTIwRHJlYWRsb2NzJTIwb24lMjBhJTIwQmxhY2t8ZW58MXwxfHx8MTc5MDM2Mjg0NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1706558429594-da3b5fc84371?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw0fHxDbG9zZS11cCUyMG9mJTIwRHJlYWRsb2NzJTIwb24lMjBhJTIwQmxhY2t8ZW58MXwxfHx8MTc5MDM2Mjg0NXww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1706558429594-da3b5fc84371?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw0fHxDbG9zZS11cCUyMG9mJTIwRHJlYWRsb2NzJTIwb24lMjBhJTIwQmxhY2t8ZW58MXwxfHx8MTc5MDM2Mjg0NXww&ixlib=rb-4.1.0&q=85",
+      "alt": "a woman with dreadlocks is posing for a picture",
+      "description": "",
+      "photographer": "Shalom Ejiofor",
+      "photographer_url": "https://unsplash.com/@shalom_ej",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-dreadlocks-is-posing-for-a-picture-hXtQp-3dT_4",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-09-25T19:00:07.641056+00:00"
+    },
     {
       "id": "yebx7EYRdJ0",
       "url": "https://images.unsplash.com/photo-1623778461178-4fbda06b8094?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8RnVsYW5pJTIwQnJhaWRzJTIwb24lMjBCbGFjayUyME1vZGVsfGVufDF8MXx8fDE3OTAyNTQ4NDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-09-20T06:00:08.308239+00:00"
-    },
-    {
-      "id": "jpgKq-fbyPs",
-      "url": "https://images.unsplash.com/photo-1785273925918-c83cb8d8caec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw5fHxXZWF2ZXMlMjBleHRlbnNpb25zJTIwZm9yJTIwc2hvcnQlMjBibGFjayUyMGhhaXIlMjBzdHlsZXN8ZW58MXwxfHx8MTc4OTgzMzYzNXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1785273925918-c83cb8d8caec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw5fHxXZWF2ZXMlMjBleHRlbnNpb25zJTIwZm9yJTIwc2hvcnQlMjBibGFjayUyMGhhaXIlMjBzdHlsZXN8ZW58MXwxfHx8MTc4OTgzMzYzNXww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1785273925918-c83cb8d8caec?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw5fHxXZWF2ZXMlMjBleHRlbnNpb25zJTIwZm9yJTIwc2hvcnQlMjBibGFjayUyMGhhaXIlMjBzdHlsZXN8ZW58MXwxfHx8MTc4OTgzMzYzNXww&ixlib=rb-4.1.0&q=85",
-      "alt": "Beautiful young black woman with short hair looking left",
-      "description": "",
-      "photographer": "McFollis",
-      "photographer_url": "https://unsplash.com/@thisismcfollis",
-      "photo_url": "https://unsplash.com/photos/beautiful-young-black-woman-with-short-hair-looking-left-jpgKq-fbyPs",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-09-19T16:00:06.684376+00:00"
     }
   ],
-  "updated_at": "2026-09-25T18:02:18.720284+00:00"
+  "updated_at": "2026-09-25T19:01:43.084088+00:00"
 }
