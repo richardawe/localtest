@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready for a vibrant celebration of beauty as we dive into this season's hottest hairstyles trending among Black and African women globally!",
   "images": [
+    {
+      "id": "plOUn-kWZ3o",
+      "url": "https://images.unsplash.com/photo-1774380255851-72e8a36d7a59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw0fHxBZnJpY2FuJTIwd29tYW4lMjBkcmVhZGxvY2tzJTIwaW4lMjBwcm9maWxlJTIwdmlld3xlbnwxfDF8fHwxNzkwNTMyMDYyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1774380255851-72e8a36d7a59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw0fHxBZnJpY2FuJTIwd29tYW4lMjBkcmVhZGxvY2tzJTIwaW4lMjBwcm9maWxlJTIwdmlld3xlbnwxfDF8fHwxNzkwNTMyMDYyfDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1774380255851-72e8a36d7a59?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw0fHxBZnJpY2FuJTIwd29tYW4lMjBkcmVhZGxvY2tzJTIwaW4lMjBwcm9maWxlJTIwdmlld3xlbnwxfDF8fHwxNzkwNTMyMDYyfDA&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman in a flowing colorful skirt and white top",
+      "description": "Elegant African woman in a vibrant skirt, standing confidently in soft natural light.",
+      "photographer": "Dion Martins",
+      "photographer_url": "https://unsplash.com/@dionmartins",
+      "photo_url": "https://unsplash.com/photos/a-woman-in-a-flowing-colorful-skirt-and-white-top-plOUn-kWZ3o",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-09-27T18:00:10.658012+00:00"
+    },
     {
       "id": "_rLbTJ7lks4",
       "url": "https://images.unsplash.com/photo-1697176927075-7fc09f609a0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw1fHxOYXR1cmFsJTIwQWZyb3MlMjBvZiUyMEFmcmljYW4lMjBBbWVyaWNhbiUyMFNpc3RlcnN8ZW58MXwxfHx8MTc5MDQ5OTYzMXww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-09-21T13:00:09.682132+00:00"
-    },
-    {
-      "id": "Ws4R4xvko7U",
-      "url": "https://images.unsplash.com/photo-1784462748017-ecef071a67d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw4fHxBZnJpY2FuJTIwTG9jcyUyMERyZWFkbG9ja3MlMjBBZG9yYWJsZSUyMEtpZHMlMjBGYWNlc3xlbnwxfDF8fHwxNzg5OTk1Nzc5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1784462748017-ecef071a67d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw4fHxBZnJpY2FuJTIwTG9jcyUyMERyZWFkbG9ja3MlMjBBZG9yYWJsZSUyMEtpZHMlMjBGYWNlc3xlbnwxfDF8fHwxNzg5OTk1Nzc5fDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1784462748017-ecef071a67d3?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw4fHxBZnJpY2FuJTIwTG9jcyUyMERyZWFkbG9ja3MlMjBBZG9yYWJsZSUyMEtpZHMlMjBGYWNlc3xlbnwxfDF8fHwxNzg5OTk1Nzc5fDA&ixlib=rb-4.1.0&q=85",
-      "alt": "Young african child with braided hair holding orange flowers",
-      "description": "MORNIG love",
-      "photographer": "Gylain Omer",
-      "photographer_url": "https://unsplash.com/@gullin_omer",
-      "photo_url": "https://unsplash.com/photos/young-african-child-with-braided-hair-holding-orange-flowers-Ws4R4xvko7U",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-09-21T13:00:09.682132+00:00"
     }
   ],
-  "updated_at": "2026-09-27T17:01:05.684837+00:00"
+  "updated_at": "2026-09-27T18:04:46.674952+00:00"
 }
