@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with today's hottest Black and African women's hair trends, blending bold styles with effortless elegance!",
   "images": [
+    {
+      "id": "PfQPfbGVOHA",
+      "url": "https://images.unsplash.com/photo-1773921637592-dbace009ba47?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8QWZyaWNhbiUyMHdvbWVuJTIwd2l0aCUyMGRyZWFkbG9ja3MlMjBuYXR1cmFsJTIwYmVhdXR5fGVufDF8MXx8fDE3OTA0NzQ0NjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1773921637592-dbace009ba47?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8QWZyaWNhbiUyMHdvbWVuJTIwd2l0aCUyMGRyZWFkbG9ja3MlMjBuYXR1cmFsJTIwYmVhdXR5fGVufDF8MXx8fDE3OTA0NzQ0NjR8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1773921637592-dbace009ba47?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8QWZyaWNhbiUyMHdvbWVuJTIwd2l0aCUyMGRyZWFkbG9ja3MlMjBuYXR1cmFsJTIwYmVhdXR5fGVufDF8MXx8fDE3OTA0NzQ0NjR8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "A young woman with braided hair in a light dress",
+      "description": "",
+      "photographer": "K Studios",
+      "photographer_url": "https://unsplash.com/@kstudios",
+      "photo_url": "https://unsplash.com/photos/a-young-woman-with-braided-hair-in-a-light-dress-PfQPfbGVOHA",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-09-27T02:00:14.099639+00:00"
+    },
     {
       "id": "pofXsCn86vo",
       "url": "https://images.unsplash.com/photo-1779370574337-c86fbed8b59a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw3fHxDbGFzc2ljJTIwY29ybnJvd3MlMjBvbiUyMEFmcmljYW4lMjBoZXJpdGFnZSUyMHdvbWFufGVufDF8MXx8fDE3OTAzNjY0NTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-09-20T21:00:13.720859+00:00"
-    },
-    {
-      "id": "MJxBP2OsUis",
-      "url": "https://images.unsplash.com/photo-1730141101018-2905a45329c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8QmxhY2slMjB3b21hbiUyMHdpdGglMjBib3glMjBicmFpZHMlMjBvbiUyMGhlYWR8ZW58MXwxfHx8MTc4OTg5NDgxM3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1730141101018-2905a45329c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8QmxhY2slMjB3b21hbiUyMHdpdGglMjBib3glMjBicmFpZHMlMjBvbiUyMGhlYWR8ZW58MXwxfHx8MTc4OTg5NDgxM3ww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1730141101018-2905a45329c7?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8QmxhY2slMjB3b21hbiUyMHdpdGglMjBib3glMjBicmFpZHMlMjBvbiUyMGhlYWR8ZW58MXwxfHx8MTc4OTg5NDgxM3ww&ixlib=rb-4.1.0&q=85",
-      "alt": "A woman with a necklace on her neck",
-      "description": "Head shot of a black woman",
-      "photographer": "Lisa Marie Theck",
-      "photographer_url": "https://unsplash.com/@lisa_marie_theck",
-      "photo_url": "https://unsplash.com/photos/a-woman-with-a-necklace-on-her-neck-MJxBP2OsUis",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-09-20T09:00:13.359829+00:00"
     }
   ],
-  "updated_at": "2026-09-27T01:06:43.982169+00:00"
+  "updated_at": "2026-09-27T02:05:48.447192+00:00"
 }
