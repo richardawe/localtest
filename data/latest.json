@@ -1,6 +1,36 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with the latest looks, as we dive into the most trendy hairstyles rocking Black and African women's crowns right now!",
   "images": [
+    {
+      "id": "J5dhtx9a6ts",
+      "url": "https://images.unsplash.com/photo-1790574305499-7b1497945dda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw4fHx0ZWVuaWUlMjB3ZWVuaWUlMjBhZnJvcyUyMG9uJTIweW91bmclMjBnaXJsc3xlbnwxfDF8fHwxNzkwNjAwNDMzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1790574305499-7b1497945dda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw4fHx0ZWVuaWUlMjB3ZWVuaWUlMjBhZnJvcyUyMG9uJTIweW91bmclMjBnaXJsc3xlbnwxfDF8fHwxNzkwNjAwNDMzfDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1790574305499-7b1497945dda?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw4fHx0ZWVuaWUlMjB3ZWVuaWUlMjBhZnJvcyUyMG9uJTIweW91bmclMjBnaXJsc3xlbnwxfDF8fHwxNzkwNjAwNDMzfDA&ixlib=rb-4.1.0&q=85",
+      "alt": "A person with curly blonde and brown hair wearing a striped shirt",
+      "description": "Portrait of unhappy African American woman showing thumbs-down hand gesture on black background. Negative emotion and people concept.",
+      "photographer": "Vitaly Gariev",
+      "photographer_url": "https://unsplash.com/@silverkblack",
+      "photo_url": "https://unsplash.com/photos/person-with-curly-hair-in-stripes-J5dhtx9a6ts",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-09-28T13:00:10.473089+00:00"
+    },
+    {
+      "id": "P4Ncx07wJ1Q",
+      "url": "https://images.unsplash.com/photo-1790574318400-42a36b8fcdca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8dGVlbmllJTIwd2VlbmllJTIwYWZyb3MlMjBvbiUyMHlvdW5nJTIwZ2lybHN8ZW58MXwxfHx8MTc5MDYwMDQzM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1790574318400-42a36b8fcdca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8dGVlbmllJTIwd2VlbmllJTIwYWZyb3MlMjBvbiUyMHlvdW5nJTIwZ2lybHN8ZW58MXwxfHx8MTc5MDYwMDQzM3ww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1790574318400-42a36b8fcdca?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8dGVlbmllJTIwd2VlbmllJTIwYWZyb3MlMjBvbiUyMHlvdW5nJTIwZ2lybHN8ZW58MXwxfHx8MTc5MDYwMDQzM3ww&ixlib=rb-4.1.0&q=85",
+      "alt": "A person with curly blonde hair and a septum piercing wearing a striped shirt",
+      "description": "Portrait of African American woman thinking then having brilliant idea on black background. Expression and emotion concept.",
+      "photographer": "Vitaly Gariev",
+      "photographer_url": "https://unsplash.com/@silverkblack",
+      "photo_url": "https://unsplash.com/photos/person-with-curly-hair-and-piercing-P4Ncx07wJ1Q",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-09-28T13:00:10.473089+00:00"
+    },
     {
       "id": "plOUn-kWZ3o",
       "url": "https://images.unsplash.com/photo-1774380255851-72e8a36d7a59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw0fHxBZnJpY2FuJTIwd29tYW4lMjBkcmVhZGxvY2tzJTIwaW4lMjBwcm9maWxlJTIwdmlld3xlbnwxfDF8fHwxNzkwNTMyMDYyfDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -270,37 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-09-21T13:00:09.682132+00:00"
-    },
-    {
-      "id": "J8vLHjBMhJU",
-      "url": "https://images.unsplash.com/photo-1787779350771-a4253704dcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8TmF0dXJhbCUyMEFmcm8lMjBQaWN1cmVkJTIwV29tZW4lMjBJbiUyME5pZ2VyaWF8ZW58MXwxfHx8MTc4OTk5NTYxM3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1787779350771-a4253704dcad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8TmF0dXJhbCUyMEFmcm8lMjBQaWN1cmVkJTIwV29tZW4lMjBJbiUyME5pZ2VyaWF8ZW58MXwxfHx8MTc4OTk5NTYxM3ww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1787779350771-a4253704dcad?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8TmF0dXJhbCUyMEFmcm8lMjBQaWN1cmVkJTIwV29tZW4lMjBJbiUyME5pZ2VyaWF8ZW58MXwxfHx8MTc4OTk5NTYxM3ww&ixlib=rb-4.1.0&q=85",
-      "alt": "A woman in a blue satin kaftan and headwrap walking on a Lagos street",
-      "description": "'The Street Is My Runway' a fashion project by Ben Iwara https://youtu.be/GtIaSyFZIGc",
-      "photographer": "Ben Iwara",
-      "photographer_url": "https://unsplash.com/@1hundredimages",
-      "photo_url": "https://unsplash.com/photos/woman-in-blue-kaftan-in-lagos-J8vLHjBMhJU",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-09-21T13:00:09.682132+00:00"
-    },
-    {
-      "id": "iVv1bwJfeyU",
-      "url": "https://images.unsplash.com/photo-1787779325589-af1886853d11?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8TmF0dXJhbCUyMEFmcm8lMjBQaWN1cmVkJTIwV29tZW4lMjBJbiUyME5pZ2VyaWF8ZW58MXwxfHx8MTc4OTk5NTYxM3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1787779325589-af1886853d11?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8TmF0dXJhbCUyMEFmcm8lMjBQaWN1cmVkJTIwV29tZW4lMjBJbiUyME5pZ2VyaWF8ZW58MXwxfHx8MTc4OTk5NTYxM3ww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1787779325589-af1886853d11?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8TmF0dXJhbCUyMEFmcm8lMjBQaWN1cmVkJTIwV29tZW4lMjBJbiUyME5pZ2VyaWF8ZW58MXwxfHx8MTc4OTk5NTYxM3ww&ixlib=rb-4.1.0&q=85",
-      "alt": "A woman in a blue coat and patterned headwrap on a street in Lagos",
-      "description": "'The Street Is My Runway' a fashion project by Ben Iwara https://youtu.be/GtIaSyFZIGc",
-      "photographer": "Ben Iwara",
-      "photographer_url": "https://unsplash.com/@1hundredimages",
-      "photo_url": "https://unsplash.com/photos/woman-in-blue-coat-in-lagos-iVv1bwJfeyU",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-09-21T13:00:09.682132+00:00"
     }
   ],
-  "updated_at": "2026-09-28T12:01:15.268586+00:00"
+  "updated_at": "2026-09-28T13:01:28.557994+00:00"
 }
