@@ -1,6 +1,36 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with the latest and greatest in Black and African women's hair trends, straight from the runways to your roots!",
   "images": [
+    {
+      "id": "PMk3Kl_dLDo",
+      "url": "https://images.unsplash.com/photo-1790574318148-981c7b4ceb1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8VGVlbmllJTIwd2VlbmllJTIwYWZyb3MlMjBjbG9zZSUyMHVwfGVufDF8MXx8fDE3OTA2MDc2MzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1790574318148-981c7b4ceb1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8VGVlbmllJTIwd2VlbmllJTIwYWZyb3MlMjBjbG9zZSUyMHVwfGVufDF8MXx8fDE3OTA2MDc2MzR8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1790574318148-981c7b4ceb1b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8VGVlbmllJTIwd2VlbmllJTIwYWZyb3MlMjBjbG9zZSUyMHVwfGVufDF8MXx8fDE3OTA2MDc2MzR8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "A person with curly blonde hair and a septum piercing in a striped shirt",
+      "description": "Portrait of surprised and shocked African American woman looking at camera on black background. Face expression and emotion concept.",
+      "photographer": "Vitaly Gariev",
+      "photographer_url": "https://unsplash.com/@silverkblack",
+      "photo_url": "https://unsplash.com/photos/person-with-curly-hair-and-piercing-PMk3Kl_dLDo",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-09-28T15:00:09.575411+00:00"
+    },
+    {
+      "id": "1K1y3jLgR5Q",
+      "url": "https://images.unsplash.com/photo-1790574305465-45a0e51e85ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNHx8VGVlbmllJTIwd2VlbmllJTIwYWZyb3MlMjBjbG9zZSUyMHVwfGVufDF8MXx8fDE3OTA2MDc2MzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1790574305465-45a0e51e85ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNHx8VGVlbmllJTIwd2VlbmllJTIwYWZyb3MlMjBjbG9zZSUyMHVwfGVufDF8MXx8fDE3OTA2MDc2MzR8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1790574305465-45a0e51e85ac?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNHx8VGVlbmllJTIwd2VlbmllJTIwYWZyb3MlMjBjbG9zZSUyMHVwfGVufDF8MXx8fDE3OTA2MDc2MzR8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "A person with curly blonde hair and a septum piercing looking forward",
+      "description": "Portrait of serious African American woman looking at camera on black color background. People and face expression concept.",
+      "photographer": "Vitaly Gariev",
+      "photographer_url": "https://unsplash.com/@silverkblack",
+      "photo_url": "https://unsplash.com/photos/person-with-septum-piercing-1K1y3jLgR5Q",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-09-28T15:00:09.575411+00:00"
+    },
     {
       "id": "J5dhtx9a6ts",
       "url": "https://images.unsplash.com/photo-1790574305499-7b1497945dda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw4fHx0ZWVuaWUlMjB3ZWVuaWUlMjBhZnJvcyUyMG9uJTIweW91bmclMjBnaXJsc3xlbnwxfDF8fHwxNzkwNjAwNDMzfDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -270,37 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-09-22T13:00:13.501366+00:00"
-    },
-    {
-      "id": "mjLLV7wQEX8",
-      "url": "https://images.unsplash.com/photo-1774773133456-0dccca9e5afd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8Q29ybnJvd3MlMjBhbmQlMjBoZWFkJTIwd3JhcHMlMjBib2hlbWlhbiUyMGZhc2hpb258ZW58MXwxfHx8MTc5MDA0OTc5OHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1774773133456-0dccca9e5afd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8Q29ybnJvd3MlMjBhbmQlMjBoZWFkJTIwd3JhcHMlMjBib2hlbWlhbiUyMGZhc2hpb258ZW58MXwxfHx8MTc5MDA0OTc5OHww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1774773133456-0dccca9e5afd?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8Q29ybnJvd3MlMjBhbmQlMjBoZWFkJTIwd3JhcHMlMjBib2hlbWlhbiUyMGZhc2hpb258ZW58MXwxfHx8MTc5MDA0OTc5OHww&ixlib=rb-4.1.0&q=85",
-      "alt": "Woman with braided hair leaning against vintage van",
-      "description": "",
-      "photographer": "Michael Kyule",
-      "photographer_url": "https://unsplash.com/@madness_leahcim_",
-      "photo_url": "https://unsplash.com/photos/woman-with-braided-hair-leaning-against-vintage-van-mjLLV7wQEX8",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-09-22T04:00:11.261097+00:00"
-    },
-    {
-      "id": "s21sU6V0cPY",
-      "url": "https://images.unsplash.com/photo-1787779338083-92170d1afa57?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8TmF0dXJhbCUyMEFmcm8lMjBQaWN1cmVkJTIwV29tZW4lMjBJbiUyME5pZ2VyaWF8ZW58MXwxfHx8MTc4OTk5NTYxM3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1787779338083-92170d1afa57?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8TmF0dXJhbCUyMEFmcm8lMjBQaWN1cmVkJTIwV29tZW4lMjBJbiUyME5pZ2VyaWF8ZW58MXwxfHx8MTc4OTk5NTYxM3ww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1787779338083-92170d1afa57?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8TmF0dXJhbCUyMEFmcm8lMjBQaWN1cmVkJTIwV29tZW4lMjBJbiUyME5pZ2VyaWF8ZW58MXwxfHx8MTc4OTk5NTYxM3ww&ixlib=rb-4.1.0&q=85",
-      "alt": "A woman in a bright blue coat and patterned headwrap in Lagos, Nigeria",
-      "description": "'The Street Is My Runway' a fashion project by Ben Iwara https://youtu.be/GtIaSyFZIGc",
-      "photographer": "Ben Iwara",
-      "photographer_url": "https://unsplash.com/@1hundredimages",
-      "photo_url": "https://unsplash.com/photos/woman-in-blue-coat-in-lagos-s21sU6V0cPY",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-09-21T13:00:09.682132+00:00"
     }
   ],
-  "updated_at": "2026-09-28T14:01:12.955687+00:00"
+  "updated_at": "2026-09-28T15:01:17.150186+00:00"
 }
