@@ -1,6 +1,36 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with the boldest, most majestic hairstyles making waves in the global beauty scene right now!",
   "images": [
+    {
+      "id": "gQGlitmcmPk",
+      "url": "https://images.unsplash.com/photo-1789028152731-c32c885a93ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw1fHxMb2NzJTIwd2l0aCUyMGRyZWFkbG9ja3MlMjBpbiUyMEFmcmljYW4lMjBjdWx0dXJlfGVufDF8MXx8fDE3OTA2MTQ4MjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1789028152731-c32c885a93ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw1fHxMb2NzJTIwd2l0aCUyMGRyZWFkbG9ja3MlMjBpbiUyMEFmcmljYW4lMjBjdWx0dXJlfGVufDF8MXx8fDE3OTA2MTQ4MjF8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1789028152731-c32c885a93ba?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw1fHxMb2NzJTIwd2l0aCUyMGRyZWFkbG9ja3MlMjBpbiUyMEFmcmljYW4lMjBjdWx0dXJlfGVufDF8MXx8fDE3OTA2MTQ4MjF8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "A person with dreadlocks wearing a fur-trimmed hat and a tan jacket",
+      "description": "",
+      "photographer": "Albert Luphahla",
+      "photographer_url": "https://unsplash.com/@kina_hitoshi",
+      "photo_url": "https://unsplash.com/photos/person-in-fur-hat-and-jacket-gQGlitmcmPk",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-09-28T17:00:08.669908+00:00"
+    },
+    {
+      "id": "JoB_OCmlufk",
+      "url": "https://images.unsplash.com/photo-1789028152763-ff8aa7b59dad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw4fHxMb2NzJTIwd2l0aCUyMGRyZWFkbG9ja3MlMjBpbiUyMEFmcmljYW4lMjBjdWx0dXJlfGVufDF8MXx8fDE3OTA2MTQ4MjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1789028152763-ff8aa7b59dad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw4fHxMb2NzJTIwd2l0aCUyMGRyZWFkbG9ja3MlMjBpbiUyMEFmcmljYW4lMjBjdWx0dXJlfGVufDF8MXx8fDE3OTA2MTQ4MjF8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1789028152763-ff8aa7b59dad?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw4fHxMb2NzJTIwd2l0aCUyMGRyZWFkbG9ja3MlMjBpbiUyMEFmcmljYW4lMjBjdWx0dXJlfGVufDF8MXx8fDE3OTA2MTQ4MjF8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "A person with dreadlocks wearing a fur-trimmed hat and tan jacket outdoors",
+      "description": "",
+      "photographer": "Albert Luphahla",
+      "photographer_url": "https://unsplash.com/@kina_hitoshi",
+      "photo_url": "https://unsplash.com/photos/person-in-fur-hat-and-jacket-JoB_OCmlufk",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-09-28T17:00:08.669908+00:00"
+    },
     {
       "id": "PMk3Kl_dLDo",
       "url": "https://images.unsplash.com/photo-1790574318148-981c7b4ceb1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8VGVlbmllJTIwd2VlbmllJTIwYWZyb3MlMjBjbG9zZSUyMHVwfGVufDF8MXx8fDE3OTA2MDc2MzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -270,37 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-09-23T17:00:06.213112+00:00"
-    },
-    {
-      "id": "e4d3hWsKvpk",
-      "url": "https://images.unsplash.com/photo-1760504429735-ab6dc7e22cf1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8QmVhdXRpZnVsJTIwQWZyaWNhbiUyMHdvbWVuJTIwd2l0aCUyMGFmcm9zJTIwb3V0c2lkZXxlbnwxfDF8fHwxNzkwMTgyODE3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1760504429735-ab6dc7e22cf1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8QmVhdXRpZnVsJTIwQWZyaWNhbiUyMHdvbWVuJTIwd2l0aCUyMGFmcm9zJTIwb3V0c2lkZXxlbnwxfDF8fHwxNzkwMTgyODE3fDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1760504429735-ab6dc7e22cf1?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8QmVhdXRpZnVsJTIwQWZyaWNhbiUyMHdvbWVuJTIwd2l0aCUyMGFmcm9zJTIwb3V0c2lkZXxlbnwxfDF8fHwxNzkwMTgyODE3fDA&ixlib=rb-4.1.0&q=85",
-      "alt": "Young black woman sitting in an orange car",
-      "description": "",
-      "photographer": "Michael Kyule",
-      "photographer_url": "https://unsplash.com/@madness_leahcim_",
-      "photo_url": "https://unsplash.com/photos/young-black-woman-sitting-in-an-orange-car-e4d3hWsKvpk",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-09-23T17:00:06.213112+00:00"
-    },
-    {
-      "id": "KgsdjYkfSz0",
-      "url": "https://images.unsplash.com/photo-1788500657753-45a2cedddbf8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8QWZyaWNhbiUyMHdvbWFuJTIwd2l0aCUyMGRyZWFkbG9ja3MlMjBpbiUyMHN0dWRpb3xlbnwxfDF8fHwxNzkwMDgyMTM1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1788500657753-45a2cedddbf8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8QWZyaWNhbiUyMHdvbWFuJTIwd2l0aCUyMGRyZWFkbG9ja3MlMjBpbiUyMHN0dWRpb3xlbnwxfDF8fHwxNzkwMDgyMTM1fDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1788500657753-45a2cedddbf8?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8QWZyaWNhbiUyMHdvbWFuJTIwd2l0aCUyMGRyZWFkbG9ja3MlMjBpbiUyMHN0dWRpb3xlbnwxfDF8fHwxNzkwMDgyMTM1fDA&ixlib=rb-4.1.0&q=85",
-      "alt": "A woman with long dark braided hair wearing a grey halter top",
-      "description": "",
-      "photographer": "Luiz Rogério Nunes",
-      "photographer_url": "https://unsplash.com/@luizr_ph",
-      "photo_url": "https://unsplash.com/photos/woman-with-braids-in-grey-top-KgsdjYkfSz0",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-09-22T13:00:13.501366+00:00"
     }
   ],
-  "updated_at": "2026-09-28T16:02:28.632910+00:00"
+  "updated_at": "2026-09-28T17:01:23.213456+00:00"
 }
