@@ -1,6 +1,21 @@
 {
-  "summary": "Get ready to slay with the latest styles taking over the hair scene, featuring bold looks from Afro-textured queens around the world!",
+  "summary": "Get ready to slay with our latest roundup of the hottest Black and African women's hair trends, straight from the continent to your beauty board!",
   "images": [
+    {
+      "id": "MTXx5EB39vM",
+      "url": "https://images.unsplash.com/photo-1789028152733-54a551be2e8b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8QmFudHUlMjBLbm90cyUyMEFkb3JuZWQlMjBXaXRoJTIwQWZyaWNhbiUyMFByaW50c3xlbnwxfDF8fHwxNzkwNzE1NjE4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1789028152733-54a551be2e8b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8QmFudHUlMjBLbm90cyUyMEFkb3JuZWQlMjBXaXRoJTIwQWZyaWNhbiUyMFByaW50c3xlbnwxfDF8fHwxNzkwNzE1NjE4fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1789028152733-54a551be2e8b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8QmFudHUlMjBLbm90cyUyMEFkb3JuZWQlMjBXaXRoJTIwQWZyaWNhbiUyMFByaW50c3xlbnwxfDF8fHwxNzkwNzE1NjE4fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman with braided hair and a red headband kneeling on a red rug",
+      "description": "",
+      "photographer": "Albert Luphahla",
+      "photographer_url": "https://unsplash.com/@kina_hitoshi",
+      "photo_url": "https://unsplash.com/photos/woman-with-braided-hair-on-rug-MTXx5EB39vM",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-09-29T21:00:07.893354+00:00"
+    },
     {
       "id": "Xu_hIOpVyQA",
       "url": "https://images.unsplash.com/photo-1790065478614-5cfd1980f1d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw3fHxOYXR1cmFsJTIwYWZybyUyMHRleHR1cmVzJTIwYW5kJTIwc3R1bm5pbmclMjBzbWlsZXN8ZW58MXwxfHx8MTc5MDcxMjA3Nnww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-09-24T00:00:07.342911+00:00"
-    },
-    {
-      "id": "gATM1swK4UY",
-      "url": "https://images.unsplash.com/photo-1766107349875-51d1ad175cca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8QmVhdXRpZnVsJTIwQWZyaWNhbiUyMHdvbWVuJTIwd2l0aCUyMGFmcm9zJTIwb3V0c2lkZXxlbnwxfDF8fHwxNzkwMTgyODE3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1766107349875-51d1ad175cca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8QmVhdXRpZnVsJTIwQWZyaWNhbiUyMHdvbWVuJTIwd2l0aCUyMGFmcm9zJTIwb3V0c2lkZXxlbnwxfDF8fHwxNzkwMTgyODE3fDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1766107349875-51d1ad175cca?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8QmVhdXRpZnVsJTIwQWZyaWNhbiUyMHdvbWVuJTIwd2l0aCUyMGFmcm9zJTIwb3V0c2lkZXxlbnwxfDF8fHwxNzkwMTgyODE3fDA&ixlib=rb-4.1.0&q=85",
-      "alt": "Woman in traditional african attire with beaded necklace",
-      "description": "",
-      "photographer": "Stephen Tettey Atsu",
-      "photographer_url": "https://unsplash.com/@atsu_tettey",
-      "photo_url": "https://unsplash.com/photos/woman-in-traditional-african-attire-with-beaded-necklace-gATM1swK4UY",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-09-23T17:00:06.213112+00:00"
     }
   ],
-  "updated_at": "2026-09-29T20:02:25.717804+00:00"
+  "updated_at": "2026-09-29T21:00:57.714631+00:00"
 }
