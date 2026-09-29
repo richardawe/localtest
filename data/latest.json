@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay the day with our top picks for the most on-trend, gorgeous hairstyles rocking Black and African women right now!",
   "images": [
+    {
+      "id": "ivfQtFTJ0oE",
+      "url": "https://images.unsplash.com/photo-1760279446211-e93bb6d39083?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8QmxhY2slMjB3b21hbiUyMHJvY2tpbmclMjBnb2RkZXNzJTIwYnJhaWQlMjBzdHlsZXN8ZW58MXwxfHx8MTc5MDY4MzM4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1760279446211-e93bb6d39083?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8QmxhY2slMjB3b21hbiUyMHJvY2tpbmclMjBnb2RkZXNzJTIwYnJhaWQlMjBzdHlsZXN8ZW58MXwxfHx8MTc5MDY4MzM4N3ww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1760279446211-e93bb6d39083?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8QmxhY2slMjB3b21hbiUyMHJvY2tpbmclMjBnb2RkZXNzJTIwYnJhaWQlMjBzdHlsZXN8ZW58MXwxfHx8MTc5MDY4MzM4N3ww&ixlib=rb-4.1.0&q=85",
+      "alt": "Young woman with braids wearing a light blue outfit outdoors",
+      "description": "",
+      "photographer": "Moisés Fernández Tejero",
+      "photographer_url": "https://unsplash.com/@moisesfdzfotografia",
+      "photo_url": "https://unsplash.com/photos/young-woman-with-braids-wearing-a-light-blue-outfit-outdoors-ivfQtFTJ0oE",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-09-29T12:00:08.509713+00:00"
+    },
     {
       "id": "gQGlitmcmPk",
       "url": "https://images.unsplash.com/photo-1789028152731-c32c885a93ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw1fHxMb2NzJTIwd2l0aCUyMGRyZWFkbG9ja3MlMjBpbiUyMEFmcmljYW4lMjBjdWx0dXJlfGVufDF8MXx8fDE3OTA2MTQ4MjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-09-23T17:00:06.213112+00:00"
-    },
-    {
-      "id": "pvICMZ4ItTM",
-      "url": "https://images.unsplash.com/photo-1777742408863-a5566c0cf78c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8QmVhdXRpZnVsJTIwQWZyaWNhbiUyMHdvbWVuJTIwd2l0aCUyMGFmcm9zJTIwb3V0c2lkZXxlbnwxfDF8fHwxNzkwMTgyODE3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1777742408863-a5566c0cf78c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8QmVhdXRpZnVsJTIwQWZyaWNhbiUyMHdvbWVuJTIwd2l0aCUyMGFmcm9zJTIwb3V0c2lkZXxlbnwxfDF8fHwxNzkwMTgyODE3fDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1777742408863-a5566c0cf78c?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8QmVhdXRpZnVsJTIwQWZyaWNhbiUyMHdvbWVuJTIwd2l0aCUyMGFmcm9zJTIwb3V0c2lkZXxlbnwxfDF8fHwxNzkwMTgyODE3fDA&ixlib=rb-4.1.0&q=85",
-      "alt": "Woman with afro walks along a sunny boardwalk",
-      "description": "",
-      "photographer": "Kevin Grieve",
-      "photographer_url": "https://unsplash.com/@grievek1610begur",
-      "photo_url": "https://unsplash.com/photos/woman-with-afro-walks-along-a-sunny-boardwalk-pvICMZ4ItTM",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-09-23T17:00:06.213112+00:00"
     }
   ],
-  "updated_at": "2026-09-29T11:05:25.821514+00:00"
+  "updated_at": "2026-09-29T12:04:41.950669+00:00"
 }
