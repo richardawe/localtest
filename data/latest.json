@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with the latest styles taking over the hair scene, featuring bold looks from Afro-textured queens around the world!",
   "images": [
+    {
+      "id": "Xu_hIOpVyQA",
+      "url": "https://images.unsplash.com/photo-1790065478614-5cfd1980f1d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw3fHxOYXR1cmFsJTIwYWZybyUyMHRleHR1cmVzJTIwYW5kJTIwc3R1bm5pbmclMjBzbWlsZXN8ZW58MXwxfHx8MTc5MDcxMjA3Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1790065478614-5cfd1980f1d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw3fHxOYXR1cmFsJTIwYWZybyUyMHRleHR1cmVzJTIwYW5kJTIwc3R1bm5pbmclMjBzbWlsZXN8ZW58MXwxfHx8MTc5MDcxMjA3Nnww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1790065478614-5cfd1980f1d1?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw3fHxOYXR1cmFsJTIwYWZybyUyMHRleHR1cmVzJTIwYW5kJTIwc3R1bm5pbmclMjBzbWlsZXN8ZW58MXwxfHx8MTc5MDcxMjA3Nnww&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman with an afro laughing with eyes closed in a black and white portrait",
+      "description": "",
+      "photographer": "Adewale Shobaloju",
+      "photographer_url": "https://unsplash.com/@ogidan",
+      "photo_url": "https://unsplash.com/photos/woman-with-afro-laughing-in-portrait-Xu_hIOpVyQA",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-09-29T20:00:11.621433+00:00"
+    },
     {
       "id": "ivfQtFTJ0oE",
       "url": "https://images.unsplash.com/photo-1760279446211-e93bb6d39083?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8QmxhY2slMjB3b21hbiUyMHJvY2tpbmclMjBnb2RkZXNzJTIwYnJhaWQlMjBzdHlsZXN8ZW58MXwxfHx8MTc5MDY4MzM4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-09-23T17:00:06.213112+00:00"
-    },
-    {
-      "id": "Lc9vbkJll7g",
-      "url": "https://images.unsplash.com/photo-1787293420060-5c343c00718f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8QmVhdXRpZnVsJTIwQWZyaWNhbiUyMHdvbWVuJTIwd2l0aCUyMGFmcm9zJTIwb3V0c2lkZXxlbnwxfDF8fHwxNzkwMTgyODE3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1787293420060-5c343c00718f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8QmVhdXRpZnVsJTIwQWZyaWNhbiUyMHdvbWVuJTIwd2l0aCUyMGFmcm9zJTIwb3V0c2lkZXxlbnwxfDF8fHwxNzkwMTgyODE3fDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1787293420060-5c343c00718f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8QmVhdXRpZnVsJTIwQWZyaWNhbiUyMHdvbWVuJTIwd2l0aCUyMGFmcm9zJTIwb3V0c2lkZXxlbnwxfDF8fHwxNzkwMTgyODE3fDA&ixlib=rb-4.1.0&q=85",
-      "alt": "A woman with an afro hairstyle in a pinstripe blazer on a wooden pier",
-      "description": "",
-      "photographer": "sammy swae",
-      "photographer_url": "https://unsplash.com/@sammyswae",
-      "photo_url": "https://unsplash.com/photos/woman-in-pinstripe-blazer-on-pier-Lc9vbkJll7g",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-09-23T17:00:06.213112+00:00"
     }
   ],
-  "updated_at": "2026-09-29T19:01:56.661685+00:00"
+  "updated_at": "2026-09-29T20:02:25.717804+00:00"
 }
