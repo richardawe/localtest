@@ -1,6 +1,86 @@
 {
   "posts": [
     {
+      "id": 81,
+      "title": "Celebrating the Complex Beauty of Black Hair Culture",
+      "body": "As we navigate the complexities of identity and representation in society, it's heartening to see Black hair culture continue to captivate audiences worldwide. From traditional braids and cornrows to natural textures and Afros, our rich cultural heritage is being celebrated and explored through various mediums.\n\nOne story that stood out this week was the election of a Black woman with natural hair as Miss America (TheGrio, 2026-09-08). This milestone marks a significant shift in the pageant's history, reflecting a broader movement towards inclusivity and self-love. According to Essence, this achievement has sparked conversations about representation and the importance of celebrating diverse beauty standards.\n\nAnother thread that ran through several headlines was the resurgence of traditional African hair practices, such as braiding and cornrows (Poynter, 2026-09-30). From Tricoci University of Beauty Culture's in-depth exploration of African hair braiding techniques (FOX6 News Milwaukee, 2026-02-11) to reviews of African hair braiders in the UK (ayoungishperspective.co.uk, 2026-03-29), these stories highlight the rich cultural significance of these traditions.\n\nOn a more nuanced note, several articles tackled the complex relationship between Black women and hair relaxers. hellobeautiful.com's piece on why some Black women are returning to relaxers raises important questions about identity, beauty standards, and the impact of societal pressures (2026-08-17).\n\nAs we celebrate the triumphs and complexities of Black hair culture, it's essential to acknowledge that our textures and styles are a source of strength and beauty.",
+      "sources": [
+        {
+          "title": "What do braids, cornrows, and Bantu knots have to do with the news?",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTExEcGFQeG0xZldmOXFESkF3RjJDMmRMZjE3Z0g2VEFFYWx6aUctdFdTVG1iQmdtcTA3eGVUMTd5cDBTdE1QWGZkazdkNFRrQU55eWRpMXFZblA3LS10Zm9oOVhvdmxMN3ZoRUJKdm1QcHlMMm8xSmxsUHU0Q2lhOXdRam9Ebl9FVFE?oc=5",
+          "source": "Poynter",
+          "published": "2026-09-30"
+        },
+        {
+          "title": "For the first time ever Miss America’s crown sits atop a Black woman’s natural hair",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdDdnRjg3NXlkLXVVUThiUTg4OWVFUUd6RUZMWXZZQ3VhbDlfWUJNNDY1c2dPS3dXV1phYWN1TFNreWhOWFo1R0ZTN2I0V2Q1REx3QkdrX1liTnVIT3plQlhoV2tVQnZfRmRVQ1RaOWRUWlp4clQzYkkwY2tYRElZcEN6a3pRVXZaX0ZwUW1YdmJiOWlKQWs3ZFAzdXMwR2pHNTB5VElISVNMTmljX1BaN1gtTQ?oc=5",
+          "source": "TheGrio",
+          "published": "2026-09-08"
+        },
+        {
+          "title": "Are We on the Cusp of Another Natural Hair Movement?",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4yc2pQOU0tLW0xVUJXZm95dGxJT0NEWjhHRlNuY2RBYjQ4SzdjT09mTWwzTkl3V0pwZHhHRlQ2V3FmWVlxeVh0N0JTOHBvY1RxaG1veTN4UzA0ajZ1OFY4Nm1WTDl0UQ?oc=5",
+          "source": "Allure",
+          "published": "2026-05-18"
+        },
+        {
+          "title": "The Curly, Coily Hair God Made",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBqSWFJTi1sQkVrN0ZSOXNBVHV5MnA2QWtobk9iWmtJZDMxMjlFR2tNdzZMdjdkeTNNSUZfUTRzZWduVzJZZTU2U0NLQkpLaVp1Q2lDVkE2cFlJMmVBejlidGJuc04wYjZhZ0pVOWZPSGF1U0ZMWmwxZ0Rsakk?oc=5",
+          "source": "christianitytoday.com",
+          "published": "2026-07-30"
+        },
+        {
+          "title": "Why Are Black Women Returning To Relaxers? The Experts Are Sounding Off",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUS02b0Q0bnNJbWo0c0ctYlVGMGludEljaDFZQjZaZ0M4LUV1cEhsWVpoUEJhME9IV1FqVDdlT1pxVjd1TVZmT3I4bGZFYzRMQlpOVzJXdmN0OWsxbFM2U3pKSHJVLTdlNnhGUFpXLXlCUmF4YWo5cW5rOTAwOThUd2F1VQ?oc=5",
+          "source": "hellobeautiful.com",
+          "published": "2026-08-17"
+        },
+        {
+          "title": "The Rich, Deeply Personal History Of The Cornrow",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvbXhvTTNoMGJ3RmFhbTQ5cE5GU1VldXdNWnkzYWcwLV9aLWFWQVJaUFE3RzVfbTU3dUNHSkF4c2RmNVlJY2wtZjRFT2NwUmotOU1zeVVQV2dzQ28?oc=5",
+          "source": "coveteur.com",
+          "published": "2026-01-05"
+        },
+        {
+          "title": "The art of African hair braiding with Tricoci University of Beauty Culture",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TRHRWYzNGYWViWGJzLV9jc1pySU0zTmcxcS00anRVTkhqbUZlZ0VXZ0ZqVjM0UnlRbWxHRW5sNHY4ZWRBTkMyS0FTUVdrUE1PWEN0RDdhZUFpYjlHZG9J0gFkQVVfeXFMT25kR3lXRjJGMnBjaVdxZTQ2em1WZFdyZ2pMM0NlMTIzeW9JZEpvVnB1T2JMOHBjdVJjc0tldlBYeVBUUUxyWEZJbG1JR1NJWG1valdlY3NEOFA2UzZ6TDRLLXVHag?oc=5",
+          "source": "FOX6 News Milwaukee",
+          "published": "2026-02-11"
+        },
+        {
+          "title": "REVIEW: Jaja’s African Hair Braiding",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaFB6TFdaYmpvM1E2cXhmZWowY3d1UUNJWEZ6TTJxcnpOUWRkalIzNk1pcUZEelpSekx4YmlfSFVlTVVMMVpiYTBiUGpCZElBTUkyeHBLQkhERU15UkxobThVT1NjUkVaMXlwUUhWd0p5YjM5V244S3MwWkd6OTRrV2tCekthM0Ja0gGIAUFVX3lxTFBoUHpMV1piam8zUTZxeGZlajBjd3VRQ0lYRnpNMnFyek5RZGRqUjM2TWlxRkR6WlJ6THhiaV9IVWVNVUwxWmJhMGJQakJkSUFNSTJ4cEtCSERFTXlSTGhtOFVPU2NSRVoxeXBRSFZ3SnliMzlXbjhLczBaR3o5NGtXa0J6S2EzQlo?oc=5",
+          "source": "ayoungishperspective.co.uk",
+          "published": "2026-03-29"
+        },
+        {
+          "title": "Milwaukee woman explains how braids connect African American culture from past to present",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ1AyeFhfRDg3ZUxEMmFXR3psYjAzVGw1bUJnUHpETEFYNEs4eDZQNHRvazdMaTJ5RWRZY3UyWW9yd2xEdERWbG8zc2tfeC1BbjNOdHNxZVZhSTRzRi1xb3ZncmdmcWU3SHVyT3hoeEp0aFM0bi1sRWFuSDJqdVpkZFBVejA1bHV4ZFg2WG9MV2FNak1uV2FlN1ZrVzdzb0ZUSVNEaHFoeExXR3RsZF9ZQjdRNEoyUQ?oc=5",
+          "source": "TMJ4 News",
+          "published": "2026-02-24"
+        },
+        {
+          "title": "The Contemporary stages timely tale with 'Jaja's African Hair Braiding'",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcmNCY2dVejNkWU5GUEFkYjY3d3NyRGRMWmxMd3dLTVp2blQzVmRqa0RCX29oem11LWlKQ3BVZU5LZUpkQXNrcXY0d2FzNTRwMTktY0tDaUZDTDFKU3ktZlZZMk9ILVJfZjhScGVYY0dLdTg2R1ltUDNpMXVTUFZ1RUlLNVYxZGpYMVR5ODZrbDJnVFBYNkN0bF9sYlc0UDA3YTlJaFotX0IweWFEMG5wN3J5b0lTV2VCdnVUZjFBUVJWSE1tVUtMYlFLZF8?oc=5",
+          "source": "10TV",
+          "published": "2026-03-12"
+        },
+        {
+          "title": "What’s happening on #NaturalHairTok?",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcFFsQ3V5ZmFteUFpOEdKSEFSNHo5eGdJQXJ2LUFZam1FVHJVVzk1NXljSDhJeTN0dHcwVF9QMnZaYUNocVJJa2I1aGpobFFYUEpBZnY5NkxLTFJLLU9ScDVaRm1lLTZ0bWlVbmZXQ3RTbTRfSmM5ZGhhc2ZDQWh4N19KZ2t6UGlvX0lUUnU4b05NMGJRYl8zaV9yUi1ZQm5JTmRLX3NQd2o3MVpUd3pDZA?oc=5",
+          "source": "Dazed",
+          "published": "2026-04-21"
+        },
+        {
+          "title": "7 defining moments when Black hair became the conversation",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYS1wVEVLajV3Uld0cnJ0S0NiNTRjTVZqSnlGeWNwMDd3N3JzWWdxRUFIemh0UW1CbndlWlBNWkFUV3EyaV9SdTQ3UTJQdnR3R0RwMEg1UVhMMHRiZ1QwaGktMWNTRHRlLW5MMmt2TG9Dc3ZEbHRoOWMxTWRCLVZELXdGMXEzR253Qlc5M2NmY0kxN1BR?oc=5",
+          "source": "TheGrio",
+          "published": "2026-06-30"
+        }
+      ],
+      "published_at": "2026-10-01T00:08:34.695123+00:00"
+    },
+    {
       "id": 80,
       "title": "Celebrating the Rich Diversity of Black Hair Culture",
       "body": "As we celebrate the beauty and diversity of Black hair culture, it's clear that our community is thriving. From the rise of natural hair movements to the resurgence of traditional braiding techniques, Black women are embracing their unique beauty and rejecting Eurocentric standards.\n\nThe recent crowning of a Black woman with natural hair as Miss America is just one example of this shift in cultural attitude (Miss America). This milestone marks a significant moment in our collective journey towards self-acceptance and celebration. According to Essence, the new Miss America's decision to wear her natural hair on stage has sparked conversations about representation and inclusivity.\n\nThe increasing popularity of traditional braiding techniques, such as cornrows, is another testament to our community's desire to reconnect with its roots (Coveteur). From African diasporic history to modern-day expression, these styles are a powerful way for Black women to express their identity and connect with their heritage. As highlighted in an article by Coveteur, the cornrow has a rich, deeply personal history that spans centuries.\n\nHowever, not all stories within our community are as uplifting. A recent trend of Black women returning to relaxers is raising concerns about our collective progress towards self-love (hellobeautiful.com). While some argue that relaxing hair can be a necessary step for professional or personal reasons, others see it as a regression from the natural hair movement's emphasis on self-acceptance.\n\nDespite these challenges, it's clear that Black hair culture is thriving. From the art of African braiding to the rise of natural hair influencers, our community is embracing its unique beauty and rejecting Eurocentric standards.\n\nAs we celebrate the richness and diversity of Black hair culture, let us remember that every style, every braid, and every curl is a testament to our strength, resilience, and beauty.",
@@ -2211,87 +2291,7 @@
         }
       ],
       "published_at": "2026-09-01T00:20:10.212713+00:00"
-    },
-    {
-      "id": 51,
-      "title": "Embracing Our Roots: Celebrating the Diverse Beauty of Black Hair Culture",
-      "body": "As we navigate the complexities of modern life, one thing remains constant – our love for and pride in our natural hair. From the intricately braided styles that adorn our ancestors' portraits to the bold, vibrant looks that strut down runways today, Black hair is a powerful symbol of identity, community, and resilience.\n\nAccording to Essence, there's been a growing movement among loc'd women who refuse to abandon their natural state for the sake of societal expectations. These women, like those featured in the article \"10 Loc’d Black Women On Why Returning To A Loose Natural Isn’t An Option,\" proudly proclaim that their locks are not just a hairstyle but an integral part of their cultural heritage. This commitment to self-love and acceptance is a testament to the strength and beauty of our community.\n\nMeanwhile, some natural hair influencers have been making headlines for embracing mainstream salon brands like Redken and Amika. While this shift may be seen as a departure from traditional natural hair practices, it's also an opportunity for these influencers to educate their followers on the benefits of high-quality products and expert care. As noted in Allure's \"Why Natural Hair Influencers Are Suddenly Embracing Redken, Amika, and Other Salon Brands,\" even the most unlikely partnerships can spark important conversations about hair health and maintenance.\n\nBut amidst all this growth and innovation, there's a pressing need for more nuanced discussions around texturism – the practice of promoting certain textures or styles over others. TheGrio reported that Mielle Organics faced backlash for an ad that perpetuated this very problem, reinforcing stereotypes and erasing the diversity within our community.\n\nAs we celebrate the rich history and cultural significance of Black hair, let us not forget the importance of authenticity and inclusivity. And so, here's to embracing our roots – literally and figuratively – in all their glorious complexity.",
-      "sources": [
-        {
-          "title": "Victoria Monét Shows Off Natural Hair Growth After Using Cécred",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUHR2cVVtaFFBTHNvaHpCeUtYajZpWkpTdnZmYks0emRrRXVJSUw0R1JXVUlhMDJYdmVGczROWXpXV0NjaTNleVI0UjRLZHctY1ppTjdHR3JMZVE2bFpQZW95Q3dKdThHd3NVdzQyZUhyMnlLZDdCSTNPYkpnMjhLTFVYYnNhYmduTlE?oc=5",
-          "source": "MadameNoire",
-          "published": "2026-08-30"
-        },
-        {
-          "title": "Mielle Organics accused of promoting texturism after ‘weak & dull’ natural hair ad sparks backlash",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1WOWpCSkdJamNRaTlEQjRyejRBb1FOOF81SGppYkdheDN3UE9GaE41WGxLYTItZ3hYc3laSG53dDNPR3dXYkJnTnBYZktheW1xZzloVXV4MGhobmI5cjQ0dzJQYURlaGFFalJBa1U4UWp3TGRPR2VFMzNGMExUUQ?oc=5",
-          "source": "TheGrio",
-          "published": "2026-08-29"
-        },
-        {
-          "title": "Why Natural Hair Influencers Are Suddenly Embracing Redken, Amika, and Other Salon Brands",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUGRmUzFEMjhtWWJQeUtrTVNTUFh2RjBiQkIyNWtOZm55bHBUay1IM3JBVUVJeWNaM0NNRGJ0LXJldHVsT3J1ZVc2WGJRd3pHWF9iUGdWOHdXdy1YSkU2X3VIUko1aGF5SjlaY3IyeW5iWUZSNFJjUWc2RG8tcVNTWTA0Q2dZdw?oc=5",
-          "source": "Allure",
-          "published": "2026-08-24"
-        },
-        {
-          "title": "10 Loc’d Black Women On Why Returning To A Loose Natural Isn’t An Option",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51UnJ3S3ZCOXRvMnZKU2NBcUJ3NWFGbUZGRDNxb3BFeTlWVWxnZVJObnl4dTZMbkpWUW45dXEzMFkzY1hXWkZFcDNuS3Q5Vi14a1UzQUtIOWFxdTJZYlhFSUZ4MGNCRzRTSVRVWVVn?oc=5",
-          "source": "essence.com",
-          "published": "2025-10-23"
-        },
-        {
-          "title": "How to Confront Cruel, Unusual Comments on Black Hair",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVXZrbXBSbktXOXVjckQ2YWxuZk85OVRXbktxTW1vb2k3XzloQWh5UFA3X3ZENTFET3E4bnlERmpHNVd6eUowenRRWUZNc0s2aWJnekV3dnUyRVA4TFhiUUlKUWdjeVJzMnljeEk5RTYxWWVCbG84OUZyVjByZm84YkppSllMT00zQlljdVoyWFlEUl9saUxONUZ5WTZaeEZI?oc=5",
-          "source": "Medium",
-          "published": "2026-04-13"
-        },
-        {
-          "title": "The Rich, Deeply Personal History Of The Cornrow",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvbXhvTTNoMGJ3RmFhbTQ5cE5GU1VldXdNWnkzYWcwLV9aLWFWQVJaUFE3RzVfbTU3dUNHSkF4c2RmNVlJY2wtZjRFT2NwUmotOU1zeVVQV2dzQ28?oc=5",
-          "source": "Coveteur",
-          "published": "2026-01-05"
-        },
-        {
-          "title": "The art of African hair braiding with Tricoci University of Beauty Culture",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TRHRWYzNGYWViWGJzLV9jc1pySU0zTmcxcS00anRVTkhqbUZlZ0VXZ0ZqVjM0UnlRbWxHRW5sNHY4ZWRBTkMyS0FTUVdrUE1PWEN0RDdhZUFpYjlHZG9J0gFkQVVfeXFMT25kR3lXRjJGMnBjaVdxZTQ2em1WZFdyZ2pMM0NlMTIzeW9JZEpvVnB1T2JMOHBjdVJjc0tldlBYeVBUUUxyWEZJbG1JR1NJWG1valdlY3NEOFA2UzZ6TDRLLXVHag?oc=5",
-          "source": "FOX6 News Milwaukee",
-          "published": "2026-02-11"
-        },
-        {
-          "title": "Milwaukee woman explains how braids connect African American culture from past to present",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ1AyeFhfRDg3ZUxEMmFXR3psYjAzVGw1bUJnUHpETEFYNEs4eDZQNHRvazdMaTJ5RWRZY3UyWW9yd2xEdERWbG8zc2tfeC1BbjNOdHNxZVZhSTRzRi1xb3ZncmdmcWU3SHVyT3hoeEp0aFM0bi1sRWFuSDJqdVpkZFBVejA1bHV4ZFg2WG9MV2FNak1uV2FlN1ZrVzdzb0ZUSVNEaHFoeExXR3RsZF9ZQjdRNEoyUQ?oc=5",
-          "source": "TMJ4 News",
-          "published": "2026-02-24"
-        },
-        {
-          "title": "Review Round Up: Jaja’s African Hair Braiding, Lyric Hammersmith",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMXBDX1NBUDVhaFlmeUFsQkVTcS15LTd0UHBKYzZHdUdrTUdMUmpYZEgyRDJHNnc5a3QwQmpGMENVd1dUT0FIZHB5NElRV3RkakVmRFZ3X3lGaUd4bDZLcWp5ZlZxT0FETmF0bVFrN19WSm4xWGQ5QjBfdjhxNHZUS1Mxb2xKNUhGNVc2bjFycUc4X1pqc1hza05UekN3RlIyN0ZKUXlRektvWVnSAbABQVVfeXFMT1ZQRk5HdmJyQnpsUFNOcDVwXy10TTIwaDJvX19vRWR2WUdSU2hMZlJTbGFGMEJLMDFpUGtIT1JwV1BxbTBGNXpFR09kUDQxQ3hnT1pfYU51MGtEVnBpd1ZKWTNQRFNpV2hJYTlSdmdTMGdBMkYybkJiMjM5MjNsRFA3X3FTUFp3U2RjSWwzbk5zc056U3VEOGpoU1ZmcUlYQkhJVnlDLXhVOXdmc2VNaHM?oc=5",
-          "source": "Love London Love Culture",
-          "published": "2026-04-04"
-        },
-        {
-          "title": "REVIEW: Jaja’s African Hair Braiding",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaFB6TFdaYmpvM1E2cXhmZWowY3d1UUNJWEZ6TTJxcnpOUWRkalIzNk1pcUZEelpSekx4YmlfSFVlTVVMMVpiYTBiUGpCZElBTUkyeHBLQkhERU15UkxobThVT1NjUkVaMXlwUUhWd0p5YjM5V244S3MwWkd6OTRrV2tCekthM0Ja0gGIAUFVX3lxTFBoUHpMV1piam8zUTZxeGZlajBjd3VRQ0lYRnpNMnFyek5RZGRqUjM2TWlxRkR6WlJ6THhiaV9IVWVNVUwxWmJhMGJQakJkSUFNSTJ4cEtCSERFTXlSTGhtOFVPU2NSRVoxeXBRSFZ3SnliMzlXbjhLczBaR3o5NGtXa0J6S2EzQlo?oc=5",
-          "source": "A Young(ish) Perspective",
-          "published": "2026-03-29"
-        },
-        {
-          "title": "The Relaxer Comeback Is Real — Why More Black Women Are Saying Goodbye To Their Natural Hair",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMXdOU2U1c25Wa2pZeHNEVTloNldlWHc1WGgxaTBXcDB1MWJXQ0RCVmhudFphcWtjQWdZWGlEUldvM0l4MVJTVzRUYWN3SGVrTDJ1TlhTSlBnU24xSzYtQkd2aGRENWpfNG1lUWU1TTBfZS1ZbDdpakphSzVaUm1sYg?oc=5",
-          "source": "MadameNoire",
-          "published": "2026-08-19"
-        },
-        {
-          "title": "Are We on the Cusp of Another Natural Hair Movement?",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4yc2pQOU0tLW0xVUJXZm95dGxJT0NEWjhHRlNuY2RBYjQ4SzdjT09mTWwzTkl3V0pwZHhHRlQ2V3FmWVlxeVh0N0JTOHBvY1RxaG1veTN4UzA0ajZ1OFY4Nm1WTDl0UQ?oc=5",
-          "source": "Allure",
-          "published": "2026-05-18"
-        }
-      ],
-      "published_at": "2026-08-31T00:12:10.823563+00:00"
     }
   ],
-  "updated_at": "2026-09-30T23:04:31.403338+00:00"
+  "updated_at": "2026-10-01T00:08:34.780789+00:00"
 }
