@@ -1,6 +1,36 @@
 {
-  "summary": "Get ready to slay with our top picks for today's hottest hairstyles, showcasing the most stunning Black and African women's hair trends that are taking over social media!",
+  "summary": "Get ready to slay with this week's spotlight on the most iconic, trending hairstyles among Black and African women - straight from the streets of Africa to your social media feeds!",
   "images": [
+    {
+      "id": "4U0dupsxF-o",
+      "url": "https://images.unsplash.com/photo-1784064813420-1fd6f169d147?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8QmxhY2slMjB3b21lbiUyMHdpdGglMjBkcmVhZGxvY2tzJTIwb24lMjBzaG91bGRlcnN8ZW58MXwxfHx8MTc5MDk3NDgyMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1784064813420-1fd6f169d147?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8QmxhY2slMjB3b21lbiUyMHdpdGglMjBkcmVhZGxvY2tzJTIwb24lMjBzaG91bGRlcnN8ZW58MXwxfHx8MTc5MDk3NDgyMXww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1784064813420-1fd6f169d147?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8QmxhY2slMjB3b21lbiUyMHdpdGglMjBkcmVhZGxvY2tzJTIwb24lMjBzaG91bGRlcnN8ZW58MXwxfHx8MTc5MDk3NDgyMXww&ixlib=rb-4.1.0&q=85",
+      "alt": "Stylish woman with dreadlocks poses against a warm wooden wall",
+      "description": "",
+      "photographer": "McFollis",
+      "photographer_url": "https://unsplash.com/@thisismcfollis",
+      "photo_url": "https://unsplash.com/photos/stylish-woman-with-dreadlocks-poses-against-a-warm-wooden-wall-4U0dupsxF-o",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-10-02T21:00:12.651998+00:00"
+    },
+    {
+      "id": "m4YCjtE6M2M",
+      "url": "https://images.unsplash.com/photo-1785908278824-73879932fb6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8QmxhY2slMjB3b21lbiUyMHdpdGglMjBkcmVhZGxvY2tzJTIwb24lMjBzaG91bGRlcnN8ZW58MXwxfHx8MTc5MDk3NDgyMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1785908278824-73879932fb6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8QmxhY2slMjB3b21lbiUyMHdpdGglMjBkcmVhZGxvY2tzJTIwb24lMjBzaG91bGRlcnN8ZW58MXwxfHx8MTc5MDk3NDgyMXww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1785908278824-73879932fb6a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8QmxhY2slMjB3b21lbiUyMHdpdGglMjBkcmVhZGxvY2tzJTIwb24lMjBzaG91bGRlcnN8ZW58MXwxfHx8MTc5MDk3NDgyMXww&ixlib=rb-4.1.0&q=85",
+      "alt": "Young woman with beaded braids sitting on a white car",
+      "description": "",
+      "photographer": "Michael Kyule",
+      "photographer_url": "https://unsplash.com/@madness_leahcim_",
+      "photo_url": "https://unsplash.com/photos/young-woman-with-beaded-braids-sitting-on-a-white-car-m4YCjtE6M2M",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-10-02T21:00:12.651998+00:00"
+    },
     {
       "id": "INgwUoGMTjY",
       "url": "https://images.unsplash.com/photo-1597872562393-5cb80816668c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8V2VhdmVzJTIwRXh0ZW5zaW9ucyUyMG9uJTIwQnJvd24lMjBTa2luJTIwTW9kZWxzfGVufDF8MXx8fDE3OTA5NzEzMjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -270,37 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-09-27T09:00:10.310859+00:00"
-    },
-    {
-      "id": "EPblbdo3jw0",
-      "url": "https://images.unsplash.com/photo-1697176927049-629318c9a372?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8TmF0dXJhbCUyMEFmcm9zJTIwb2YlMjBBZnJpY2FuJTIwQW1lcmljYW4lMjBTaXN0ZXJzfGVufDF8MXx8fDE3OTA0OTk2MzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1697176927049-629318c9a372?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8TmF0dXJhbCUyMEFmcm9zJTIwb2YlMjBBZnJpY2FuJTIwQW1lcmljYW4lMjBTaXN0ZXJzfGVufDF8MXx8fDE3OTA0OTk2MzF8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1697176927049-629318c9a372?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8TmF0dXJhbCUyMEFmcm9zJTIwb2YlMjBBZnJpY2FuJTIwQW1lcmljYW4lMjBTaXN0ZXJzfGVufDF8MXx8fDE3OTA0OTk2MzF8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "African American woman at refrigerator holding a pitcher as she pours out drinks for children, probably Little Rock, Arkansas",
-      "description": "[African American woman at refrigerator holding a pitcher as she pours out drinks for children, probably Little Rock, Arkansas]. By photographer John T. Bledsoe, 1959. Library of Congress Prints & Photographs Division. https://www.loc.gov/item/2021792156/",
-      "photographer": "Library of Congress",
-      "photographer_url": "https://unsplash.com/@libraryofcongress",
-      "photo_url": "https://unsplash.com/photos/african-american-woman-at-refrigerator-holding-a-pitcher-as-she-pours-out-drinks-for-children-probably-little-rock-arkansas-EPblbdo3jw0",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-09-27T09:00:10.310859+00:00"
-    },
-    {
-      "id": "41wfxsyJbqI",
-      "url": "https://images.unsplash.com/photo-1787576854961-31d65a88e095?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8TmF0dXJhbCUyMEFmcm9zJTIwb2YlMjBBZnJpY2FuJTIwQW1lcmljYW4lMjBTaXN0ZXJzfGVufDF8MXx8fDE3OTA0OTk2MzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1787576854961-31d65a88e095?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8TmF0dXJhbCUyMEFmcm9zJTIwb2YlMjBBZnJpY2FuJTIwQW1lcmljYW4lMjBTaXN0ZXJzfGVufDF8MXx8fDE3OTA0OTk2MzF8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1787576854961-31d65a88e095?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8TmF0dXJhbCUyMEFmcm9zJTIwb2YlMjBBZnJpY2FuJTIwQW1lcmljYW4lMjBTaXN0ZXJzfGVufDF8MXx8fDE3OTA0OTk2MzF8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "A woman in a dark buttoned dress with a white collar standing by a chair",
-      "description": "Artist: Harvey B. Lindsley, Sitter: Harriet Tubman, Date: 1871-1876, Medium: silver and collodion on printing out paper, Record ID: nmaahc_2017.30.48",
-      "photographer": "Smithsonian",
-      "photographer_url": "https://unsplash.com/@smithsonian",
-      "photo_url": "https://unsplash.com/photos/woman-in-dark-dress-by-chair-41wfxsyJbqI",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-09-27T09:00:10.310859+00:00"
     }
   ],
-  "updated_at": "2026-10-02T20:04:08.388204+00:00"
+  "updated_at": "2026-10-02T21:03:49.082767+00:00"
 }
