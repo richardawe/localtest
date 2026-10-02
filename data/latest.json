@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with today's sizzling hot hairstyles featuring Afrobeats-inspired braids, box bobs, and afro-chic styles that are taking over the beauty scene!",
   "images": [
+    {
+      "id": "2a71TZe_vG0",
+      "url": "https://images.unsplash.com/photo-1781263409590-da4b7cad5021?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzfHxGdWxhbmklMjBicmFpZHMlMjBvbiUyMEFmcmljYW4lMjB3b21hbiUyMGhlYWR8ZW58MXwxfHx8MTc5MDk1NjgxMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1781263409590-da4b7cad5021?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzfHxGdWxhbmklMjBicmFpZHMlMjBvbiUyMEFmcmljYW4lMjB3b21hbiUyMGhlYWR8ZW58MXwxfHx8MTc5MDk1NjgxMnww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1781263409590-da4b7cad5021?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzfHxGdWxhbmklMjBicmFpZHMlMjBvbiUyMEFmcmljYW4lMjB3b21hbiUyMGhlYWR8ZW58MXwxfHx8MTc5MDk1NjgxMnww&ixlib=rb-4.1.0&q=85",
+      "alt": "Woman balancing buckets on her head at sunset",
+      "description": "",
+      "photographer": "Aliburhan S",
+      "photographer_url": "https://unsplash.com/@aliburhan",
+      "photo_url": "https://unsplash.com/photos/woman-balancing-buckets-on-her-head-at-sunset-2a71TZe_vG0",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-10-02T16:00:12.329259+00:00"
+    },
     {
       "id": "22QSvnO7IfY",
       "url": "https://images.unsplash.com/photo-1787779325645-02855da4541e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw1fHxHb2RkZXNzJTIwQnJhaWRzJTIwb24lMjBFbGVnYW50JTIwQWZyaWNhbiUyME1vZGVsfGVufDF8MXx8fDE3OTA4NDE4MDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-09-25T20:00:09.971512+00:00"
-    },
-    {
-      "id": "hXtQp-3dT_4",
-      "url": "https://images.unsplash.com/photo-1706558429594-da3b5fc84371?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw0fHxDbG9zZS11cCUyMG9mJTIwRHJlYWRsb2NzJTIwb24lMjBhJTIwQmxhY2t8ZW58MXwxfHx8MTc5MDM2Mjg0NXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1706558429594-da3b5fc84371?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw0fHxDbG9zZS11cCUyMG9mJTIwRHJlYWRsb2NzJTIwb24lMjBhJTIwQmxhY2t8ZW58MXwxfHx8MTc5MDM2Mjg0NXww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1706558429594-da3b5fc84371?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw0fHxDbG9zZS11cCUyMG9mJTIwRHJlYWRsb2NzJTIwb24lMjBhJTIwQmxhY2t8ZW58MXwxfHx8MTc5MDM2Mjg0NXww&ixlib=rb-4.1.0&q=85",
-      "alt": "a woman with dreadlocks is posing for a picture",
-      "description": "",
-      "photographer": "Shalom Ejiofor",
-      "photographer_url": "https://unsplash.com/@shalom_ej",
-      "photo_url": "https://unsplash.com/photos/a-woman-with-dreadlocks-is-posing-for-a-picture-hXtQp-3dT_4",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-09-25T19:00:07.641056+00:00"
     }
   ],
-  "updated_at": "2026-10-02T15:02:01.740569+00:00"
+  "updated_at": "2026-10-02T16:02:52.777465+00:00"
 }
