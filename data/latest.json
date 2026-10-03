@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay the day with the hottest, most inspiring hair trends that are taking center stage in the world of Black and African beauty!",
   "images": [
+    {
+      "id": "yjHL_J9alok",
+      "url": "https://images.unsplash.com/photo-1607892996263-491f791600c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8QmxhY2slMjB3b21hbiUyMHdpdGglMjBsb2NzJTIwYW5kJTIwc21pbGV8ZW58MXwxfHx8MTc5MTAwNzIxM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1607892996263-491f791600c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8QmxhY2slMjB3b21hbiUyMHdpdGglMjBsb2NzJTIwYW5kJTIwc21pbGV8ZW58MXwxfHx8MTc5MTAwNzIxM3ww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1607892996263-491f791600c0?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8QmxhY2slMjB3b21hbiUyMHdpdGglMjBsb2NzJTIwYW5kJTIwc21pbGV8ZW58MXwxfHx8MTc5MTAwNzIxM3ww&ixlib=rb-4.1.0&q=85",
+      "alt": "A black and white photo of a woman laughing",
+      "description": "Girl with an afro laughing",
+      "photographer": "Aidah Kiirya",
+      "photographer_url": "https://unsplash.com/@aidahaze",
+      "photo_url": "https://unsplash.com/photos/a-black-and-white-photo-of-a-woman-laughing-yjHL_J9alok",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-10-03T06:00:13.252081+00:00"
+    },
     {
       "id": "4U0dupsxF-o",
       "url": "https://images.unsplash.com/photo-1784064813420-1fd6f169d147?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8QmxhY2slMjB3b21lbiUyMHdpdGglMjBkcmVhZGxvY2tzJTIwb24lMjBzaG91bGRlcnN8ZW58MXwxfHx8MTc5MDk3NDgyMXww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-09-27T18:00:10.658012+00:00"
-    },
-    {
-      "id": "_rLbTJ7lks4",
-      "url": "https://images.unsplash.com/photo-1697176927075-7fc09f609a0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw1fHxOYXR1cmFsJTIwQWZyb3MlMjBvZiUyMEFmcmljYW4lMjBBbWVyaWNhbiUyMFNpc3RlcnN8ZW58MXwxfHx8MTc5MDQ5OTYzMXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1697176927075-7fc09f609a0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw1fHxOYXR1cmFsJTIwQWZyb3MlMjBvZiUyMEFmcmljYW4lMjBBbWVyaWNhbiUyMFNpc3RlcnN8ZW58MXwxfHx8MTc5MDQ5OTYzMXww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1697176927075-7fc09f609a0e?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw1fHxOYXR1cmFsJTIwQWZyb3MlMjBvZiUyMEFmcmljYW4lMjBBbWVyaWNhbiUyMFNpc3RlcnN8ZW58MXwxfHx8MTc5MDQ5OTYzMXww&ixlib=rb-4.1.0&q=85",
-      "alt": "African American girls and women, Alma Plantation, False River, Louisiana",
-      "description": "[African American girls and women, Alma Plantation, False River, Louisiana]. By Alan Lomax, 1934. Library of Congress Prints & Photographs Division. https://www.loc.gov/item/2007660056/",
-      "photographer": "Library of Congress",
-      "photographer_url": "https://unsplash.com/@libraryofcongress",
-      "photo_url": "https://unsplash.com/photos/african-american-girls-and-women-alma-plantation-false-river-louisiana-_rLbTJ7lks4",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-09-27T09:00:10.310859+00:00"
     }
   ],
-  "updated_at": "2026-10-03T05:03:54.706329+00:00"
+  "updated_at": "2026-10-03T06:03:32.810341+00:00"
 }
