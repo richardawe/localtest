@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with today's hottest Black and African hairstyles that are pushing boundaries of beauty and breaking barriers worldwide currently!",
   "images": [
+    {
+      "id": "3CBDOfCmYlI",
+      "url": "https://images.unsplash.com/photo-1790863243125-eb5b002eda98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8RnVsYW5pJTIwQnJhaWRzJTIwZm9yJTIwTG9uZyUyMEJsYWNrJTIwSGFpcnxlbnwxfDF8fHwxNzkxMDMyNTY2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1790863243125-eb5b002eda98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8RnVsYW5pJTIwQnJhaWRzJTIwZm9yJTIwTG9uZyUyMEJsYWNrJTIwSGFpcnxlbnwxfDF8fHwxNzkxMDMyNTY2fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1790863243125-eb5b002eda98?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8RnVsYW5pJTIwQnJhaWRzJTIwZm9yJTIwTG9uZyUyMEJsYWNrJTIwSGFpcnxlbnwxfDF8fHwxNzkxMDMyNTY2fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman with braided hair wearing a white off-shoulder top and gold jewelry",
+      "description": "",
+      "photographer": "John Ekow",
+      "photographer_url": "https://unsplash.com/@jaughnekow_",
+      "photo_url": "https://unsplash.com/photos/woman-with-braids-and-gold-jewelry-3CBDOfCmYlI",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-10-03T13:00:16.106647+00:00"
+    },
     {
       "id": "yjHL_J9alok",
       "url": "https://images.unsplash.com/photo-1607892996263-491f791600c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8QmxhY2slMjB3b21hbiUyMHdpdGglMjBsb2NzJTIwYW5kJTIwc21pbGV8ZW58MXwxfHx8MTc5MTAwNzIxM3ww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-09-28T13:00:10.473089+00:00"
-    },
-    {
-      "id": "plOUn-kWZ3o",
-      "url": "https://images.unsplash.com/photo-1774380255851-72e8a36d7a59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw0fHxBZnJpY2FuJTIwd29tYW4lMjBkcmVhZGxvY2tzJTIwaW4lMjBwcm9maWxlJTIwdmlld3xlbnwxfDF8fHwxNzkwNTMyMDYyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1774380255851-72e8a36d7a59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw0fHxBZnJpY2FuJTIwd29tYW4lMjBkcmVhZGxvY2tzJTIwaW4lMjBwcm9maWxlJTIwdmlld3xlbnwxfDF8fHwxNzkwNTMyMDYyfDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1774380255851-72e8a36d7a59?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw0fHxBZnJpY2FuJTIwd29tYW4lMjBkcmVhZGxvY2tzJTIwaW4lMjBwcm9maWxlJTIwdmlld3xlbnwxfDF8fHwxNzkwNTMyMDYyfDA&ixlib=rb-4.1.0&q=85",
-      "alt": "A woman in a flowing colorful skirt and white top",
-      "description": "Elegant African woman in a vibrant skirt, standing confidently in soft natural light.",
-      "photographer": "Dion Martins",
-      "photographer_url": "https://unsplash.com/@dionmartins",
-      "photo_url": "https://unsplash.com/photos/a-woman-in-a-flowing-colorful-skirt-and-white-top-plOUn-kWZ3o",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-09-27T18:00:10.658012+00:00"
     }
   ],
-  "updated_at": "2026-10-03T12:01:04.511942+00:00"
+  "updated_at": "2026-10-03T13:05:08.491918+00:00"
 }
