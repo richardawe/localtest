@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with today's hottest hairstyles, featuring Afro-punk textures, bold braids, and vibrant locs - Black beauty is taking center stage!",
   "images": [
+    {
+      "id": "gA13yfL2CCY",
+      "url": "https://images.unsplash.com/photo-1790066314620-c8aad8649d02?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8VGVlbmllJTIwV2VlbmllJTIwQWZyb3MlMjBvbiUyMExpdHRsZSUyMEJsYWNrJTIwR2lybHN8ZW58MXwxfHx8MTc5MTA1MDQ2NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1790066314620-c8aad8649d02?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8VGVlbmllJTIwV2VlbmllJTIwQWZyb3MlMjBvbiUyMExpdHRsZSUyMEJsYWNrJTIwR2lybHN8ZW58MXwxfHx8MTc5MTA1MDQ2NHww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1790066314620-c8aad8649d02?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8VGVlbmllJTIwV2VlbmllJTIwQWZyb3MlMjBvbiUyMExpdHRsZSUyMEJsYWNrJTIwR2lybHN8ZW58MXwxfHx8MTc5MTA1MDQ2NHww&ixlib=rb-4.1.0&q=85",
+      "alt": "A smiling child with braided hair wearing a headband and a textured top",
+      "description": "",
+      "photographer": "Adewale Shobaloju",
+      "photographer_url": "https://unsplash.com/@ogidan",
+      "photo_url": "https://unsplash.com/photos/smiling-child-in-textured-top-gA13yfL2CCY",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-10-03T18:00:09.219272+00:00"
+    },
     {
       "id": "3CBDOfCmYlI",
       "url": "https://images.unsplash.com/photo-1790863243125-eb5b002eda98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8RnVsYW5pJTIwQnJhaWRzJTIwZm9yJTIwTG9uZyUyMEJsYWNrJTIwSGFpcnxlbnwxfDF8fHwxNzkxMDMyNTY2fDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-09-28T13:00:10.473089+00:00"
-    },
-    {
-      "id": "P4Ncx07wJ1Q",
-      "url": "https://images.unsplash.com/photo-1790574318400-42a36b8fcdca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8dGVlbmllJTIwd2VlbmllJTIwYWZyb3MlMjBvbiUyMHlvdW5nJTIwZ2lybHN8ZW58MXwxfHx8MTc5MDYwMDQzM3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1790574318400-42a36b8fcdca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8dGVlbmllJTIwd2VlbmllJTIwYWZyb3MlMjBvbiUyMHlvdW5nJTIwZ2lybHN8ZW58MXwxfHx8MTc5MDYwMDQzM3ww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1790574318400-42a36b8fcdca?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8dGVlbmllJTIwd2VlbmllJTIwYWZyb3MlMjBvbiUyMHlvdW5nJTIwZ2lybHN8ZW58MXwxfHx8MTc5MDYwMDQzM3ww&ixlib=rb-4.1.0&q=85",
-      "alt": "A person with curly blonde hair and a septum piercing wearing a striped shirt",
-      "description": "Portrait of African American woman thinking then having brilliant idea on black background. Expression and emotion concept.",
-      "photographer": "Vitaly Gariev",
-      "photographer_url": "https://unsplash.com/@silverkblack",
-      "photo_url": "https://unsplash.com/photos/person-with-curly-hair-and-piercing-P4Ncx07wJ1Q",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-09-28T13:00:10.473089+00:00"
     }
   ],
-  "updated_at": "2026-10-03T17:17:37.244683+00:00"
+  "updated_at": "2026-10-03T18:01:43.479418+00:00"
 }
