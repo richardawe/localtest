@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with this season's hottest looks, as we dive into the latest Black and African women's hair trends that are taking over!",
   "images": [
+    {
+      "id": "3L_rHLpusdc",
+      "url": "https://images.unsplash.com/photo-1642240526059-c49b949aa0cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8VGVlbmFnZSUyMGdpcmwlMjB3aXRoJTIwVFdBJTIwYWZybyUyMHNtaWxpbmd8ZW58MXwxfHx8MTc5MTE0MDQ3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1642240526059-c49b949aa0cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8VGVlbmFnZSUyMGdpcmwlMjB3aXRoJTIwVFdBJTIwYWZybyUyMHNtaWxpbmd8ZW58MXwxfHx8MTc5MTE0MDQ3N3ww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1642240526059-c49b949aa0cf?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8VGVlbmFnZSUyMGdpcmwlMjB3aXRoJTIwVFdBJTIwYWZybyUyMHNtaWxpbmd8ZW58MXwxfHx8MTc5MTE0MDQ3N3ww&ixlib=rb-4.1.0&q=85",
+      "alt": "a woman in a yellow dress smiling at the camera",
+      "description": "Portrait of a young black girl in a spaghetti gown",
+      "photographer": "Francis Odeyemi",
+      "photographer_url": "https://unsplash.com/@cutinamoment",
+      "photo_url": "https://unsplash.com/photos/a-woman-in-a-yellow-dress-smiling-at-the-camera-3L_rHLpusdc",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-10-04T19:00:07.953338+00:00"
+    },
     {
       "id": "rbZm4HU7S-o",
       "url": "https://images.unsplash.com/photo-1778480976781-45a72feb64ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8TG9jcyUyMERyZWFkbG9ja3MlMjBpbiUyME5hdHVyYWwlMjBMaWdodHxlbnwxfDF8fHwxNzkxMDkwMDM0fDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-09-29T20:00:11.621433+00:00"
-    },
-    {
-      "id": "ivfQtFTJ0oE",
-      "url": "https://images.unsplash.com/photo-1760279446211-e93bb6d39083?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8QmxhY2slMjB3b21hbiUyMHJvY2tpbmclMjBnb2RkZXNzJTIwYnJhaWQlMjBzdHlsZXN8ZW58MXwxfHx8MTc5MDY4MzM4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1760279446211-e93bb6d39083?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8QmxhY2slMjB3b21hbiUyMHJvY2tpbmclMjBnb2RkZXNzJTIwYnJhaWQlMjBzdHlsZXN8ZW58MXwxfHx8MTc5MDY4MzM4N3ww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1760279446211-e93bb6d39083?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8QmxhY2slMjB3b21hbiUyMHJvY2tpbmclMjBnb2RkZXNzJTIwYnJhaWQlMjBzdHlsZXN8ZW58MXwxfHx8MTc5MDY4MzM4N3ww&ixlib=rb-4.1.0&q=85",
-      "alt": "Young woman with braids wearing a light blue outfit outdoors",
-      "description": "",
-      "photographer": "Moisés Fernández Tejero",
-      "photographer_url": "https://unsplash.com/@moisesfdzfotografia",
-      "photo_url": "https://unsplash.com/photos/young-woman-with-braids-wearing-a-light-blue-outfit-outdoors-ivfQtFTJ0oE",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-09-29T12:00:08.509713+00:00"
     }
   ],
-  "updated_at": "2026-10-04T18:01:04.757621+00:00"
+  "updated_at": "2026-10-04T19:02:00.051158+00:00"
 }
