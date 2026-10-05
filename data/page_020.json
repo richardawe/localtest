@@ -645,6 +645,21 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-10-05T10:00:06.450204+00:00"
+    },
+    {
+      "id": "qpwGhR_YSUI",
+      "url": "https://images.unsplash.com/photo-1786529744350-b08ab47a7a28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8RnVsYW5pJTIwYnJhaWRzJTIwb24lMjBBZnJpY2FuJTIwd29tYW4lMjBmYWNlfGVufDF8MXx8fDE3OTExOTgwMDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1786529744350-b08ab47a7a28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8RnVsYW5pJTIwYnJhaWRzJTIwb24lMjBBZnJpY2FuJTIwd29tYW4lMjBmYWNlfGVufDF8MXx8fDE3OTExOTgwMDl8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1786529744350-b08ab47a7a28?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8RnVsYW5pJTIwYnJhaWRzJTIwb24lMjBBZnJpY2FuJTIwd29tYW4lMjBmYWNlfGVufDF8MXx8fDE3OTExOTgwMDl8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "An older woman in a brown patterned tunic and headwrap in dim light",
+      "description": "Wedding guest at a Ugandan wedding.",
+      "photographer": "Lisa Marie Theck",
+      "photographer_url": "https://unsplash.com/@lisa_marie_theck",
+      "photo_url": "https://unsplash.com/photos/older-woman-in-brown-patterned-tunic-qpwGhR_YSUI",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-10-05T11:00:04.088282+00:00"
     }
   ]
 }

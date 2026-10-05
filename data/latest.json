@@ -1,6 +1,21 @@
 {
-  "summary": "Get ready to slay the day with the hottest, most daring, and vibrant Black and African hair trends that are dominating the beauty scene right now!",
+  "summary": "Get ready to be inspired by this season's hottest looks as we dive into the latest and greatest in Black and African women's hair trends!",
   "images": [
+    {
+      "id": "qpwGhR_YSUI",
+      "url": "https://images.unsplash.com/photo-1786529744350-b08ab47a7a28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8RnVsYW5pJTIwYnJhaWRzJTIwb24lMjBBZnJpY2FuJTIwd29tYW4lMjBmYWNlfGVufDF8MXx8fDE3OTExOTgwMDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1786529744350-b08ab47a7a28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8RnVsYW5pJTIwYnJhaWRzJTIwb24lMjBBZnJpY2FuJTIwd29tYW4lMjBmYWNlfGVufDF8MXx8fDE3OTExOTgwMDl8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1786529744350-b08ab47a7a28?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8RnVsYW5pJTIwYnJhaWRzJTIwb24lMjBBZnJpY2FuJTIwd29tYW4lMjBmYWNlfGVufDF8MXx8fDE3OTExOTgwMDl8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "An older woman in a brown patterned tunic and headwrap in dim light",
+      "description": "Wedding guest at a Ugandan wedding.",
+      "photographer": "Lisa Marie Theck",
+      "photographer_url": "https://unsplash.com/@lisa_marie_theck",
+      "photo_url": "https://unsplash.com/photos/older-woman-in-brown-patterned-tunic-qpwGhR_YSUI",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-10-05T11:00:04.088282+00:00"
+    },
     {
       "id": "2VfDBHH9n5I",
       "url": "https://images.unsplash.com/photo-1790574305464-3b19eb934e9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw5fHxUZWVuaWUlMjBXZWVuaWUlMjBBZnJvJTIwb24lMjBZb3VuZyUyMEJsYWNrJTIwR2lybHxlbnwxfDF8fHwxNzkxMTk0NTY2fDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-10-01T08:00:08.253018+00:00"
-    },
-    {
-      "id": "ADaaKlI0MQA",
-      "url": "https://images.unsplash.com/photo-1774380479597-5e659025a777?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8R29kZGVzcyUyMEJyYWlkcyUyMG9uJTIwRWxlZ2FudCUyMEFmcmljYW4lMjBNb2RlbHxlbnwxfDF8fHwxNzkwODQxODAxfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1774380479597-5e659025a777?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8R29kZGVzcyUyMEJyYWlkcyUyMG9uJTIwRWxlZ2FudCUyMEFmcmljYW4lMjBNb2RlbHxlbnwxfDF8fHwxNzkwODQxODAxfDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1774380479597-5e659025a777?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8R29kZGVzcyUyMEJyYWlkcyUyMG9uJTIwRWxlZ2FudCUyMEFmcmljYW4lMjBNb2RlbHxlbnwxfDF8fHwxNzkwODQxODAxfDA&ixlib=rb-4.1.0&q=85",
-      "alt": "Woman in patterned two-piece outfit poses by columns",
-      "description": "Confident African woman in a stylish blue patterned outfit, posing gracefully in soft natural light.",
-      "photographer": "Dion Martins",
-      "photographer_url": "https://unsplash.com/@dionmartins",
-      "photo_url": "https://unsplash.com/photos/woman-in-patterned-two-piece-outfit-poses-by-columns-ADaaKlI0MQA",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-10-01T08:00:08.253018+00:00"
     }
   ],
-  "updated_at": "2026-10-05T10:04:35.212268+00:00"
+  "updated_at": "2026-10-05T11:01:00.491868+00:00"
 }
