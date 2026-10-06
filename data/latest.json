@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with today's top Black and African women's hair trends, showcasing vibrant styles that are boldly current!",
   "images": [
+    {
+      "id": "2HUVjpr_sfI",
+      "url": "https://images.unsplash.com/photo-1787652883101-cbf4dc92a9bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8UmVsYXhlZCUyMHBlcm1lZCUyMGhhaXIlMjBjbG9zZSUyMHVwfGVufDF8MXx8fDE3OTEzMTY5MTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1787652883101-cbf4dc92a9bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8UmVsYXhlZCUyMHBlcm1lZCUyMGhhaXIlMjBjbG9zZSUyMHVwfGVufDF8MXx8fDE3OTEzMTY5MTR8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1787652883101-cbf4dc92a9bb?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8UmVsYXhlZCUyMHBlcm1lZCUyMGhhaXIlMjBjbG9zZSUyMHVwfGVufDF8MXx8fDE3OTEzMTY5MTR8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman with long dark curly hair in low light against a black background",
+      "description": "",
+      "photographer": "Bade Saba",
+      "photographer_url": "https://unsplash.com/@badesaba",
+      "photo_url": "https://unsplash.com/photos/woman-with-dark-curly-hair-2HUVjpr_sfI",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-10-06T20:00:03.313806+00:00"
+    },
     {
       "id": "WBfrFvbfSSI",
       "url": "https://images.unsplash.com/photo-1782786982363-5e0d841f8041?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8cmVsYXhlZCUyMGN1cmx5JTIwaGFpciUyMHdvbWFuJTIwc21pbGluZyUyMG91dGRvb3JzfGVufDF8MXx8fDE3OTEzMDYwMDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-10-02T20:00:11.902109+00:00"
-    },
-    {
-      "id": "q04XdIsnv1s",
-      "url": "https://images.unsplash.com/photo-1790574305488-8a1a0024dddc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8dGVlbmllJTIwd2VlbmllJTIwYWZybyUyMGhhaXJzdHlsZXMlMjBvbiUyMGJsYWNrJTIwZ2lybHN8ZW58MXwxfHx8MTc5MDk2MDQzN3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1790574305488-8a1a0024dddc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8dGVlbmllJTIwd2VlbmllJTIwYWZybyUyMGhhaXJzdHlsZXMlMjBvbiUyMGJsYWNrJTIwZ2lybHN8ZW58MXwxfHx8MTc5MDk2MDQzN3ww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1790574305488-8a1a0024dddc?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOXx8dGVlbmllJTIwd2VlbmllJTIwYWZybyUyMGhhaXJzdHlsZXMlMjBvbiUyMGJsYWNrJTIwZ2lybHN8ZW58MXwxfHx8MTc5MDk2MDQzN3ww&ixlib=rb-4.1.0&q=85",
-      "alt": "A smiling person with curly blonde hair and a septum piercing wearing a striped shirt",
-      "description": "Portrait of African American woman waving hand smiling looking at camera on black background. Friendly person and emotion concept.",
-      "photographer": "Vitaly Gariev",
-      "photographer_url": "https://unsplash.com/@silverkblack",
-      "photo_url": "https://unsplash.com/photos/smiling-person-in-striped-shirt-q04XdIsnv1s",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-10-02T17:00:06.589004+00:00"
     }
   ],
-  "updated_at": "2026-10-06T19:20:59.688120+00:00"
+  "updated_at": "2026-10-06T20:04:35.874515+00:00"
 }
