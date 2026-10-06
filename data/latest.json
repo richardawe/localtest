@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to groove with the hottest hairstyles of the season, showcasing the beauty and diversity of Black and African women's hair trends!",
   "images": [
+    {
+      "id": "UXSrkPElVVI",
+      "url": "https://images.unsplash.com/photo-1744520133929-d1b9f6c2fbed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8V29tYW4lMjB3aXRoJTIwZHJlYWRsb2NrcyUyMGFuZCUyMGNvbmZpZGVudCUyMHBvc2V8ZW58MXwxfHx8MTc5MTI5MTcwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1744520133929-d1b9f6c2fbed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8V29tYW4lMjB3aXRoJTIwZHJlYWRsb2NrcyUyMGFuZCUyMGNvbmZpZGVudCUyMHBvc2V8ZW58MXwxfHx8MTc5MTI5MTcwMHww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1744520133929-d1b9f6c2fbed?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8V29tYW4lMjB3aXRoJTIwZHJlYWRsb2NrcyUyMGFuZCUyMGNvbmZpZGVudCUyMHBvc2V8ZW58MXwxfHx8MTc5MTI5MTcwMHww&ixlib=rb-4.1.0&q=85",
+      "alt": "A fashionable woman poses outdoors with braids",
+      "description": "",
+      "photographer": "Michael Kyule",
+      "photographer_url": "https://unsplash.com/@madness_leahcim_",
+      "photo_url": "https://unsplash.com/photos/a-fashionable-woman-poses-outdoors-with-braids-UXSrkPElVVI",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-10-06T13:00:03.907567+00:00"
+    },
     {
       "id": "Z92FHf_Cwiw",
       "url": "https://images.unsplash.com/photo-1615891199518-08e6f89384d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8VGVlbmllJTIwV2VlbmllJTIwQWZyb3MlMjBCbGFjayUyMEdpcmwlMjBNYWdpY3xlbnwxfDF8fHwxNzkxMjQxMjIxfDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-10-01T08:00:08.253018+00:00"
-    },
-    {
-      "id": "bLjr1xr2BTU",
-      "url": "https://images.unsplash.com/photo-1787779351178-a97980b3429f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw5fHxHb2RkZXNzJTIwQnJhaWRzJTIwb24lMjBFbGVnYW50JTIwQWZyaWNhbiUyME1vZGVsfGVufDF8MXx8fDE3OTA4NDE4MDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1787779351178-a97980b3429f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw5fHxHb2RkZXNzJTIwQnJhaWRzJTIwb24lMjBFbGVnYW50JTIwQWZyaWNhbiUyME1vZGVsfGVufDF8MXx8fDE3OTA4NDE4MDF8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1787779351178-a97980b3429f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw5fHxHb2RkZXNzJTIwQnJhaWRzJTIwb24lMjBFbGVnYW50JTIwQWZyaWNhbiUyME1vZGVsfGVufDF8MXx8fDE3OTA4NDE4MDF8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "A woman in a voluminous blue satin coat and headwrap on a Lagos street",
-      "description": "'The Street Is My Runway' a fashion project by Ben Iwara https://youtu.be/GtIaSyFZIGc",
-      "photographer": "Ben Iwara",
-      "photographer_url": "https://unsplash.com/@1hundredimages",
-      "photo_url": "https://unsplash.com/photos/woman-in-blue-coat-in-lagos-bLjr1xr2BTU",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-10-01T08:00:08.253018+00:00"
     }
   ],
-  "updated_at": "2026-10-06T12:01:10.628526+00:00"
+  "updated_at": "2026-10-06T13:02:31.137929+00:00"
 }
