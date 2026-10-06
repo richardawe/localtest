@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay the hair game with today's top Black and African women's hair trends, featuring bold styles and vibrant flavors!",
   "images": [
+    {
+      "id": "WBfrFvbfSSI",
+      "url": "https://images.unsplash.com/photo-1782786982363-5e0d841f8041?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8cmVsYXhlZCUyMGN1cmx5JTIwaGFpciUyMHdvbWFuJTIwc21pbGluZyUyMG91dGRvb3JzfGVufDF8MXx8fDE3OTEzMDYwMDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1782786982363-5e0d841f8041?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8cmVsYXhlZCUyMGN1cmx5JTIwaGFpciUyMHdvbWFuJTIwc21pbGluZyUyMG91dGRvb3JzfGVufDF8MXx8fDE3OTEzMDYwMDd8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1782786982363-5e0d841f8041?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8cmVsYXhlZCUyMGN1cmx5JTIwaGFpciUyMHdvbWFuJTIwc21pbGluZyUyMG91dGRvb3JzfGVufDF8MXx8fDE3OTEzMDYwMDd8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "Curly-haired woman smiling in warm dappled sunlight",
+      "description": "",
+      "photographer": "Alexander Mass",
+      "photographer_url": "https://unsplash.com/@alexandermassph",
+      "photo_url": "https://unsplash.com/photos/curly-haired-woman-smiling-in-warm-dappled-sunlight-WBfrFvbfSSI",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-10-06T17:00:02.484784+00:00"
+    },
     {
       "id": "YG3eB9My8EM",
       "url": "https://images.unsplash.com/photo-1774773134595-d7862a22606f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8QmxhY2slMjBnaXJscyUyMHdpdGglMjBiYW50dSUyMGtub3RzJTIwb3V0c2lkZXxlbnwxfDF8fHwxNzkxMjk4ODYzfDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-10-02T17:00:06.589004+00:00"
-    },
-    {
-      "id": "2a71TZe_vG0",
-      "url": "https://images.unsplash.com/photo-1781263409590-da4b7cad5021?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzfHxGdWxhbmklMjBicmFpZHMlMjBvbiUyMEFmcmljYW4lMjB3b21hbiUyMGhlYWR8ZW58MXwxfHx8MTc5MDk1NjgxMnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1781263409590-da4b7cad5021?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzfHxGdWxhbmklMjBicmFpZHMlMjBvbiUyMEFmcmljYW4lMjB3b21hbiUyMGhlYWR8ZW58MXwxfHx8MTc5MDk1NjgxMnww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1781263409590-da4b7cad5021?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzfHxGdWxhbmklMjBicmFpZHMlMjBvbiUyMEFmcmljYW4lMjB3b21hbiUyMGhlYWR8ZW58MXwxfHx8MTc5MDk1NjgxMnww&ixlib=rb-4.1.0&q=85",
-      "alt": "Woman balancing buckets on her head at sunset",
-      "description": "",
-      "photographer": "Aliburhan S",
-      "photographer_url": "https://unsplash.com/@aliburhan",
-      "photo_url": "https://unsplash.com/photos/woman-balancing-buckets-on-her-head-at-sunset-2a71TZe_vG0",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-10-02T16:00:12.329259+00:00"
     }
   ],
-  "updated_at": "2026-10-06T16:04:27.522945+00:00"
+  "updated_at": "2026-10-06T17:02:13.824037+00:00"
 }
