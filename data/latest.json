@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with our top picks for the hottest current hairstyles trending among Black and African women right now!",
   "images": [
+    {
+      "id": "njixRf0i0AE",
+      "url": "https://images.unsplash.com/photo-1790574305487-8a8fbcdbd937?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyfHxSZWxheGVkJTIwUGVybWVkJTIwSGFpciUyMG9uJTIwQmVhdXRpZnVsJTIwRmFjZXN8ZW58MXwxfHx8MTc5MTQzOTIzMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1790574305487-8a8fbcdbd937?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyfHxSZWxheGVkJTIwUGVybWVkJTIwSGFpciUyMG9uJTIwQmVhdXRpZnVsJTIwRmFjZXN8ZW58MXwxfHx8MTc5MTQzOTIzMXww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1790574305487-8a8fbcdbd937?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyfHxSZWxheGVkJTIwUGVybWVkJTIwSGFpciUyMG9uJTIwQmVhdXRpZnVsJTIwRmFjZXN8ZW58MXwxfHx8MTc5MTQzOTIzMXww&ixlib=rb-4.1.0&q=85",
+      "alt": "A close-up of a person with curly hair and dark eyelashes",
+      "description": "Close-up of African American lady half face looking at camera on black color background. Human emotion and body part concept.",
+      "photographer": "Vitaly Gariev",
+      "photographer_url": "https://unsplash.com/@silverkblack",
+      "photo_url": "https://unsplash.com/photos/person-with-curly-hair-and-eyelashes-njixRf0i0AE",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-10-08T06:00:04.485160+00:00"
+    },
     {
       "id": "2HUVjpr_sfI",
       "url": "https://images.unsplash.com/photo-1787652883101-cbf4dc92a9bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8UmVsYXhlZCUyMHBlcm1lZCUyMGhhaXIlMjBjbG9zZSUyMHVwfGVufDF8MXx8fDE3OTEzMTY5MTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-10-02T21:00:12.651998+00:00"
-    },
-    {
-      "id": "INgwUoGMTjY",
-      "url": "https://images.unsplash.com/photo-1597872562393-5cb80816668c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8V2VhdmVzJTIwRXh0ZW5zaW9ucyUyMG9uJTIwQnJvd24lMjBTa2luJTIwTW9kZWxzfGVufDF8MXx8fDE3OTA5NzEzMjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1597872562393-5cb80816668c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8V2VhdmVzJTIwRXh0ZW5zaW9ucyUyMG9uJTIwQnJvd24lMjBTa2luJTIwTW9kZWxzfGVufDF8MXx8fDE3OTA5NzEzMjB8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1597872562393-5cb80816668c?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8V2VhdmVzJTIwRXh0ZW5zaW9ucyUyMG9uJTIwQnJvd24lMjBTa2luJTIwTW9kZWxzfGVufDF8MXx8fDE3OTA5NzEzMjB8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "man in white blazer and black and white polka dot pants",
-      "description": "Black girl magic",
-      "photographer": "Kevin Domfeh",
-      "photographer_url": "https://unsplash.com/@kevindomfeh",
-      "photo_url": "https://unsplash.com/photos/man-in-white-blazer-and-black-and-white-polka-dot-pants-INgwUoGMTjY",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-10-02T20:00:11.902109+00:00"
     }
   ],
-  "updated_at": "2026-10-08T05:01:18.094025+00:00"
+  "updated_at": "2026-10-08T06:00:49.946712+00:00"
 }
