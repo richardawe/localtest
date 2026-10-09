@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with today's top picks from the latest Black and African women's hair trends, straight from the runway to your doorstep!",
   "images": [
+    {
+      "id": "tJiSsg3fKRk",
+      "url": "https://images.unsplash.com/photo-1765036628279-ab736b47df04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8RHJlYWRsb2NrcyUyMGxvY3MlMjBuYXR1cmFsJTIwYmxhY2slMjB3b21hbiUyMGJlYXV0eXxlbnwxfDF8fHwxNzkxNTUwODUyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1765036628279-ab736b47df04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8RHJlYWRsb2NrcyUyMGxvY3MlMjBuYXR1cmFsJTIwYmxhY2slMjB3b21hbiUyMGJlYXV0eXxlbnwxfDF8fHwxNzkxNTUwODUyfDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1765036628279-ab736b47df04?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8RHJlYWRsb2NrcyUyMGxvY3MlMjBuYXR1cmFsJTIwYmxhY2slMjB3b21hbiUyMGJlYXV0eXxlbnwxfDF8fHwxNzkxNTUwODUyfDA&ixlib=rb-4.1.0&q=85",
+      "alt": "Young woman with eyes closed, smiling against sky",
+      "description": "Beautiful black woman",
+      "photographer": "Sebastian Schuster",
+      "photographer_url": "https://unsplash.com/@sschusterphotoart",
+      "photo_url": "https://unsplash.com/photos/young-woman-with-eyes-closed-smiling-against-sky-tJiSsg3fKRk",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-10-09T13:00:08.813023+00:00"
+    },
     {
       "id": "athv1Chtc2o",
       "url": "https://images.unsplash.com/photo-1781274054552-311be66203fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8QmFudHUlMjBrbm90cyUyMGFuZCUyMEFmcmljYW4lMjBwcmludCUyMGRyZXNzZXN8ZW58MXwxfHx8MTc5MTQ0NjQxM3ww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-10-04T03:00:06.546410+00:00"
-    },
-    {
-      "id": "gA13yfL2CCY",
-      "url": "https://images.unsplash.com/photo-1790066314620-c8aad8649d02?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8VGVlbmllJTIwV2VlbmllJTIwQWZyb3MlMjBvbiUyMExpdHRsZSUyMEJsYWNrJTIwR2lybHN8ZW58MXwxfHx8MTc5MTA1MDQ2NHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1790066314620-c8aad8649d02?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8VGVlbmllJTIwV2VlbmllJTIwQWZyb3MlMjBvbiUyMExpdHRsZSUyMEJsYWNrJTIwR2lybHN8ZW58MXwxfHx8MTc5MTA1MDQ2NHww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1790066314620-c8aad8649d02?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8VGVlbmllJTIwV2VlbmllJTIwQWZyb3MlMjBvbiUyMExpdHRsZSUyMEJsYWNrJTIwR2lybHN8ZW58MXwxfHx8MTc5MTA1MDQ2NHww&ixlib=rb-4.1.0&q=85",
-      "alt": "A smiling child with braided hair wearing a headband and a textured top",
-      "description": "",
-      "photographer": "Adewale Shobaloju",
-      "photographer_url": "https://unsplash.com/@ogidan",
-      "photo_url": "https://unsplash.com/photos/smiling-child-in-textured-top-gA13yfL2CCY",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-10-03T18:00:09.219272+00:00"
     }
   ],
-  "updated_at": "2026-10-09T12:01:25.757344+00:00"
+  "updated_at": "2026-10-09T13:01:38.449650+00:00"
 }
