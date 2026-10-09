@@ -1,6 +1,36 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with our latest feature on the hottest current Black and African women's hair trends that are taking the world by storm!",
   "images": [
+    {
+      "id": "Vy6W6E4n2cQ",
+      "url": "https://images.unsplash.com/photo-1694676799159-614ddcfa9f0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8QWZyaWNhbiUyMHdvbWVuJTIwd2l0aCUyMGRyZWFkbG9ja3MlMjBpbiUyMHN0dWRpb3xlbnwxfDF8fHwxNzkxNTc2MDEwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1694676799159-614ddcfa9f0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8QWZyaWNhbiUyMHdvbWVuJTIwd2l0aCUyMGRyZWFkbG9ja3MlMjBpbiUyMHN0dWRpb3xlbnwxfDF8fHwxNzkxNTc2MDEwfDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1694676799159-614ddcfa9f0c?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8QWZyaWNhbiUyMHdvbWVuJTIwd2l0aCUyMGRyZWFkbG9ja3MlMjBpbiUyMHN0dWRpb3xlbnwxfDF8fHwxNzkxNTc2MDEwfDA&ixlib=rb-4.1.0&q=85",
+      "alt": "a black and white photo of a person with dreadlocks",
+      "description": "",
+      "photographer": "Nathan Ayoola",
+      "photographer_url": "https://unsplash.com/@nathanayoola",
+      "photo_url": "https://unsplash.com/photos/a-black-and-white-photo-of-a-person-with-dreadlocks-Vy6W6E4n2cQ",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-10-09T20:00:04.277929+00:00"
+    },
+    {
+      "id": "39EM74Rsou4",
+      "url": "https://images.unsplash.com/photo-1786529745836-135381841437?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxM3x8UmVsYXhlZCUyMGhhaXIlMjB0ZXh0dXJlcyUyMG9uJTIwYW4lMjBlbGRlcmx5JTIwd29tYW58ZW58MXwxfHx8MTc5MTU3NjAyOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1786529745836-135381841437?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxM3x8UmVsYXhlZCUyMGhhaXIlMjB0ZXh0dXJlcyUyMG9uJTIwYW4lMjBlbGRlcmx5JTIwd29tYW58ZW58MXwxfHx8MTc5MTU3NjAyOHww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1786529745836-135381841437?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxM3x8UmVsYXhlZCUyMGhhaXIlMjB0ZXh0dXJlcyUyMG9uJTIwYW4lMjBlbGRlcmx5JTIwd29tYW58ZW58MXwxfHx8MTc5MTU3NjAyOHww&ixlib=rb-4.1.0&q=85",
+      "alt": "An elderly woman wearing a brown headwrap and embroidered tunic giving a thumbs up",
+      "description": "Wedding guest at a Ugandan wedding.",
+      "photographer": "Lisa Marie Theck",
+      "photographer_url": "https://unsplash.com/@lisa_marie_theck",
+      "photo_url": "https://unsplash.com/photos/elderly-woman-giving-thumbs-up-39EM74Rsou4",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-10-09T20:00:04.277929+00:00"
+    },
     {
       "id": "tJiSsg3fKRk",
       "url": "https://images.unsplash.com/photo-1765036628279-ab736b47df04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8RHJlYWRsb2NrcyUyMGxvY3MlMjBuYXR1cmFsJTIwYmxhY2slMjB3b21hbiUyMGJlYXV0eXxlbnwxfDF8fHwxNzkxNTUwODUyfDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -270,37 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-10-04T03:00:06.546410+00:00"
-    },
-    {
-      "id": "YSL09pV7lek",
-      "url": "https://images.unsplash.com/photo-1769764615012-c0dc97167695?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8TmF0dXJhbCUyMEFmcm8lMjBQaWMlMjB3aXRoJTIwU3Ryb25nJTIwV29tYW58ZW58MXwxfHx8MTc5MTA4MjgzNHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1769764615012-c0dc97167695?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8TmF0dXJhbCUyMEFmcm8lMjBQaWMlMjB3aXRoJTIwU3Ryb25nJTIwV29tYW58ZW58MXwxfHx8MTc5MTA4MjgzNHww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1769764615012-c0dc97167695?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8TmF0dXJhbCUyMEFmcm8lMjBQaWMlMjB3aXRoJTIwU3Ryb25nJTIwV29tYW58ZW58MXwxfHx8MTc5MTA4MjgzNHww&ixlib=rb-4.1.0&q=85",
-      "alt": "A woman in a black suit sits on a chair",
-      "description": "A portrait of a black woman sitting dressed in black business casual attire in a photo studio",
-      "photographer": "Mikelya Fournier",
-      "photographer_url": "https://unsplash.com/@mikelyafournier",
-      "photo_url": "https://unsplash.com/photos/a-woman-in-a-black-suit-sits-on-a-chair-YSL09pV7lek",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-10-04T03:00:06.546410+00:00"
-    },
-    {
-      "id": "5Jx_ZjT8ikU",
-      "url": "https://images.unsplash.com/photo-1628971021877-37187fde57f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8TmF0dXJhbCUyMEFmcm8lMjBQaWMlMjB3aXRoJTIwU3Ryb25nJTIwV29tYW58ZW58MXwxfHx8MTc5MTA4MjgzNHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1628971021877-37187fde57f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8TmF0dXJhbCUyMEFmcm8lMjBQaWMlMjB3aXRoJTIwU3Ryb25nJTIwV29tYW58ZW58MXwxfHx8MTc5MTA4MjgzNHww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1628971021877-37187fde57f4?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8TmF0dXJhbCUyMEFmcm8lMjBQaWMlMjB3aXRoJTIwU3Ryb25nJTIwV29tYW58ZW58MXwxfHx8MTc5MTA4MjgzNHww&ixlib=rb-4.1.0&q=85",
-      "alt": "woman in black sports bra and red shorts",
-      "description": "Black woman wearing April Laugh Fitness Bra and shorts.",
-      "photographer": "April Laugh",
-      "photographer_url": "https://unsplash.com/@aprillaugh",
-      "photo_url": "https://unsplash.com/photos/woman-in-black-sports-bra-and-red-shorts-5Jx_ZjT8ikU",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-10-04T03:00:06.546410+00:00"
     }
   ],
-  "updated_at": "2026-10-09T19:02:00.992225+00:00"
+  "updated_at": "2026-10-09T20:01:13.328803+00:00"
 }
