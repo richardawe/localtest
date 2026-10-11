@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with the most sought-after styles of the season, straight from the runways and natural beauty experts of Black and African women!",
   "images": [
+    {
+      "id": "XD0D5yGBR7M",
+      "url": "https://images.unsplash.com/photo-1767249629645-b069c92fa4a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNnx8VGVlbmllJTIwV2VlbmllJTIwQWZyb3MlMjBCbGFjayUyMEdpcmxzJTIwUHJpZGV8ZW58MXwxfHx8MTc5MTcxMjgyOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1767249629645-b069c92fa4a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNnx8VGVlbmllJTIwV2VlbmllJTIwQWZyb3MlMjBCbGFjayUyMEdpcmxzJTIwUHJpZGV8ZW58MXwxfHx8MTc5MTcxMjgyOXww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1767249629645-b069c92fa4a1?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNnx8VGVlbmllJTIwV2VlbmllJTIwQWZyb3MlMjBCbGFjayUyMEdpcmxzJTIwUHJpZGV8ZW58MXwxfHx8MTc5MTcxMjgyOXww&ixlib=rb-4.1.0&q=85",
+      "alt": "Young black woman with braided hair and colorful embellishments",
+      "description": "",
+      "photographer": "Michael Kyule",
+      "photographer_url": "https://unsplash.com/@madness_leahcim_",
+      "photo_url": "https://unsplash.com/photos/young-black-woman-with-braided-hair-and-colorful-embellishments-XD0D5yGBR7M",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-10-11T10:00:09.275063+00:00"
+    },
     {
       "id": "Vy6W6E4n2cQ",
       "url": "https://images.unsplash.com/photo-1694676799159-614ddcfa9f0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8QWZyaWNhbiUyMHdvbWVuJTIwd2l0aCUyMGRyZWFkbG9ja3MlMjBpbiUyMHN0dWRpb3xlbnwxfDF8fHwxNzkxNTc2MDEwfDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-10-04T05:00:04.217331+00:00"
-    },
-    {
-      "id": "JpQ8WA9AShM",
-      "url": "https://images.unsplash.com/photo-1770283553926-5af629a488dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzfHxOYXR1cmFsJTIwQWZybyUyMFBpYyUyMHdpdGglMjBTdHJvbmclMjBXb21hbnxlbnwxfDF8fHwxNzkxMDgyODM0fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1770283553926-5af629a488dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzfHxOYXR1cmFsJTIwQWZybyUyMFBpYyUyMHdpdGglMjBTdHJvbmclMjBXb21hbnxlbnwxfDF8fHwxNzkxMDgyODM0fDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1770283553926-5af629a488dd?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzfHxOYXR1cmFsJTIwQWZybyUyMFBpYyUyMHdpdGglMjBTdHJvbmclMjBXb21hbnxlbnwxfDF8fHwxNzkxMDgyODM0fDA&ixlib=rb-4.1.0&q=85",
-      "alt": "Woman with afro hair looking out pink bus window",
-      "description": "",
-      "photographer": "Dwayne joe",
-      "photographer_url": "https://unsplash.com/@spliff_dj_joe",
-      "photo_url": "https://unsplash.com/photos/woman-with-afro-hair-looking-out-pink-bus-window-JpQ8WA9AShM",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-10-04T03:00:06.546410+00:00"
     }
   ],
-  "updated_at": "2026-10-11T09:00:58.749347+00:00"
+  "updated_at": "2026-10-11T10:01:18.178564+00:00"
 }
