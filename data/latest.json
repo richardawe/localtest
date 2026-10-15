@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with this season's hottest Black and African hair trends, showcasing vibrant colors, bold styles, and unapologetic confidence!",
   "images": [
+    {
+      "id": "QxAmH65dapQ",
+      "url": "https://images.unsplash.com/photo-1786529744345-552711a0cb28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8QWZyaWNhbiUyMHdvbWVuJTIwZ29kZGVzcyUyMGJyYWlkcyUyMG9uJTIwd2VkZGluZyUyMGRheXxlbnwxfDF8fHwxNzkyMDgwMDE0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1786529744345-552711a0cb28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8QWZyaWNhbiUyMHdvbWVuJTIwZ29kZGVzcyUyMGJyYWlkcyUyMG9uJTIwd2VkZGluZyUyMGRheXxlbnwxfDF8fHwxNzkyMDgwMDE0fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1786529744345-552711a0cb28?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8QWZyaWNhbiUyMHdvbWVuJTIwZ29kZGVzcyUyMGJyYWlkcyUyMG9uJTIwd2VkZGluZyUyMGRheXxlbnwxfDF8fHwxNzkyMDgwMDE0fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman in a green beaded dress with a hair accessory in a garden",
+      "description": "African bride on her wedding day",
+      "photographer": "Lisa Marie Theck",
+      "photographer_url": "https://unsplash.com/@lisa_marie_theck",
+      "photo_url": "https://unsplash.com/photos/woman-in-green-beaded-dress-QxAmH65dapQ",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-10-15T16:00:05.335581+00:00"
+    },
     {
       "id": "IIBCVgJXvIg",
       "url": "https://images.unsplash.com/photo-1791643388571-ca54fe95a63c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw4fHxSZWxheGVkJTIwUGVybWVkJTIwSGFpciUyMEJsYWNrJTIwV29tZW4lMjdzJTIwQmVhdXRpZnVsJTIwU3R5bGVzfGVufDF8MXx8fDE3OTIwNjU2MDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-10-05T10:00:06.450204+00:00"
-    },
-    {
-      "id": "3L_rHLpusdc",
-      "url": "https://images.unsplash.com/photo-1642240526059-c49b949aa0cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8VGVlbmFnZSUyMGdpcmwlMjB3aXRoJTIwVFdBJTIwYWZybyUyMHNtaWxpbmd8ZW58MXwxfHx8MTc5MTE0MDQ3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1642240526059-c49b949aa0cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8VGVlbmFnZSUyMGdpcmwlMjB3aXRoJTIwVFdBJTIwYWZybyUyMHNtaWxpbmd8ZW58MXwxfHx8MTc5MTE0MDQ3N3ww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1642240526059-c49b949aa0cf?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8VGVlbmFnZSUyMGdpcmwlMjB3aXRoJTIwVFdBJTIwYWZybyUyMHNtaWxpbmd8ZW58MXwxfHx8MTc5MTE0MDQ3N3ww&ixlib=rb-4.1.0&q=85",
-      "alt": "a woman in a yellow dress smiling at the camera",
-      "description": "Portrait of a young black girl in a spaghetti gown",
-      "photographer": "Francis Odeyemi",
-      "photographer_url": "https://unsplash.com/@cutinamoment",
-      "photo_url": "https://unsplash.com/photos/a-woman-in-a-yellow-dress-smiling-at-the-camera-3L_rHLpusdc",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-10-04T19:00:07.953338+00:00"
     }
   ],
-  "updated_at": "2026-10-15T15:01:23.466094+00:00"
+  "updated_at": "2026-10-15T16:01:43.040131+00:00"
 }
