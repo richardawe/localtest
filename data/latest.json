@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with today's top Black and African hair trends, from Afro-textured styles to vibrant braids and bold colors!",
   "images": [
+    {
+      "id": "IIBCVgJXvIg",
+      "url": "https://images.unsplash.com/photo-1791643388571-ca54fe95a63c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw4fHxSZWxheGVkJTIwUGVybWVkJTIwSGFpciUyMEJsYWNrJTIwV29tZW4lMjdzJTIwQmVhdXRpZnVsJTIwU3R5bGVzfGVufDF8MXx8fDE3OTIwNjU2MDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1791643388571-ca54fe95a63c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw4fHxSZWxheGVkJTIwUGVybWVkJTIwSGFpciUyMEJsYWNrJTIwV29tZW4lMjdzJTIwQmVhdXRpZnVsJTIwU3R5bGVzfGVufDF8MXx8fDE3OTIwNjU2MDV8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1791643388571-ca54fe95a63c?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw4fHxSZWxheGVkJTIwUGVybWVkJTIwSGFpciUyMEJsYWNrJTIwV29tZW4lMjdzJTIwQmVhdXRpZnVsJTIwU3R5bGVzfGVufDF8MXx8fDE3OTIwNjU2MDV8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "A black and white profile portrait of a woman with a large afro hairstyle",
+      "description": "",
+      "photographer": "NORBAINE GLORY TAMAR",
+      "photographer_url": "https://unsplash.com/@g_light",
+      "photo_url": "https://unsplash.com/photos/woman-with-afro-in-profile-portrait-IIBCVgJXvIg",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-10-15T12:00:02.969556+00:00"
+    },
     {
       "id": "toMmsqBP4to",
       "url": "https://images.unsplash.com/photo-1764166349371-e44a55642ead?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8Qm94JTIwYnJhaWRzJTIwYW5kJTIwZHJlYWRsb2NrcyUyMGluJTIwQWZyaWNhbiUyMGN1bHR1cmV8ZW58MXwxfHx8MTc5MTg0NjAzN3ww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-10-04T19:00:07.953338+00:00"
-    },
-    {
-      "id": "rbZm4HU7S-o",
-      "url": "https://images.unsplash.com/photo-1778480976781-45a72feb64ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8TG9jcyUyMERyZWFkbG9ja3MlMjBpbiUyME5hdHVyYWwlMjBMaWdodHxlbnwxfDF8fHwxNzkxMDkwMDM0fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1778480976781-45a72feb64ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8TG9jcyUyMERyZWFkbG9ja3MlMjBpbiUyME5hdHVyYWwlMjBMaWdodHxlbnwxfDF8fHwxNzkxMDkwMDM0fDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1778480976781-45a72feb64ff?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8TG9jcyUyMERyZWFkbG9ja3MlMjBpbiUyME5hdHVyYWwlMjBMaWdodHxlbnwxfDF8fHwxNzkxMDkwMDM0fDA&ixlib=rb-4.1.0&q=85",
-      "alt": "Young woman with dreadlocks relaxing on a sunny grassy hill",
-      "description": "",
-      "photographer": "Deny Hill",
-      "photographer_url": "https://unsplash.com/@deny_hill",
-      "photo_url": "https://unsplash.com/photos/young-woman-with-dreadlocks-relaxing-on-a-sunny-grassy-hill-rbZm4HU7S-o",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-10-04T05:00:04.217331+00:00"
     }
   ],
-  "updated_at": "2026-10-15T11:02:26.517557+00:00"
+  "updated_at": "2026-10-15T12:01:14.816534+00:00"
 }
