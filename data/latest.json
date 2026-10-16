@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay the day with today's featured Black and African women's hair trends, showcasing the boldest styles of the season!",
   "images": [
+    {
+      "id": "qtaDKDhQiZQ",
+      "url": "https://images.unsplash.com/photo-1740741702726-a7f9180a7f9b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8QmFudHUlMjBrbm90cyUyMG9uJTIwYmxhY2slMjBtb2RlbHxlbnwxfDF8fHwxNzkyMTQ4NTExfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1740741702726-a7f9180a7f9b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8QmFudHUlMjBrbm90cyUyMG9uJTIwYmxhY2slMjBtb2RlbHxlbnwxfDF8fHwxNzkyMTQ4NTExfDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1740741702726-a7f9180a7f9b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8QmFudHUlMjBrbm90cyUyMG9uJTIwYmxhY2slMjBtb2RlbHxlbnwxfDF8fHwxNzkyMTQ4NTExfDA&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman with dreadlocks standing in front of a light",
+      "description": "African woman poses",
+      "photographer": "Lisa Marie Theck",
+      "photographer_url": "https://unsplash.com/@lisa_marie_theck",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-dreadlocks-standing-in-front-of-a-light-qtaDKDhQiZQ",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-10-16T11:00:05.366921+00:00"
+    },
     {
       "id": "NSdRdWpVJOk",
       "url": "https://images.unsplash.com/photo-1788169709822-15f454e3d85d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8VGVlbmllJTIwV2VlbmllJTIwQWZyb3MlMjBPbiUyMEJsYWNrJTIwR2lybHMlMjBVbnNwbGFzaHxlbnwxfDF8fHwxNzkyMTE2MDMyfDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-10-05T23:00:04.330002+00:00"
-    },
-    {
-      "id": "qpwGhR_YSUI",
-      "url": "https://images.unsplash.com/photo-1786529744350-b08ab47a7a28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8RnVsYW5pJTIwYnJhaWRzJTIwb24lMjBBZnJpY2FuJTIwd29tYW4lMjBmYWNlfGVufDF8MXx8fDE3OTExOTgwMDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1786529744350-b08ab47a7a28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8RnVsYW5pJTIwYnJhaWRzJTIwb24lMjBBZnJpY2FuJTIwd29tYW4lMjBmYWNlfGVufDF8MXx8fDE3OTExOTgwMDl8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1786529744350-b08ab47a7a28?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8RnVsYW5pJTIwYnJhaWRzJTIwb24lMjBBZnJpY2FuJTIwd29tYW4lMjBmYWNlfGVufDF8MXx8fDE3OTExOTgwMDl8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "An older woman in a brown patterned tunic and headwrap in dim light",
-      "description": "Wedding guest at a Ugandan wedding.",
-      "photographer": "Lisa Marie Theck",
-      "photographer_url": "https://unsplash.com/@lisa_marie_theck",
-      "photo_url": "https://unsplash.com/photos/older-woman-in-brown-patterned-tunic-qpwGhR_YSUI",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-10-05T11:00:04.088282+00:00"
     }
   ],
-  "updated_at": "2026-10-16T10:04:48.180816+00:00"
+  "updated_at": "2026-10-16T11:02:40.954358+00:00"
 }
