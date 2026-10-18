@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready for a hair explosion as we dive into the hottest and most iconic Black and African hair trends of the moment, straight from the continent!",
   "images": [
+    {
+      "id": "LIq3lL2BQaQ",
+      "url": "https://images.unsplash.com/photo-1784330687520-feb4ab44e5dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNnx8VGVlbmllJTIwd2VlbmllJTIwYWZyb3MlMjBvbiUyMHlvdW5nJTIwYmxhY2t8ZW58MXwxfHx8MTc5MjI5MjUxOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1784330687520-feb4ab44e5dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNnx8VGVlbmllJTIwd2VlbmllJTIwYWZyb3MlMjBvbiUyMHlvdW5nJTIwYmxhY2t8ZW58MXwxfHx8MTc5MjI5MjUxOHww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1784330687520-feb4ab44e5dd?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNnx8VGVlbmllJTIwd2VlbmllJTIwYWZyb3MlMjBvbiUyMHlvdW5nJTIwYmxhY2t8ZW58MXwxfHx8MTc5MjI5MjUxOHww&ixlib=rb-4.1.0&q=85",
+      "alt": "Smiling young black woman in black top and white pants",
+      "description": "",
+      "photographer": "McFollis",
+      "photographer_url": "https://unsplash.com/@thisismcfollis",
+      "photo_url": "https://unsplash.com/photos/smiling-young-black-woman-in-black-top-and-white-pants-LIq3lL2BQaQ",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-10-18T03:00:07.793874+00:00"
+    },
     {
       "id": "VPvYUK2Iibo",
       "url": "https://images.unsplash.com/photo-1666867540898-aaa1993ffabc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw0fHxUV0ElMjBoYWlyc3R5bGVzJTIwb24lMjB5b3VuZyUyMEJsYWNrJTIwd29tZW58ZW58MXwxfHx8MTc5MjI1MjgxNHww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-10-06T15:00:04.877278+00:00"
-    },
-    {
-      "id": "UXSrkPElVVI",
-      "url": "https://images.unsplash.com/photo-1744520133929-d1b9f6c2fbed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8V29tYW4lMjB3aXRoJTIwZHJlYWRsb2NrcyUyMGFuZCUyMGNvbmZpZGVudCUyMHBvc2V8ZW58MXwxfHx8MTc5MTI5MTcwMHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1744520133929-d1b9f6c2fbed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8V29tYW4lMjB3aXRoJTIwZHJlYWRsb2NrcyUyMGFuZCUyMGNvbmZpZGVudCUyMHBvc2V8ZW58MXwxfHx8MTc5MTI5MTcwMHww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1744520133929-d1b9f6c2fbed?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8V29tYW4lMjB3aXRoJTIwZHJlYWRsb2NrcyUyMGFuZCUyMGNvbmZpZGVudCUyMHBvc2V8ZW58MXwxfHx8MTc5MTI5MTcwMHww&ixlib=rb-4.1.0&q=85",
-      "alt": "A fashionable woman poses outdoors with braids",
-      "description": "",
-      "photographer": "Michael Kyule",
-      "photographer_url": "https://unsplash.com/@madness_leahcim_",
-      "photo_url": "https://unsplash.com/photos/a-fashionable-woman-poses-outdoors-with-braids-UXSrkPElVVI",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-10-06T13:00:03.907567+00:00"
     }
   ],
-  "updated_at": "2026-10-18T02:04:22.685949+00:00"
+  "updated_at": "2026-10-18T03:04:58.526213+00:00"
 }
