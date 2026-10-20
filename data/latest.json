@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with today's featured Black and African women's hair trends, where bold styles and vibrant colors reign supreme!",
   "images": [
+    {
+      "id": "s_7SgJR58kY",
+      "url": "https://images.unsplash.com/photo-1780245771016-f9014901fedc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8Y29ybnJvd3MlMjBhbmQlMjBkcmVhZGxvY2tzJTIwaW4lMjBibGFjayUyMGN1bHR1cmV8ZW58MXwxfHx8MTc5MjQ2ODg0MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1780245771016-f9014901fedc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8Y29ybnJvd3MlMjBhbmQlMjBkcmVhZGxvY2tzJTIwaW4lMjBibGFjayUyMGN1bHR1cmV8ZW58MXwxfHx8MTc5MjQ2ODg0MHww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1780245771016-f9014901fedc?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8Y29ybnJvd3MlMjBhbmQlMjBkcmVhZGxvY2tzJTIwaW4lMjBibGFjayUyMGN1bHR1cmV8ZW58MXwxfHx8MTc5MjQ2ODg0MHww&ixlib=rb-4.1.0&q=85",
+      "alt": "Woman with dreadlocks and sunglasses squats in black and white",
+      "description": "",
+      "photographer": "Olumide Adekunle",
+      "photographer_url": "https://unsplash.com/@0rangevisuals",
+      "photo_url": "https://unsplash.com/photos/woman-with-dreadlocks-and-sunglasses-squats-in-black-and-white-s_7SgJR58kY",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-10-20T04:00:06.988807+00:00"
+    },
     {
       "id": "LIq3lL2BQaQ",
       "url": "https://images.unsplash.com/photo-1784330687520-feb4ab44e5dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNnx8VGVlbmllJTIwd2VlbmllJTIwYWZyb3MlMjBvbiUyMHlvdW5nJTIwYmxhY2t8ZW58MXwxfHx8MTc5MjI5MjUxOHww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-10-06T17:00:02.484784+00:00"
-    },
-    {
-      "id": "YG3eB9My8EM",
-      "url": "https://images.unsplash.com/photo-1774773134595-d7862a22606f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8QmxhY2slMjBnaXJscyUyMHdpdGglMjBiYW50dSUyMGtub3RzJTIwb3V0c2lkZXxlbnwxfDF8fHwxNzkxMjk4ODYzfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1774773134595-d7862a22606f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8QmxhY2slMjBnaXJscyUyMHdpdGglMjBiYW50dSUyMGtub3RzJTIwb3V0c2lkZXxlbnwxfDF8fHwxNzkxMjk4ODYzfDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1774773134595-d7862a22606f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8QmxhY2slMjBnaXJscyUyMHdpdGglMjBiYW50dSUyMGtub3RzJTIwb3V0c2lkZXxlbnwxfDF8fHwxNzkxMjk4ODYzfDA&ixlib=rb-4.1.0&q=85",
-      "alt": "Young woman with beaded braids and pink skirt",
-      "description": "",
-      "photographer": "Michael Kyule",
-      "photographer_url": "https://unsplash.com/@madness_leahcim_",
-      "photo_url": "https://unsplash.com/photos/young-woman-with-beaded-braids-and-pink-skirt-YG3eB9My8EM",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-10-06T15:00:04.877278+00:00"
     }
   ],
-  "updated_at": "2026-10-20T03:01:19.397813+00:00"
+  "updated_at": "2026-10-20T04:01:22.808823+00:00"
 }
