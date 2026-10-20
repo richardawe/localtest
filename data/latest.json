@@ -1,6 +1,21 @@
 {
-  "summary": "Get ready to slay with today's featured Black and African women's hair trends, where bold styles and vibrant colors reign supreme!",
+  "summary": "Get ready to slay with the hottest hairstyles from the continent, as we dive into the freshest Black and African women's hair trends that are taking over the globe!",
   "images": [
+    {
+      "id": "zih1Iw6exRw",
+      "url": "https://images.unsplash.com/photo-1746116572201-cc9328b8831d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOHx8U2VuZWdhbGVzZSUyMHR3aXN0cyUyMG9uJTIwQmxhY2slMjB3b21hbiUyMGZhY2V8ZW58MXwxfHx8MTc5MjQ3MjQ0N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1746116572201-cc9328b8831d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOHx8U2VuZWdhbGVzZSUyMHR3aXN0cyUyMG9uJTIwQmxhY2slMjB3b21hbiUyMGZhY2V8ZW58MXwxfHx8MTc5MjQ3MjQ0N3ww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1746116572201-cc9328b8831d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOHx8U2VuZWdhbGVzZSUyMHR3aXN0cyUyMG9uJTIwQmxhY2slMjB3b21hbiUyMGZhY2V8ZW58MXwxfHx8MTc5MjQ3MjQ0N3ww&ixlib=rb-4.1.0&q=85",
+      "alt": "Beautiful woman with a head wrap stares intensely",
+      "description": "",
+      "photographer": "Arturo Añez",
+      "photographer_url": "https://unsplash.com/@americanaez225",
+      "photo_url": "https://unsplash.com/photos/beautiful-woman-with-a-head-wrap-stares-intensely-zih1Iw6exRw",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-10-20T05:00:07.438312+00:00"
+    },
     {
       "id": "s_7SgJR58kY",
       "url": "https://images.unsplash.com/photo-1780245771016-f9014901fedc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8Y29ybnJvd3MlMjBhbmQlMjBkcmVhZGxvY2tzJTIwaW4lMjBibGFjayUyMGN1bHR1cmV8ZW58MXwxfHx8MTc5MjQ2ODg0MHww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-10-06T20:00:03.313806+00:00"
-    },
-    {
-      "id": "WBfrFvbfSSI",
-      "url": "https://images.unsplash.com/photo-1782786982363-5e0d841f8041?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8cmVsYXhlZCUyMGN1cmx5JTIwaGFpciUyMHdvbWFuJTIwc21pbGluZyUyMG91dGRvb3JzfGVufDF8MXx8fDE3OTEzMDYwMDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1782786982363-5e0d841f8041?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8cmVsYXhlZCUyMGN1cmx5JTIwaGFpciUyMHdvbWFuJTIwc21pbGluZyUyMG91dGRvb3JzfGVufDF8MXx8fDE3OTEzMDYwMDd8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1782786982363-5e0d841f8041?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8cmVsYXhlZCUyMGN1cmx5JTIwaGFpciUyMHdvbWFuJTIwc21pbGluZyUyMG91dGRvb3JzfGVufDF8MXx8fDE3OTEzMDYwMDd8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "Curly-haired woman smiling in warm dappled sunlight",
-      "description": "",
-      "photographer": "Alexander Mass",
-      "photographer_url": "https://unsplash.com/@alexandermassph",
-      "photo_url": "https://unsplash.com/photos/curly-haired-woman-smiling-in-warm-dappled-sunlight-WBfrFvbfSSI",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-10-06T17:00:02.484784+00:00"
     }
   ],
-  "updated_at": "2026-10-20T04:01:22.808823+00:00"
+  "updated_at": "2026-10-20T05:01:20.263286+00:00"
 }
