@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay your natural style with today's hottest Black and African women's hair trends, straight from the continent and beyond!",
   "images": [
+    {
+      "id": "XJDm-idpOZY",
+      "url": "https://images.unsplash.com/photo-1761661769532-2b94271dfd72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8QmFudHUlMjBLbm90cyUyMGFuZCUyMFR3aXN0cyUyMGZvciUyMEFmcm98ZW58MXwxfHx8MTc5MjUyNjQzMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1761661769532-2b94271dfd72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8QmFudHUlMjBLbm90cyUyMGFuZCUyMFR3aXN0cyUyMGZvciUyMEFmcm98ZW58MXwxfHx8MTc5MjUyNjQzMHww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1761661769532-2b94271dfd72?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8QmFudHUlMjBLbm90cyUyMGFuZCUyMFR3aXN0cyUyMGZvciUyMEFmcm98ZW58MXwxfHx8MTc5MjUyNjQzMHww&ixlib=rb-4.1.0&q=85",
+      "alt": "Woman with glasses and afro hairstyle wearing a patterned shirt",
+      "description": "",
+      "photographer": "Dwayne joe",
+      "photographer_url": "https://unsplash.com/@spliff_dj_joe",
+      "photo_url": "https://unsplash.com/photos/woman-with-glasses-and-afro-hairstyle-wearing-a-patterned-shirt-XJDm-idpOZY",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-10-20T20:00:08.218723+00:00"
+    },
     {
       "id": "zih1Iw6exRw",
       "url": "https://images.unsplash.com/photo-1746116572201-cc9328b8831d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOHx8U2VuZWdhbGVzZSUyMHR3aXN0cyUyMG9uJTIwQmxhY2slMjB3b21hbiUyMGZhY2V8ZW58MXwxfHx8MTc5MjQ3MjQ0N3ww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-10-08T06:00:04.485160+00:00"
-    },
-    {
-      "id": "2HUVjpr_sfI",
-      "url": "https://images.unsplash.com/photo-1787652883101-cbf4dc92a9bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8UmVsYXhlZCUyMHBlcm1lZCUyMGhhaXIlMjBjbG9zZSUyMHVwfGVufDF8MXx8fDE3OTEzMTY5MTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1787652883101-cbf4dc92a9bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8UmVsYXhlZCUyMHBlcm1lZCUyMGhhaXIlMjBjbG9zZSUyMHVwfGVufDF8MXx8fDE3OTEzMTY5MTR8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1787652883101-cbf4dc92a9bb?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8UmVsYXhlZCUyMHBlcm1lZCUyMGhhaXIlMjBjbG9zZSUyMHVwfGVufDF8MXx8fDE3OTEzMTY5MTR8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "A woman with long dark curly hair in low light against a black background",
-      "description": "",
-      "photographer": "Bade Saba",
-      "photographer_url": "https://unsplash.com/@badesaba",
-      "photo_url": "https://unsplash.com/photos/woman-with-dark-curly-hair-2HUVjpr_sfI",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-10-06T20:00:03.313806+00:00"
     }
   ],
-  "updated_at": "2026-10-20T19:01:24.055050+00:00"
+  "updated_at": "2026-10-20T20:01:00.121410+00:00"
 }
