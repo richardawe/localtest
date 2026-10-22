@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to be inspired as we dive into the latest and greatest in Black and African women's hair trends that are slaying the game currently!",
   "images": [
+    {
+      "id": "AaMZzZ2lssw",
+      "url": "https://images.unsplash.com/photo-1694679321170-370e523d19bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8Q29ybnJvd3MlMjBhZG9ybmVkJTIwd2l0aCUyMGZsb3dlcnMlMjBhbmQlMjBncmVlbmVyeXxlbnwxfDF8fHwxNzkyNzEwMDY1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1694679321170-370e523d19bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8Q29ybnJvd3MlMjBhZG9ybmVkJTIwd2l0aCUyMGZsb3dlcnMlMjBhbmQlMjBncmVlbmVyeXxlbnwxfDF8fHwxNzkyNzEwMDY1fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1694679321170-370e523d19bd?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8Q29ybnJvd3MlMjBhZG9ybmVkJTIwd2l0aCUyMGZsb3dlcnMlMjBhbmQlMjBncmVlbmVyeXxlbnwxfDF8fHwxNzkyNzEwMDY1fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "a woman with a long braid and a flower in her hair",
+      "description": "",
+      "photographer": "maryam zmn",
+      "photographer_url": "https://unsplash.com/@marya__zaman",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-a-long-braid-and-a-flower-in-her-hair-AaMZzZ2lssw",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-10-22T23:00:02.254245+00:00"
+    },
     {
       "id": "qo7_0kd-nfA",
       "url": "https://images.unsplash.com/photo-1792539511452-069d474a5e86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8Q3JvY2hldCUyMGJyYWlkcyUyMG9uJTIwQWZyaWNhbiUyMHF1ZWVuJTIwZmFjZXxlbnwxfDF8fHwxNzkyNTY5NjM2fDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-10-08T08:00:07.114826+00:00"
-    },
-    {
-      "id": "2P2PSjAheKs",
-      "url": "https://images.unsplash.com/photo-1764166471609-c75e2c6bfdb2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8QWZyaWNhbiUyMHdvbWVuJTIwd2l0aCUyMGRyZWFkbG9ja3MlMjBhbmQlMjBzY2Fyc3xlbnwxfDF8fHwxNzkxNDQ2NDQ0fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1764166471609-c75e2c6bfdb2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8QWZyaWNhbiUyMHdvbWVuJTIwd2l0aCUyMGRyZWFkbG9ja3MlMjBhbmQlMjBzY2Fyc3xlbnwxfDF8fHwxNzkxNDQ2NDQ0fDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1764166471609-c75e2c6bfdb2?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8QWZyaWNhbiUyMHdvbWVuJTIwd2l0aCUyMGRyZWFkbG9ja3MlMjBhbmQlMjBzY2Fyc3xlbnwxfDF8fHwxNzkxNDQ2NDQ0fDA&ixlib=rb-4.1.0&q=85",
-      "alt": "Young woman with dreadlocks leaning forward indoors",
-      "description": "",
-      "photographer": "Kyle Kioko",
-      "photographer_url": "https://unsplash.com/@kylekioko",
-      "photo_url": "https://unsplash.com/photos/young-woman-with-dreadlocks-leaning-forward-indoors-2P2PSjAheKs",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-10-08T08:00:07.114826+00:00"
     }
   ],
-  "updated_at": "2026-10-22T22:04:46.667039+00:00"
+  "updated_at": "2026-10-22T23:04:28.348658+00:00"
 }
