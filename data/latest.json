@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with the latest and greatest in Black and African women's hair trends, straight from the runways to your roots!",
   "images": [
+    {
+      "id": "xFVk6Qizv0U",
+      "url": "https://images.unsplash.com/photo-1791958901467-cd0dded5c318?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8V29tZW4lMjB3aXRoJTIwRnVsYW5pJTIwQnJhaWRzJTIwb24lMjBCZWFjaHxlbnwxfDF8fHwxNzkyNzY0MDA2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1791958901467-cd0dded5c318?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8V29tZW4lMjB3aXRoJTIwRnVsYW5pJTIwQnJhaWRzJTIwb24lMjBCZWFjaHxlbnwxfDF8fHwxNzkyNzY0MDA2fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1791958901467-cd0dded5c318?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8V29tZW4lMjB3aXRoJTIwRnVsYW5pJTIwQnJhaWRzJTIwb24lMjBCZWFjaHxlbnwxfDF8fHwxNzkyNzY0MDA2fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "A person with braided hair and cowrie shells filming with a vintage camcorder on a sandy beach",
+      "description": "",
+      "photographer": "Dwayne joe",
+      "photographer_url": "https://unsplash.com/@spliff_dj_joe",
+      "photo_url": "https://unsplash.com/photos/person-filming-with-camcorder-on-beach-xFVk6Qizv0U",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-10-23T14:00:05.566428+00:00"
+    },
     {
       "id": "AaMZzZ2lssw",
       "url": "https://images.unsplash.com/photo-1694679321170-370e523d19bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8Q29ybnJvd3MlMjBhZG9ybmVkJTIwd2l0aCUyMGZsb3dlcnMlMjBhbmQlMjBncmVlbmVyeXxlbnwxfDF8fHwxNzkyNzEwMDY1fDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-10-08T08:00:07.114826+00:00"
-    },
-    {
-      "id": "W7e3Wgftylc",
-      "url": "https://images.unsplash.com/photo-1785273925878-57a3d5fddb12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8UmVsYXhlZCUyMHBlcm1lZCUyMGhhaXIlMjB3aXRoJTIwZ29sZCUyMGpld2Vscnl8ZW58MXwxfHx8MTc5MTQ0NjQyMnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1785273925878-57a3d5fddb12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8UmVsYXhlZCUyMHBlcm1lZCUyMGhhaXIlMjB3aXRoJTIwZ29sZCUyMGpld2Vscnl8ZW58MXwxfHx8MTc5MTQ0NjQyMnww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1785273925878-57a3d5fddb12?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8UmVsYXhlZCUyMHBlcm1lZCUyMGhhaXIlMjB3aXRoJTIwZ29sZCUyMGpld2Vscnl8ZW58MXwxfHx8MTc5MTQ0NjQyMnww&ixlib=rb-4.1.0&q=85",
-      "alt": "Stylish young black woman posing in a chair",
-      "description": "",
-      "photographer": "McFollis",
-      "photographer_url": "https://unsplash.com/@thisismcfollis",
-      "photo_url": "https://unsplash.com/photos/stylish-young-black-woman-posing-in-a-chair-W7e3Wgftylc",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-10-08T08:00:07.114826+00:00"
     }
   ],
-  "updated_at": "2026-10-23T13:02:10.868059+00:00"
+  "updated_at": "2026-10-23T14:01:19.091979+00:00"
 }
