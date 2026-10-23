@@ -1,6 +1,21 @@
 {
-  "summary": "Get ready to slay with the latest and greatest in Black and African women's hair trends, straight from the runways to your roots!",
+  "summary": "Get ready for a vibrant celebration of style as we dive into the latest Black and African women's hair trends that are taking over the beauty scene!",
   "images": [
+    {
+      "id": "RSkczsSWySE",
+      "url": "https://images.unsplash.com/photo-1755536751164-1578a37d9440?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw3fHxQcmVzcyUyMGFuZCUyMEN1cmwlMjBIYWlyc3R5bGVzJTIwZm9yJTIwU2hpbmV8ZW58MXwxfHx8MTc5Mjc2NzYzOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1755536751164-1578a37d9440?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw3fHxQcmVzcyUyMGFuZCUyMEN1cmwlMjBIYWlyc3R5bGVzJTIwZm9yJTIwU2hpbmV8ZW58MXwxfHx8MTc5Mjc2NzYzOXww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1755536751164-1578a37d9440?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw3fHxQcmVzcyUyMGFuZCUyMEN1cmwlMjBIYWlyc3R5bGVzJTIwZm9yJTIwU2hpbmV8ZW58MXwxfHx8MTc5Mjc2NzYzOXww&ixlib=rb-4.1.0&q=85",
+      "alt": "Woman with large afro and sunglasses wearing red shirt",
+      "description": "Black girl showing off shades for fashion",
+      "photographer": "Divaris Shirichena",
+      "photographer_url": "https://unsplash.com/@divaris",
+      "photo_url": "https://unsplash.com/photos/woman-with-large-afro-and-sunglasses-wearing-red-shirt-RSkczsSWySE",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-10-23T15:00:04.737226+00:00"
+    },
     {
       "id": "xFVk6Qizv0U",
       "url": "https://images.unsplash.com/photo-1791958901467-cd0dded5c318?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8V29tZW4lMjB3aXRoJTIwRnVsYW5pJTIwQnJhaWRzJTIwb24lMjBCZWFjaHxlbnwxfDF8fHwxNzkyNzY0MDA2fDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-10-08T08:00:07.114826+00:00"
-    },
-    {
-      "id": "9j-L5U5CnCk",
-      "url": "https://images.unsplash.com/photo-1763957047246-47601532e356?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8UmVsYXhlZCUyMHBlcm1lZCUyMGhhaXIlMjB3aXRoJTIwZ29sZCUyMGpld2Vscnl8ZW58MXwxfHx8MTc5MTQ0NjQyMnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1763957047246-47601532e356?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8UmVsYXhlZCUyMHBlcm1lZCUyMGhhaXIlMjB3aXRoJTIwZ29sZCUyMGpld2Vscnl8ZW58MXwxfHx8MTc5MTQ0NjQyMnww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1763957047246-47601532e356?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8UmVsYXhlZCUyMHBlcm1lZCUyMGhhaXIlMjB3aXRoJTIwZ29sZCUyMGpld2Vscnl8ZW58MXwxfHx8MTc5MTQ0NjQyMnww&ixlib=rb-4.1.0&q=85",
-      "alt": "Woman with dreadlocks wearing gold chains and money print shirt",
-      "description": "Commi$$ion$",
-      "photographer": "IRIS AVI",
-      "photographer_url": "https://unsplash.com/@irisavi",
-      "photo_url": "https://unsplash.com/photos/woman-with-dreadlocks-wearing-gold-chains-and-money-print-shirt-9j-L5U5CnCk",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-10-08T08:00:07.114826+00:00"
     }
   ],
-  "updated_at": "2026-10-23T14:01:19.091979+00:00"
+  "updated_at": "2026-10-23T15:01:10.629893+00:00"
 }
