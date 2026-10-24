@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay the beauty game with the hottest, most on-trend hairstyles from Africa and its diaspora, straight from the runways!",
   "images": [
+    {
+      "id": "C3lvejn81Qs",
+      "url": "https://images.unsplash.com/photo-1778953501901-f15684967c3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw5fHxCbGFjayUyMEdpcmxzJTIwUm9ja2luZyUyMENvcm5yb3dzJTIwYW5kJTIwSGVhZGJhbmRzfGVufDF8MXx8fDE3OTI4NTA0Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1778953501901-f15684967c3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw5fHxCbGFjayUyMEdpcmxzJTIwUm9ja2luZyUyMENvcm5yb3dzJTIwYW5kJTIwSGVhZGJhbmRzfGVufDF8MXx8fDE3OTI4NTA0Mzd8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1778953501901-f15684967c3d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw5fHxCbGFjayUyMEdpcmxzJTIwUm9ja2luZyUyMENvcm5yb3dzJTIwYW5kJTIwSGVhZGJhbmRzfGVufDF8MXx8fDE3OTI4NTA0Mzd8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "Woman with braids and sunglasses in a green jacket",
+      "description": "",
+      "photographer": "Michael Kyule",
+      "photographer_url": "https://unsplash.com/@madness_leahcim_",
+      "photo_url": "https://unsplash.com/photos/woman-with-braids-and-sunglasses-in-a-green-jacket-C3lvejn81Qs",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-10-24T14:00:04.974150+00:00"
+    },
     {
       "id": "zn6RmYNUD2s",
       "url": "https://images.unsplash.com/photo-1783445683261-b4499b957372?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8TmF0dXJhbCUyMGFmcm8lMjBoYWlyc3R5bGUlMjBwaG90b3Nob290JTIwaW4lMjBzdHVkaW98ZW58MXwxfHx8MTc5MjgxODAyN3ww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-10-09T20:00:04.277929+00:00"
-    },
-    {
-      "id": "tJiSsg3fKRk",
-      "url": "https://images.unsplash.com/photo-1765036628279-ab736b47df04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8RHJlYWRsb2NrcyUyMGxvY3MlMjBuYXR1cmFsJTIwYmxhY2slMjB3b21hbiUyMGJlYXV0eXxlbnwxfDF8fHwxNzkxNTUwODUyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1765036628279-ab736b47df04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8RHJlYWRsb2NrcyUyMGxvY3MlMjBuYXR1cmFsJTIwYmxhY2slMjB3b21hbiUyMGJlYXV0eXxlbnwxfDF8fHwxNzkxNTUwODUyfDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1765036628279-ab736b47df04?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8RHJlYWRsb2NrcyUyMGxvY3MlMjBuYXR1cmFsJTIwYmxhY2slMjB3b21hbiUyMGJlYXV0eXxlbnwxfDF8fHwxNzkxNTUwODUyfDA&ixlib=rb-4.1.0&q=85",
-      "alt": "Young woman with eyes closed, smiling against sky",
-      "description": "Beautiful black woman",
-      "photographer": "Sebastian Schuster",
-      "photographer_url": "https://unsplash.com/@sschusterphotoart",
-      "photo_url": "https://unsplash.com/photos/young-woman-with-eyes-closed-smiling-against-sky-tJiSsg3fKRk",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-10-09T13:00:08.813023+00:00"
     }
   ],
-  "updated_at": "2026-10-24T13:02:08.611449+00:00"
+  "updated_at": "2026-10-24T14:01:07.057295+00:00"
 }
