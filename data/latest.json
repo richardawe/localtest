@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready for a vibrant celebration of style as we dive into the most trending, must-see looks in Black and African women's hair right now!",
   "images": [
+    {
+      "id": "U62MLEn1044",
+      "url": "https://images.unsplash.com/photo-1784979195588-53d4050b3038?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8UHJlc3MlMjBhbmQlMjBjdXJsJTIwaGFpcnN0eWxlcyUyMGVsZWdhbnQlMjBtb2RlbHN8ZW58MXwxfHx8MTc5MjkyOTY0N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1784979195588-53d4050b3038?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8UHJlc3MlMjBhbmQlMjBjdXJsJTIwaGFpcnN0eWxlcyUyMGVsZWdhbnQlMjBtb2RlbHN8ZW58MXwxfHx8MTc5MjkyOTY0N3ww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1784979195588-53d4050b3038?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8UHJlc3MlMjBhbmQlMjBjdXJsJTIwaGFpcnN0eWxlcyUyMGVsZWdhbnQlMjBtb2RlbHN8ZW58MXwxfHx8MTc5MjkyOTY0N3ww&ixlib=rb-4.1.0&q=85",
+      "alt": "Black woman with short hair, gold earrings, and white top",
+      "description": "",
+      "photographer": "McFollis",
+      "photographer_url": "https://unsplash.com/@thisismcfollis",
+      "photo_url": "https://unsplash.com/photos/black-woman-with-short-hair-gold-earrings-and-white-top-U62MLEn1044",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-10-25T12:00:09.257254+00:00"
+    },
     {
       "id": "C3lvejn81Qs",
       "url": "https://images.unsplash.com/photo-1778953501901-f15684967c3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw5fHxCbGFjayUyMEdpcmxzJTIwUm9ja2luZyUyMENvcm5yb3dzJTIwYW5kJTIwSGVhZGJhbmRzfGVufDF8MXx8fDE3OTI4NTA0Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-10-09T20:00:04.277929+00:00"
-    },
-    {
-      "id": "39EM74Rsou4",
-      "url": "https://images.unsplash.com/photo-1786529745836-135381841437?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxM3x8UmVsYXhlZCUyMGhhaXIlMjB0ZXh0dXJlcyUyMG9uJTIwYW4lMjBlbGRlcmx5JTIwd29tYW58ZW58MXwxfHx8MTc5MTU3NjAyOHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1786529745836-135381841437?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxM3x8UmVsYXhlZCUyMGhhaXIlMjB0ZXh0dXJlcyUyMG9uJTIwYW4lMjBlbGRlcmx5JTIwd29tYW58ZW58MXwxfHx8MTc5MTU3NjAyOHww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1786529745836-135381841437?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxM3x8UmVsYXhlZCUyMGhhaXIlMjB0ZXh0dXJlcyUyMG9uJTIwYW4lMjBlbGRlcmx5JTIwd29tYW58ZW58MXwxfHx8MTc5MTU3NjAyOHww&ixlib=rb-4.1.0&q=85",
-      "alt": "An elderly woman wearing a brown headwrap and embroidered tunic giving a thumbs up",
-      "description": "Wedding guest at a Ugandan wedding.",
-      "photographer": "Lisa Marie Theck",
-      "photographer_url": "https://unsplash.com/@lisa_marie_theck",
-      "photo_url": "https://unsplash.com/photos/elderly-woman-giving-thumbs-up-39EM74Rsou4",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-10-09T20:00:04.277929+00:00"
     }
   ],
-  "updated_at": "2026-10-25T11:01:06.855156+00:00"
+  "updated_at": "2026-10-25T12:01:21.842194+00:00"
 }
