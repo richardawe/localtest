@@ -1,6 +1,21 @@
 {
-  "summary": "Get ready for a vibrant celebration of style as we dive into the most trending, must-see looks in Black and African women's hair right now!",
+  "summary": "Get ready to slay with today's most trending hairstyles, showcasing bold styles from Afrofuturism to Yoruba braids, straight from the continent and beyond!",
   "images": [
+    {
+      "id": "L_i9bpGo-tQ",
+      "url": "https://images.unsplash.com/photo-1780245771194-f1f1351f3a01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8TG9jcyUyMGFuZCUyMGRyZWFkbG9ja3MlMjBpbiUyMEJsYWNrJTIwY3VsdHVyZXxlbnwxfDF8fHwxNzkyOTMzMjQ3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1780245771194-f1f1351f3a01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8TG9jcyUyMGFuZCUyMGRyZWFkbG9ja3MlMjBpbiUyMEJsYWNrJTIwY3VsdHVyZXxlbnwxfDF8fHwxNzkyOTMzMjQ3fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1780245771194-f1f1351f3a01?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8TG9jcyUyMGFuZCUyMGRyZWFkbG9ja3MlMjBpbiUyMEJsYWNrJTIwY3VsdHVyZXxlbnwxfDF8fHwxNzkyOTMzMjQ3fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "Woman with dreadlocks and sunglasses sits on a light background",
+      "description": "",
+      "photographer": "Olumide Adekunle",
+      "photographer_url": "https://unsplash.com/@0rangevisuals",
+      "photo_url": "https://unsplash.com/photos/woman-with-dreadlocks-and-sunglasses-sits-on-a-light-background-L_i9bpGo-tQ",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-10-25T13:00:08.562727+00:00"
+    },
     {
       "id": "U62MLEn1044",
       "url": "https://images.unsplash.com/photo-1784979195588-53d4050b3038?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8UHJlc3MlMjBhbmQlMjBjdXJsJTIwaGFpcnN0eWxlcyUyMGVsZWdhbnQlMjBtb2RlbHN8ZW58MXwxfHx8MTc5MjkyOTY0N3ww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-10-11T10:00:09.275063+00:00"
-    },
-    {
-      "id": "Vy6W6E4n2cQ",
-      "url": "https://images.unsplash.com/photo-1694676799159-614ddcfa9f0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8QWZyaWNhbiUyMHdvbWVuJTIwd2l0aCUyMGRyZWFkbG9ja3MlMjBpbiUyMHN0dWRpb3xlbnwxfDF8fHwxNzkxNTc2MDEwfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1694676799159-614ddcfa9f0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8QWZyaWNhbiUyMHdvbWVuJTIwd2l0aCUyMGRyZWFkbG9ja3MlMjBpbiUyMHN0dWRpb3xlbnwxfDF8fHwxNzkxNTc2MDEwfDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1694676799159-614ddcfa9f0c?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8QWZyaWNhbiUyMHdvbWVuJTIwd2l0aCUyMGRyZWFkbG9ja3MlMjBpbiUyMHN0dWRpb3xlbnwxfDF8fHwxNzkxNTc2MDEwfDA&ixlib=rb-4.1.0&q=85",
-      "alt": "a black and white photo of a person with dreadlocks",
-      "description": "",
-      "photographer": "Nathan Ayoola",
-      "photographer_url": "https://unsplash.com/@nathanayoola",
-      "photo_url": "https://unsplash.com/photos/a-black-and-white-photo-of-a-person-with-dreadlocks-Vy6W6E4n2cQ",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-10-09T20:00:04.277929+00:00"
     }
   ],
-  "updated_at": "2026-10-25T12:01:21.842194+00:00"
+  "updated_at": "2026-10-25T13:01:28.782942+00:00"
 }
