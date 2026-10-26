@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with the most coveted styles of the season, featuring the latest in Afrocentric chic and trendy kinks!",
   "images": [
+    {
+      "id": "O9JM3EuQliI",
+      "url": "https://images.unsplash.com/photo-1729015931011-8326e5a8f242?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8V2VhdmUlMjBFeHRlbnNpb25zJTIwQmxhY2slMjBHaXJsJTIwQ2xvc2UlMjBVcHxlbnwxfDF8fHwxNzkzMDIzMzYxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1729015931011-8326e5a8f242?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8V2VhdmUlMjBFeHRlbnNpb25zJTIwQmxhY2slMjBHaXJsJTIwQ2xvc2UlMjBVcHxlbnwxfDF8fHwxNzkzMDIzMzYxfDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1729015931011-8326e5a8f242?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8V2VhdmUlMjBFeHRlbnNpb25zJTIwQmxhY2slMjBHaXJsJTIwQ2xvc2UlMjBVcHxlbnwxfDF8fHwxNzkzMDIzMzYxfDA&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman with a pair of scissors in her hand",
+      "description": "congolese,beauty,black woman,portrait",
+      "photographer": "Trésor Kande",
+      "photographer_url": "https://unsplash.com/@travyskande",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-a-pair-of-scissors-in-her-hand-O9JM3EuQliI",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-10-26T14:00:06.715027+00:00"
+    },
     {
       "id": "db7R0hYzQ7Y",
       "url": "https://images.unsplash.com/photo-1791644018081-c88bd1f9f61b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8TmF0dXJhbCUyMEFmcm8lMjBHb2RkZXNzJTIwUG9ydHJhaXQlMjBTdHVkeXxlbnwxfDF8fHwxNzkyOTkwOTM0fDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-10-15T12:00:02.969556+00:00"
-    },
-    {
-      "id": "toMmsqBP4to",
-      "url": "https://images.unsplash.com/photo-1764166349371-e44a55642ead?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8Qm94JTIwYnJhaWRzJTIwYW5kJTIwZHJlYWRsb2NrcyUyMGluJTIwQWZyaWNhbiUyMGN1bHR1cmV8ZW58MXwxfHx8MTc5MTg0NjAzN3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1764166349371-e44a55642ead?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8Qm94JTIwYnJhaWRzJTIwYW5kJTIwZHJlYWRsb2NrcyUyMGluJTIwQWZyaWNhbiUyMGN1bHR1cmV8ZW58MXwxfHx8MTc5MTg0NjAzN3ww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1764166349371-e44a55642ead?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8Qm94JTIwYnJhaWRzJTIwYW5kJTIwZHJlYWRsb2NrcyUyMGluJTIwQWZyaWNhbiUyMGN1bHR1cmV8ZW58MXwxfHx8MTc5MTg0NjAzN3ww&ixlib=rb-4.1.0&q=85",
-      "alt": "Young woman with dreadlocks and nose ring",
-      "description": "",
-      "photographer": "Kyle Kioko",
-      "photographer_url": "https://unsplash.com/@kylekioko",
-      "photo_url": "https://unsplash.com/photos/young-woman-with-dreadlocks-and-nose-ring-toMmsqBP4to",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-10-12T23:00:04.625405+00:00"
     }
   ],
-  "updated_at": "2026-10-26T13:02:20.581354+00:00"
+  "updated_at": "2026-10-26T14:07:13.806498+00:00"
 }
