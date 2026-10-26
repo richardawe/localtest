@@ -2,6 +2,21 @@
   "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
   "images": [
     {
+      "id": "db7R0hYzQ7Y",
+      "url": "https://images.unsplash.com/photo-1791644018081-c88bd1f9f61b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8TmF0dXJhbCUyMEFmcm8lMjBHb2RkZXNzJTIwUG9ydHJhaXQlMjBTdHVkeXxlbnwxfDF8fHwxNzkyOTkwOTM0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1791644018081-c88bd1f9f61b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8TmF0dXJhbCUyMEFmcm8lMjBHb2RkZXNzJTIwUG9ydHJhaXQlMjBTdHVkeXxlbnwxfDF8fHwxNzkyOTkwOTM0fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1791644018081-c88bd1f9f61b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8TmF0dXJhbCUyMEFmcm8lMjBHb2RkZXNzJTIwUG9ydHJhaXQlMjBTdHVkeXxlbnwxfDF8fHwxNzkyOTkwOTM0fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "A black and white portrait of a woman with an afro wearing glasses and hoop earrings",
+      "description": "",
+      "photographer": "NORBAINE GLORY TAMAR",
+      "photographer_url": "https://unsplash.com/@g_light",
+      "photo_url": "https://unsplash.com/photos/woman-with-afro-and-glasses-db7R0hYzQ7Y",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-10-26T05:00:09.201390+00:00"
+    },
+    {
       "id": "L_i9bpGo-tQ",
       "url": "https://images.unsplash.com/photo-1780245771194-f1f1351f3a01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8TG9jcyUyMGFuZCUyMGRyZWFkbG9ja3MlMjBpbiUyMEJsYWNrJTIwY3VsdHVyZXxlbnwxfDF8fHwxNzkyOTMzMjQ3fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "thumb": "https://images.unsplash.com/photo-1780245771194-f1f1351f3a01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8TG9jcyUyMGFuZCUyMGRyZWFkbG9ja3MlMjBpbiUyMEJsYWNrJTIwY3VsdHVyZXxlbnwxfDF8fHwxNzkyOTMzMjQ3fDA&ixlib=rb-4.1.0&q=80&w=200",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-10-12T23:00:04.625405+00:00"
-    },
-    {
-      "id": "XD0D5yGBR7M",
-      "url": "https://images.unsplash.com/photo-1767249629645-b069c92fa4a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNnx8VGVlbmllJTIwV2VlbmllJTIwQWZyb3MlMjBCbGFjayUyMEdpcmxzJTIwUHJpZGV8ZW58MXwxfHx8MTc5MTcxMjgyOXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1767249629645-b069c92fa4a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNnx8VGVlbmllJTIwV2VlbmllJTIwQWZyb3MlMjBCbGFjayUyMEdpcmxzJTIwUHJpZGV8ZW58MXwxfHx8MTc5MTcxMjgyOXww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1767249629645-b069c92fa4a1?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNnx8VGVlbmllJTIwV2VlbmllJTIwQWZyb3MlMjBCbGFjayUyMEdpcmxzJTIwUHJpZGV8ZW58MXwxfHx8MTc5MTcxMjgyOXww&ixlib=rb-4.1.0&q=85",
-      "alt": "Young black woman with braided hair and colorful embellishments",
-      "description": "",
-      "photographer": "Michael Kyule",
-      "photographer_url": "https://unsplash.com/@madness_leahcim_",
-      "photo_url": "https://unsplash.com/photos/young-black-woman-with-braided-hair-and-colorful-embellishments-XD0D5yGBR7M",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-10-11T10:00:09.275063+00:00"
     }
   ],
-  "updated_at": "2026-10-26T04:05:28.199334+00:00"
+  "updated_at": "2026-10-26T06:05:24.599956+00:00"
 }
