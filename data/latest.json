@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay the style game with today's hottest Black and African women's hair trends, straight from the runways and streets!",
   "images": [
+    {
+      "id": "K-bFxqACsW4",
+      "url": "https://images.unsplash.com/photo-1793023403986-2e1b68dc86c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8QmFudHUlMjBLbm90cyUyMG9uJTIwQmVhdXRpZnVsJTIwQmxhY2slMjBXb21lbnxlbnwxfDF8fHwxNzkzMTk2MDQ3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1793023403986-2e1b68dc86c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8QmFudHUlMjBLbm90cyUyMG9uJTIwQmVhdXRpZnVsJTIwQmxhY2slMjBXb21lbnxlbnwxfDF8fHwxNzkzMTk2MDQ3fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1793023403986-2e1b68dc86c5?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8QmFudHUlMjBLbm90cyUyMG9uJTIwQmVhdXRpZnVsJTIwQmxhY2slMjBXb21lbnxlbnwxfDF8fHwxNzkzMTk2MDQ3fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman with braided hair adorned with white beads and cowrie shells under a dark umbrella",
+      "description": "",
+      "photographer": "Albert Luphahla",
+      "photographer_url": "https://unsplash.com/@kina_hitoshi",
+      "photo_url": "https://unsplash.com/photos/woman-with-braided-hair-and-beads-K-bFxqACsW4",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-10-28T14:00:06.673320+00:00"
+    },
     {
       "id": "1-PEsyTNUXU",
       "url": "https://images.unsplash.com/photo-1792963763287-17d8480b06ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8bmF0dXJhbCUyMGFmcm8lMjB0ZXh0dXJlJTIwY2xvc2UlMjB1cCUyMHBob3Rvc3xlbnwxfDF8fHwxNzkzMTEzMjYwfDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-10-16T02:00:07.235383+00:00"
-    },
-    {
-      "id": "XKcggbZ9Yf4",
-      "url": "https://images.unsplash.com/photo-1635451321772-b81dcf1d0aac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8VGVlbmllJTIwV2VlbmllJTIwQWZyb3MlMjBPbiUyMEJsYWNrJTIwR2lybHMlMjBVbnNwbGFzaHxlbnwxfDF8fHwxNzkyMTE2MDMyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1635451321772-b81dcf1d0aac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8VGVlbmllJTIwV2VlbmllJTIwQWZyb3MlMjBPbiUyMEJsYWNrJTIwR2lybHMlMjBVbnNwbGFzaHxlbnwxfDF8fHwxNzkyMTE2MDMyfDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1635451321772-b81dcf1d0aac?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8VGVlbmllJTIwV2VlbmllJTIwQWZyb3MlMjBPbiUyMEJsYWNrJTIwR2lybHMlMjBVbnNwbGFzaHxlbnwxfDF8fHwxNzkyMTE2MDMyfDA&ixlib=rb-4.1.0&q=85",
-      "alt": "a woman with an afro talking on a cell phone",
-      "description": "",
-      "photographer": "Airam Dato-on",
-      "photographer_url": "https://unsplash.com/@airamdphoto",
-      "photo_url": "https://unsplash.com/photos/a-woman-with-an-afro-talking-on-a-cell-phone-XKcggbZ9Yf4",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-10-16T02:00:07.235383+00:00"
     }
   ],
-  "updated_at": "2026-10-28T13:01:03.254431+00:00"
+  "updated_at": "2026-10-28T14:01:13.038437+00:00"
 }
