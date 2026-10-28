@@ -480,6 +480,21 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-10-28T14:00:06.673320+00:00"
+    },
+    {
+      "id": "dw3v8OtrIPw",
+      "url": "https://images.unsplash.com/photo-1793023404062-33db7564de02?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8QmFudHUlMjBLbm90cyUyMGZvciUyME5hdHVyYWwlMjBBZnJpY2FuJTIwSGFpcnxlbnwxfDF8fHwxNzkzMjE0MDE2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1793023404062-33db7564de02?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8QmFudHUlMjBLbm90cyUyMGZvciUyME5hdHVyYWwlMjBBZnJpY2FuJTIwSGFpcnxlbnwxfDF8fHwxNzkzMjE0MDE2fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1793023404062-33db7564de02?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8QmFudHUlMjBLbm90cyUyMGZvciUyME5hdHVyYWwlMjBBZnJpY2FuJTIwSGFpcnxlbnwxfDF8fHwxNzkzMjE0MDE2fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "A smiling woman with braided hair adorned with cowrie shells holding a black umbrella",
+      "description": "",
+      "photographer": "Albert Luphahla",
+      "photographer_url": "https://unsplash.com/@kina_hitoshi",
+      "photo_url": "https://unsplash.com/photos/smiling-woman-with-cowrie-shell-braids-dw3v8OtrIPw",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-10-28T19:00:07.736948+00:00"
     }
   ]
 }
