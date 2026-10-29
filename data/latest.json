@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to be inspired as we dive into the hottest, most innovative Black and African women's hair trends that are currently taking the world by storm!",
   "images": [
+    {
+      "id": "ZMh1eA4jaCo",
+      "url": "https://images.unsplash.com/photo-1783826352822-58c3731e1363?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8V29tZW4lMjB3aXRoJTIwZHJlYWRsb2NrcyUyMGluJTIwQWZyaWNhbiUyMG1hcmtldHxlbnwxfDF8fHwxNzkzMzA3NjM2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1783826352822-58c3731e1363?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8V29tZW4lMjB3aXRoJTIwZHJlYWRsb2NrcyUyMGluJTIwQWZyaWNhbiUyMG1hcmtldHxlbnwxfDF8fHwxNzkzMzA3NjM2fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1783826352822-58c3731e1363?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8V29tZW4lMjB3aXRoJTIwZHJlYWRsb2NrcyUyMGluJTIwQWZyaWNhbiUyMG1hcmtldHxlbnwxfDF8fHwxNzkzMzA3NjM2fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "Woman carries a bowl on her head, vibrant orange background",
+      "description": "An african woman hawking, a nomadic culture in nigeria",
+      "photographer": "Babarinde Tosin",
+      "photographer_url": "https://unsplash.com/@artistrypixels",
+      "photo_url": "https://unsplash.com/photos/woman-carries-a-bowl-on-her-head-vibrant-orange-background-ZMh1eA4jaCo",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-10-29T21:00:06.754008+00:00"
+    },
     {
       "id": "dw3v8OtrIPw",
       "url": "https://images.unsplash.com/photo-1793023404062-33db7564de02?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8QmFudHUlMjBLbm90cyUyMGZvciUyME5hdHVyYWwlMjBBZnJpY2FuJTIwSGFpcnxlbnwxfDF8fHwxNzkzMjE0MDE2fDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-10-17T16:00:04.961306+00:00"
-    },
-    {
-      "id": "qtaDKDhQiZQ",
-      "url": "https://images.unsplash.com/photo-1740741702726-a7f9180a7f9b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8QmFudHUlMjBrbm90cyUyMG9uJTIwYmxhY2slMjBtb2RlbHxlbnwxfDF8fHwxNzkyMTQ4NTExfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1740741702726-a7f9180a7f9b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8QmFudHUlMjBrbm90cyUyMG9uJTIwYmxhY2slMjBtb2RlbHxlbnwxfDF8fHwxNzkyMTQ4NTExfDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1740741702726-a7f9180a7f9b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8QmFudHUlMjBrbm90cyUyMG9uJTIwYmxhY2slMjBtb2RlbHxlbnwxfDF8fHwxNzkyMTQ4NTExfDA&ixlib=rb-4.1.0&q=85",
-      "alt": "A woman with dreadlocks standing in front of a light",
-      "description": "African woman poses",
-      "photographer": "Lisa Marie Theck",
-      "photographer_url": "https://unsplash.com/@lisa_marie_theck",
-      "photo_url": "https://unsplash.com/photos/a-woman-with-dreadlocks-standing-in-front-of-a-light-qtaDKDhQiZQ",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-10-16T11:00:05.366921+00:00"
     }
   ],
-  "updated_at": "2026-10-29T20:01:30.868545+00:00"
+  "updated_at": "2026-10-29T21:01:15.117153+00:00"
 }
