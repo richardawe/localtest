@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with today's top picks in Afro-centric hairstyles, from braids to bantu knots, we're diving into the freshest looks of the season!",
   "images": [
+    {
+      "id": "e5UcGR0WLUo",
+      "url": "https://images.unsplash.com/photo-1793023143350-d05406032073?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8RHJlYWRsb2NrcyUyMEJyYWlkZWQlMjBQb255dGFpbCUyMG9uJTIwQmVhdXRpZnVsJTIwQWZyaWNhbiUyMFdvbWFufGVufDF8MXx8fDE3OTM0NDgwNTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1793023143350-d05406032073?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8RHJlYWRsb2NrcyUyMEJyYWlkZWQlMjBQb255dGFpbCUyMG9uJTIwQmVhdXRpZnVsJTIwQWZyaWNhbiUyMFdvbWFufGVufDF8MXx8fDE3OTM0NDgwNTB8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1793023143350-d05406032073?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8RHJlYWRsb2NrcyUyMEJyYWlkZWQlMjBQb255dGFpbCUyMG9uJTIwQmVhdXRpZnVsJTIwQWZyaWNhbiUyMFdvbWFufGVufDF8MXx8fDE3OTM0NDgwNTB8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman with dreadlocks in a high bun wearing a patterned white top outdoors",
+      "description": "",
+      "photographer": "Albert Luphahla",
+      "photographer_url": "https://unsplash.com/@kina_hitoshi",
+      "photo_url": "https://unsplash.com/photos/woman-with-dreadlocks-in-patterned-top-e5UcGR0WLUo",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-10-31T12:00:08.677091+00:00"
+    },
     {
       "id": "i5-JNAMAIjc",
       "url": "https://images.unsplash.com/photo-1793318536254-deaf78880a76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8RnVsYW5pJTIwYnJhaWRzJTIwdHJhZGl0aW9uYWwlMjBoYWlyc3R5bGUlMjBpbnNwaXJhdGlvbiUyMG5lZWRlZHxlbnwxfDF8fHwxNzkzMzcyNDI3fDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-10-20T04:00:06.988807+00:00"
-    },
-    {
-      "id": "LIq3lL2BQaQ",
-      "url": "https://images.unsplash.com/photo-1784330687520-feb4ab44e5dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNnx8VGVlbmllJTIwd2VlbmllJTIwYWZyb3MlMjBvbiUyMHlvdW5nJTIwYmxhY2t8ZW58MXwxfHx8MTc5MjI5MjUxOHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1784330687520-feb4ab44e5dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNnx8VGVlbmllJTIwd2VlbmllJTIwYWZyb3MlMjBvbiUyMHlvdW5nJTIwYmxhY2t8ZW58MXwxfHx8MTc5MjI5MjUxOHww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1784330687520-feb4ab44e5dd?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNnx8VGVlbmllJTIwd2VlbmllJTIwYWZyb3MlMjBvbiUyMHlvdW5nJTIwYmxhY2t8ZW58MXwxfHx8MTc5MjI5MjUxOHww&ixlib=rb-4.1.0&q=85",
-      "alt": "Smiling young black woman in black top and white pants",
-      "description": "",
-      "photographer": "McFollis",
-      "photographer_url": "https://unsplash.com/@thisismcfollis",
-      "photo_url": "https://unsplash.com/photos/smiling-young-black-woman-in-black-top-and-white-pants-LIq3lL2BQaQ",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-10-18T03:00:07.793874+00:00"
     }
   ],
-  "updated_at": "2026-10-31T11:01:07.597655+00:00"
+  "updated_at": "2026-10-31T12:01:24.199036+00:00"
 }
