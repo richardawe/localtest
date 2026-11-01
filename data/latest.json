@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to be inspired by the most epic hairstyles of the season, straight from the streets of Africa and trending globally among black beauty enthusiasts everywhere!",
   "images": [
+    {
+      "id": "Eqj3z9JEUaw",
+      "url": "https://images.unsplash.com/photo-1793142114149-eef250de596b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw1fHxBZnJpY2FuJTIwbGFkaWVzJTIwd2l0aCUyMHRlZW5pZSUyMHdlZW5pZSUyMGFmcm9zfGVufDF8MXx8fDE3OTM1NjY4MTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1793142114149-eef250de596b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw1fHxBZnJpY2FuJTIwbGFkaWVzJTIwd2l0aCUyMHRlZW5pZSUyMHdlZW5pZSUyMGFmcm9zfGVufDF8MXx8fDE3OTM1NjY4MTR8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1793142114149-eef250de596b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw1fHxBZnJpY2FuJTIwbGFkaWVzJTIwd2l0aCUyMHRlZW5pZSUyMHdlZW5pZSUyMGFmcm9zfGVufDF8MXx8fDE3OTM1NjY4MTR8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "Three women in vibrant patterned traditional clothing and elaborate headwraps standing on a grassy lawn",
+      "description": "African costume",
+      "photographer": "Nasiru Othman",
+      "photographer_url": "https://unsplash.com/@othmanspixel",
+      "photo_url": "https://unsplash.com/photos/three-women-in-vibrant-traditional-clothing-Eqj3z9JEUaw",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-11-01T21:00:09.447653+00:00"
+    },
     {
       "id": "eT1DVI2zQaU",
       "url": "https://images.unsplash.com/photo-1756197257207-be6b72ec92da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8V29tZW4lMjBvZiUyMGNvbG9yJTIwd2l0aCUyMHdlYXZlcyUyMG9uJTIwcmVkJTIwY2FycGV0fGVufDF8MXx8fDE3OTM1MzgwMjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-10-22T23:00:02.254245+00:00"
-    },
-    {
-      "id": "qo7_0kd-nfA",
-      "url": "https://images.unsplash.com/photo-1792539511452-069d474a5e86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8Q3JvY2hldCUyMGJyYWlkcyUyMG9uJTIwQWZyaWNhbiUyMHF1ZWVuJTIwZmFjZXxlbnwxfDF8fHwxNzkyNTY5NjM2fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1792539511452-069d474a5e86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8Q3JvY2hldCUyMGJyYWlkcyUyMG9uJTIwQWZyaWNhbiUyMHF1ZWVuJTIwZmFjZXxlbnwxfDF8fHwxNzkyNTY5NjM2fDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1792539511452-069d474a5e86?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMXx8Q3JvY2hldCUyMGJyYWlkcyUyMG9uJTIwQWZyaWNhbiUyMHF1ZWVuJTIwZmFjZXxlbnwxfDF8fHwxNzkyNTY5NjM2fDA&ixlib=rb-4.1.0&q=85",
-      "alt": "A portrait of a woman with braided hair adorned with colorful beads and pink eyeshadow",
-      "description": "",
-      "photographer": "Ben Iwara",
-      "photographer_url": "https://unsplash.com/@1hundredimages",
-      "photo_url": "https://unsplash.com/photos/portrait-of-woman-with-braided-hair-qo7_0kd-nfA",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-10-21T08:00:02.328112+00:00"
     }
   ],
-  "updated_at": "2026-11-01T20:02:20.497693+00:00"
+  "updated_at": "2026-11-01T21:01:04.883410+00:00"
 }
