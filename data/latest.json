@@ -1,6 +1,21 @@
 {
-  "summary": "Get ready to slay with our featured Black and African women's hair trends of the moment, straight from the continent!",
+  "summary": "Get ready to slay with today's hottest hairstyles, as we dive into the latest trends in Black and African women's hair that's currently taking over the globe!",
   "images": [
+    {
+      "id": "i1cWm_PML4w",
+      "url": "https://images.unsplash.com/photo-1757140448472-40472d3811e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOHx8V2VhdmVzJTIwRXh0ZW5zaW9ucyUyMG9uJTIwQWZyaWNhbiUyMFdvbWVuJTIwQmVhdXR5fGVufDF8MXx8fDE3OTM1ODEyMzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1757140448472-40472d3811e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOHx8V2VhdmVzJTIwRXh0ZW5zaW9ucyUyMG9uJTIwQWZyaWNhbiUyMFdvbWVuJTIwQmVhdXR5fGVufDF8MXx8fDE3OTM1ODEyMzB8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1757140448472-40472d3811e2?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOHx8V2VhdmVzJTIwRXh0ZW5zaW9ucyUyMG9uJTIwQWZyaWNhbiUyMFdvbWVuJTIwQmVhdXR5fGVufDF8MXx8fDE3OTM1ODEyMzB8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman with braided hair and large earrings smiles",
+      "description": "",
+      "photographer": "Divaris Shirichena",
+      "photographer_url": "https://unsplash.com/@divaris",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-braided-hair-and-large-earrings-smiles-i1cWm_PML4w",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-11-02T01:00:06.489763+00:00"
+    },
     {
       "id": "wRguLfJXW44",
       "url": "https://images.unsplash.com/photo-1573002649606-a7cb9846805c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8R29kZGVzcyUyMGJyYWlkZWQlMjBoYWlyc3R5bGVzJTIwd2l0aCUyMGludHJpY2F0ZSUyMHBhdHRlcm5zfGVufDF8MXx8fDE3OTM1Nzc2MDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-10-23T15:00:04.737226+00:00"
-    },
-    {
-      "id": "xFVk6Qizv0U",
-      "url": "https://images.unsplash.com/photo-1791958901467-cd0dded5c318?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8V29tZW4lMjB3aXRoJTIwRnVsYW5pJTIwQnJhaWRzJTIwb24lMjBCZWFjaHxlbnwxfDF8fHwxNzkyNzY0MDA2fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1791958901467-cd0dded5c318?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8V29tZW4lMjB3aXRoJTIwRnVsYW5pJTIwQnJhaWRzJTIwb24lMjBCZWFjaHxlbnwxfDF8fHwxNzkyNzY0MDA2fDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1791958901467-cd0dded5c318?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8V29tZW4lMjB3aXRoJTIwRnVsYW5pJTIwQnJhaWRzJTIwb24lMjBCZWFjaHxlbnwxfDF8fHwxNzkyNzY0MDA2fDA&ixlib=rb-4.1.0&q=85",
-      "alt": "A person with braided hair and cowrie shells filming with a vintage camcorder on a sandy beach",
-      "description": "",
-      "photographer": "Dwayne joe",
-      "photographer_url": "https://unsplash.com/@spliff_dj_joe",
-      "photo_url": "https://unsplash.com/photos/person-filming-with-camcorder-on-beach-xFVk6Qizv0U",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-10-23T14:00:05.566428+00:00"
     }
   ],
-  "updated_at": "2026-11-02T00:04:03.631240+00:00"
+  "updated_at": "2026-11-02T01:01:14.783435+00:00"
 }
