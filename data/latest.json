@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with our featured Black and African women's hair trends of the moment, straight from the continent!",
   "images": [
+    {
+      "id": "wRguLfJXW44",
+      "url": "https://images.unsplash.com/photo-1573002649606-a7cb9846805c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8R29kZGVzcyUyMGJyYWlkZWQlMjBoYWlyc3R5bGVzJTIwd2l0aCUyMGludHJpY2F0ZSUyMHBhdHRlcm5zfGVufDF8MXx8fDE3OTM1Nzc2MDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1573002649606-a7cb9846805c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8R29kZGVzcyUyMGJyYWlkZWQlMjBoYWlyc3R5bGVzJTIwd2l0aCUyMGludHJpY2F0ZSUyMHBhdHRlcm5zfGVufDF8MXx8fDE3OTM1Nzc2MDR8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1573002649606-a7cb9846805c?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8R29kZGVzcyUyMGJyYWlkZWQlMjBoYWlyc3R5bGVzJTIwd2l0aCUyMGludHJpY2F0ZSUyMHBhdHRlcm5zfGVufDF8MXx8fDE3OTM1Nzc2MDR8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "a woman with braids and a blue shirt",
+      "description": "",
+      "photographer": "Peyman Farmani",
+      "photographer_url": "https://unsplash.com/@peymanfarmani",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-braids-and-a-blue-shirt-wRguLfJXW44",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-11-02T00:00:04.228308+00:00"
+    },
     {
       "id": "Eqj3z9JEUaw",
       "url": "https://images.unsplash.com/photo-1793142114149-eef250de596b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw1fHxBZnJpY2FuJTIwbGFkaWVzJTIwd2l0aCUyMHRlZW5pZSUyMHdlZW5pZSUyMGFmcm9zfGVufDF8MXx8fDE3OTM1NjY4MTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-10-23T14:00:05.566428+00:00"
-    },
-    {
-      "id": "AaMZzZ2lssw",
-      "url": "https://images.unsplash.com/photo-1694679321170-370e523d19bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8Q29ybnJvd3MlMjBhZG9ybmVkJTIwd2l0aCUyMGZsb3dlcnMlMjBhbmQlMjBncmVlbmVyeXxlbnwxfDF8fHwxNzkyNzEwMDY1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1694679321170-370e523d19bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8Q29ybnJvd3MlMjBhZG9ybmVkJTIwd2l0aCUyMGZsb3dlcnMlMjBhbmQlMjBncmVlbmVyeXxlbnwxfDF8fHwxNzkyNzEwMDY1fDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1694679321170-370e523d19bd?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8Q29ybnJvd3MlMjBhZG9ybmVkJTIwd2l0aCUyMGZsb3dlcnMlMjBhbmQlMjBncmVlbmVyeXxlbnwxfDF8fHwxNzkyNzEwMDY1fDA&ixlib=rb-4.1.0&q=85",
-      "alt": "a woman with a long braid and a flower in her hair",
-      "description": "",
-      "photographer": "maryam zmn",
-      "photographer_url": "https://unsplash.com/@marya__zaman",
-      "photo_url": "https://unsplash.com/photos/a-woman-with-a-long-braid-and-a-flower-in-her-hair-AaMZzZ2lssw",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-10-22T23:00:02.254245+00:00"
     }
   ],
-  "updated_at": "2026-11-01T23:01:20.882339+00:00"
+  "updated_at": "2026-11-02T00:04:03.631240+00:00"
 }
