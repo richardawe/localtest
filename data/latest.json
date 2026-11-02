@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with the latest styles that are taking over - vibrant dreadlocks, afro-futurism braids, and edgy box braids are trending!",
   "images": [
+    {
+      "id": "avU_cmaqKEc",
+      "url": "https://images.unsplash.com/photo-1793088827913-daa03f31687f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw1fHxTaXN0ZXJsb2NrcyUyMG9uJTIwQWZyaWNhbiUyMHdvbWVuJTIwaW4lMjBBZnJpY2F8ZW58MXwxfHx8MTc5MzYxMDAxN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1793088827913-daa03f31687f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw1fHxTaXN0ZXJsb2NrcyUyMG9uJTIwQWZyaWNhbiUyMHdvbWVuJTIwaW4lMjBBZnJpY2F8ZW58MXwxfHx8MTc5MzYxMDAxN3ww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1793088827913-daa03f31687f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw1fHxTaXN0ZXJsb2NrcyUyMG9uJTIwQWZyaWNhbiUyMHdvbWVuJTIwaW4lMjBBZnJpY2F8ZW58MXwxfHx8MTc5MzYxMDAxN3ww&ixlib=rb-4.1.0&q=85",
+      "alt": "Two young women with braided hair standing together in front of green foliage",
+      "description": "African Queens",
+      "photographer": "Siphesihle Mchunu",
+      "photographer_url": "https://unsplash.com/@siphesihle_m03",
+      "photo_url": "https://unsplash.com/photos/two-young-women-in-patterned-clothing-avU_cmaqKEc",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-11-02T09:00:07.222964+00:00"
+    },
     {
       "id": "i1cWm_PML4w",
       "url": "https://images.unsplash.com/photo-1757140448472-40472d3811e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOHx8V2VhdmVzJTIwRXh0ZW5zaW9ucyUyMG9uJTIwQWZyaWNhbiUyMFdvbWVuJTIwQmVhdXR5fGVufDF8MXx8fDE3OTM1ODEyMzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-10-24T05:00:06.477499+00:00"
-    },
-    {
-      "id": "RSkczsSWySE",
-      "url": "https://images.unsplash.com/photo-1755536751164-1578a37d9440?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw3fHxQcmVzcyUyMGFuZCUyMEN1cmwlMjBIYWlyc3R5bGVzJTIwZm9yJTIwU2hpbmV8ZW58MXwxfHx8MTc5Mjc2NzYzOXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1755536751164-1578a37d9440?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw3fHxQcmVzcyUyMGFuZCUyMEN1cmwlMjBIYWlyc3R5bGVzJTIwZm9yJTIwU2hpbmV8ZW58MXwxfHx8MTc5Mjc2NzYzOXww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1755536751164-1578a37d9440?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw3fHxQcmVzcyUyMGFuZCUyMEN1cmwlMjBIYWlyc3R5bGVzJTIwZm9yJTIwU2hpbmV8ZW58MXwxfHx8MTc5Mjc2NzYzOXww&ixlib=rb-4.1.0&q=85",
-      "alt": "Woman with large afro and sunglasses wearing red shirt",
-      "description": "Black girl showing off shades for fashion",
-      "photographer": "Divaris Shirichena",
-      "photographer_url": "https://unsplash.com/@divaris",
-      "photo_url": "https://unsplash.com/photos/woman-with-large-afro-and-sunglasses-wearing-red-shirt-RSkczsSWySE",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-10-23T15:00:04.737226+00:00"
     }
   ],
-  "updated_at": "2026-11-02T08:02:00.960497+00:00"
+  "updated_at": "2026-11-02T09:01:16.573255+00:00"
 }
