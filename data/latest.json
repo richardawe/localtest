@@ -1,6 +1,21 @@
 {
-  "summary": "Get ready to slay with today's hottest hairstyles on Black and African women, from sleek afros to vibrant braids and boxy bobs!",
+  "summary": "Get ready to slay with today's hottest Black and African hairstyles, featuring bold box braids, daring dreadlocks, and stunning afro-puffs!",
   "images": [
+    {
+      "id": "3AfX2c2tTK4",
+      "url": "https://images.unsplash.com/photo-1793147500477-5c5657f8f4d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8RnVsYW5pJTIwYnJhaWRzJTIwb24lMjB5b3VuZyUyMEFmcmljYW4lMjB3b21hbnxlbnwxfDF8fHwxNzkzNzM2MDEwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1793147500477-5c5657f8f4d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8RnVsYW5pJTIwYnJhaWRzJTIwb24lMjB5b3VuZyUyMEFmcmljYW4lMjB3b21hbnxlbnwxfDF8fHwxNzkzNzM2MDEwfDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1793147500477-5c5657f8f4d3?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8RnVsYW5pJTIwYnJhaWRzJTIwb24lMjB5b3VuZyUyMEFmcmljYW4lMjB3b21hbnxlbnwxfDF8fHwxNzkzNzM2MDEwfDA&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman wearing a large patterned headwrap and chunky jewelry in a sepia toned portrait",
+      "description": "African Gele",
+      "photographer": "Nasiru Othman",
+      "photographer_url": "https://unsplash.com/@othmanspixel",
+      "photo_url": "https://unsplash.com/photos/woman-wearing-patterned-headwrap-and-jewelry-3AfX2c2tTK4",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-11-03T20:00:06.751547+00:00"
+    },
     {
       "id": "B6G0QDX2Fos",
       "url": "https://images.unsplash.com/photo-1793563212836-760a541d587d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8U2lzdGVybG9ja3MlMjBvbiUyMG1hdHVyZSUyMEJsYWNrJTIwd29tZW4lMjBmYWNlc3xlbnwxfDF8fHwxNzkzNzMyNTI3fDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-10-26T05:00:09.201390+00:00"
-    },
-    {
-      "id": "L_i9bpGo-tQ",
-      "url": "https://images.unsplash.com/photo-1780245771194-f1f1351f3a01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8TG9jcyUyMGFuZCUyMGRyZWFkbG9ja3MlMjBpbiUyMEJsYWNrJTIwY3VsdHVyZXxlbnwxfDF8fHwxNzkyOTMzMjQ3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1780245771194-f1f1351f3a01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8TG9jcyUyMGFuZCUyMGRyZWFkbG9ja3MlMjBpbiUyMEJsYWNrJTIwY3VsdHVyZXxlbnwxfDF8fHwxNzkyOTMzMjQ3fDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1780245771194-f1f1351f3a01?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8TG9jcyUyMGFuZCUyMGRyZWFkbG9ja3MlMjBpbiUyMEJsYWNrJTIwY3VsdHVyZXxlbnwxfDF8fHwxNzkyOTMzMjQ3fDA&ixlib=rb-4.1.0&q=85",
-      "alt": "Woman with dreadlocks and sunglasses sits on a light background",
-      "description": "",
-      "photographer": "Olumide Adekunle",
-      "photographer_url": "https://unsplash.com/@0rangevisuals",
-      "photo_url": "https://unsplash.com/photos/woman-with-dreadlocks-and-sunglasses-sits-on-a-light-background-L_i9bpGo-tQ",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-10-25T13:00:08.562727+00:00"
     }
   ],
-  "updated_at": "2026-11-03T19:03:58.879079+00:00"
+  "updated_at": "2026-11-03T20:03:51.260469+00:00"
 }
