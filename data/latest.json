@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with this month's hottest hairstyles from Africa and its diaspora, showcasing vibrant braids, afros, and more!",
   "images": [
+    {
+      "id": "cnw2A2iW6oA",
+      "url": "https://images.unsplash.com/photo-1752343814643-3205b1311fd3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8Q3JvY2hldCUyMEJyYWlkcyUyMEFkb3JhYmxlJTIwTGl0dGxlJTIwR2lybCUyMFBob3Rvc3xlbnwxfDF8fHwxNzkzODUxMzE0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1752343814643-3205b1311fd3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8Q3JvY2hldCUyMEJyYWlkcyUyMEFkb3JhYmxlJTIwTGl0dGxlJTIwR2lybCUyMFBob3Rvc3xlbnwxfDF8fHwxNzkzODUxMzE0fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1752343814643-3205b1311fd3?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8Q3JvY2hldCUyMEJyYWlkcyUyMEFkb3JhYmxlJTIwTGl0dGxlJTIwR2lybCUyMFBob3Rvc3xlbnwxfDF8fHwxNzkzODUxMzE0fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "A young girl with braids smiles at the camera",
+      "description": "",
+      "photographer": "Michael Austin",
+      "photographer_url": "https://unsplash.com/@mikeaustin",
+      "photo_url": "https://unsplash.com/photos/a-young-girl-with-braids-smiles-at-the-camera-cnw2A2iW6oA",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-11-05T04:00:06.496763+00:00"
+    },
     {
       "id": "3AfX2c2tTK4",
       "url": "https://images.unsplash.com/photo-1793147500477-5c5657f8f4d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8RnVsYW5pJTIwYnJhaWRzJTIwb24lMjB5b3VuZyUyMEFmcmljYW4lMjB3b21hbnxlbnwxfDF8fHwxNzkzNzM2MDEwfDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-10-26T14:00:06.715027+00:00"
-    },
-    {
-      "id": "db7R0hYzQ7Y",
-      "url": "https://images.unsplash.com/photo-1791644018081-c88bd1f9f61b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8TmF0dXJhbCUyMEFmcm8lMjBHb2RkZXNzJTIwUG9ydHJhaXQlMjBTdHVkeXxlbnwxfDF8fHwxNzkyOTkwOTM0fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1791644018081-c88bd1f9f61b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8TmF0dXJhbCUyMEFmcm8lMjBHb2RkZXNzJTIwUG9ydHJhaXQlMjBTdHVkeXxlbnwxfDF8fHwxNzkyOTkwOTM0fDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1791644018081-c88bd1f9f61b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8TmF0dXJhbCUyMEFmcm8lMjBHb2RkZXNzJTIwUG9ydHJhaXQlMjBTdHVkeXxlbnwxfDF8fHwxNzkyOTkwOTM0fDA&ixlib=rb-4.1.0&q=85",
-      "alt": "A black and white portrait of a woman with an afro wearing glasses and hoop earrings",
-      "description": "",
-      "photographer": "NORBAINE GLORY TAMAR",
-      "photographer_url": "https://unsplash.com/@g_light",
-      "photo_url": "https://unsplash.com/photos/woman-with-afro-and-glasses-db7R0hYzQ7Y",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-10-26T05:00:09.201390+00:00"
     }
   ],
-  "updated_at": "2026-11-05T03:04:25.669145+00:00"
+  "updated_at": "2026-11-05T04:05:36.544242+00:00"
 }
