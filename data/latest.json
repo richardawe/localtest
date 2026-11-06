@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with our spotlight on the hottest, most innovative Black and African hairstyles trending right now!",
   "images": [
+    {
+      "id": "PshfGTz3QYk",
+      "url": "https://images.unsplash.com/photo-1786529745846-c2e2761f60d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyfHxNb3RoZXJzJTIwd2l0aCUyMGNvcm5yb3dzJTIwYW5kJTIwQWZyaWNhbiUyMGN1bHR1cmV8ZW58MXwxfHx8MTc5Mzk2MjgzMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1786529745846-c2e2761f60d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyfHxNb3RoZXJzJTIwd2l0aCUyMGNvcm5yb3dzJTIwYW5kJTIwQWZyaWNhbiUyMGN1bHR1cmV8ZW58MXwxfHx8MTc5Mzk2MjgzMHww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1786529745846-c2e2761f60d7?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyfHxNb3RoZXJzJTIwd2l0aCUyMGNvcm5yb3dzJTIwYW5kJTIwQWZyaWNhbiUyMGN1bHR1cmV8ZW58MXwxfHx8MTc5Mzk2MjgzMHww&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman in an orange dress and a child in a striped dress standing together",
+      "description": "African bride on her wedding day",
+      "photographer": "Lisa Marie Theck",
+      "photographer_url": "https://unsplash.com/@lisa_marie_theck",
+      "photo_url": "https://unsplash.com/photos/woman-and-child-in-traditional-dress-PshfGTz3QYk",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-11-06T11:00:08.174762+00:00"
+    },
     {
       "id": "cnw2A2iW6oA",
       "url": "https://images.unsplash.com/photo-1752343814643-3205b1311fd3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8Q3JvY2hldCUyMEJyYWlkcyUyMEFkb3JhYmxlJTIwTGl0dGxlJTIwR2lybCUyMFBob3Rvc3xlbnwxfDF8fHwxNzkzODUxMzE0fDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-10-27T00:00:04.484441+00:00"
-    },
-    {
-      "id": "O9JM3EuQliI",
-      "url": "https://images.unsplash.com/photo-1729015931011-8326e5a8f242?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8V2VhdmUlMjBFeHRlbnNpb25zJTIwQmxhY2slMjBHaXJsJTIwQ2xvc2UlMjBVcHxlbnwxfDF8fHwxNzkzMDIzMzYxfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1729015931011-8326e5a8f242?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8V2VhdmUlMjBFeHRlbnNpb25zJTIwQmxhY2slMjBHaXJsJTIwQ2xvc2UlMjBVcHxlbnwxfDF8fHwxNzkzMDIzMzYxfDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1729015931011-8326e5a8f242?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyN3x8V2VhdmUlMjBFeHRlbnNpb25zJTIwQmxhY2slMjBHaXJsJTIwQ2xvc2UlMjBVcHxlbnwxfDF8fHwxNzkzMDIzMzYxfDA&ixlib=rb-4.1.0&q=85",
-      "alt": "A woman with a pair of scissors in her hand",
-      "description": "congolese,beauty,black woman,portrait",
-      "photographer": "Trésor Kande",
-      "photographer_url": "https://unsplash.com/@travyskande",
-      "photo_url": "https://unsplash.com/photos/a-woman-with-a-pair-of-scissors-in-her-hand-O9JM3EuQliI",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-10-26T14:00:06.715027+00:00"
     }
   ],
-  "updated_at": "2026-11-06T10:01:38.511452+00:00"
+  "updated_at": "2026-11-06T11:01:17.766554+00:00"
 }
