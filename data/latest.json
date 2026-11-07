@@ -2,6 +2,21 @@
   "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
   "images": [
     {
+      "id": "EUG-ovrOB8o",
+      "url": "https://images.unsplash.com/photo-1793142114204-c766d2c1d096?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8QWZyaWNhbiUyMHdvbWFuJTIwaW4lMjBzZW5lZ2FsZXNlJTIwdHdpc3RzfGVufDF8MXx8fDE3OTQwNzQ0NjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1793142114204-c766d2c1d096?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8QWZyaWNhbiUyMHdvbWFuJTIwaW4lMjBzZW5lZ2FsZXNlJTIwdHdpc3RzfGVufDF8MXx8fDE3OTQwNzQ0NjV8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1793142114204-c766d2c1d096?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8QWZyaWNhbiUyMHdvbWFuJTIwaW4lMjBzZW5lZ2FsZXNlJTIwdHdpc3RzfGVufDF8MXx8fDE3OTQwNzQ0NjV8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman in profile wearing a brown headwrap and coral bead jewelry in warm sunlight",
+      "description": "African attire",
+      "photographer": "Nasiru Othman",
+      "photographer_url": "https://unsplash.com/@othmanspixel",
+      "photo_url": "https://unsplash.com/photos/woman-in-headwrap-and-coral-jewelry-EUG-ovrOB8o",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-11-07T18:00:04.802731+00:00"
+    },
+    {
       "id": "w6dUBiZzwQs",
       "url": "https://images.unsplash.com/photo-1792600105735-07df7cca5334?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxM3x8RnVsYW5pJTIwYnJhaWRzJTIwb24lMjBBZnJpY2FuJTIwYmVhdXR5fGVufDF8MXx8fDE3OTQwNTY0MzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "thumb": "https://images.unsplash.com/photo-1792600105735-07df7cca5334?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxM3x8RnVsYW5pJTIwYnJhaWRzJTIwb24lMjBBZnJpY2FuJTIwYmVhdXR5fGVufDF8MXx8fDE3OTQwNTY0MzZ8MA&ixlib=rb-4.1.0&q=80&w=200",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-10-28T19:00:07.736948+00:00"
-    },
-    {
-      "id": "K-bFxqACsW4",
-      "url": "https://images.unsplash.com/photo-1793023403986-2e1b68dc86c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8QmFudHUlMjBLbm90cyUyMG9uJTIwQmVhdXRpZnVsJTIwQmxhY2slMjBXb21lbnxlbnwxfDF8fHwxNzkzMTk2MDQ3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1793023403986-2e1b68dc86c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8QmFudHUlMjBLbm90cyUyMG9uJTIwQmVhdXRpZnVsJTIwQmxhY2slMjBXb21lbnxlbnwxfDF8fHwxNzkzMTk2MDQ3fDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1793023403986-2e1b68dc86c5?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8QmFudHUlMjBLbm90cyUyMG9uJTIwQmVhdXRpZnVsJTIwQmxhY2slMjBXb21lbnxlbnwxfDF8fHwxNzkzMTk2MDQ3fDA&ixlib=rb-4.1.0&q=85",
-      "alt": "A woman with braided hair adorned with white beads and cowrie shells under a dark umbrella",
-      "description": "",
-      "photographer": "Albert Luphahla",
-      "photographer_url": "https://unsplash.com/@kina_hitoshi",
-      "photo_url": "https://unsplash.com/photos/woman-with-braided-hair-and-beads-K-bFxqACsW4",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-10-28T14:00:06.673320+00:00"
     }
   ],
-  "updated_at": "2026-11-07T17:04:44.115826+00:00"
+  "updated_at": "2026-11-07T19:00:56.063824+00:00"
 }
