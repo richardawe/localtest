@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with our roundup of the hottest, most on-trend hairstyles for Black and African women that are taking over the globe right now!",
   "images": [
+    {
+      "id": "zon-KWw8TGg",
+      "url": "https://images.unsplash.com/photo-1612018887922-fa838e8b3c79?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxM3x8V29tZW4lMjBvZiUyMENvbG9yJTIwRHJlYWRsb2NrcyUyMEhhaXJzdHlsZSUyMEluc3BpcmF0aW9ufGVufDF8MXx8fDE3OTQxNjQ0NTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1612018887922-fa838e8b3c79?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxM3x8V29tZW4lMjBvZiUyMENvbG9yJTIwRHJlYWRsb2NrcyUyMEhhaXJzdHlsZSUyMEluc3BpcmF0aW9ufGVufDF8MXx8fDE3OTQxNjQ0NTJ8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1612018887922-fa838e8b3c79?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxM3x8V29tZW4lMjBvZiUyMENvbG9yJTIwRHJlYWRsb2NrcyUyMEhhaXJzdHlsZSUyMEluc3BpcmF0aW9ufGVufDF8MXx8fDE3OTQxNjQ0NTJ8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "woman in white long sleeve shirt standing on snow covered ground during daytime",
+      "description": "Snowy photo shoot with a sensual young woman in a white sweater. Beautiful girl with long colored dreadlocks posing against the river during a snowfall",
+      "photographer": "Олег Мороз",
+      "photographer_url": "https://unsplash.com/@tengyart",
+      "photo_url": "https://unsplash.com/photos/woman-in-white-long-sleeve-shirt-standing-on-snow-covered-ground-during-daytime-zon-KWw8TGg",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-11-08T19:00:05.290105+00:00"
+    },
     {
       "id": "M3ELUOmbS_U",
       "url": "https://images.unsplash.com/photo-1706242270800-142e05971243?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8TmF0dXJhbCUyMEFmcm8lMjBQdWZmJTIwU2lsaG91ZXR0ZSUyMFBvcnRyYWl0JTIwUGhvdG9ncmFwaHl8ZW58MXwxfHx8MTc5NDEyNDgyNnww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-10-31T12:00:08.677091+00:00"
-    },
-    {
-      "id": "i5-JNAMAIjc",
-      "url": "https://images.unsplash.com/photo-1793318536254-deaf78880a76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8RnVsYW5pJTIwYnJhaWRzJTIwdHJhZGl0aW9uYWwlMjBoYWlyc3R5bGUlMjBpbnNwaXJhdGlvbiUyMG5lZWRlZHxlbnwxfDF8fHwxNzkzMzcyNDI3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1793318536254-deaf78880a76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8RnVsYW5pJTIwYnJhaWRzJTIwdHJhZGl0aW9uYWwlMjBoYWlyc3R5bGUlMjBpbnNwaXJhdGlvbiUyMG5lZWRlZHxlbnwxfDF8fHwxNzkzMzcyNDI3fDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1793318536254-deaf78880a76?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMnx8RnVsYW5pJTIwYnJhaWRzJTIwdHJhZGl0aW9uYWwlMjBoYWlyc3R5bGUlMjBpbnNwaXJhdGlvbiUyMG5lZWRlZHxlbnwxfDF8fHwxNzkzMzcyNDI3fDA&ixlib=rb-4.1.0&q=85",
-      "alt": "A smiling woman wearing a black headscarf and a beaded headband with a zigzag pattern",
-      "description": "fulani girls in cultural attire",
-      "photographer": "Nasiru Othman",
-      "photographer_url": "https://unsplash.com/@othmanspixel",
-      "photo_url": "https://unsplash.com/photos/woman-wearing-beaded-headband-and-headscarf-i5-JNAMAIjc",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-10-30T15:00:04.622885+00:00"
     }
   ],
-  "updated_at": "2026-11-08T18:01:35.760075+00:00"
+  "updated_at": "2026-11-08T19:01:26.875127+00:00"
 }
