@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with this season's most iconic looks, as we dive into the latest must-try hairstyles for Black and African women!",
   "images": [
+    {
+      "id": "sSKEUkcazm4",
+      "url": "https://images.unsplash.com/photo-1793149216428-54e8e5279e91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8QWZyaWNhbiUyMFRlZW5pZSUyMFdlZW5pZSUyMEFmcm9zJTIwQ2xvc2V1cCUyMFBob3Rvc3xlbnwxfDF8fHwxNzk0MzUxNjE0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1793149216428-54e8e5279e91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8QWZyaWNhbiUyMFRlZW5pZSUyMFdlZW5pZSUyMEFmcm9zJTIwQ2xvc2V1cCUyMFBob3Rvc3xlbnwxfDF8fHwxNzk0MzUxNjE0fDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1793149216428-54e8e5279e91?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8QWZyaWNhbiUyMFRlZW5pZSUyMFdlZW5pZSUyMEFmcm9zJTIwQ2xvc2V1cCUyMFBob3Rvc3xlbnwxfDF8fHwxNzk0MzUxNjE0fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "A smiling woman wearing a dark headscarf and orange beaded necklace",
+      "description": "African lady smiling",
+      "photographer": "Nasiru Othman",
+      "photographer_url": "https://unsplash.com/@othmanspixel",
+      "photo_url": "https://unsplash.com/photos/smiling-woman-with-orange-beaded-necklace-sSKEUkcazm4",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-11-10T23:00:04.183967+00:00"
+    },
     {
       "id": "wZA0muey2S8",
       "url": "https://images.unsplash.com/photo-1793206822037-a69507d52805?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8VFdBJTIwVGVlbmllJTIwV2VlbmllJTIwQWZybyUyMFBob3Rvc2hvb3QlMjBJZGVhc3xlbnwxfDF8fHwxNzk0MzEyMDI5fDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-11-01T13:00:07.995150+00:00"
-    },
-    {
-      "id": "JX-QUMYkjCE",
-      "url": "https://images.unsplash.com/photo-1792963763318-3a73d3767a14?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw5fHxUV0ElMjB0ZWVuaWUlMjB3ZWVuaWUlMjBhZnJvJTIwbW9kZWxzJTIwcG9zaW5nfGVufDF8MXx8fDE3OTM0Njk3MTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1792963763318-3a73d3767a14?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw5fHxUV0ElMjB0ZWVuaWUlMjB3ZWVuaWUlMjBhZnJvJTIwbW9kZWxzJTIwcG9zaW5nfGVufDF8MXx8fDE3OTM0Njk3MTV8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1792963763318-3a73d3767a14?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw5fHxUV0ElMjB0ZWVuaWUlMjB3ZWVuaWUlMjBhZnJvJTIwbW9kZWxzJTIwcG9zaW5nfGVufDF8MXx8fDE3OTM0Njk3MTV8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "A woman with a large ginger afro wearing a black top and maroon leggings",
-      "description": "",
-      "photographer": "Eze Joseph",
-      "photographer_url": "https://unsplash.com/@justbeingblythe",
-      "photo_url": "https://unsplash.com/photos/woman-with-ginger-afro-in-black-JX-QUMYkjCE",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-10-31T18:00:04.611065+00:00"
     }
   ],
-  "updated_at": "2026-11-10T22:01:39.149861+00:00"
+  "updated_at": "2026-11-10T23:01:19.424777+00:00"
 }
