@@ -1,6 +1,36 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with today's hottest hairstyles, featuring vibrant twists on box braids, goddess locs, and bold afro-fusion trends!",
   "images": [
+    {
+      "id": "q81iDZF3NJg",
+      "url": "https://images.unsplash.com/photo-1793409466415-003e8bf71132?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8RXRoaW9waWFuJTIwd29tYW4lMjB3aXRoJTIwbG9uZyUyMGNvcm5yb3dzJTIwaGFpcnN0eWxlfGVufDF8MXx8fDE3OTQzODA0MjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1793409466415-003e8bf71132?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8RXRoaW9waWFuJTIwd29tYW4lMjB3aXRoJTIwbG9uZyUyMGNvcm5yb3dzJTIwaGFpcnN0eWxlfGVufDF8MXx8fDE3OTQzODA0MjR8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1793409466415-003e8bf71132?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8RXRoaW9waWFuJTIwd29tYW4lMjB3aXRoJTIwbG9uZyUyMGNvcm5yb3dzJTIwaGFpcnN0eWxlfGVufDF8MXx8fDE3OTQzODA0MjR8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "A black and white portrait of a woman with curly hair adorned with small flowers",
+      "description": "",
+      "photographer": "Dita Moh",
+      "photographer_url": "https://unsplash.com/@ditamoh",
+      "photo_url": "https://unsplash.com/photos/woman-with-curly-hair-and-flowers-q81iDZF3NJg",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-11-11T07:00:07.338958+00:00"
+    },
+    {
+      "id": "CWyTvxy6OLE",
+      "url": "https://images.unsplash.com/photo-1633980990916-74317cba1ea3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8RXRoaW9waWFuJTIwd29tYW4lMjB3aXRoJTIwbG9uZyUyMGNvcm5yb3dzJTIwaGFpcnN0eWxlfGVufDF8MXx8fDE3OTQzODA0MjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1633980990916-74317cba1ea3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8RXRoaW9waWFuJTIwd29tYW4lMjB3aXRoJTIwbG9uZyUyMGNvcm5yb3dzJTIwaGFpcnN0eWxlfGVufDF8MXx8fDE3OTQzODA0MjR8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1633980990916-74317cba1ea3?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8RXRoaW9waWFuJTIwd29tYW4lMjB3aXRoJTIwbG9uZyUyMGNvcm5yb3dzJTIwaGFpcnN0eWxlfGVufDF8MXx8fDE3OTQzODA0MjR8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "a woman standing in front of a bush",
+      "description": "young Ethiopian girl in cultural dress",
+      "photographer": "shalom melaku",
+      "photographer_url": "https://unsplash.com/@shali_melaku",
+      "photo_url": "https://unsplash.com/photos/a-woman-standing-in-front-of-a-bush-CWyTvxy6OLE",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-11-11T07:00:07.338958+00:00"
+    },
     {
       "id": "O64gLUNmDGc",
       "url": "https://images.unsplash.com/photo-1791214278177-f218fc01afb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8QmVhdXRpZnVsJTIwc2VuZWdhbGVzZSUyMHR3aXN0cyUyMGluJTIwdGhlJTIwc3VufGVufDF8MXx8fDE3OTQzNTUyMjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -270,37 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-11-02T00:00:04.228308+00:00"
-    },
-    {
-      "id": "Eqj3z9JEUaw",
-      "url": "https://images.unsplash.com/photo-1793142114149-eef250de596b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw1fHxBZnJpY2FuJTIwbGFkaWVzJTIwd2l0aCUyMHRlZW5pZSUyMHdlZW5pZSUyMGFmcm9zfGVufDF8MXx8fDE3OTM1NjY4MTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1793142114149-eef250de596b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw1fHxBZnJpY2FuJTIwbGFkaWVzJTIwd2l0aCUyMHRlZW5pZSUyMHdlZW5pZSUyMGFmcm9zfGVufDF8MXx8fDE3OTM1NjY4MTR8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1793142114149-eef250de596b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw1fHxBZnJpY2FuJTIwbGFkaWVzJTIwd2l0aCUyMHRlZW5pZSUyMHdlZW5pZSUyMGFmcm9zfGVufDF8MXx8fDE3OTM1NjY4MTR8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "Three women in vibrant patterned traditional clothing and elaborate headwraps standing on a grassy lawn",
-      "description": "African costume",
-      "photographer": "Nasiru Othman",
-      "photographer_url": "https://unsplash.com/@othmanspixel",
-      "photo_url": "https://unsplash.com/photos/three-women-in-vibrant-traditional-clothing-Eqj3z9JEUaw",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-11-01T21:00:09.447653+00:00"
-    },
-    {
-      "id": "eT1DVI2zQaU",
-      "url": "https://images.unsplash.com/photo-1756197257207-be6b72ec92da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8V29tZW4lMjBvZiUyMGNvbG9yJTIwd2l0aCUyMHdlYXZlcyUyMG9uJTIwcmVkJTIwY2FycGV0fGVufDF8MXx8fDE3OTM1MzgwMjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1756197257207-be6b72ec92da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8V29tZW4lMjBvZiUyMGNvbG9yJTIwd2l0aCUyMHdlYXZlcyUyMG9uJTIwcmVkJTIwY2FycGV0fGVufDF8MXx8fDE3OTM1MzgwMjF8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1756197257207-be6b72ec92da?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8V29tZW4lMjBvZiUyMGNvbG9yJTIwd2l0aCUyMHdlYXZlcyUyMG9uJTIwcmVkJTIwY2FycGV0fGVufDF8MXx8fDE3OTM1MzgwMjF8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "A smiling woman with braided hair and a leather jacket",
-      "description": "",
-      "photographer": "Dwayne joe",
-      "photographer_url": "https://unsplash.com/@spliff_dj_joe",
-      "photo_url": "https://unsplash.com/photos/a-smiling-woman-with-braided-hair-and-a-leather-jacket-eT1DVI2zQaU",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-11-01T13:00:07.995150+00:00"
     }
   ],
-  "updated_at": "2026-11-11T06:00:59.379165+00:00"
+  "updated_at": "2026-11-11T07:01:08.852828+00:00"
 }
