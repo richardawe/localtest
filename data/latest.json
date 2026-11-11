@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with this month's top picks of fresh and fierce hairstyles taking over social media, straight from Africa and beyond!",
   "images": [
+    {
+      "id": "rDWFLRG1tso",
+      "url": "https://images.unsplash.com/photo-1770045564884-65c89bb7adf1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8V2VhdmVzJTIwZXh0ZW5zaW9ucyUyMG9uJTIwYmxhY2slMjB3b21hbiUyMHBvcnRyYWl0c3xlbnwxfDF8fHwxNzk0NDEyODIwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1770045564884-65c89bb7adf1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8V2VhdmVzJTIwZXh0ZW5zaW9ucyUyMG9uJTIwYmxhY2slMjB3b21hbiUyMHBvcnRyYWl0c3xlbnwxfDF8fHwxNzk0NDEyODIwfDA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1770045564884-65c89bb7adf1?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8V2VhdmVzJTIwZXh0ZW5zaW9ucyUyMG9uJTIwYmxhY2slMjB3b21hbiUyMHBvcnRyYWl0c3xlbnwxfDF8fHwxNzk0NDEyODIwfDA&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman with long braids wearing a white sweater",
+      "description": "",
+      "photographer": "Brooke Balentine",
+      "photographer_url": "https://unsplash.com/@brookebalentine",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-long-braids-wearing-a-white-sweater-rDWFLRG1tso",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-11-11T16:00:04.890368+00:00"
+    },
     {
       "id": "0jO0vtCgDfE",
       "url": "https://images.unsplash.com/photo-1786529744116-ec58de1df190?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw1fHxhZnJpY2FuJTIwYm94JTIwYnJhaWRzJTIwd2VkZGluZyUyMGRheSUyMGJlYXV0eXxlbnwxfDF8fHwxNzk0NDA1NjM4fDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-11-03T20:00:06.751547+00:00"
-    },
-    {
-      "id": "B6G0QDX2Fos",
-      "url": "https://images.unsplash.com/photo-1793563212836-760a541d587d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8U2lzdGVybG9ja3MlMjBvbiUyMG1hdHVyZSUyMEJsYWNrJTIwd29tZW4lMjBmYWNlc3xlbnwxfDF8fHwxNzkzNzMyNTI3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1793563212836-760a541d587d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8U2lzdGVybG9ja3MlMjBvbiUyMG1hdHVyZSUyMEJsYWNrJTIwd29tZW4lMjBmYWNlc3xlbnwxfDF8fHwxNzkzNzMyNTI3fDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1793563212836-760a541d587d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8U2lzdGVybG9ja3MlMjBvbiUyMG1hdHVyZSUyMEJsYWNrJTIwd29tZW4lMjBmYWNlc3xlbnwxfDF8fHwxNzkzNzMyNTI3fDA&ixlib=rb-4.1.0&q=85",
-      "alt": "An adult woman with braided hair wearing a beaded necklace and embellished dress",
-      "description": "Ugandan wedding",
-      "photographer": "Lisa Marie Theck",
-      "photographer_url": "https://unsplash.com/@lisa_marie_theck",
-      "photo_url": "https://unsplash.com/photos/woman-with-braided-hair-and-necklace-B6G0QDX2Fos",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-11-03T19:00:08.493130+00:00"
     }
   ],
-  "updated_at": "2026-11-11T15:01:39.196900+00:00"
+  "updated_at": "2026-11-11T16:01:24.724413+00:00"
 }
