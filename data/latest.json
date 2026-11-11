@@ -1,6 +1,21 @@
 {
-  "summary": "Get ready to slay with this season's most iconic looks, as we dive into the latest must-try hairstyles for Black and African women!",
+  "summary": "Get ready to slay with this year's hottest looks in Afro-textured beauty, featuring bold styles from natural twists to vibrant dreadlocks!",
   "images": [
+    {
+      "id": "O64gLUNmDGc",
+      "url": "https://images.unsplash.com/photo-1791214278177-f218fc01afb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8QmVhdXRpZnVsJTIwc2VuZWdhbGVzZSUyMHR3aXN0cyUyMGluJTIwdGhlJTIwc3VufGVufDF8MXx8fDE3OTQzNTUyMjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1791214278177-f218fc01afb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8QmVhdXRpZnVsJTIwc2VuZWdhbGVzZSUyMHR3aXN0cyUyMGluJTIwdGhlJTIwc3VufGVufDF8MXx8fDE3OTQzNTUyMjh8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1791214278177-f218fc01afb3?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8QmVhdXRpZnVsJTIwc2VuZWdhbGVzZSUyMHR3aXN0cyUyMGluJTIwdGhlJTIwc3VufGVufDF8MXx8fDE3OTQzNTUyMjh8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman with braided hair wearing a pink headscarf and cat-eye sunglasses",
+      "description": "Bold in pink, calm in spirit. Her gaze says it all - she knows exactly who she is and where she's going.",
+      "photographer": "Divaris Shirichena",
+      "photographer_url": "https://unsplash.com/@divaris",
+      "photo_url": "https://unsplash.com/photos/woman-with-braids-and-pink-headscarf-O64gLUNmDGc",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-11-11T00:00:02.432980+00:00"
+    },
     {
       "id": "sSKEUkcazm4",
       "url": "https://images.unsplash.com/photo-1793149216428-54e8e5279e91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8QWZyaWNhbiUyMFRlZW5pZSUyMFdlZW5pZSUyMEFmcm9zJTIwQ2xvc2V1cCUyMFBob3Rvc3xlbnwxfDF8fHwxNzk0MzUxNjE0fDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-11-01T13:00:07.995150+00:00"
-    },
-    {
-      "id": "fvHwB1wzCHw",
-      "url": "https://images.unsplash.com/photo-1790150739535-011cae80460d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8QmVhdXRpZnVsJTIwYWZyaWNhbiUyMHdvbWFuJTIwd2l0aCUyMHNlbmVnYWxlc2UlMjB0d2lzdHN8ZW58MXwxfHx8MTc5MzUzODAzN3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1790150739535-011cae80460d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8QmVhdXRpZnVsJTIwYWZyaWNhbiUyMHdvbWFuJTIwd2l0aCUyMHNlbmVnYWxlc2UlMjB0d2lzdHN8ZW58MXwxfHx8MTc5MzUzODAzN3ww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1790150739535-011cae80460d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8QmVhdXRpZnVsJTIwYWZyaWNhbiUyMHdvbWFuJTIwd2l0aCUyMHNlbmVnYWxlc2UlMjB0d2lzdHN8ZW58MXwxfHx8MTc5MzUzODAzN3ww&ixlib=rb-4.1.0&q=85",
-      "alt": "A woman in a blue lace top and headwrap against a yellow wall",
-      "description": "",
-      "photographer": "Olumide Adekunle",
-      "photographer_url": "https://unsplash.com/@0rangevisuals",
-      "photo_url": "https://unsplash.com/photos/woman-in-blue-lace-top-fvHwB1wzCHw",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-11-01T13:00:07.995150+00:00"
     }
   ],
-  "updated_at": "2026-11-10T23:01:19.424777+00:00"
+  "updated_at": "2026-11-11T00:02:12.711263+00:00"
 }
