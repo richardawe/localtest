@@ -1,6 +1,36 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with the latest styles from Africa and its diaspora, where bold beauty and unapologetic individuality reign supreme right now!",
   "images": [
+    {
+      "id": "ETGmWS3_itk",
+      "url": "https://images.unsplash.com/photo-1793697233459-2e9ab8ed5daf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw3fHxBZnJpY2FuJTIwd29tYW4lMjBsb2NzJTIwZHJlYWRsb2NrcyUyMGNsb3NlJTIwdXB8ZW58MXwxfHx8MTc5NDQ0MTYxNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1793697233459-2e9ab8ed5daf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw3fHxBZnJpY2FuJTIwd29tYW4lMjBsb2NzJTIwZHJlYWRsb2NrcyUyMGNsb3NlJTIwdXB8ZW58MXwxfHx8MTc5NDQ0MTYxNHww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1793697233459-2e9ab8ed5daf?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw3fHxBZnJpY2FuJTIwd29tYW4lMjBsb2NzJTIwZHJlYWRsb2NrcyUyMGNsb3NlJTIwdXB8ZW58MXwxfHx8MTc5NDQ0MTYxNHww&ixlib=rb-4.1.0&q=85",
+      "alt": "A black and white portrait of a woman with dreadlocks wearing a ribbed turtleneck sweater",
+      "description": "",
+      "photographer": "Ufoma Ojo",
+      "photographer_url": "https://unsplash.com/@ladyufoma001",
+      "photo_url": "https://unsplash.com/photos/woman-with-dreadlocks-in-turtleneck-sweater-ETGmWS3_itk",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-11-12T00:00:02.843220+00:00"
+    },
+    {
+      "id": "ho63ALLyDOs",
+      "url": "https://images.unsplash.com/photo-1793697233295-18b079afa6fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8QWZyaWNhbiUyMHdvbWFuJTIwbG9jcyUyMGRyZWFkbG9ja3MlMjBjbG9zZSUyMHVwfGVufDF8MXx8fDE3OTQ0NDE2MTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1793697233295-18b079afa6fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8QWZyaWNhbiUyMHdvbWFuJTIwbG9jcyUyMGRyZWFkbG9ja3MlMjBjbG9zZSUyMHVwfGVufDF8MXx8fDE3OTQ0NDE2MTR8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1793697233295-18b079afa6fd?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8QWZyaWNhbiUyMHdvbWFuJTIwbG9jcyUyMGRyZWFkbG9ja3MlMjBjbG9zZSUyMHVwfGVufDF8MXx8fDE3OTQ0NDE2MTR8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "A black and white portrait of a woman with dreadlocks in a ribbed turtleneck",
+      "description": "",
+      "photographer": "Ufoma Ojo",
+      "photographer_url": "https://unsplash.com/@ladyufoma001",
+      "photo_url": "https://unsplash.com/photos/woman-with-dreadlocks-in-turtleneck-ho63ALLyDOs",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-11-12T00:00:02.843220+00:00"
+    },
     {
       "id": "rDWFLRG1tso",
       "url": "https://images.unsplash.com/photo-1770045564884-65c89bb7adf1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8V2VhdmVzJTIwZXh0ZW5zaW9ucyUyMG9uJTIwYmxhY2slMjB3b21hbiUyMHBvcnRyYWl0c3xlbnwxfDF8fHwxNzk0NDEyODIwfDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -270,37 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-11-06T11:00:08.174762+00:00"
-    },
-    {
-      "id": "cnw2A2iW6oA",
-      "url": "https://images.unsplash.com/photo-1752343814643-3205b1311fd3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8Q3JvY2hldCUyMEJyYWlkcyUyMEFkb3JhYmxlJTIwTGl0dGxlJTIwR2lybCUyMFBob3Rvc3xlbnwxfDF8fHwxNzkzODUxMzE0fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1752343814643-3205b1311fd3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8Q3JvY2hldCUyMEJyYWlkcyUyMEFkb3JhYmxlJTIwTGl0dGxlJTIwR2lybCUyMFBob3Rvc3xlbnwxfDF8fHwxNzkzODUxMzE0fDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1752343814643-3205b1311fd3?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8Q3JvY2hldCUyMEJyYWlkcyUyMEFkb3JhYmxlJTIwTGl0dGxlJTIwR2lybCUyMFBob3Rvc3xlbnwxfDF8fHwxNzkzODUxMzE0fDA&ixlib=rb-4.1.0&q=85",
-      "alt": "A young girl with braids smiles at the camera",
-      "description": "",
-      "photographer": "Michael Austin",
-      "photographer_url": "https://unsplash.com/@mikeaustin",
-      "photo_url": "https://unsplash.com/photos/a-young-girl-with-braids-smiles-at-the-camera-cnw2A2iW6oA",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-11-05T04:00:06.496763+00:00"
-    },
-    {
-      "id": "3AfX2c2tTK4",
-      "url": "https://images.unsplash.com/photo-1793147500477-5c5657f8f4d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8RnVsYW5pJTIwYnJhaWRzJTIwb24lMjB5b3VuZyUyMEFmcmljYW4lMjB3b21hbnxlbnwxfDF8fHwxNzkzNzM2MDEwfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1793147500477-5c5657f8f4d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8RnVsYW5pJTIwYnJhaWRzJTIwb24lMjB5b3VuZyUyMEFmcmljYW4lMjB3b21hbnxlbnwxfDF8fHwxNzkzNzM2MDEwfDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1793147500477-5c5657f8f4d3?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwzMHx8RnVsYW5pJTIwYnJhaWRzJTIwb24lMjB5b3VuZyUyMEFmcmljYW4lMjB3b21hbnxlbnwxfDF8fHwxNzkzNzM2MDEwfDA&ixlib=rb-4.1.0&q=85",
-      "alt": "A woman wearing a large patterned headwrap and chunky jewelry in a sepia toned portrait",
-      "description": "African Gele",
-      "photographer": "Nasiru Othman",
-      "photographer_url": "https://unsplash.com/@othmanspixel",
-      "photo_url": "https://unsplash.com/photos/woman-wearing-patterned-headwrap-and-jewelry-3AfX2c2tTK4",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-11-03T20:00:06.751547+00:00"
     }
   ],
-  "updated_at": "2026-11-11T23:04:58.163379+00:00"
+  "updated_at": "2026-11-12T00:02:54.055709+00:00"
 }
