@@ -300,6 +300,36 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-11-13T14:00:07.942644+00:00"
+    },
+    {
+      "id": "RWKqFGj33l4",
+      "url": "https://images.unsplash.com/photo-1793149216402-2ac91487bd14?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8RnVsYW5pJTIwYnJhaWRzJTIwYW5kJTIwaGVhZCUyMHdyYXBzJTIwcGhvdG9ncmFwaHl8ZW58MXwxfHx8MTc5NDY1NzY2M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1793149216402-2ac91487bd14?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8RnVsYW5pJTIwYnJhaWRzJTIwYW5kJTIwaGVhZCUyMHdyYXBzJTIwcGhvdG9ncmFwaHl8ZW58MXwxfHx8MTc5NDY1NzY2M3ww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1793149216402-2ac91487bd14?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMHx8RnVsYW5pJTIwYnJhaWRzJTIwYW5kJTIwaGVhZCUyMHdyYXBzJTIwcGhvdG9ncmFwaHl8ZW58MXwxfHx8MTc5NDY1NzY2M3ww&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman wearing a dark blue headscarf and traditional beaded jewelry with a patterned headband",
+      "description": "African fashion",
+      "photographer": "Nasiru Othman",
+      "photographer_url": "https://unsplash.com/@othmanspixel",
+      "photo_url": "https://unsplash.com/photos/woman-wearing-traditional-beaded-jewelry-RWKqFGj33l4",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-11-14T12:00:07.660349+00:00"
+    },
+    {
+      "id": "lpxfdwFlzXs",
+      "url": "https://images.unsplash.com/photo-1793140546316-da84af104dd9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8RnVsYW5pJTIwYnJhaWRzJTIwYW5kJTIwaGVhZCUyMHdyYXBzJTIwcGhvdG9ncmFwaHl8ZW58MXwxfHx8MTc5NDY1NzY2M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1793140546316-da84af104dd9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8RnVsYW5pJTIwYnJhaWRzJTIwYW5kJTIwaGVhZCUyMHdyYXBzJTIwcGhvdG9ncmFwaHl8ZW58MXwxfHx8MTc5NDY1NzY2M3ww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1793140546316-da84af104dd9?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNnx8RnVsYW5pJTIwYnJhaWRzJTIwYW5kJTIwaGVhZCUyMHdyYXBzJTIwcGhvdG9ncmFwaHl8ZW58MXwxfHx8MTc5NDY1NzY2M3ww&ixlib=rb-4.1.0&q=85",
+      "alt": "A black and white portrait of a woman wearing a large patterned headwrap and statement earrings",
+      "description": "African woman in gele",
+      "photographer": "Nasiru Othman",
+      "photographer_url": "https://unsplash.com/@othmanspixel",
+      "photo_url": "https://unsplash.com/photos/woman-wearing-patterned-headwrap-and-earrings-lpxfdwFlzXs",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-11-14T12:00:07.660349+00:00"
     }
   ]
 }
