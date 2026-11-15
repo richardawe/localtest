@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay the day with our latest feature showcasing the most on-point, trendy hairstyles making waves in the Black and African beauty scene!",
   "images": [
+    {
+      "id": "67eqKFPohhc",
+      "url": "https://images.unsplash.com/photo-1676742427408-7c0a98a75675?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8QmxhY2slMjBXb21lbiUyMHdpdGglMjBDb3Jucm93cyUyMGluJTIwTmF0dXJlfGVufDF8MXx8fDE3OTQ3NTEyMDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1676742427408-7c0a98a75675?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8QmxhY2slMjBXb21lbiUyMHdpdGglMjBDb3Jucm93cyUyMGluJTIwTmF0dXJlfGVufDF8MXx8fDE3OTQ3NTEyMDd8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1676742427408-7c0a98a75675?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8QmxhY2slMjBXb21lbiUyMHdpdGglMjBDb3Jucm93cyUyMGluJTIwTmF0dXJlfGVufDF8MXx8fDE3OTQ3NTEyMDd8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "a woman with long braids and a black shirt",
+      "description": "",
+      "photographer": "Alejandro Alvarez",
+      "photographer_url": "https://unsplash.com/@alealvarezdw",
+      "photo_url": "https://unsplash.com/photos/a-woman-with-long-braids-and-a-black-shirt-67eqKFPohhc",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-11-15T14:00:05.435470+00:00"
+    },
     {
       "id": "SgPbdmqvKlk",
       "url": "https://images.unsplash.com/photo-1760341682637-039301f14e3f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNHx8V29tZW4lMjB3aXRoJTIwZHJlYWRsb2NrcyUyMGluJTIwYmVhdXRpZnVsJTIwc2NlbmVyeXxlbnwxfDF8fHwxNzk0NzQ0MDYwfDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-11-10T23:00:04.183967+00:00"
-    },
-    {
-      "id": "wZA0muey2S8",
-      "url": "https://images.unsplash.com/photo-1793206822037-a69507d52805?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8VFdBJTIwVGVlbmllJTIwV2VlbmllJTIwQWZybyUyMFBob3Rvc2hvb3QlMjBJZGVhc3xlbnwxfDF8fHwxNzk0MzEyMDI5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1793206822037-a69507d52805?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8VFdBJTIwVGVlbmllJTIwV2VlbmllJTIwQWZybyUyMFBob3Rvc2hvb3QlMjBJZGVhc3xlbnwxfDF8fHwxNzk0MzEyMDI5fDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1793206822037-a69507d52805?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8VFdBJTIwVGVlbmllJTIwV2VlbmllJTIwQWZybyUyMFBob3Rvc2hvb3QlMjBJZGVhc3xlbnwxfDF8fHwxNzk0MzEyMDI5fDA&ixlib=rb-4.1.0&q=85",
-      "alt": "A woman with an afro hairstyle and dark clothing on a white stool",
-      "description": "",
-      "photographer": "Weng Thomas",
-      "photographer_url": "https://unsplash.com/@wengix",
-      "photo_url": "https://unsplash.com/photos/woman-with-afro-on-white-stool-wZA0muey2S8",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-11-10T12:00:04.551998+00:00"
     }
   ],
-  "updated_at": "2026-11-15T13:01:36.684911+00:00"
+  "updated_at": "2026-11-15T14:01:33.391864+00:00"
 }
