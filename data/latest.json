@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with this week's featured Black and African women's hair trends, straight from the runway to your roots!",
   "images": [
+    {
+      "id": "ajXKvGxqlHg",
+      "url": "https://images.unsplash.com/photo-1788500657842-fcfbdc7331e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8QmxhY2slMjB3b21lbiUyMHJvY2tpbmclMjBjb3Jucm93cyUyMGluJTIwc3R1ZGlvfGVufDF8MXx8fDE3OTQ4NTIwNjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1788500657842-fcfbdc7331e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8QmxhY2slMjB3b21lbiUyMHJvY2tpbmclMjBjb3Jucm93cyUyMGluJTIwc3R1ZGlvfGVufDF8MXx8fDE3OTQ4NTIwNjF8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1788500657842-fcfbdc7331e5?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMnx8QmxhY2slMjB3b21lbiUyMHJvY2tpbmclMjBjb3Jucm93cyUyMGluJTIwc3R1ZGlvfGVufDF8MXx8fDE3OTQ4NTIwNjF8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman with braided hair wearing a grey vest against a dark background",
+      "description": "",
+      "photographer": "Luiz Rogério Nunes",
+      "photographer_url": "https://unsplash.com/@luizr_ph",
+      "photo_url": "https://unsplash.com/photos/woman-in-grey-vest-ajXKvGxqlHg",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-11-16T18:00:07.383355+00:00"
+    },
     {
       "id": "GLnliNAykYA",
       "url": "https://images.unsplash.com/photo-1790066314541-d0823f0c7109?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxOHx8WW91bmclMjBCbGFjayUyMG1vZGVsJTIwd2l0aCUyMEZ1bGFuaSUyMGJyYWlkc3xlbnwxfDF8fHwxNzk0ODI2ODU1fDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-11-11T14:00:07.492745+00:00"
-    },
-    {
-      "id": "q81iDZF3NJg",
-      "url": "https://images.unsplash.com/photo-1793409466415-003e8bf71132?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8RXRoaW9waWFuJTIwd29tYW4lMjB3aXRoJTIwbG9uZyUyMGNvcm5yb3dzJTIwaGFpcnN0eWxlfGVufDF8MXx8fDE3OTQzODA0MjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1793409466415-003e8bf71132?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8RXRoaW9waWFuJTIwd29tYW4lMjB3aXRoJTIwbG9uZyUyMGNvcm5yb3dzJTIwaGFpcnN0eWxlfGVufDF8MXx8fDE3OTQzODA0MjR8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1793409466415-003e8bf71132?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyMXx8RXRoaW9waWFuJTIwd29tYW4lMjB3aXRoJTIwbG9uZyUyMGNvcm5yb3dzJTIwaGFpcnN0eWxlfGVufDF8MXx8fDE3OTQzODA0MjR8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "A black and white portrait of a woman with curly hair adorned with small flowers",
-      "description": "",
-      "photographer": "Dita Moh",
-      "photographer_url": "https://unsplash.com/@ditamoh",
-      "photo_url": "https://unsplash.com/photos/woman-with-curly-hair-and-flowers-q81iDZF3NJg",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-11-11T07:00:07.338958+00:00"
     }
   ],
-  "updated_at": "2026-11-16T17:01:16.786970+00:00"
+  "updated_at": "2026-11-16T18:01:29.906306+00:00"
 }
