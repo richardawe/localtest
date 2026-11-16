@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with the latest sizzling styles from Africa and beyond, as we dive into this season's hottest Black and African hair trends!",
   "images": [
+    {
+      "id": "tEpSKhGvUUo",
+      "url": "https://images.unsplash.com/photo-1667581193308-43ea334ed635?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNHx8QWZyaWNhbiUyMHdvbWFuJTIwd2l0aCUyMGNvcm5yb3dzJTIwYW5kJTIwaGlqYWJ8ZW58MXwxfHx8MTc5NDgxNjAxMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1667581193308-43ea334ed635?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNHx8QWZyaWNhbiUyMHdvbWFuJTIwd2l0aCUyMGNvcm5yb3dzJTIwYW5kJTIwaGlqYWJ8ZW58MXwxfHx8MTc5NDgxNjAxMnww&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1667581193308-43ea334ed635?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNHx8QWZyaWNhbiUyMHdvbWFuJTIwd2l0aCUyMGNvcm5yb3dzJTIwYW5kJTIwaGlqYWJ8ZW58MXwxfHx8MTc5NDgxNjAxMnww&ixlib=rb-4.1.0&q=85",
+      "alt": "a person wearing a black head scarf",
+      "description": "",
+      "photographer": "Ato Aikins",
+      "photographer_url": "https://unsplash.com/@ato_aikins",
+      "photo_url": "https://unsplash.com/photos/a-person-wearing-a-black-head-scarf-tEpSKhGvUUo",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-11-16T08:00:06.459596+00:00"
+    },
     {
       "id": "67eqKFPohhc",
       "url": "https://images.unsplash.com/photo-1676742427408-7c0a98a75675?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOHx8QmxhY2slMjBXb21lbiUyMHdpdGglMjBDb3Jucm93cyUyMGluJTIwTmF0dXJlfGVufDF8MXx8fDE3OTQ3NTEyMDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-11-11T00:00:02.432980+00:00"
-    },
-    {
-      "id": "sSKEUkcazm4",
-      "url": "https://images.unsplash.com/photo-1793149216428-54e8e5279e91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8QWZyaWNhbiUyMFRlZW5pZSUyMFdlZW5pZSUyMEFmcm9zJTIwQ2xvc2V1cCUyMFBob3Rvc3xlbnwxfDF8fHwxNzk0MzUxNjE0fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1793149216428-54e8e5279e91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8QWZyaWNhbiUyMFRlZW5pZSUyMFdlZW5pZSUyMEFmcm9zJTIwQ2xvc2V1cCUyMFBob3Rvc3xlbnwxfDF8fHwxNzk0MzUxNjE0fDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1793149216428-54e8e5279e91?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyM3x8QWZyaWNhbiUyMFRlZW5pZSUyMFdlZW5pZSUyMEFmcm9zJTIwQ2xvc2V1cCUyMFBob3Rvc3xlbnwxfDF8fHwxNzk0MzUxNjE0fDA&ixlib=rb-4.1.0&q=85",
-      "alt": "A smiling woman wearing a dark headscarf and orange beaded necklace",
-      "description": "African lady smiling",
-      "photographer": "Nasiru Othman",
-      "photographer_url": "https://unsplash.com/@othmanspixel",
-      "photo_url": "https://unsplash.com/photos/smiling-woman-with-orange-beaded-necklace-sSKEUkcazm4",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-11-10T23:00:04.183967+00:00"
     }
   ],
-  "updated_at": "2026-11-16T07:01:22.963938+00:00"
+  "updated_at": "2026-11-16T08:01:41.779267+00:00"
 }
