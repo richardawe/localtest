@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay the streets with today's hottest Black and African women's hair trends, blending style, culture, and unapologetic flair!",
   "images": [
+    {
+      "id": "dNcWLjmxTPs",
+      "url": "https://images.unsplash.com/photo-1794954610926-586587d01eff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxM3x8QWZyaWNhbiUyMGhhaXJzdHlsZXMlMjBmZWF0dXJpbmclMjB3ZWF2ZXMlMjBhbmQlMjBleHRlbnNpb25zfGVufDF8MXx8fDE3OTUwMTc2MzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1794954610926-586587d01eff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxM3x8QWZyaWNhbiUyMGhhaXJzdHlsZXMlMjBmZWF0dXJpbmclMjB3ZWF2ZXMlMjBhbmQlMjBleHRlbnNpb25zfGVufDF8MXx8fDE3OTUwMTc2MzN8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1794954610926-586587d01eff?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxM3x8QWZyaWNhbiUyMGhhaXJzdHlsZXMlMjBmZWF0dXJpbmclMjB3ZWF2ZXMlMjBhbmQlMjBleHRlbnNpb25zfGVufDF8MXx8fDE3OTUwMTc2MzN8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "A woman with braided hair in a high bun wearing large woven earrings",
+      "description": "",
+      "photographer": "Nasiru Othman",
+      "photographer_url": "https://unsplash.com/@othmanspixel",
+      "photo_url": "https://unsplash.com/photos/woman-with-braided-hair-and-earrings-dNcWLjmxTPs",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-11-18T16:00:06.581539+00:00"
+    },
     {
       "id": "e1t7RQYXcaM",
       "url": "https://images.unsplash.com/photo-1794579739866-8be897d14fd7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxN3x8QmxhY2slMjB3b21hbiUyMHdpdGglMjBnb2RkZXNzJTIwYnJhaWRlZCUyMGNyb3dufGVufDF8MXx8fDE3OTQ5NTI4MDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-11-11T14:00:07.492745+00:00"
-    },
-    {
-      "id": "oL8DoaJimIg",
-      "url": "https://images.unsplash.com/photo-1786529744117-47b661c96fde?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMHx8YWZyaWNhbiUyMGJveCUyMGJyYWlkcyUyMHdlZGRpbmclMjBkYXklMjBiZWF1dHl8ZW58MXwxfHx8MTc5NDQwNTYzOHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1786529744117-47b661c96fde?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMHx8YWZyaWNhbiUyMGJveCUyMGJyYWlkcyUyMHdlZGRpbmclMjBkYXklMjBiZWF1dHl8ZW58MXwxfHx8MTc5NDQwNTYzOHww&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1786529744117-47b661c96fde?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxMHx8YWZyaWNhbiUyMGJveCUyMGJyYWlkcyUyMHdlZGRpbmclMjBkYXklMjBiZWF1dHl8ZW58MXwxfHx8MTc5NDQwNTYzOHww&ixlib=rb-4.1.0&q=85",
-      "alt": "A woman in a white gown and tiara holding flowers among palm trees",
-      "description": "African bride on her wedding day",
-      "photographer": "Lisa Marie Theck",
-      "photographer_url": "https://unsplash.com/@lisa_marie_theck",
-      "photo_url": "https://unsplash.com/photos/woman-in-white-gown-with-flowers-oL8DoaJimIg",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-11-11T14:00:07.492745+00:00"
     }
   ],
-  "updated_at": "2026-11-18T15:05:20.348451+00:00"
+  "updated_at": "2026-11-18T16:04:07.634751+00:00"
 }
