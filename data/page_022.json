@@ -525,6 +525,21 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-11-20T07:00:06.393994+00:00"
+    },
+    {
+      "id": "8c4bC4kdX20",
+      "url": "https://images.unsplash.com/photo-1794579512320-2f0fbdef9b6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8QWZyaWNhbiUyMHdvbWFuJTIwbG9jcyUyMGRyZWFkbG9ja3MlMjBjbG9zZSUyMHVwfGVufDF8MXx8fDE3OTUyNDgwMjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1794579512320-2f0fbdef9b6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8QWZyaWNhbiUyMHdvbWFuJTIwbG9jcyUyMGRyZWFkbG9ja3MlMjBjbG9zZSUyMHVwfGVufDF8MXx8fDE3OTUyNDgwMjh8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1794579512320-2f0fbdef9b6b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8QWZyaWNhbiUyMHdvbWFuJTIwbG9jcyUyMGRyZWFkbG9ja3MlMjBjbG9zZSUyMHVwfGVufDF8MXx8fDE3OTUyNDgwMjh8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "A person with braided hair covering one eye with their hand against a black background",
+      "description": "A dramatic low-key portrait of a woman emerging from complete darkness. Her face is illuminated by soft, directional studio lighting, creating a powerful contrast between light and shadow. With an intense gaze, elegant makeup, and a minimalist composition, the photograph captures mystery, confidence, beauty, and timeless editorial elegance.",
+      "photographer": "Dion Martins",
+      "photographer_url": "https://unsplash.com/@dionmartins",
+      "photo_url": "https://unsplash.com/photos/person-with-hand-over-eye-8c4bC4kdX20",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-11-21T08:00:03.700732+00:00"
     }
   ]
 }

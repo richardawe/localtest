@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready for a journey through the latest styles, showcasing the hottest Black and African women's hair trends that are taking over the beauty scene right now!",
   "images": [
+    {
+      "id": "8c4bC4kdX20",
+      "url": "https://images.unsplash.com/photo-1794579512320-2f0fbdef9b6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8QWZyaWNhbiUyMHdvbWFuJTIwbG9jcyUyMGRyZWFkbG9ja3MlMjBjbG9zZSUyMHVwfGVufDF8MXx8fDE3OTUyNDgwMjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1794579512320-2f0fbdef9b6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8QWZyaWNhbiUyMHdvbWFuJTIwbG9jcyUyMGRyZWFkbG9ja3MlMjBjbG9zZSUyMHVwfGVufDF8MXx8fDE3OTUyNDgwMjh8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1794579512320-2f0fbdef9b6b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8QWZyaWNhbiUyMHdvbWFuJTIwbG9jcyUyMGRyZWFkbG9ja3MlMjBjbG9zZSUyMHVwfGVufDF8MXx8fDE3OTUyNDgwMjh8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "A person with braided hair covering one eye with their hand against a black background",
+      "description": "A dramatic low-key portrait of a woman emerging from complete darkness. Her face is illuminated by soft, directional studio lighting, creating a powerful contrast between light and shadow. With an intense gaze, elegant makeup, and a minimalist composition, the photograph captures mystery, confidence, beauty, and timeless editorial elegance.",
+      "photographer": "Dion Martins",
+      "photographer_url": "https://unsplash.com/@dionmartins",
+      "photo_url": "https://unsplash.com/photos/person-with-hand-over-eye-8c4bC4kdX20",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-11-21T08:00:03.700732+00:00"
+    },
     {
       "id": "UlRi9a02Gx4",
       "url": "https://images.unsplash.com/photo-1755705152707-b0cb1a38f2ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNHx8VFdBJTIwdGVlbmllJTIwd2VlbmllJTIwYWZyb3MlMjBvbiUyMHdvbWVufGVufDF8MXx8fDE3OTUxNTgwMDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-11-12T00:00:02.843220+00:00"
-    },
-    {
-      "id": "rDWFLRG1tso",
-      "url": "https://images.unsplash.com/photo-1770045564884-65c89bb7adf1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8V2VhdmVzJTIwZXh0ZW5zaW9ucyUyMG9uJTIwYmxhY2slMjB3b21hbiUyMHBvcnRyYWl0c3xlbnwxfDF8fHwxNzk0NDEyODIwfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1770045564884-65c89bb7adf1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8V2VhdmVzJTIwZXh0ZW5zaW9ucyUyMG9uJTIwYmxhY2slMjB3b21hbiUyMHBvcnRyYWl0c3xlbnwxfDF8fHwxNzk0NDEyODIwfDA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1770045564884-65c89bb7adf1?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyOXx8V2VhdmVzJTIwZXh0ZW5zaW9ucyUyMG9uJTIwYmxhY2slMjB3b21hbiUyMHBvcnRyYWl0c3xlbnwxfDF8fHwxNzk0NDEyODIwfDA&ixlib=rb-4.1.0&q=85",
-      "alt": "A woman with long braids wearing a white sweater",
-      "description": "",
-      "photographer": "Brooke Balentine",
-      "photographer_url": "https://unsplash.com/@brookebalentine",
-      "photo_url": "https://unsplash.com/photos/a-woman-with-long-braids-wearing-a-white-sweater-rDWFLRG1tso",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-11-11T16:00:04.890368+00:00"
     }
   ],
-  "updated_at": "2026-11-21T07:00:51.391448+00:00"
+  "updated_at": "2026-11-21T08:01:14.736880+00:00"
 }
