@@ -1,6 +1,21 @@
 {
-  "summary": "Celebrating the beauty and diversity of Black and African women's hair.",
+  "summary": "Get ready to slay with this week's spotlight on current Black and African women's hair trends, showcasing bold styles and stunning looks!",
   "images": [
+    {
+      "id": "tXl-kDGaeHM",
+      "url": "https://images.unsplash.com/photo-1732394296968-7c84286bad29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxUZWVuaWUlMjBXZWVuaWUlMjBBZnJvcyUyMG9uJTIwWW91bmclMjBTaXN0ZXJzfGVufDF8MXx8fDE3OTUyNzY4MTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1732394296968-7c84286bad29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxUZWVuaWUlMjBXZWVuaWUlMjBBZnJvcyUyMG9uJTIwWW91bmclMjBTaXN0ZXJzfGVufDF8MXx8fDE3OTUyNzY4MTl8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "full": "https://images.unsplash.com/photo-1732394296968-7c84286bad29?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHw2fHxUZWVuaWUlMjBXZWVuaWUlMjBBZnJvcyUyMG9uJTIwWW91bmclMjBTaXN0ZXJzfGVufDF8MXx8fDE3OTUyNzY4MTl8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "Two women in vintage dresses posing for a portrait",
+      "description": "Portrait of Clara and Verna Sallows, date unknown Photographer: Reuben R. Sallows (1855 - 1937) Description: Studio portrait of woman and young girl, full-length, facing front; woman on left sits on edge of table, resting foot on upholstered stool, wears white lace dress with large dark bow at chest, white stockings and shoes, chain around neck, upswept hair; young girl standing on right, wears knee-length white dress, stockings and shoes; square wicker table at right; Sallows imprint in lower right corner of matte; writing in pencil on front identifies subjects: Clara and Verna Sallows",
+      "photographer": "The Huron County Museum & Historic Gaol",
+      "photographer_url": "https://unsplash.com/@huroncounty",
+      "photo_url": "https://unsplash.com/photos/two-women-in-vintage-dresses-posing-for-a-portrait-tXl-kDGaeHM",
+      "tags": "",
+      "era": "",
+      "category": "current",
+      "fetched_at": "2026-11-21T16:00:06.769324+00:00"
+    },
     {
       "id": "8c4bC4kdX20",
       "url": "https://images.unsplash.com/photo-1794579512320-2f0fbdef9b6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwyNXx8QWZyaWNhbiUyMHdvbWFuJTIwbG9jcyUyMGRyZWFkbG9ja3MlMjBjbG9zZSUyMHVwfGVufDF8MXx8fDE3OTUyNDgwMjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -285,22 +300,7 @@
       "era": "",
       "category": "current",
       "fetched_at": "2026-11-12T00:00:02.843220+00:00"
-    },
-    {
-      "id": "ho63ALLyDOs",
-      "url": "https://images.unsplash.com/photo-1793697233295-18b079afa6fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8QWZyaWNhbiUyMHdvbWFuJTIwbG9jcyUyMGRyZWFkbG9ja3MlMjBjbG9zZSUyMHVwfGVufDF8MXx8fDE3OTQ0NDE2MTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "thumb": "https://images.unsplash.com/photo-1793697233295-18b079afa6fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8QWZyaWNhbiUyMHdvbWFuJTIwbG9jcyUyMGRyZWFkbG9ja3MlMjBjbG9zZSUyMHVwfGVufDF8MXx8fDE3OTQ0NDE2MTR8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "full": "https://images.unsplash.com/photo-1793697233295-18b079afa6fd?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjA3Nzd8MHwxfHNlYXJjaHwxNXx8QWZyaWNhbiUyMHdvbWFuJTIwbG9jcyUyMGRyZWFkbG9ja3MlMjBjbG9zZSUyMHVwfGVufDF8MXx8fDE3OTQ0NDE2MTR8MA&ixlib=rb-4.1.0&q=85",
-      "alt": "A black and white portrait of a woman with dreadlocks in a ribbed turtleneck",
-      "description": "",
-      "photographer": "Ufoma Ojo",
-      "photographer_url": "https://unsplash.com/@ladyufoma001",
-      "photo_url": "https://unsplash.com/photos/woman-with-dreadlocks-in-turtleneck-ho63ALLyDOs",
-      "tags": "",
-      "era": "",
-      "category": "current",
-      "fetched_at": "2026-11-12T00:00:02.843220+00:00"
     }
   ],
-  "updated_at": "2026-11-21T15:00:57.766961+00:00"
+  "updated_at": "2026-11-21T16:00:58.989605+00:00"
 }
